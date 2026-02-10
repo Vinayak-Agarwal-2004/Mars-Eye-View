@@ -1,0 +1,49 @@
+{
+  "id": "hotspot_event_new_york_united_states_73_events",
+  "name": "Hotspot: event New York, United States (73 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event New York, United States (73 events)",
+  "sources": [
+    {
+      "url": "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://obrag.org/2026/02/good-news-communities-across-america-are-resisting-trumps-plans-to-convert-warehouses-into-immigrant-prison-camps/comment-page-1/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://allafrica.com/stories/202602040034.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Growing concerns over national security in the US.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent report highlights growing concerns over the infiltration of Chinese nationals linked to the Chinese Communist Party in American universities, suggesting potential risks to U.S. national security. This coincides with local resistance against government plans to convert warehouses into immigration detention centers, indicating broader socio-political tensions in the U.S. around immigration policy and national security.",
+  "llm_analysis_cached": true,
+  "confidence": 0.8,
+  "source": "hotspot"
+}

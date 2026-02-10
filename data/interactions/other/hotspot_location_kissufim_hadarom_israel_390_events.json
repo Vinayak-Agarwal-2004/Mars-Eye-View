@@ -1,0 +1,86 @@
+{
+  "id": "hotspot_location_kissufim_hadarom_israel_390_events",
+  "name": "Hotspot: location Kissufim, HaDarom, Israel (390 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Kissufim, HaDarom, Israel (390 events)",
+  "sources": [
+    {
+      "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.easternriverinachronicle.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 31.891891891891895,
+    "lon": 34.054054054054056
+  },
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+    "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+    "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+    "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+    "https://www.easternriverinachronicle.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/"
+  ],
+  "gdelt_metadata": {
+    "count": 390,
+    "key": "29:31",
+    "categories": [
+      [
+        "CONFLICT",
+        229
+      ],
+      [
+        "CRIME",
+        61
+      ],
+      [
+        "PROTEST",
+        56
+      ],
+      [
+        "VIOLENCE",
+        39
+      ],
+      [
+        "DISPLACEMENT",
+        5
+      ]
+    ]
+  }
+}

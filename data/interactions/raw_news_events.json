@@ -1,0 +1,41 @@
+{
+  "events": [
+    {
+      "name": "Iraq executes killer Shia cleric Mohammed Baqir al Sadr",
+      "title": "Iraq executes killer Shia cleric Mohammed Baqir al Sadr",
+      "source_url": "https://www.presstv.ir/Detail/2026/02/09/763778/Iraq-executes-killer-Shia-cleric-Mohammed-Baqir-al-Sadr",
+      "description": "<html><body><div><div class=\"news-body-container\"><div class=\"news-attachment-container\"><figcaption>Saadoun Sabri al-Qaisi, locating a mass grave in Iraq's Anbar province (File Photo by al-Mada)</figcaption></div><div class=\"col-md-9\"><p><strong>Iraq has executed a former senior security official from Saddam Hussein\u2019s regime for his role in the 1980 execution\u00a0of prominent\u00a0Shia cleric Mohammed Baq",
+      "participants": [],
+      "countries": [],
+      "type": "other",
+      "category": "other",
+      "visualization_type": "dot",
+      "source": "gdelt"
+    },
+    {
+      "name": "394045",
+      "title": "394045",
+      "source_url": "https://www.hrreporter.com/focus-areas/safety/bodies-of-3-kidnapped-workers-from-canadian-mining-firm-identified-report/394045",
+      "description": "<html><body><div><div class=\"wrapper--detail__body\">                                   <p>David Mora, a senior analyst with the International Crisis Group, travelled to the Concordia area in the middle of January, days before the kidnapping, to gather testimonies from families who had been displaced by violence and were returning home.</p>                             </div>                        ",
+      "participants": [],
+      "countries": [],
+      "type": "other",
+      "category": "other",
+      "visualization_type": "dot",
+      "source": "gdelt"
+    },
+    {
+      "name": "2003852091",
+      "title": "2003852091",
+      "source_url": "https://www.taipeitimes.com/News/world/archives/2026/02/10/2003852091",
+      "description": "<html><body><div><div class=\"archives\">                 <h1>Machado says ally \u2018kidnapped\u2019 after release</h1>                                                                   <p>Venezuelan Nobel peace laureate Maria Corina Machado yesterday said that armed men \u201ckidnapped\u201d a close ally shortly after his release by authorities, following former Venezuelan president Nicolas Maduro\u2019s capture.</p><p>Th",
+      "participants": [],
+      "countries": [],
+      "type": "other",
+      "category": "other",
+      "visualization_type": "dot",
+      "source": "gdelt"
+    }
+  ],
+  "source": "news_scraper"
+}

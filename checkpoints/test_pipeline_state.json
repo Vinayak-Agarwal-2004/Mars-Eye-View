@@ -1,0 +1,10 @@
+{
+  "last_timestamp": "2026-02-09T17:21:58.565354+00:00",
+  "processed_count": 150,
+  "updated_at": "2026-02-09T17:21:58.566059+00:00",
+  "metadata": {
+    "test_run": true,
+    "export_url": "http://test.example.com/export.csv.zip",
+    "features_count": 100
+  }
+}

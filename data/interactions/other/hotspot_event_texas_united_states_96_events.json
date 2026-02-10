@@ -1,0 +1,67 @@
+{
+  "id": "hotspot_event_texas_united_states_96_events",
+  "name": "Hotspot: event Texas, United States (96 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Texas, United States (96 events)",
+  "sources": [
+    {
+      "url": "https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.middleeastmonitor.com/20260209-vanished-in-ice-custody-palestinian-hospitalised-family-fears-for-leqaa-kordias-life/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.truewestmagazine.com/article/one-ranger-one-riot/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theroot.com/the-apartment-brawl-in-houston-that-left-one-girl-dead-2000088930",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.hccommunityjournal.com/article_715f9096-295d-477b-a3d1-285a9adae8e1.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota",
+    "https://www.middleeastmonitor.com/20260209-vanished-in-ice-custody-palestinian-hospitalised-family-fears-for-leqaa-kordias-life/",
+    "https://www.truewestmagazine.com/article/one-ranger-one-riot/",
+    "https://www.theroot.com/the-apartment-brawl-in-houston-that-left-one-girl-dead-2000088930",
+    "https://www.hccommunityjournal.com/article_715f9096-295d-477b-a3d1-285a9adae8e1.html"
+  ],
+  "gdelt_metadata": {
+    "count": 96,
+    "key": "173|CRIME|Texas, United States",
+    "categories": [
+      [
+        "CRIME",
+        96
+      ]
+    ]
+  }
+}

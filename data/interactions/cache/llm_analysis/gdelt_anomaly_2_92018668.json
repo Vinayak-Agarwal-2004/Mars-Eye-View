@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent anomaly in Cleveland, Ohio, highlights a troubling spike in violent incidents, including a deadly nightclub shooting and ongoing legal issues involving local law enforcement. The arraignment of suspects charged with murder coincides with reports of officers facing charges for unlawful detainment of individuals perceived as undocumented, indicating potential systemic issues within the local police force. Collectively, these events reflect heightened tensions and concerns regarding public safety in the area.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Cleveland sees alarming rise in violence and legal challenges.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

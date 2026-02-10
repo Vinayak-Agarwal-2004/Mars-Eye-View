@@ -1,0 +1,12 @@
+{
+  "analysis": "The violent incident in Sydney during President Herzog's visit underscores rising tensions related to protests against perceived governmental support for individuals accused of severe human rights violations. The police's harsh response to peaceful demonstrations reflects a troubling trend of suppressing dissenting voices in democratic societies, exacerbating divisions within the community.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Violent protests erupt in Sydney over Herzog's visit.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

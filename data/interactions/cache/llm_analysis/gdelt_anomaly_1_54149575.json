@@ -1,0 +1,12 @@
+{
+  "analysis": "The sentencing of pro-democracy media mogul Jimmy Lai to 20 years in prison under China's national security law signals a significant escalation in Beijing's crackdown on dissent in Hong Kong. This comes amidst a broader context of protests and rising tensions regarding human rights violations, as highlighted by increased scrutiny on royal family connections to controversial figures like Jeffrey Epstein, which has further complicated public perceptions of governance in both the UK and Hong Kong.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 22.3193,
+    "lon": 114.1694
+  },
+  "toast_message": "Increased tensions in Hong Kong over pro-democracy activism.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

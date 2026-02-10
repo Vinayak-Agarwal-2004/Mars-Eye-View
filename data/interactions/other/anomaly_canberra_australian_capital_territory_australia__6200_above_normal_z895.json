@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_canberra_australian_capital_territory_australia__6200_above_normal_z895",
+  "name": "Anomaly: Canberra, Australian Capital Territory, Australia - 620.0% above normal (z=8.95)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Canberra, Australian Capital Territory, Australia - 620.0% above normal (z=8.95)",
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "AUS"
+  },
+  "toast_message": "Anomaly detected in Canberra!",
+  "toast_type": "info",
+  "llm_analysis": "The first article details a legal case where Damien Paul O'Brien allegedly manufactured pipe bombs that were placed around Canberra, leading to his arrest. The article discusses the major police operation prompted by the discovery of these devices and outlines the legal proceedings he faces. The second article touches on a separate murder case, which does not directly relate to the anomaly but situates the legal atmosphere in Canberra. The third provides additional information on O'Brien's court appearance and his current status, while the fourth examines political dynamics in Indonesia, linking Australia and Indonesia through recent treaties but highlighting differences in governmental approaches toward civil rights. Lastly, the fifth article discusses Canberra's diplomatic efforts following a tragic incident of methanol poisoning in Laos, revealing tensions in international relations.\n\nOverall, these articles depict a situation of increased security concerns in Canberra, as highlighted by the pipe bomb incidents, amidst varying legal and political contexts. The anomalies in security, legal proceedings, and international diplomatic challenges indicate a complex landscape in which domestic issues intersect with foreign relations, suggesting Canberra's need to address both internal safety and external political pressures. As Australia navigates these challenges, the implications for national security and diplomatic relations, particularly with neighboring countries, remain critical.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+    "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+    "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+    "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+    "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html"
+  ],
+  "gdelt_metadata": {
+    "z_score": 8.95,
+    "severity": "critical",
+    "current_count": 12,
+    "baseline_mean": 1.7
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_canberra_australian_capital_territory_australia__6800_above_normal_z981",
+  "name": "Anomaly: Canberra, Australian Capital Territory, Australia - 680.0% above normal (z=9.81)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Canberra, Australian Capital Territory, Australia - 680.0% above normal (z=9.81)",
+  "sources": [
+    {
+      "url": "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "AUS"
+  },
+  "toast_message": "Anomaly detected in Canberra regarding public safety.",
+  "toast_type": "warning",
+  "llm_analysis": "A man in Canberra, Damien Paul O'Brien, has pleaded not guilty to charges of manufacturing pipe bombs that were allegedly planted around the city. This situation follows the discovery of 15 explosive devices over several days, leading to a significant police response. It was reported that he may have assembled these devices using items stolen from a hardware store. Amidst this backdrop, there are broader concerns regarding security in Canberra, but the events surrounding O'Brien's case specifically highlight threats posed by individuals rather than state actors.\n\nThe connection between the articles lies in their focus on local criminal incidents in Canberra, albeit through different lenses\u2014criminal proceedings and implications for civil society. O'Brien's legal battles add to the rising tension in public safety discourse, hinting at the underlying societal issues. Overall, this anomaly underscores a critical moment for Canberra as the potential for other criminal acts raises questions about public safety and government response mechanisms.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+    "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+    "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+    "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+    "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html"
+  ],
+  "gdelt_metadata": {
+    "z_score": 9.81,
+    "severity": "critical",
+    "current_count": 13,
+    "baseline_mean": 1.7
+  }
+}

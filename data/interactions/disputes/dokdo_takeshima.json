@@ -1,0 +1,49 @@
+{
+  "id": "dokdo_takeshima",
+  "name": "Dokdo/Takeshima",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Korean administration",
+    "since": 1952
+  },
+  "claimants": [
+    {
+      "iso": "JPN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "KOR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "JPN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Small islands in Sea of Japan disputed between Korea and Japan",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.702831Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.702835Z",
+    "updated": "2026-02-01T22:23:47.702837Z",
+    "confidence": 0.8
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "hotspot_location_kissufim_hadarom_israel_208_events",
+  "name": "Hotspot: location Kissufim, HaDarom, Israel (208 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Kissufim, HaDarom, Israel (208 events)",
+  "sources": [
+    {
+      "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.cornellsun.com/article/2026/02/i-am-an-idf-soldier-who-fought-in-gaza-ask-me-anything-sam-fried-opens-public-q-a-session-in-willard-straight-hall",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.marketscreener.com/news/israeli-strikes-in-lebanon-kill-4-including-a-child-lebanese-health-ministry-says-ce7e5adfd88cf72c",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://japantoday.com/category/world/iran-demands-changes-in-venue-and-scope-of-talks-with-us-source-says1",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 31.891891891891895,
+    "lon": 34.054054054054056
+  },
+  "toast_message": "Escalation of violence in Gaza reported.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent escalation of violence in Gaza, characterized by Israeli airstrikes that reportedly killed numerous Palestinians, including children and militants, highlights the fragility of the ongoing ceasefire established in October 2023. Sources indicate that Israel's military response is linked to perceived threats from Hamas fighters, stirring significant international concern over humanitarian violations and the cycle of retaliatory violence.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "hotspot"
+}

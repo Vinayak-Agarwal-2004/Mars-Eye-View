@@ -1,0 +1,12 @@
+{
+  "analysis": "Recent protests in Sydney regarding Israeli President Isaac Herzog's visit have escalated into violent confrontations with police, who were accused of heavy-handed tactics against demonstrators voicing their opposition to Herzog's policies. This incident highlights ongoing tensions in Australia regarding international perceptions of Israel and Palestine, as well as domestic responses to government actions perceived as supporting controversial leaders.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Violent protests erupt in Sydney over Herzog's visit.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

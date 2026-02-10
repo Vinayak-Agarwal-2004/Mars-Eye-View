@@ -1,0 +1,6989 @@
+{
+  "AFG": {
+    "name": "Afghanistan",
+    "iso2": "AF",
+    "capital": "Kabul",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Persian",
+      "PS",
+      "UZ",
+      "TK"
+    ],
+    "calling_code": "+93",
+    "tld": ".af",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇫",
+    "currency": {
+      "name": "Afghani",
+      "code": "AFN",
+      "symbol": "AFN"
+    },
+    "neighbors": [
+      "CHN",
+      "UZB",
+      "IRN",
+      "PAK",
+      "TJK",
+      "TKM"
+    ]
+  },
+  "ALA": {
+    "name": "Åland Islands",
+    "iso2": "AX",
+    "capital": "Mariehamn",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Swedish"
+    ],
+    "calling_code": "+358",
+    "tld": ".ax",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "ALB": {
+    "name": "Albania",
+    "iso2": "AL",
+    "capital": "Tirana",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "SQ",
+      "Greek"
+    ],
+    "calling_code": "+355",
+    "tld": ".al",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇱",
+    "currency": {
+      "name": "Lek",
+      "code": "ALL",
+      "symbol": "ALL"
+    },
+    "neighbors": [
+      "GRC",
+      "MKD",
+      "MNE",
+      "SRB"
+    ]
+  },
+  "DZA": {
+    "name": "Algeria",
+    "iso2": "DZ",
+    "capital": "Algiers",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic"
+    ],
+    "calling_code": "+213",
+    "tld": ".dz",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇿",
+    "currency": {
+      "name": "Algerian Dinar",
+      "code": "DZD",
+      "symbol": "DZD"
+    },
+    "neighbors": [
+      "ESP",
+      "ITA",
+      "MLI",
+      "TUN",
+      "LBY",
+      "MRT",
+      "MAR",
+      "NER",
+      "ESH"
+    ]
+  },
+  "ASM": {
+    "name": "American Samoa",
+    "iso2": "AS",
+    "capital": "Pago Pago",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "SM",
+      "TO"
+    ],
+    "calling_code": "+1-684",
+    "tld": ".as",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "AND": {
+    "name": "Andorra",
+    "iso2": "AD",
+    "capital": "Andorra la Vella",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "CA"
+    ],
+    "calling_code": "+376",
+    "tld": ".ad",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇩",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ESP",
+      "FRA"
+    ]
+  },
+  "AGO": {
+    "name": "Angola",
+    "iso2": "AO",
+    "capital": "Luanda",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "calling_code": "+244",
+    "tld": ".ao",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇴",
+    "currency": {
+      "name": "Kwanza",
+      "code": "AOA",
+      "symbol": "AOA"
+    },
+    "neighbors": [
+      "ZMB",
+      "COG",
+      "COD",
+      "GAB",
+      "NAM"
+    ]
+  },
+  "AIA": {
+    "name": "Anguilla",
+    "iso2": "AI",
+    "capital": "The Valley",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-264",
+    "tld": ".ai",
+    "driving_side": "right",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    }
+  },
+  "ATA": {
+    "name": "Antarctica",
+    "iso2": "AQ",
+    "continent": "Antarctica",
+    "calling_code": "+672",
+    "tld": ".aq",
+    "driving_side": "right"
+  },
+  "ATG": {
+    "name": "Antigua and Barbuda",
+    "iso2": "AG",
+    "capital": "St. John's",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-268",
+    "tld": ".ag",
+    "driving_side": "right",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "GBR"
+    ]
+  },
+  "ARG": {
+    "name": "Argentina",
+    "iso2": "AR",
+    "capital": "Buenos Aires",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "English",
+      "Italian",
+      "German",
+      "French"
+    ],
+    "calling_code": "+54",
+    "tld": ".ar",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇷",
+    "currency": {
+      "name": "Argentine Peso",
+      "code": "ARS",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "URY",
+      "GBR",
+      "BRA",
+      "CHL",
+      "PRY",
+      "BOL"
+    ],
+    "religions": {
+      "Christian": 79,
+      "Unaffiliated": 18
+    },
+    "national_animal": "Rufous Hornero",
+    "national_flower": "Ceibo",
+    "disputes": [
+      {
+        "region": "Falkland Islands (Malvinas)",
+        "description": "British Overseas Territory in South Atlantic, claimed by Argentina",
+        "other_claimants": [
+          "GBR"
+        ],
+        "status": "British administration",
+        "type": "sovereignty",
+        "since": 1833
+      }
+    ]
+  },
+  "ARM": {
+    "name": "Armenia",
+    "iso2": "AM",
+    "capital": "Yerevan",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "HY"
+    ],
+    "calling_code": "+374",
+    "tld": ".am",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇲",
+    "currency": {
+      "name": "Armenian Dram",
+      "code": "AMD",
+      "symbol": "AMD"
+    },
+    "neighbors": [
+      "TUR",
+      "AZE",
+      "GEO",
+      "IRN"
+    ],
+    "disputes": [
+      {
+        "region": "Nagorno-Karabakh",
+        "description": "Region in Azerbaijan, formerly disputed with Armenia",
+        "other_claimants": [
+          "AZE"
+        ],
+        "status": "Azerbaijani control since 2023",
+        "type": "territorial",
+        "since": 1991
+      }
+    ]
+  },
+  "ABW": {
+    "name": "Aruba",
+    "iso2": "AW",
+    "capital": "Oranjestad",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "PAP",
+      "Spanish",
+      "English"
+    ],
+    "calling_code": "+297",
+    "tld": ".aw",
+    "driving_side": "right",
+    "currency": {
+      "name": "Aruban Florin",
+      "code": "AWG",
+      "symbol": "AWG"
+    }
+  },
+  "AUS": {
+    "name": "Australia",
+    "iso2": "AU",
+    "capital": "Canberra",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+61",
+    "tld": ".au",
+    "driving_side": "left",
+    "flag_emoji": "🇦🇺",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "IDN",
+      "TLS",
+      "NZL",
+      "SLB",
+      "VUT",
+      "PNG",
+      "NCL"
+    ],
+    "religions": {
+      "Christian": 52,
+      "Unaffiliated": 30,
+      "Buddhist": 2.4
+    },
+    "national_animal": "Red Kangaroo",
+    "national_bird": "Emu",
+    "national_flower": "Golden Wattle"
+  },
+  "AUT": {
+    "name": "Austria",
+    "iso2": "AT",
+    "capital": "Vienna",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "German",
+      "Croatian",
+      "Hungarian",
+      "Slovenian"
+    ],
+    "calling_code": "+43",
+    "tld": ".at",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇹",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "HUN",
+      "ITA",
+      "CHE",
+      "DEU",
+      "CZE",
+      "SVK",
+      "SVN",
+      "LIE"
+    ]
+  },
+  "AZE": {
+    "name": "Azerbaijan",
+    "iso2": "AZ",
+    "capital": "Baku",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "AZ",
+      "Russian",
+      "HY"
+    ],
+    "calling_code": "+994",
+    "tld": ".az",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇿",
+    "currency": {
+      "name": "Azerbaijan Manat",
+      "code": "AZN",
+      "symbol": "AZN"
+    },
+    "neighbors": [
+      "TUR",
+      "RUS",
+      "GEO",
+      "ARM",
+      "IRN"
+    ],
+    "disputes": [
+      {
+        "region": "Nagorno-Karabakh",
+        "description": "Region in Azerbaijan, formerly disputed with Armenia",
+        "other_claimants": [
+          "ARM"
+        ],
+        "status": "Azerbaijani control since 2023",
+        "type": "territorial",
+        "since": 1991
+      }
+    ]
+  },
+  "BHS": {
+    "name": "Bahamas",
+    "iso2": "BS",
+    "capital": "Nassau",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-242",
+    "tld": ".bs",
+    "driving_side": "left",
+    "flag_emoji": "🇧🇸",
+    "currency": {
+      "name": "Bahamian Dollar",
+      "code": "BSD",
+      "symbol": "BSD"
+    },
+    "neighbors": [
+      "USA",
+      "GBR",
+      "TCA"
+    ]
+  },
+  "BHR": {
+    "name": "Bahrain",
+    "iso2": "BH",
+    "capital": "Manama",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "English",
+      "Persian",
+      "Urdu"
+    ],
+    "calling_code": "+973",
+    "tld": ".bh",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇭",
+    "currency": {
+      "name": "Bahraini Dinar",
+      "code": "BHD",
+      "symbol": "BHD"
+    },
+    "neighbors": [
+      "IRN",
+      "SAU"
+    ]
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "iso2": "BD",
+    "capital": "Dhaka",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Bengali",
+      "English"
+    ],
+    "calling_code": "+880",
+    "tld": ".bd",
+    "driving_side": "left",
+    "flag_emoji": "🇧🇩",
+    "currency": {
+      "name": "Taka",
+      "code": "BDT",
+      "symbol": "৳"
+    },
+    "neighbors": [
+      "IND",
+      "MMR"
+    ],
+    "religions": {
+      "Muslim": 90,
+      "Hindu": 8
+    },
+    "national_animal": "Royal Bengal Tiger",
+    "national_flower": "White Water Lily"
+  },
+  "BRB": {
+    "name": "Barbados",
+    "iso2": "BB",
+    "capital": "Bridgetown",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-246",
+    "tld": ".bb",
+    "driving_side": "left",
+    "flag_emoji": "🇧🇧",
+    "currency": {
+      "name": "Barbados Dollar",
+      "code": "BBD",
+      "symbol": "BBD"
+    }
+  },
+  "BLR": {
+    "name": "Belarus",
+    "iso2": "BY",
+    "capital": "Minsk",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "BE",
+      "Russian"
+    ],
+    "calling_code": "+375",
+    "tld": ".by",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇾",
+    "currency": {
+      "name": "Belarusian Ruble",
+      "code": "BYN",
+      "symbol": "BYN"
+    },
+    "neighbors": [
+      "POL",
+      "LTU",
+      "RUS",
+      "LVA",
+      "UKR"
+    ]
+  },
+  "BEL": {
+    "name": "Belgium",
+    "iso2": "BE",
+    "capital": "Brussels",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Dutch",
+      "French",
+      "German"
+    ],
+    "calling_code": "+32",
+    "tld": ".be",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇪",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "LUX",
+      "FRA",
+      "DEU"
+    ]
+  },
+  "BLZ": {
+    "name": "Belize",
+    "iso2": "BZ",
+    "capital": "Belmopan",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "calling_code": "+501",
+    "tld": ".bz",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇿",
+    "currency": {
+      "name": "Belize Dollar",
+      "code": "BZD",
+      "symbol": "BZD"
+    },
+    "neighbors": [
+      "MEX",
+      "GTM"
+    ]
+  },
+  "BEN": {
+    "name": "Benin",
+    "iso2": "BJ",
+    "capital": "Porto-Novo",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+229",
+    "tld": ".bj",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇯",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "TGO",
+      "BFA",
+      "NER",
+      "NGA"
+    ]
+  },
+  "BMU": {
+    "name": "Bermuda",
+    "iso2": "BM",
+    "capital": "Hamilton",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Portuguese"
+    ],
+    "calling_code": "+1-441",
+    "tld": ".bm",
+    "driving_side": "right",
+    "currency": {
+      "name": "Bermudian Dollar",
+      "code": "BMD",
+      "symbol": "BMD"
+    }
+  },
+  "BTN": {
+    "name": "Bhutan",
+    "iso2": "BT",
+    "capital": "Thimphu",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "DZ"
+    ],
+    "calling_code": "+975",
+    "tld": ".bt",
+    "driving_side": "left",
+    "flag_emoji": "🇧🇹",
+    "currency": {
+      "name": "Indian Rupee,Ngultrum",
+      "code": "INR,BTN",
+      "symbol": "INR,BTN"
+    },
+    "neighbors": [
+      "CHN",
+      "IND"
+    ]
+  },
+  "BOL": {
+    "name": "Bolivia (Plurinational State of)",
+    "iso2": "BO",
+    "capital": "Sucre",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "QU",
+      "AY"
+    ],
+    "calling_code": "+591",
+    "tld": ".bo",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇴",
+    "currency": {
+      "name": "Boliviano",
+      "code": "BOB",
+      "symbol": "BOB"
+    },
+    "neighbors": [
+      "BRA",
+      "CHL",
+      "ARG",
+      "PER",
+      "PRY"
+    ]
+  },
+  "BES": {
+    "name": "Bonaire, Sint Eustatius and Saba",
+    "iso2": "BQ",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "PAP",
+      "English"
+    ],
+    "calling_code": "+599",
+    "tld": ".bq",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "BIH": {
+    "name": "Bosnia and Herzegovina",
+    "iso2": "BA",
+    "capital": "Sarajevo",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "BS",
+      "Croatian",
+      "Serbian"
+    ],
+    "calling_code": "+387",
+    "tld": ".ba",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇦",
+    "currency": {
+      "name": "Convertible Mark",
+      "code": "BAM",
+      "symbol": "BAM"
+    },
+    "neighbors": [
+      "HRV",
+      "MNE",
+      "SRB"
+    ]
+  },
+  "BWA": {
+    "name": "Botswana",
+    "iso2": "BW",
+    "capital": "Gaborone",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "TN"
+    ],
+    "calling_code": "+267",
+    "tld": ".bw",
+    "driving_side": "left",
+    "flag_emoji": "🇧🇼",
+    "currency": {
+      "name": "Pula",
+      "code": "BWP",
+      "symbol": "BWP"
+    },
+    "neighbors": [
+      "ZAF",
+      "ZMB",
+      "ZWE",
+      "NAM"
+    ]
+  },
+  "BVT": {
+    "name": "Bouvet Island",
+    "iso2": "BV",
+    "continent": "Antarctica",
+    "region": "Americas",
+    "calling_code": "+47",
+    "tld": ".bv",
+    "driving_side": "right",
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "kr"
+    }
+  },
+  "BRA": {
+    "name": "Brazil",
+    "iso2": "BR",
+    "capital": "Brasilia",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Portuguese",
+      "Spanish",
+      "English",
+      "French"
+    ],
+    "calling_code": "+55",
+    "tld": ".br",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇷",
+    "currency": {
+      "name": "Brazilian Real",
+      "code": "BRL",
+      "symbol": "R$"
+    },
+    "neighbors": [
+      "URY",
+      "FRA",
+      "ARG",
+      "PER",
+      "VEN",
+      "SUR",
+      "PRY",
+      "GUY",
+      "COL",
+      "BOL",
+      "GUF"
+    ],
+    "religions": {
+      "Christian": 88,
+      "Unaffiliated": 8
+    },
+    "national_animal": "Jaguar",
+    "national_flower": "Golden Trumpet"
+  },
+  "IOT": {
+    "name": "British Indian Ocean Territory",
+    "iso2": "IO",
+    "capital": "Diego Garcia",
+    "continent": "Asia",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+246",
+    "tld": ".io",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "VGB": {
+    "name": "British Virgin Islands",
+    "iso2": "VG",
+    "capital": "Road Town",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-284",
+    "tld": ".vg",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "BRN": {
+    "name": "Brunei Darussalam",
+    "iso2": "BN",
+    "capital": "Bandar Seri Begawan",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "calling_code": "+673",
+    "tld": ".bn",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇳",
+    "currency": {
+      "name": "Brunei Dollar",
+      "code": "BND",
+      "symbol": "BND"
+    },
+    "neighbors": [
+      "MYS"
+    ],
+    "disputes": [
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "CHN",
+          "VNM",
+          "PHL",
+          "MYS",
+          "TWN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      }
+    ]
+  },
+  "BGR": {
+    "name": "Bulgaria",
+    "iso2": "BG",
+    "capital": "Sofia",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Bulgarian",
+      "Turkish",
+      "ROM"
+    ],
+    "calling_code": "+359",
+    "tld": ".bg",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇬",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "GRC",
+      "TUR",
+      "ROU",
+      "MKD",
+      "SRB"
+    ]
+  },
+  "BFA": {
+    "name": "Burkina Faso",
+    "iso2": "BF",
+    "capital": "Ouagadougou",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "MOS"
+    ],
+    "calling_code": "+226",
+    "tld": ".bf",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇫",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "GHA",
+      "MLI",
+      "TGO",
+      "BEN",
+      "CIV",
+      "NER"
+    ]
+  },
+  "BDI": {
+    "name": "Burundi",
+    "iso2": "BI",
+    "capital": "Gitega",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "RN"
+    ],
+    "calling_code": "+257",
+    "tld": ".bi",
+    "driving_side": "right",
+    "flag_emoji": "🇧🇮",
+    "currency": {
+      "name": "Burundi Franc",
+      "code": "BIF",
+      "symbol": "BIF"
+    },
+    "neighbors": [
+      "TZA",
+      "COD",
+      "RWA"
+    ]
+  },
+  "CPV": {
+    "name": "Cabo Verde",
+    "iso2": "CV",
+    "capital": "Praia",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "calling_code": "+238",
+    "tld": ".cv",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇻",
+    "currency": {
+      "name": "Cabo Verde Escudo",
+      "code": "CVE",
+      "symbol": "CVE"
+    }
+  },
+  "KHM": {
+    "name": "Cambodia",
+    "iso2": "KH",
+    "capital": "Phnom Penh",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Khmer",
+      "French",
+      "English"
+    ],
+    "calling_code": "+855",
+    "tld": ".kh",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇭",
+    "currency": {
+      "name": "Riel",
+      "code": "KHR",
+      "symbol": "KHR"
+    },
+    "neighbors": [
+      "LAO",
+      "THA",
+      "VNM"
+    ]
+  },
+  "CMR": {
+    "name": "Cameroon",
+    "iso2": "CM",
+    "capital": "Yaounde",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "calling_code": "+237",
+    "tld": ".cm",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇲",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "TCD",
+      "CAF",
+      "COG",
+      "GNQ",
+      "GAB",
+      "NGA"
+    ]
+  },
+  "CAN": {
+    "name": "Canada",
+    "iso2": "CA",
+    "capital": "Ottawa",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "French",
+      "IU"
+    ],
+    "calling_code": "+1",
+    "tld": ".ca",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇦",
+    "currency": {
+      "name": "Canadian Dollar",
+      "code": "CAD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "USA"
+    ],
+    "religions": {
+      "Christian": 67,
+      "Unaffiliated": 24,
+      "Muslim": 3
+    },
+    "national_animal": "Beaver",
+    "national_flower": "Sugar Maple"
+  },
+  "CYM": {
+    "name": "Cayman Islands",
+    "iso2": "KY",
+    "capital": "George Town",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-345",
+    "tld": ".ky",
+    "driving_side": "right",
+    "currency": {
+      "name": "Cayman Islands Dollar",
+      "code": "KYD",
+      "symbol": "KYD"
+    }
+  },
+  "CAF": {
+    "name": "Central African Republic",
+    "iso2": "CF",
+    "capital": "Bangui",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "SG",
+      "LN",
+      "KG"
+    ],
+    "calling_code": "+236",
+    "tld": ".cf",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇫",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "COD",
+      "CMR",
+      "SDN",
+      "TCD",
+      "SSD",
+      "COG"
+    ]
+  },
+  "TCD": {
+    "name": "Chad",
+    "iso2": "TD",
+    "capital": "N'Djamena",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Arabic",
+      "SRE"
+    ],
+    "calling_code": "+235",
+    "tld": ".td",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇩",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "CAF",
+      "CMR",
+      "LBY",
+      "NER",
+      "NGA",
+      "SDN"
+    ]
+  },
+  "CHL": {
+    "name": "Chile",
+    "iso2": "CL",
+    "capital": "Santiago",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+56",
+    "tld": ".cl",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇱",
+    "currency": {
+      "name": "Chilean Peso",
+      "code": "CLP",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "ARG",
+      "PER",
+      "BOL"
+    ]
+  },
+  "CHN": {
+    "name": "China",
+    "iso2": "CN",
+    "capital": "Beijing",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "YUE",
+      "WUU",
+      "DTA",
+      "UG"
+    ],
+    "calling_code": "+86",
+    "tld": ".cn",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇳",
+    "currency": {
+      "name": "Yuan Renminbi",
+      "code": "CNY",
+      "symbol": "¥"
+    },
+    "neighbors": [
+      "JPN",
+      "RUS",
+      "KAZ",
+      "PRK",
+      "IND",
+      "MNG",
+      "KGZ",
+      "LAO",
+      "MMR",
+      "NPL",
+      "PAK",
+      "TJK",
+      "VNM",
+      "KOR",
+      "AFG",
+      "BTN"
+    ],
+    "religions": {
+      "Unaffiliated": 52,
+      "Folk": 21,
+      "Buddhist": 18,
+      "Christian": 5
+    },
+    "national_animal": "Giant Panda",
+    "national_flower": "Plum Blossom",
+    "disputes": [
+      {
+        "region": "Kashmir",
+        "description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+        "other_claimants": [
+          "IND",
+          "PAK"
+        ],
+        "status": "Divided administration",
+        "type": "territorial",
+        "since": 1947
+      },
+      {
+        "region": "Taiwan",
+        "description": "Self-governing island claimed by PRC, with its own government since 1949",
+        "other_claimants": [
+          "TWN"
+        ],
+        "status": "De facto independent",
+        "type": "sovereignty",
+        "since": 1949
+      },
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "VNM",
+          "PHL",
+          "MYS",
+          "BRN",
+          "TWN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      },
+      {
+        "region": "Arunachal Pradesh (South Tibet)",
+        "description": "Indian state claimed by China as South Tibet",
+        "other_claimants": [
+          "IND"
+        ],
+        "status": "Indian administration",
+        "type": "territorial",
+        "since": 1962
+      },
+      {
+        "region": "Aksai Chin",
+        "description": "Region administered by China, claimed by India as part of Ladakh",
+        "other_claimants": [
+          "IND"
+        ],
+        "status": "Chinese administration",
+        "type": "territorial",
+        "since": 1962
+      },
+      {
+        "region": "Senkaku/Diaoyu Islands",
+        "description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+        "other_claimants": [
+          "JPN",
+          "TWN"
+        ],
+        "status": "Japanese administration",
+        "type": "territorial",
+        "since": 1972
+      }
+    ]
+  },
+  "HKG": {
+    "name": "China, Hong Kong Special Administrative Region",
+    "iso2": "HK",
+    "capital": "Hong Kong",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "YUE",
+      "English"
+    ],
+    "calling_code": "+852",
+    "tld": ".hk",
+    "driving_side": "left",
+    "flag_emoji": "🇭🇰",
+    "currency": {
+      "name": "Hong Kong Dollar",
+      "code": "HKD",
+      "symbol": "$"
+    }
+  },
+  "MAC": {
+    "name": "China, Macao Special Administrative Region",
+    "iso2": "MO",
+    "capital": "Macao",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "Portuguese"
+    ],
+    "calling_code": "+853",
+    "tld": ".mo",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇴",
+    "currency": {
+      "name": "Pataca",
+      "code": "MOP",
+      "symbol": "MOP"
+    }
+  },
+  "CXR": {
+    "name": "Christmas Island",
+    "iso2": "CX",
+    "capital": "Flying Fish Cove",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "Chinese",
+      "Malay"
+    ],
+    "calling_code": "+61",
+    "tld": ".cx",
+    "driving_side": "right",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "CCK": {
+    "name": "Cocos (Keeling) Islands",
+    "iso2": "CC",
+    "capital": "West Island",
+    "continent": "Asia",
+    "region": "Oceania",
+    "languages": [
+      "Malay",
+      "English"
+    ],
+    "calling_code": "+61",
+    "tld": ".cc",
+    "driving_side": "right",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "COL": {
+    "name": "Colombia",
+    "iso2": "CO",
+    "capital": "Bogota",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+57",
+    "tld": ".co",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇴",
+    "currency": {
+      "name": "Colombian Peso",
+      "code": "COP",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "BRA",
+      "PER",
+      "VEN",
+      "ECU",
+      "PAN",
+      "NIC"
+    ],
+    "religions": {
+      "Christian": 92,
+      "Unaffiliated": 7
+    }
+  },
+  "COM": {
+    "name": "Comoros",
+    "iso2": "KM",
+    "capital": "Moroni",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "calling_code": "+269",
+    "tld": ".km",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇲",
+    "currency": {
+      "name": "Comorian Franc ",
+      "code": "KMF",
+      "symbol": "KMF"
+    },
+    "neighbors": [
+      "FRA",
+      "TZA",
+      "MDG",
+      "MOZ",
+      "SYC"
+    ]
+  },
+  "COG": {
+    "name": "Congo",
+    "iso2": "CG",
+    "capital": "Brazzaville",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "KG",
+      "LN"
+    ],
+    "calling_code": "+242",
+    "tld": ".cg",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇬",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "AGO",
+      "CAF",
+      "COD",
+      "GAB",
+      "CMR"
+    ]
+  },
+  "COK": {
+    "name": "Cook Islands",
+    "iso2": "CK",
+    "capital": "Avarua",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "MI"
+    ],
+    "calling_code": "+682",
+    "tld": ".ck",
+    "driving_side": "right",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "iso2": "CR",
+    "capital": "San Jose",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "calling_code": "+506",
+    "tld": ".cr",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇷",
+    "currency": {
+      "name": "Costa Rican Colon",
+      "code": "CRC",
+      "symbol": "CRC"
+    },
+    "neighbors": [
+      "PAN",
+      "NIC"
+    ]
+  },
+  "HRV": {
+    "name": "Croatia",
+    "iso2": "HR",
+    "capital": "Zagreb",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Croatian",
+      "Serbian"
+    ],
+    "calling_code": "+385",
+    "tld": ".hr",
+    "driving_side": "right",
+    "flag_emoji": "🇭🇷",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "HUN",
+      "SVN",
+      "BIH",
+      "MNE",
+      "SRB"
+    ]
+  },
+  "CUB": {
+    "name": "Cuba",
+    "iso2": "CU",
+    "capital": "Havana",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "PAP"
+    ],
+    "calling_code": "+53",
+    "tld": ".cu",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇺",
+    "currency": {
+      "name": "Cuban Peso",
+      "code": "CUP",
+      "symbol": "CUP"
+    },
+    "neighbors": [
+      "USA",
+      "GBR"
+    ]
+  },
+  "CUW": {
+    "name": "Curaçao",
+    "iso2": "CW",
+    "capital": " Willemstad",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "PAP"
+    ],
+    "calling_code": "+599",
+    "tld": ".cw",
+    "driving_side": "right",
+    "currency": {
+      "name": "Caribbean Guilder",
+      "code": "XCG",
+      "symbol": "XCG"
+    }
+  },
+  "CYP": {
+    "name": "Cyprus",
+    "iso2": "CY",
+    "capital": "Nicosia",
+    "continent": "Europe",
+    "region": "Asia",
+    "languages": [
+      "Greek",
+      "Turkish",
+      "English"
+    ],
+    "calling_code": "+357",
+    "tld": ".cy",
+    "driving_side": "left",
+    "flag_emoji": "🇨🇾",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "TUR",
+      "GBR",
+      "ISR"
+    ],
+    "disputes": [
+      {
+        "region": "Northern Cyprus",
+        "description": "Territory occupied by Turkey since 1974, recognized only by Turkey",
+        "other_claimants": [
+          "TUR"
+        ],
+        "status": "Turkish administration",
+        "type": "territorial",
+        "since": 1974
+      }
+    ]
+  },
+  "CZE": {
+    "name": "Czechia",
+    "iso2": "CZ",
+    "capital": "Prague",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Czech",
+      "Slovak"
+    ],
+    "calling_code": "+420",
+    "tld": ".cz",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇿",
+    "currency": {
+      "name": "Czech Koruna",
+      "code": "CZK",
+      "symbol": "Kč"
+    },
+    "neighbors": [
+      "POL",
+      "AUT",
+      "DEU",
+      "SVK"
+    ]
+  },
+  "PRK": {
+    "name": "Democratic People's Republic of Korea",
+    "iso2": "KP",
+    "capital": "Pyongyang",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Korean"
+    ],
+    "calling_code": "+850",
+    "tld": ".kp",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇵",
+    "currency": {
+      "name": "North Korean Won",
+      "code": "KPW",
+      "symbol": "KPW"
+    },
+    "neighbors": [
+      "CHN",
+      "RUS",
+      "KOR"
+    ]
+  },
+  "COD": {
+    "name": "Democratic Republic of the Congo",
+    "iso2": "CD",
+    "capital": "Kinshasa",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "LN",
+      "KTU",
+      "KG",
+      "Swahili"
+    ],
+    "calling_code": "+243",
+    "tld": ".cd",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇩",
+    "currency": {
+      "name": "Congolese Franc",
+      "code": "CDF",
+      "symbol": "CDF"
+    },
+    "neighbors": [
+      "AGO",
+      "TZA",
+      "CAF",
+      "ZMB",
+      "SSD",
+      "BDI",
+      "COG",
+      "CMR",
+      "UGA",
+      "RWA",
+      "SDN"
+    ]
+  },
+  "DNK": {
+    "name": "Denmark",
+    "iso2": "DK",
+    "capital": "Copenhagen",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Danish",
+      "English",
+      "FO",
+      "German"
+    ],
+    "calling_code": "+45",
+    "tld": ".dk",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇰",
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "kr"
+    },
+    "neighbors": [
+      "NOR",
+      "SWE",
+      "DEU"
+    ]
+  },
+  "DJI": {
+    "name": "Djibouti",
+    "iso2": "DJ",
+    "capital": "Djibouti",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "Arabic",
+      "SO",
+      "AA"
+    ],
+    "calling_code": "+253",
+    "tld": ".dj",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇯",
+    "currency": {
+      "name": "Djibouti Franc",
+      "code": "DJF",
+      "symbol": "DJF"
+    },
+    "neighbors": [
+      "ETH",
+      "ERI",
+      "SOM"
+    ]
+  },
+  "DMA": {
+    "name": "Dominica",
+    "iso2": "DM",
+    "capital": "Roseau",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-767",
+    "tld": ".dm",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇲",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "VEN"
+    ]
+  },
+  "DOM": {
+    "name": "Dominican Republic",
+    "iso2": "DO",
+    "capital": "Santo Domingo",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+1-809,1-829,1-849",
+    "tld": ".do",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇴",
+    "currency": {
+      "name": "Dominican Peso",
+      "code": "DOP",
+      "symbol": "DOP"
+    },
+    "neighbors": [
+      "USA",
+      "VEN",
+      "HTI",
+      "TCA"
+    ]
+  },
+  "ECU": {
+    "name": "Ecuador",
+    "iso2": "EC",
+    "capital": "Quito",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+593",
+    "tld": ".ec",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇨",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "PER",
+      "COL"
+    ]
+  },
+  "EGY": {
+    "name": "Egypt",
+    "iso2": "EG",
+    "capital": "Cairo",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "English",
+      "French"
+    ],
+    "calling_code": "+20",
+    "tld": ".eg",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇬",
+    "currency": {
+      "name": "Egyptian Pound",
+      "code": "EGP",
+      "symbol": "£"
+    },
+    "neighbors": [
+      "ISR",
+      "LBY",
+      "SDN",
+      "PSE"
+    ],
+    "religions": {
+      "Muslim": 90,
+      "Christian": 10
+    },
+    "national_animal": "Steppe Eagle",
+    "national_flower": "Egyptian Lotus"
+  },
+  "SLV": {
+    "name": "El Salvador",
+    "iso2": "SV",
+    "capital": "San Salvador",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+503",
+    "tld": ".sv",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇻",
+    "currency": {
+      "name": "El Salvador Colon,US Dollar",
+      "code": "SVC,USD",
+      "symbol": "SVC,USD"
+    },
+    "neighbors": [
+      "GTM",
+      "HND"
+    ]
+  },
+  "GNQ": {
+    "name": "Equatorial Guinea",
+    "iso2": "GQ",
+    "capital": "Malabo",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Spanish",
+      "French",
+      "Portuguese"
+    ],
+    "calling_code": "+240",
+    "tld": ".gq",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇶",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "GAB",
+      "CMR",
+      "STP"
+    ]
+  },
+  "ERI": {
+    "name": "Eritrea",
+    "iso2": "ER",
+    "capital": "Asmara",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "AA",
+      "Arabic",
+      "TIG",
+      "KUN",
+      "TI"
+    ],
+    "calling_code": "+291",
+    "tld": ".er",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇷",
+    "currency": {
+      "name": "Nakfa",
+      "code": "ERN",
+      "symbol": "ERN"
+    },
+    "neighbors": [
+      "ETH",
+      "DJI",
+      "SDN"
+    ]
+  },
+  "EST": {
+    "name": "Estonia",
+    "iso2": "EE",
+    "capital": "Tallinn",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "ET",
+      "Russian"
+    ],
+    "calling_code": "+372",
+    "tld": ".ee",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇪",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "RUS",
+      "LVA"
+    ]
+  },
+  "SWZ": {
+    "name": "Eswatini",
+    "iso2": "SZ",
+    "capital": "Mbabane",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "SS"
+    ],
+    "calling_code": "+268",
+    "tld": ".sz",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇿",
+    "currency": {
+      "name": "Lilangeni",
+      "code": "SZL",
+      "symbol": "SZL"
+    },
+    "neighbors": [
+      "ZAF",
+      "MOZ"
+    ]
+  },
+  "ETH": {
+    "name": "Ethiopia",
+    "iso2": "ET",
+    "capital": "Addis Ababa",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Amharic",
+      "English",
+      "OM",
+      "TI",
+      "SO"
+    ],
+    "calling_code": "+251",
+    "tld": ".et",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇹",
+    "currency": {
+      "name": "Ethiopian Birr",
+      "code": "ETB",
+      "symbol": "ETB"
+    },
+    "neighbors": [
+      "KEN",
+      "SSD",
+      "DJI",
+      "ERI",
+      "SOM",
+      "SDN"
+    ]
+  },
+  "FLK": {
+    "name": "Falkland Islands",
+    "iso2": "FK",
+    "capital": "Stanley",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+500",
+    "tld": ".fk",
+    "driving_side": "right",
+    "currency": {
+      "name": "Falkland Islands Pound",
+      "code": "FKP",
+      "symbol": "FKP"
+    }
+  },
+  "FRO": {
+    "name": "Faroe Islands",
+    "iso2": "FO",
+    "capital": "Torshavn",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "FO",
+      "Danish"
+    ],
+    "calling_code": "+298",
+    "tld": ".fo",
+    "driving_side": "right",
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "kr"
+    }
+  },
+  "FJI": {
+    "name": "Fiji",
+    "iso2": "FJ",
+    "capital": "Suva",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "FJ"
+    ],
+    "calling_code": "+679",
+    "tld": ".fj",
+    "driving_side": "right",
+    "flag_emoji": "🇫🇯",
+    "currency": {
+      "name": "Fiji Dollar",
+      "code": "FJD",
+      "symbol": "FJD"
+    },
+    "neighbors": [
+      "SLB"
+    ]
+  },
+  "FIN": {
+    "name": "Finland",
+    "iso2": "FI",
+    "capital": "Helsinki",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Finnish",
+      "Swedish",
+      "SMN"
+    ],
+    "calling_code": "+358",
+    "tld": ".fi",
+    "driving_side": "right",
+    "flag_emoji": "🇫🇮",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "NOR",
+      "SWE",
+      "RUS"
+    ]
+  },
+  "FRA": {
+    "name": "France",
+    "iso2": "FR",
+    "capital": "Paris",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "French",
+      "FRP",
+      "BR",
+      "CO",
+      "CA"
+    ],
+    "calling_code": "+33",
+    "tld": ".fr",
+    "driving_side": "right",
+    "flag_emoji": "🇫🇷",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ESP",
+      "BEL",
+      "LUX",
+      "ITA",
+      "CHE",
+      "BRA",
+      "DEU",
+      "AND",
+      "MCO",
+      "SUR",
+      "NLD"
+    ],
+    "religions": {
+      "Christian": 51,
+      "Unaffiliated": 40,
+      "Muslim": 8
+    },
+    "national_animal": "Gallic Rooster",
+    "national_flower": "Lily"
+  },
+  "GUF": {
+    "name": "French Guiana",
+    "iso2": "GF",
+    "capital": "Cayenne",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+594",
+    "tld": ".gf",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "PYF": {
+    "name": "French Polynesia",
+    "iso2": "PF",
+    "capital": "Papeete",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "French",
+      "TY"
+    ],
+    "calling_code": "+689",
+    "tld": ".pf",
+    "driving_side": "right",
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "XPF"
+    }
+  },
+  "ATF": {
+    "name": "French Southern Territories",
+    "iso2": "TF",
+    "capital": "Port-aux-Francais",
+    "continent": "Antarctica",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+262",
+    "tld": ".tf",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "GAB": {
+    "name": "Gabon",
+    "iso2": "GA",
+    "capital": "Libreville",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+241",
+    "tld": ".ga",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇦",
+    "currency": {
+      "name": "CFA Franc BEAC",
+      "code": "XAF",
+      "symbol": "XAF"
+    },
+    "neighbors": [
+      "AGO",
+      "COG",
+      "GNQ",
+      "CMR",
+      "STP"
+    ]
+  },
+  "GMB": {
+    "name": "Gambia",
+    "iso2": "GM",
+    "capital": "Banjul",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "MNK",
+      "WOF",
+      "WO",
+      "FF"
+    ],
+    "calling_code": "+220",
+    "tld": ".gm",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇲",
+    "currency": {
+      "name": "Dalasi",
+      "code": "GMD",
+      "symbol": "GMD"
+    },
+    "neighbors": [
+      "SEN"
+    ]
+  },
+  "GEO": {
+    "name": "Georgia",
+    "iso2": "GE",
+    "capital": "Tbilisi",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "KA",
+      "Russian",
+      "HY",
+      "AZ"
+    ],
+    "calling_code": "+995",
+    "tld": ".ge",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇪",
+    "currency": {
+      "name": "Lari",
+      "code": "GEL",
+      "symbol": "GEL"
+    },
+    "neighbors": [
+      "TUR",
+      "RUS",
+      "AZE",
+      "ARM"
+    ],
+    "disputes": [
+      {
+        "region": "Abkhazia",
+        "description": "Breakaway region from Georgia with Russian support",
+        "other_claimants": [
+          "RUS"
+        ],
+        "status": "De facto independent, limited recognition",
+        "type": "sovereignty",
+        "since": 2008
+      },
+      {
+        "region": "South Ossetia",
+        "description": "Breakaway region from Georgia with Russian support",
+        "other_claimants": [
+          "RUS"
+        ],
+        "status": "De facto independent, limited recognition",
+        "type": "sovereignty",
+        "since": 2008
+      }
+    ]
+  },
+  "DEU": {
+    "name": "Germany",
+    "iso2": "DE",
+    "capital": "Berlin",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "German"
+    ],
+    "calling_code": "+49",
+    "tld": ".de",
+    "driving_side": "right",
+    "flag_emoji": "🇩🇪",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "BEL",
+      "LUX",
+      "DNK",
+      "POL",
+      "CHE",
+      "AUT",
+      "FRA",
+      "CZE"
+    ],
+    "religions": {
+      "Christian": 53,
+      "Unaffiliated": 42,
+      "Muslim": 5
+    },
+    "national_animal": "Federal Eagle",
+    "national_flower": "Cornflower"
+  },
+  "GHA": {
+    "name": "Ghana",
+    "iso2": "GH",
+    "capital": "Accra",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "AK",
+      "EE",
+      "TW"
+    ],
+    "calling_code": "+233",
+    "tld": ".gh",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇭",
+    "currency": {
+      "name": "Ghana Cedi",
+      "code": "GHS",
+      "symbol": "GHS"
+    },
+    "neighbors": [
+      "TGO",
+      "BFA",
+      "CIV"
+    ]
+  },
+  "GIB": {
+    "name": "Gibraltar",
+    "iso2": "GI",
+    "capital": "Gibraltar",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Spanish",
+      "Italian",
+      "Portuguese"
+    ],
+    "calling_code": "+350",
+    "tld": ".gi",
+    "driving_side": "right",
+    "currency": {
+      "name": "Gibraltar Pound",
+      "code": "GIP",
+      "symbol": "GIP"
+    }
+  },
+  "GRC": {
+    "name": "Greece",
+    "iso2": "GR",
+    "capital": "Athens",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Greek",
+      "English",
+      "French"
+    ],
+    "calling_code": "+30",
+    "tld": ".gr",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇷",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "TUR",
+      "BGR",
+      "MKD",
+      "ALB"
+    ],
+    "religions": {
+      "Christian": 90,
+      "Muslim": 2,
+      "Unaffiliated": 4
+    }
+  },
+  "GRL": {
+    "name": "Greenland",
+    "iso2": "GL",
+    "capital": "Nuuk",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "KL",
+      "Danish",
+      "English"
+    ],
+    "calling_code": "+299",
+    "tld": ".gl",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇱",
+    "currency": {
+      "name": "Danish Krone",
+      "code": "DKK",
+      "symbol": "kr"
+    },
+    "neighbors": [
+      "CAN",
+      "NOR",
+      "ISL"
+    ]
+  },
+  "GRD": {
+    "name": "Grenada",
+    "iso2": "GD",
+    "capital": "St. George's",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-473",
+    "tld": ".gd",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇩",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "VEN"
+    ]
+  },
+  "GLP": {
+    "name": "Guadeloupe",
+    "iso2": "GP",
+    "capital": "Basse-Terre",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+590",
+    "tld": ".gp",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "GUM": {
+    "name": "Guam",
+    "iso2": "GU",
+    "capital": "Hagatna",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "CH"
+    ],
+    "calling_code": "+1-671",
+    "tld": ".gu",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "iso2": "GT",
+    "capital": "Guatemala City",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+502",
+    "tld": ".gt",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇹",
+    "currency": {
+      "name": "Quetzal",
+      "code": "GTQ",
+      "symbol": "GTQ"
+    },
+    "neighbors": [
+      "MEX",
+      "BLZ",
+      "HND",
+      "SLV"
+    ]
+  },
+  "GGY": {
+    "name": "Guernsey",
+    "iso2": "GG",
+    "capital": "St Peter Port",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "NRF"
+    ],
+    "calling_code": "+44",
+    "tld": ".gg",
+    "driving_side": "right",
+    "currency": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  "GIN": {
+    "name": "Guinea",
+    "iso2": "GN",
+    "capital": "Conakry",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+224",
+    "tld": ".gn",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇳",
+    "currency": {
+      "name": "Guinean Franc",
+      "code": "GNF",
+      "symbol": "GNF"
+    },
+    "neighbors": [
+      "MLI",
+      "GNB",
+      "CIV",
+      "LBR",
+      "SEN",
+      "SLE"
+    ]
+  },
+  "GNB": {
+    "name": "Guinea-Bissau",
+    "iso2": "GW",
+    "capital": "Bissau",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Portuguese",
+      "POV"
+    ],
+    "calling_code": "+245",
+    "tld": ".gw",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇼",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "GIN",
+      "SEN"
+    ]
+  },
+  "GUY": {
+    "name": "Guyana",
+    "iso2": "GY",
+    "capital": "Georgetown",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+592",
+    "tld": ".gy",
+    "driving_side": "right",
+    "flag_emoji": "🇬🇾",
+    "currency": {
+      "name": "Guyana Dollar",
+      "code": "GYD",
+      "symbol": "GYD"
+    },
+    "neighbors": [
+      "BRA",
+      "VEN",
+      "SUR"
+    ]
+  },
+  "HTI": {
+    "name": "Haiti",
+    "iso2": "HT",
+    "capital": "Port-au-Prince",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "HT",
+      "French"
+    ],
+    "calling_code": "+509",
+    "tld": ".ht",
+    "driving_side": "right",
+    "flag_emoji": "🇭🇹",
+    "currency": {
+      "name": "Gourde,US Dollar",
+      "code": "HTG,USD",
+      "symbol": "HTG,USD"
+    },
+    "neighbors": [
+      "USA",
+      "DOM",
+      "TCA"
+    ]
+  },
+  "HMD": {
+    "name": "Heard Island and McDonald Islands",
+    "iso2": "HM",
+    "continent": "Antarctica",
+    "region": "Oceania",
+    "calling_code": "+672",
+    "tld": ".hm",
+    "driving_side": "right",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "VAT": {
+    "name": "Holy See",
+    "iso2": "VA",
+    "capital": "Vatican City",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "LA",
+      "Italian",
+      "French"
+    ],
+    "calling_code": "+39-06",
+    "tld": ".va",
+    "driving_side": "right",
+    "flag_emoji": "🇻🇦",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ITA"
+    ]
+  },
+  "HND": {
+    "name": "Honduras",
+    "iso2": "HN",
+    "capital": "Tegucigalpa",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "CAB",
+      "MIQ"
+    ],
+    "calling_code": "+504",
+    "tld": ".hn",
+    "driving_side": "right",
+    "flag_emoji": "🇭🇳",
+    "currency": {
+      "name": "Lempira",
+      "code": "HNL",
+      "symbol": "HNL"
+    },
+    "neighbors": [
+      "GTM",
+      "SLV",
+      "NIC"
+    ]
+  },
+  "HUN": {
+    "name": "Hungary",
+    "iso2": "HU",
+    "capital": "Budapest",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Hungarian"
+    ],
+    "calling_code": "+36",
+    "tld": ".hu",
+    "driving_side": "right",
+    "flag_emoji": "🇭🇺",
+    "currency": {
+      "name": "Forint",
+      "code": "HUF",
+      "symbol": "HUF"
+    },
+    "neighbors": [
+      "AUT",
+      "UKR",
+      "SVK",
+      "SVN",
+      "ROU",
+      "HRV",
+      "SRB"
+    ]
+  },
+  "ISL": {
+    "name": "Iceland",
+    "iso2": "IS",
+    "capital": "Reykjavik",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "IS",
+      "English",
+      "German",
+      "Danish",
+      "Swedish"
+    ],
+    "calling_code": "+354",
+    "tld": ".is",
+    "driving_side": "right",
+    "flag_emoji": "🇮🇸",
+    "currency": {
+      "name": "Iceland Krona",
+      "code": "ISK",
+      "symbol": "ISK"
+    },
+    "neighbors": [
+      "GRL",
+      "FRO"
+    ]
+  },
+  "IND": {
+    "name": "India",
+    "iso2": "IN",
+    "capital": "New Delhi",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "English",
+      "Hindi",
+      "Bengali",
+      "Telugu",
+      "Marathi"
+    ],
+    "calling_code": "+91",
+    "tld": ".in",
+    "driving_side": "left",
+    "flag_emoji": "🇮🇳",
+    "currency": {
+      "name": "Indian Rupee",
+      "code": "INR",
+      "symbol": "₹"
+    },
+    "neighbors": [
+      "AFG",
+      "BGD",
+      "BTN",
+      "CHN",
+      "IDN",
+      "MMR",
+      "NPL",
+      "PAK",
+      "LKA"
+    ],
+    "religions": {
+      "Hindu": 79.8,
+      "Muslim": 14.2,
+      "Christian": 2.3,
+      "Sikh": 1.7
+    },
+    "national_animal": "Bengal Tiger",
+    "national_bird": "Indian Peafowl",
+    "national_flower": "Lotus",
+    "disputes": [
+      {
+        "region": "Kashmir",
+        "description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+        "other_claimants": [
+          "PAK",
+          "CHN"
+        ],
+        "status": "Divided administration",
+        "type": "territorial",
+        "since": 1947
+      },
+      {
+        "region": "Arunachal Pradesh (South Tibet)",
+        "description": "Indian state claimed by China as South Tibet",
+        "other_claimants": [
+          "CHN"
+        ],
+        "status": "Indian administration",
+        "type": "territorial",
+        "since": 1962
+      },
+      {
+        "region": "Aksai Chin",
+        "description": "Region administered by China, claimed by India as part of Ladakh",
+        "other_claimants": [
+          "CHN"
+        ],
+        "status": "Chinese administration",
+        "type": "territorial",
+        "since": 1962
+      }
+    ]
+  },
+  "IDN": {
+    "name": "Indonesia",
+    "iso2": "ID",
+    "capital": "Jakarta",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Indonesian",
+      "English",
+      "Dutch",
+      "JV"
+    ],
+    "calling_code": "+62",
+    "tld": ".id",
+    "driving_side": "left",
+    "flag_emoji": "🇮🇩",
+    "currency": {
+      "name": "Rupiah",
+      "code": "IDR",
+      "symbol": "Rp"
+    },
+    "neighbors": [
+      "SGP",
+      "AUS",
+      "TLS",
+      "IND",
+      "PNG",
+      "PLW",
+      "MYS",
+      "THA",
+      "VNM",
+      "PHL"
+    ],
+    "religions": {
+      "Muslim": 87,
+      "Christian": 10,
+      "Hindu": 1.7
+    },
+    "national_animal": "Komodo Dragon",
+    "national_flower": "Moon Orchid"
+  },
+  "IRN": {
+    "name": "Iran (Islamic Republic of)",
+    "iso2": "IR",
+    "capital": "Tehran",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Persian",
+      "KU"
+    ],
+    "calling_code": "+98",
+    "tld": ".ir",
+    "driving_side": "right",
+    "flag_emoji": "🇮🇷",
+    "currency": {
+      "name": "Iranian Rial",
+      "code": "IRR",
+      "symbol": "IRR"
+    },
+    "neighbors": [
+      "TUR",
+      "AZE",
+      "BHR",
+      "ARM",
+      "IRQ",
+      "KWT",
+      "OMN",
+      "PAK",
+      "QAT",
+      "SAU",
+      "TKM",
+      "ARE",
+      "AFG"
+    ],
+    "religions": {
+      "Muslim": 99.5
+    },
+    "national_animal": "Asiatic Lion",
+    "national_flower": "Red Rose"
+  },
+  "IRQ": {
+    "name": "Iraq",
+    "iso2": "IQ",
+    "capital": "Baghdad",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "KU",
+      "HY"
+    ],
+    "calling_code": "+964",
+    "tld": ".iq",
+    "driving_side": "right",
+    "flag_emoji": "🇮🇶",
+    "currency": {
+      "name": "Iraqi Dinar",
+      "code": "IQD",
+      "symbol": "IQD"
+    },
+    "neighbors": [
+      "TUR",
+      "IRN",
+      "JOR",
+      "KWT",
+      "SAU",
+      "SYR"
+    ]
+  },
+  "IRL": {
+    "name": "Ireland",
+    "iso2": "IE",
+    "capital": "Dublin",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Irish"
+    ],
+    "calling_code": "+353",
+    "tld": ".ie",
+    "driving_side": "left",
+    "flag_emoji": "🇮🇪",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "GBR"
+    ]
+  },
+  "IMN": {
+    "name": "Isle of Man",
+    "iso2": "IM",
+    "capital": "Douglas",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "GV"
+    ],
+    "calling_code": "+44",
+    "tld": ".im",
+    "driving_side": "right",
+    "currency": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  "ISR": {
+    "name": "Israel",
+    "iso2": "IL",
+    "capital": "Jerusalem",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Hebrew",
+      "Arabic",
+      "English"
+    ],
+    "calling_code": "+972",
+    "tld": ".il",
+    "driving_side": "right",
+    "flag_emoji": "🇮🇱",
+    "currency": {
+      "name": "New Israeli Sheqel",
+      "code": "ILS",
+      "symbol": "₪"
+    },
+    "neighbors": [
+      "EGY",
+      "JOR",
+      "LBN",
+      "SYR"
+    ],
+    "religions": {
+      "Jewish": 74,
+      "Muslim": 18,
+      "Christian": 2
+    },
+    "disputes": [
+      {
+        "region": "Golan Heights",
+        "description": "Territory captured by Israel from Syria in 1967, annexed in 1981",
+        "other_claimants": [
+          "SYR"
+        ],
+        "status": "Israeli administration",
+        "type": "territorial",
+        "since": 1967
+      },
+      {
+        "region": "Gaza Strip",
+        "description": "Coastal territory with disputed sovereignty between Israel and Palestine",
+        "other_claimants": [
+          "PSE"
+        ],
+        "status": "Disputed",
+        "type": "territorial",
+        "since": 1967
+      },
+      {
+        "region": "West Bank",
+        "description": "Territory with Israeli settlements, claimed by Palestine",
+        "other_claimants": [
+          "PSE"
+        ],
+        "status": "Partially occupied",
+        "type": "territorial",
+        "since": 1967
+      }
+    ]
+  },
+  "ITA": {
+    "name": "Italy",
+    "iso2": "IT",
+    "capital": "Rome",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Italian",
+      "German",
+      "French",
+      "SC",
+      "CA"
+    ],
+    "calling_code": "+39",
+    "tld": ".it",
+    "driving_side": "right",
+    "flag_emoji": "🇮🇹",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "CHE",
+      "AUT",
+      "FRA",
+      "SVN",
+      "MLT",
+      "VAT",
+      "SMR"
+    ],
+    "religions": {
+      "Christian": 80,
+      "Unaffiliated": 16
+    },
+    "national_animal": "Italian Wolf",
+    "national_flower": "Lily"
+  },
+  "CIV": {
+    "name": "Ivory Coast",
+    "iso2": "CI",
+    "capital": "Yamoussoukro",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+225",
+    "tld": ".ci",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇮",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "GHA",
+      "MLI",
+      "BFA",
+      "GIN",
+      "LBR"
+    ]
+  },
+  "JAM": {
+    "name": "Jamaica",
+    "iso2": "JM",
+    "capital": "Kingston",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-876",
+    "tld": ".jm",
+    "driving_side": "left",
+    "flag_emoji": "🇯🇲",
+    "currency": {
+      "name": "Jamaican Dollar",
+      "code": "JMD",
+      "symbol": "JMD"
+    },
+    "neighbors": [
+      "GBR"
+    ]
+  },
+  "JPN": {
+    "name": "Japan",
+    "iso2": "JP",
+    "capital": "Tokyo",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Japanese"
+    ],
+    "calling_code": "+81",
+    "tld": ".jp",
+    "driving_side": "left",
+    "flag_emoji": "🇯🇵",
+    "currency": {
+      "name": "Yen",
+      "code": "JPY",
+      "symbol": "¥"
+    },
+    "neighbors": [
+      "USA",
+      "CHN",
+      "RUS",
+      "TWN",
+      "KOR",
+      "PHL"
+    ],
+    "religions": {
+      "Shinto": 70,
+      "Buddhist": 67,
+      "Christian": 1.5
+    },
+    "national_animal": "Green Pheasant",
+    "national_flower": "Cherry Blossom",
+    "disputes": [
+      {
+        "region": "Kuril Islands (Northern Territories)",
+        "description": "Islands held by Russia, claimed by Japan since WWII",
+        "other_claimants": [
+          "RUS"
+        ],
+        "status": "Russian administration",
+        "type": "territorial",
+        "since": 1945
+      },
+      {
+        "region": "Dokdo/Takeshima",
+        "description": "Small islands in Sea of Japan disputed between Korea and Japan",
+        "other_claimants": [
+          "KOR"
+        ],
+        "status": "Korean administration",
+        "type": "territorial",
+        "since": 1952
+      },
+      {
+        "region": "Senkaku/Diaoyu Islands",
+        "description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+        "other_claimants": [
+          "CHN",
+          "TWN"
+        ],
+        "status": "Japanese administration",
+        "type": "territorial",
+        "since": 1972
+      }
+    ]
+  },
+  "JEY": {
+    "name": "Jersey",
+    "iso2": "JE",
+    "capital": "Saint Helier",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "French",
+      "NRF"
+    ],
+    "calling_code": "+44",
+    "tld": ".je",
+    "driving_side": "right",
+    "currency": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    }
+  },
+  "JOR": {
+    "name": "Jordan",
+    "iso2": "JO",
+    "capital": "Amman",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "calling_code": "+962",
+    "tld": ".jo",
+    "driving_side": "right",
+    "flag_emoji": "🇯🇴",
+    "currency": {
+      "name": "Jordanian Dinar",
+      "code": "JOD",
+      "symbol": "JOD"
+    },
+    "neighbors": [
+      "IRQ",
+      "ISR",
+      "SAU",
+      "SYR",
+      "PSE"
+    ]
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "iso2": "KZ",
+    "capital": "Nur-Sultan",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "KK",
+      "Russian"
+    ],
+    "calling_code": "+7",
+    "tld": ".kz",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇿",
+    "currency": {
+      "name": "Tenge",
+      "code": "KZT",
+      "symbol": "KZT"
+    },
+    "neighbors": [
+      "CHN",
+      "RUS",
+      "UZB",
+      "KGZ",
+      "TKM"
+    ]
+  },
+  "KEN": {
+    "name": "Kenya",
+    "iso2": "KE",
+    "capital": "Nairobi",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "Swahili"
+    ],
+    "calling_code": "+254",
+    "tld": ".ke",
+    "driving_side": "left",
+    "flag_emoji": "🇰🇪",
+    "currency": {
+      "name": "Kenyan Shilling",
+      "code": "KES",
+      "symbol": "KES"
+    },
+    "neighbors": [
+      "ETH",
+      "TZA",
+      "SSD",
+      "UGA",
+      "SOM",
+      "SDN"
+    ],
+    "national_animal": "Lion",
+    "national_flower": "Orchid"
+  },
+  "KIR": {
+    "name": "Kiribati",
+    "iso2": "KI",
+    "capital": "Tarawa",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "GIL"
+    ],
+    "calling_code": "+686",
+    "tld": ".ki",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇮",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "USA",
+      "FRA"
+    ]
+  },
+  "KWT": {
+    "name": "Kuwait",
+    "iso2": "KW",
+    "capital": "Kuwait City",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "English"
+    ],
+    "calling_code": "+965",
+    "tld": ".kw",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇼",
+    "currency": {
+      "name": "Kuwaiti Dinar",
+      "code": "KWD",
+      "symbol": "KWD"
+    },
+    "neighbors": [
+      "IRN",
+      "IRQ",
+      "SAU"
+    ]
+  },
+  "KGZ": {
+    "name": "Kyrgyzstan",
+    "iso2": "KG",
+    "capital": "Bishkek",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "KY",
+      "UZ",
+      "Russian"
+    ],
+    "calling_code": "+996",
+    "tld": ".kg",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇬",
+    "currency": {
+      "name": "Som",
+      "code": "KGS",
+      "symbol": "KGS"
+    },
+    "neighbors": [
+      "CHN",
+      "KAZ",
+      "UZB",
+      "TJK"
+    ]
+  },
+  "LAO": {
+    "name": "Lao People's Democratic Republic",
+    "iso2": "LA",
+    "capital": "Vientiane",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Lao",
+      "French",
+      "English"
+    ],
+    "calling_code": "+856",
+    "tld": ".la",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇦",
+    "currency": {
+      "name": "Lao Kip",
+      "code": "LAK",
+      "symbol": "LAK"
+    },
+    "neighbors": [
+      "CHN",
+      "KHM",
+      "MMR",
+      "THA",
+      "VNM"
+    ]
+  },
+  "LVA": {
+    "name": "Latvia",
+    "iso2": "LV",
+    "capital": "Riga",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "LV",
+      "Russian",
+      "LT"
+    ],
+    "calling_code": "+371",
+    "tld": ".lv",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇻",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "LTU",
+      "RUS",
+      "BLR",
+      "EST",
+      "SWE"
+    ]
+  },
+  "LBN": {
+    "name": "Lebanon",
+    "iso2": "LB",
+    "capital": "Beirut",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "French",
+      "English",
+      "HY"
+    ],
+    "calling_code": "+961",
+    "tld": ".lb",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇧",
+    "currency": {
+      "name": "Lebanese Pound",
+      "code": "LBP",
+      "symbol": "LBP"
+    },
+    "neighbors": [
+      "ISR",
+      "SYR"
+    ]
+  },
+  "LSO": {
+    "name": "Lesotho",
+    "iso2": "LS",
+    "capital": "Maseru",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "ST",
+      "ZU",
+      "XH"
+    ],
+    "calling_code": "+266",
+    "tld": ".ls",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇸",
+    "currency": {
+      "name": "Loti,Rand",
+      "code": "LSL,ZAR",
+      "symbol": "LSL,ZAR"
+    },
+    "neighbors": [
+      "ZAF"
+    ]
+  },
+  "LBR": {
+    "name": "Liberia",
+    "iso2": "LR",
+    "capital": "Monrovia",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+231",
+    "tld": ".lr",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇷",
+    "currency": {
+      "name": "Liberian Dollar",
+      "code": "LRD",
+      "symbol": "LRD"
+    },
+    "neighbors": [
+      "GIN",
+      "CIV",
+      "SLE"
+    ]
+  },
+  "LBY": {
+    "name": "Libya",
+    "iso2": "LY",
+    "capital": "Tripoli",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "Italian",
+      "English"
+    ],
+    "calling_code": "+218",
+    "tld": ".ly",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇾",
+    "currency": {
+      "name": "Libyan Dinar",
+      "code": "LYD",
+      "symbol": "LYD"
+    },
+    "neighbors": [
+      "EGY",
+      "DZA",
+      "TCD",
+      "TUN",
+      "NER",
+      "SDN"
+    ]
+  },
+  "LIE": {
+    "name": "Liechtenstein",
+    "iso2": "LI",
+    "capital": "Vaduz",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "German"
+    ],
+    "calling_code": "+423",
+    "tld": ".li",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇮",
+    "currency": {
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "symbol": "Fr"
+    },
+    "neighbors": [
+      "CHE",
+      "AUT"
+    ]
+  },
+  "LTU": {
+    "name": "Lithuania",
+    "iso2": "LT",
+    "capital": "Vilnius",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "LT",
+      "Russian",
+      "Polish"
+    ],
+    "calling_code": "+370",
+    "tld": ".lt",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇹",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "SWE",
+      "POL",
+      "RUS",
+      "BLR",
+      "LVA"
+    ]
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "iso2": "LU",
+    "capital": "Luxembourg",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "LB",
+      "German",
+      "French"
+    ],
+    "calling_code": "+352",
+    "tld": ".lu",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇺",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "BEL",
+      "FRA",
+      "DEU"
+    ]
+  },
+  "MDG": {
+    "name": "Madagascar",
+    "iso2": "MG",
+    "capital": "Antananarivo",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "MG"
+    ],
+    "calling_code": "+261",
+    "tld": ".mg",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇬",
+    "currency": {
+      "name": "Malagasy Ariary",
+      "code": "MGA",
+      "symbol": "MGA"
+    },
+    "neighbors": [
+      "FRA",
+      "COM",
+      "MOZ",
+      "SYC"
+    ]
+  },
+  "MWI": {
+    "name": "Malawi",
+    "iso2": "MW",
+    "capital": "Lilongwe",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "NY",
+      "YAO",
+      "TUM",
+      "SWK"
+    ],
+    "calling_code": "+265",
+    "tld": ".mw",
+    "driving_side": "left",
+    "flag_emoji": "🇲🇼",
+    "currency": {
+      "name": "Malawi Kwacha",
+      "code": "MWK",
+      "symbol": "MWK"
+    },
+    "neighbors": [
+      "TZA",
+      "ZMB",
+      "MOZ"
+    ]
+  },
+  "MYS": {
+    "name": "Malaysia",
+    "iso2": "MY",
+    "capital": "Kuala Lumpur",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Malay",
+      "English",
+      "Chinese",
+      "Tamil",
+      "Telugu"
+    ],
+    "calling_code": "+60",
+    "tld": ".my",
+    "driving_side": "left",
+    "flag_emoji": "🇲🇾",
+    "currency": {
+      "name": "Malaysian Ringgit",
+      "code": "MYR",
+      "symbol": "RM"
+    },
+    "neighbors": [
+      "IDN",
+      "SGP",
+      "THA",
+      "BRN",
+      "PHL"
+    ],
+    "religions": {
+      "Muslim": 61,
+      "Buddhist": 20,
+      "Christian": 9,
+      "Hindu": 6
+    },
+    "disputes": [
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "CHN",
+          "VNM",
+          "PHL",
+          "BRN",
+          "TWN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      }
+    ]
+  },
+  "MDV": {
+    "name": "Maldives",
+    "iso2": "MV",
+    "capital": "Male",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "DV",
+      "English"
+    ],
+    "calling_code": "+960",
+    "tld": ".mv",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇻",
+    "currency": {
+      "name": "Rufiyaa",
+      "code": "MVR",
+      "symbol": "MVR"
+    },
+    "neighbors": [
+      "GBR"
+    ]
+  },
+  "MLI": {
+    "name": "Mali",
+    "iso2": "ML",
+    "capital": "Bamako",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "BM"
+    ],
+    "calling_code": "+223",
+    "tld": ".ml",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇱",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "DZA",
+      "BFA",
+      "GIN",
+      "CIV",
+      "MRT",
+      "NER",
+      "SEN"
+    ]
+  },
+  "MLT": {
+    "name": "Malta",
+    "iso2": "MT",
+    "capital": "Valletta",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "MT",
+      "English"
+    ],
+    "calling_code": "+356",
+    "tld": ".mt",
+    "driving_side": "left",
+    "flag_emoji": "🇲🇹",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ITA"
+    ]
+  },
+  "MHL": {
+    "name": "Marshall Islands",
+    "iso2": "MH",
+    "capital": "Majuro",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "MH",
+      "English"
+    ],
+    "calling_code": "+692",
+    "tld": ".mh",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇭",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "USA",
+      "NRU",
+      "FSM",
+      "KIR"
+    ]
+  },
+  "MTQ": {
+    "name": "Martinique",
+    "iso2": "MQ",
+    "capital": "Fort-de-France",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+596",
+    "tld": ".mq",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "MRT": {
+    "name": "Mauritania",
+    "iso2": "MR",
+    "capital": "Nouakchott",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "FUC",
+      "SNK",
+      "French",
+      "MEY"
+    ],
+    "calling_code": "+222",
+    "tld": ".mr",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇷",
+    "currency": {
+      "name": "Ouguiya",
+      "code": "MRU",
+      "symbol": "MRU"
+    },
+    "neighbors": [
+      "DZA",
+      "MLI",
+      "SEN",
+      "ESH"
+    ]
+  },
+  "MUS": {
+    "name": "Mauritius",
+    "iso2": "MU",
+    "capital": "Port Louis",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "BHO",
+      "French"
+    ],
+    "calling_code": "+230",
+    "tld": ".mu",
+    "driving_side": "left",
+    "flag_emoji": "🇲🇺",
+    "currency": {
+      "name": "Mauritius Rupee",
+      "code": "MUR",
+      "symbol": "MUR"
+    },
+    "neighbors": [
+      "FRA",
+      "MDV",
+      "SYC"
+    ]
+  },
+  "MYT": {
+    "name": "Mayotte",
+    "iso2": "YT",
+    "capital": "Mamoudzou",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+262",
+    "tld": ".yt",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "MEX": {
+    "name": "Mexico",
+    "iso2": "MX",
+    "capital": "Mexico City",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+52",
+    "tld": ".mx",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇽",
+    "currency": {
+      "name": "Mexican Peso",
+      "code": "MXN",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "USA",
+      "BLZ",
+      "GTM"
+    ],
+    "religions": {
+      "Christian": 90,
+      "Unaffiliated": 7
+    },
+    "national_animal": "Golden Eagle",
+    "national_flower": "Dahlia"
+  },
+  "FSM": {
+    "name": "Micronesia (Federated States of)",
+    "iso2": "FM",
+    "capital": "Palikir",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "CHK",
+      "PON",
+      "YAP",
+      "KOS"
+    ],
+    "calling_code": "+691",
+    "tld": ".fm",
+    "driving_side": "right",
+    "flag_emoji": "🇫🇲",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "USA",
+      "PNG",
+      "PLW"
+    ]
+  },
+  "MCO": {
+    "name": "Monaco",
+    "iso2": "MC",
+    "capital": "Monaco",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "French",
+      "English",
+      "Italian"
+    ],
+    "calling_code": "+377",
+    "tld": ".mc",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇨",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "FRA"
+    ]
+  },
+  "MNG": {
+    "name": "Mongolia",
+    "iso2": "MN",
+    "capital": "Ulaanbaatar",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "MN",
+      "Russian"
+    ],
+    "calling_code": "+976",
+    "tld": ".mn",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇳",
+    "currency": {
+      "name": "Tugrik",
+      "code": "MNT",
+      "symbol": "MNT"
+    },
+    "neighbors": [
+      "CHN",
+      "RUS"
+    ]
+  },
+  "MNE": {
+    "name": "Montenegro",
+    "iso2": "ME",
+    "capital": "Podgorica",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Serbian",
+      "Hungarian",
+      "BS",
+      "SQ",
+      "Croatian"
+    ],
+    "calling_code": "+382",
+    "tld": ".me",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇪",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ALB",
+      "HRV",
+      "BIH",
+      "SRB"
+    ]
+  },
+  "MSR": {
+    "name": "Montserrat",
+    "iso2": "MS",
+    "capital": "Plymouth",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-664",
+    "tld": ".ms",
+    "driving_side": "right",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    }
+  },
+  "MAR": {
+    "name": "Morocco",
+    "iso2": "MA",
+    "capital": "Rabat",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "BER",
+      "French"
+    ],
+    "calling_code": "+212",
+    "tld": ".ma",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇦",
+    "currency": {
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "symbol": "MAD"
+    },
+    "neighbors": [
+      "ESP",
+      "DZA",
+      "ESH"
+    ],
+    "disputes": [
+      {
+        "region": "Western Sahara",
+        "description": "Former Spanish colony, disputed between Morocco and Sahrawi Arab Democratic Republic",
+        "other_claimants": [
+          "ESH"
+        ],
+        "status": "Mostly Moroccan administration",
+        "type": "sovereignty",
+        "since": 1975
+      }
+    ]
+  },
+  "MOZ": {
+    "name": "Mozambique",
+    "iso2": "MZ",
+    "capital": "Maputo",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Portuguese",
+      "VMW"
+    ],
+    "calling_code": "+258",
+    "tld": ".mz",
+    "driving_side": "left",
+    "flag_emoji": "🇲🇿",
+    "currency": {
+      "name": "Mozambique Metical",
+      "code": "MZN",
+      "symbol": "MZN"
+    },
+    "neighbors": [
+      "ZAF",
+      "TZA",
+      "ZMB",
+      "ZWE",
+      "COM",
+      "MWI",
+      "SWZ"
+    ]
+  },
+  "MMR": {
+    "name": "Myanmar",
+    "iso2": "MM",
+    "capital": "Nay Pyi Taw",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Burmese"
+    ],
+    "calling_code": "+95",
+    "tld": ".mm",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇲",
+    "currency": {
+      "name": "Kyat",
+      "code": "MMK",
+      "symbol": "MMK"
+    },
+    "neighbors": [
+      "CHN",
+      "IND",
+      "LAO",
+      "THA",
+      "BGD"
+    ]
+  },
+  "NAM": {
+    "name": "Namibia",
+    "iso2": "NA",
+    "capital": "Windhoek",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "AF",
+      "German",
+      "HZ",
+      "NAQ"
+    ],
+    "calling_code": "+264",
+    "tld": ".na",
+    "driving_side": "left",
+    "flag_emoji": "🇳🇦",
+    "currency": {
+      "name": "Namibia Dollar,Rand",
+      "code": "NAD,ZAR",
+      "symbol": "NAD,ZAR"
+    },
+    "neighbors": [
+      "ZAF",
+      "AGO",
+      "ZMB",
+      "BWA"
+    ]
+  },
+  "NRU": {
+    "name": "Nauru",
+    "iso2": "NR",
+    "capital": "Yaren",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "NA",
+      "English"
+    ],
+    "calling_code": "+674",
+    "tld": ".nr",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇷",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "NPL": {
+    "name": "Nepal",
+    "iso2": "NP",
+    "capital": "Kathmandu",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Nepali",
+      "English"
+    ],
+    "calling_code": "+977",
+    "tld": ".np",
+    "driving_side": "left",
+    "flag_emoji": "🇳🇵",
+    "currency": {
+      "name": "Nepalese Rupee",
+      "code": "NPR",
+      "symbol": "NPR"
+    },
+    "neighbors": [
+      "CHN",
+      "IND"
+    ],
+    "religions": {
+      "Hindu": 81,
+      "Buddhist": 9,
+      "Muslim": 4
+    }
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "iso2": "NL",
+    "capital": "Amsterdam",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Dutch",
+      "FY"
+    ],
+    "calling_code": "+31",
+    "tld": ".nl",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇱",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "BEL",
+      "FRA",
+      "DEU",
+      "VEN"
+    ],
+    "religions": {
+      "Unaffiliated": 51,
+      "Christian": 44,
+      "Muslim": 5
+    }
+  },
+  "NCL": {
+    "name": "New Caledonia",
+    "iso2": "NC",
+    "capital": "Noumea",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+687",
+    "tld": ".nc",
+    "driving_side": "right",
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "XPF"
+    }
+  },
+  "NZL": {
+    "name": "New Zealand",
+    "iso2": "NZ",
+    "capital": "Wellington",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "MI"
+    ],
+    "calling_code": "+64",
+    "tld": ".nz",
+    "driving_side": "left",
+    "flag_emoji": "🇳🇿",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "AUS"
+    ],
+    "national_animal": "Kiwi",
+    "national_flower": "Kowhai"
+  },
+  "NIC": {
+    "name": "Nicaragua",
+    "iso2": "NI",
+    "capital": "Managua",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "calling_code": "+505",
+    "tld": ".ni",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇮",
+    "currency": {
+      "name": "Cordoba Oro",
+      "code": "NIO",
+      "symbol": "NIO"
+    },
+    "neighbors": [
+      "COL",
+      "HND",
+      "CRI"
+    ]
+  },
+  "NER": {
+    "name": "Niger",
+    "iso2": "NE",
+    "capital": "Niamey",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "HA",
+      "KR",
+      "DJE"
+    ],
+    "calling_code": "+227",
+    "tld": ".ne",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇪",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "DZA",
+      "TCD",
+      "MLI",
+      "BEN",
+      "BFA",
+      "LBY",
+      "NGA"
+    ]
+  },
+  "NGA": {
+    "name": "Nigeria",
+    "iso2": "NG",
+    "capital": "Abuja",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "HA",
+      "YO",
+      "IG",
+      "FF"
+    ],
+    "calling_code": "+234",
+    "tld": ".ng",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇬",
+    "currency": {
+      "name": "Naira",
+      "code": "NGN",
+      "symbol": "₦"
+    },
+    "neighbors": [
+      "TCD",
+      "BEN",
+      "CMR",
+      "NER",
+      "STP"
+    ],
+    "religions": {
+      "Muslim": 50,
+      "Christian": 48
+    },
+    "national_animal": "Eagle",
+    "national_flower": "Costus"
+  },
+  "NIU": {
+    "name": "Niue",
+    "iso2": "NU",
+    "capital": "Alofi",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "NIU",
+      "English"
+    ],
+    "calling_code": "+683",
+    "tld": ".nu",
+    "driving_side": "right",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  "NFK": {
+    "name": "Norfolk Island",
+    "iso2": "NF",
+    "capital": "Kingston",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+672",
+    "tld": ".nf",
+    "driving_side": "right",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "MNP": {
+    "name": "Northern Mariana Islands",
+    "iso2": "MP",
+    "capital": "Saipan",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "FIL",
+      "TL",
+      "Chinese",
+      "CH",
+      "English"
+    ],
+    "calling_code": "+1-670",
+    "tld": ".mp",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "MKD": {
+    "name": "North Macedonia",
+    "iso2": "MK",
+    "capital": "Skopje",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "MK",
+      "SQ",
+      "Turkish",
+      "RMM",
+      "Serbian"
+    ],
+    "calling_code": "+389",
+    "tld": ".mk",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇰",
+    "currency": {
+      "name": "Denar",
+      "code": "MKD",
+      "symbol": "MKD"
+    },
+    "neighbors": [
+      "GRC",
+      "BGR",
+      "ALB",
+      "SRB"
+    ]
+  },
+  "NOR": {
+    "name": "Norway",
+    "iso2": "NO",
+    "capital": "Oslo",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Norwegian",
+      "NB",
+      "NN",
+      "SE",
+      "Finnish"
+    ],
+    "calling_code": "+47",
+    "tld": ".no",
+    "driving_side": "right",
+    "flag_emoji": "🇳🇴",
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "kr"
+    },
+    "neighbors": [
+      "FIN",
+      "SWE",
+      "RUS"
+    ]
+  },
+  "OMN": {
+    "name": "Oman",
+    "iso2": "OM",
+    "capital": "Muscat",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "English",
+      "BAL",
+      "Urdu"
+    ],
+    "calling_code": "+968",
+    "tld": ".om",
+    "driving_side": "right",
+    "flag_emoji": "🇴🇲",
+    "currency": {
+      "name": "Rial Omani",
+      "code": "OMR",
+      "symbol": "OMR"
+    },
+    "neighbors": [
+      "IRN",
+      "YEM",
+      "SAU",
+      "ARE"
+    ]
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "iso2": "PK",
+    "capital": "Islamabad",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Urdu",
+      "English",
+      "Punjabi",
+      "SD",
+      "PS"
+    ],
+    "calling_code": "+92",
+    "tld": ".pk",
+    "driving_side": "left",
+    "flag_emoji": "🇵🇰",
+    "currency": {
+      "name": "Pakistan Rupee",
+      "code": "PKR",
+      "symbol": "₨"
+    },
+    "neighbors": [
+      "CHN",
+      "IND",
+      "IRN",
+      "AFG"
+    ],
+    "religions": {
+      "Muslim": 96,
+      "Hindu": 2,
+      "Christian": 1.6
+    },
+    "national_animal": "Markhor",
+    "national_flower": "Jasmine",
+    "disputes": [
+      {
+        "region": "Kashmir",
+        "description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+        "other_claimants": [
+          "IND",
+          "CHN"
+        ],
+        "status": "Divided administration",
+        "type": "territorial",
+        "since": 1947
+      }
+    ]
+  },
+  "PLW": {
+    "name": "Palau",
+    "iso2": "PW",
+    "capital": "Melekeok",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "PAU",
+      "SOV",
+      "English",
+      "TOX",
+      "Japanese"
+    ],
+    "calling_code": "+680",
+    "tld": ".pw",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇼",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "IDN",
+      "FSM",
+      "PHL"
+    ]
+  },
+  "PAN": {
+    "name": "Panama",
+    "iso2": "PA",
+    "capital": "Panama City",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "English"
+    ],
+    "calling_code": "+507",
+    "tld": ".pa",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇦",
+    "currency": {
+      "name": "Balboa,US Dollar",
+      "code": "PAB,USD",
+      "symbol": "PAB,USD"
+    },
+    "neighbors": [
+      "USA",
+      "COL",
+      "CRI"
+    ]
+  },
+  "PNG": {
+    "name": "Papua New Guinea",
+    "iso2": "PG",
+    "capital": "Port Moresby",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "HO",
+      "MEU",
+      "TPI"
+    ],
+    "calling_code": "+675",
+    "tld": ".pg",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇬",
+    "currency": {
+      "name": "Kina",
+      "code": "PGK",
+      "symbol": "PGK"
+    },
+    "neighbors": [
+      "IDN",
+      "AUS",
+      "SLB",
+      "FSM"
+    ]
+  },
+  "PRY": {
+    "name": "Paraguay",
+    "iso2": "PY",
+    "capital": "Asuncion",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "GN"
+    ],
+    "calling_code": "+595",
+    "tld": ".py",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇾",
+    "currency": {
+      "name": "Guarani",
+      "code": "PYG",
+      "symbol": "PYG"
+    },
+    "neighbors": [
+      "BRA",
+      "ARG",
+      "BOL"
+    ]
+  },
+  "PER": {
+    "name": "Peru",
+    "iso2": "PE",
+    "capital": "Lima",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish",
+      "QU",
+      "AY"
+    ],
+    "calling_code": "+51",
+    "tld": ".pe",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇪",
+    "currency": {
+      "name": "Sol",
+      "code": "PEN",
+      "symbol": "S/"
+    },
+    "neighbors": [
+      "BRA",
+      "CHL",
+      "ECU",
+      "COL",
+      "BOL"
+    ]
+  },
+  "PHL": {
+    "name": "Philippines",
+    "iso2": "PH",
+    "capital": "Manila",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "TL",
+      "English",
+      "FIL",
+      "CEB",
+      "ILO"
+    ],
+    "calling_code": "+63",
+    "tld": ".ph",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇭",
+    "currency": {
+      "name": "Philippine Peso",
+      "code": "PHP",
+      "symbol": "₱"
+    },
+    "neighbors": [
+      "JPN",
+      "CHN",
+      "IDN",
+      "PLW",
+      "MYS",
+      "TWN"
+    ],
+    "religions": {
+      "Christian": 92,
+      "Muslim": 5
+    },
+    "national_animal": "Carabao",
+    "national_flower": "Sampaguita",
+    "disputes": [
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "CHN",
+          "VNM",
+          "MYS",
+          "BRN",
+          "TWN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      }
+    ]
+  },
+  "PCN": {
+    "name": "Pitcairn",
+    "iso2": "PN",
+    "capital": "Adamstown",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+870",
+    "tld": ".pn",
+    "driving_side": "right",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  "POL": {
+    "name": "Poland",
+    "iso2": "PL",
+    "capital": "Warsaw",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Polish"
+    ],
+    "calling_code": "+48",
+    "tld": ".pl",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇱",
+    "currency": {
+      "name": "Zloty",
+      "code": "PLN",
+      "symbol": "zł"
+    },
+    "neighbors": [
+      "LTU",
+      "RUS",
+      "DEU",
+      "BLR",
+      "UKR",
+      "CZE",
+      "SVK"
+    ],
+    "religions": {
+      "Christian": 87,
+      "Unaffiliated": 10
+    }
+  },
+  "PRT": {
+    "name": "Portugal",
+    "iso2": "PT",
+    "capital": "Lisbon",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Portuguese",
+      "MWL"
+    ],
+    "calling_code": "+351",
+    "tld": ".pt",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇹",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ESP"
+    ],
+    "religions": {
+      "Christian": 81,
+      "Unaffiliated": 15
+    }
+  },
+  "PRI": {
+    "name": "Puerto Rico",
+    "iso2": "PR",
+    "capital": "San Juan",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Spanish"
+    ],
+    "calling_code": "+1",
+    "tld": ".pr",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇷",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "QAT": {
+    "name": "Qatar",
+    "iso2": "QA",
+    "capital": "Doha",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "Spanish"
+    ],
+    "calling_code": "+974",
+    "tld": ".qa",
+    "driving_side": "right",
+    "flag_emoji": "🇶🇦",
+    "currency": {
+      "name": "Qatari Rial",
+      "code": "QAR",
+      "symbol": "QAR"
+    },
+    "neighbors": [
+      "IRN",
+      "SAU"
+    ]
+  },
+  "KOR": {
+    "name": "Republic of Korea",
+    "iso2": "KR",
+    "capital": "Seoul",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Korean",
+      "English"
+    ],
+    "calling_code": "+82",
+    "tld": ".kr",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇷",
+    "currency": {
+      "name": "Won",
+      "code": "KRW",
+      "symbol": "₩"
+    },
+    "neighbors": [
+      "JPN",
+      "CHN",
+      "PRK"
+    ],
+    "religions": {
+      "Unaffiliated": 56,
+      "Christian": 28,
+      "Buddhist": 16
+    },
+    "national_animal": "Siberian Tiger",
+    "national_flower": "Hibiscus",
+    "disputes": [
+      {
+        "region": "Dokdo/Takeshima",
+        "description": "Small islands in Sea of Japan disputed between Korea and Japan",
+        "other_claimants": [
+          "JPN"
+        ],
+        "status": "Korean administration",
+        "type": "territorial",
+        "since": 1952
+      }
+    ]
+  },
+  "MDA": {
+    "name": "Republic of Moldova",
+    "iso2": "MD",
+    "capital": "Chisinau",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Romanian",
+      "Russian",
+      "GAG",
+      "Turkish"
+    ],
+    "calling_code": "+373",
+    "tld": ".md",
+    "driving_side": "right",
+    "flag_emoji": "🇲🇩",
+    "currency": {
+      "name": "Moldovan Leu",
+      "code": "MDL",
+      "symbol": "MDL"
+    },
+    "neighbors": [
+      "UKR",
+      "ROU"
+    ],
+    "disputes": [
+      {
+        "region": "Transnistria",
+        "description": "Breakaway region from Moldova with Russian support",
+        "other_claimants": [
+          "RUS"
+        ],
+        "status": "De facto independent, unrecognized",
+        "type": "sovereignty",
+        "since": 1992
+      }
+    ]
+  },
+  "REU": {
+    "name": "Réunion",
+    "iso2": "RE",
+    "capital": "Saint-Denis",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+262",
+    "tld": ".re",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "ROU": {
+    "name": "Romania",
+    "iso2": "RO",
+    "capital": "Bucharest",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Romanian",
+      "Hungarian",
+      "ROM"
+    ],
+    "calling_code": "+40",
+    "tld": ".ro",
+    "driving_side": "right",
+    "flag_emoji": "🇷🇴",
+    "currency": {
+      "name": "Romanian Leu",
+      "code": "RON",
+      "symbol": "RON"
+    },
+    "neighbors": [
+      "HUN",
+      "UKR",
+      "MDA",
+      "BGR",
+      "SRB"
+    ]
+  },
+  "RUS": {
+    "name": "Russian Federation",
+    "iso2": "RU",
+    "capital": "Moscow",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Russian",
+      "TT",
+      "XAL",
+      "CAU",
+      "ADY"
+    ],
+    "calling_code": "+7",
+    "tld": ".ru",
+    "driving_side": "right",
+    "flag_emoji": "🇷🇺",
+    "currency": {
+      "name": "Russian Ruble",
+      "code": "RUB",
+      "symbol": "₽"
+    },
+    "neighbors": [
+      "JPN",
+      "NOR",
+      "USA",
+      "FIN",
+      "SWE",
+      "POL",
+      "LTU",
+      "CHN",
+      "BLR",
+      "EST",
+      "LVA",
+      "UKR",
+      "AZE",
+      "GEO",
+      "KAZ",
+      "PRK",
+      "MNG"
+    ],
+    "religions": {
+      "Christian": 71,
+      "Unaffiliated": 25
+    },
+    "national_animal": "Brown Bear",
+    "national_flower": "Chamomile",
+    "disputes": [
+      {
+        "region": "Crimea",
+        "description": "Peninsula annexed by Russia from Ukraine in 2014, internationally recognized as Ukrainian",
+        "other_claimants": [
+          "UKR"
+        ],
+        "status": "Russian administration, claimed by Ukraine",
+        "type": "territorial",
+        "since": 2014
+      },
+      {
+        "region": "Kuril Islands (Northern Territories)",
+        "description": "Islands held by Russia, claimed by Japan since WWII",
+        "other_claimants": [
+          "JPN"
+        ],
+        "status": "Russian administration",
+        "type": "territorial",
+        "since": 1945
+      },
+      {
+        "region": "Abkhazia",
+        "description": "Breakaway region from Georgia with Russian support",
+        "other_claimants": [
+          "GEO"
+        ],
+        "status": "De facto independent, limited recognition",
+        "type": "sovereignty",
+        "since": 2008
+      },
+      {
+        "region": "South Ossetia",
+        "description": "Breakaway region from Georgia with Russian support",
+        "other_claimants": [
+          "GEO"
+        ],
+        "status": "De facto independent, limited recognition",
+        "type": "sovereignty",
+        "since": 2008
+      },
+      {
+        "region": "Transnistria",
+        "description": "Breakaway region from Moldova with Russian support",
+        "other_claimants": [
+          "MDA"
+        ],
+        "status": "De facto independent, unrecognized",
+        "type": "sovereignty",
+        "since": 1992
+      }
+    ]
+  },
+  "RWA": {
+    "name": "Rwanda",
+    "iso2": "RW",
+    "capital": "Kigali",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "RW",
+      "English",
+      "French",
+      "Swahili"
+    ],
+    "calling_code": "+250",
+    "tld": ".rw",
+    "driving_side": "right",
+    "flag_emoji": "🇷🇼",
+    "currency": {
+      "name": "Rwanda Franc",
+      "code": "RWF",
+      "symbol": "RWF"
+    },
+    "neighbors": [
+      "TZA",
+      "BDI",
+      "COD",
+      "UGA"
+    ]
+  },
+  "BLM": {
+    "name": "Saint Barthélemy",
+    "iso2": "BL",
+    "capital": "Gustavia",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+590",
+    "tld": ".gp",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "SHN": {
+    "name": "Saint Helena",
+    "iso2": "SH",
+    "capital": "Jamestown",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+290 n",
+    "tld": ".sh",
+    "driving_side": "right",
+    "currency": {
+      "name": "Saint Helena Pound",
+      "code": "SHP",
+      "symbol": "SHP"
+    }
+  },
+  "KNA": {
+    "name": "Saint Kitts and Nevis",
+    "iso2": "KN",
+    "capital": "Basseterre",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-869",
+    "tld": ".kn",
+    "driving_side": "right",
+    "flag_emoji": "🇰🇳",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "GBR",
+      "VEN"
+    ]
+  },
+  "LCA": {
+    "name": "Saint Lucia",
+    "iso2": "LC",
+    "capital": "Castries",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-758",
+    "tld": ".lc",
+    "driving_side": "right",
+    "flag_emoji": "🇱🇨",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "VEN"
+    ]
+  },
+  "MAF": {
+    "name": "Saint Martin (French Part)",
+    "iso2": "MF",
+    "capital": "Marigot",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+590",
+    "tld": ".gp",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "SPM": {
+    "name": "Saint Pierre and Miquelon",
+    "iso2": "PM",
+    "capital": "Saint-Pierre",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "French"
+    ],
+    "calling_code": "+508",
+    "tld": ".pm",
+    "driving_side": "right",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    }
+  },
+  "VCT": {
+    "name": "Saint Vincent and the Grenadines",
+    "iso2": "VC",
+    "capital": "Kingstown",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "calling_code": "+1-784",
+    "tld": ".vc",
+    "driving_side": "right",
+    "flag_emoji": "🇻🇨",
+    "currency": {
+      "name": "East Caribbean Dollar",
+      "code": "XCD",
+      "symbol": "XCD"
+    },
+    "neighbors": [
+      "VEN"
+    ]
+  },
+  "WSM": {
+    "name": "Samoa",
+    "iso2": "WS",
+    "capital": "Apia",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "SM",
+      "English"
+    ],
+    "calling_code": "+685",
+    "tld": ".ws",
+    "driving_side": "right",
+    "flag_emoji": "🇼🇸",
+    "currency": {
+      "name": "Tala",
+      "code": "WST",
+      "symbol": "WST"
+    },
+    "neighbors": [
+      "USA"
+    ]
+  },
+  "SMR": {
+    "name": "San Marino",
+    "iso2": "SM",
+    "capital": "San Marino",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Italian"
+    ],
+    "calling_code": "+378",
+    "tld": ".sm",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇲",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "ITA"
+    ]
+  },
+  "STP": {
+    "name": "Sao Tome and Principe",
+    "iso2": "ST",
+    "capital": "Sao Tome",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Portuguese"
+    ],
+    "calling_code": "+239",
+    "tld": ".st",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇹",
+    "currency": {
+      "name": "Dobra",
+      "code": "STN",
+      "symbol": "STN"
+    },
+    "neighbors": [
+      "GNQ",
+      "GAB",
+      "NGA"
+    ]
+  },
+  "SAU": {
+    "name": "Saudi Arabia",
+    "iso2": "SA",
+    "capital": "Riyadh",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "calling_code": "+966",
+    "tld": ".sa",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇦",
+    "currency": {
+      "name": "Saudi Riyal",
+      "code": "SAR",
+      "symbol": "﷼"
+    },
+    "neighbors": [
+      "EGY",
+      "BHR",
+      "IRN",
+      "IRQ",
+      "YEM",
+      "JOR",
+      "KWT",
+      "OMN",
+      "QAT",
+      "ARE"
+    ],
+    "religions": {
+      "Muslim": 93,
+      "Christian": 4
+    },
+    "national_animal": "Arabian Camel",
+    "national_flower": "Rose"
+  },
+  "SEN": {
+    "name": "Senegal",
+    "iso2": "SN",
+    "capital": "Dakar",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "WO",
+      "FUC",
+      "MNK"
+    ],
+    "calling_code": "+221",
+    "tld": ".sn",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇳",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "MLI",
+      "GMB",
+      "GIN",
+      "GNB",
+      "MRT"
+    ]
+  },
+  "SRB": {
+    "name": "Serbia",
+    "iso2": "RS",
+    "capital": "Belgrade",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Serbian",
+      "Hungarian",
+      "BS",
+      "ROM"
+    ],
+    "calling_code": "+381 p",
+    "tld": ".rs",
+    "driving_side": "right",
+    "flag_emoji": "🇷🇸",
+    "currency": {
+      "name": "Serbian Dinar",
+      "code": "RSD",
+      "symbol": "RSD"
+    },
+    "neighbors": [
+      "HUN",
+      "ROU",
+      "BGR",
+      "MKD",
+      "ALB",
+      "HRV",
+      "BIH",
+      "MNE"
+    ]
+  },
+  "SYC": {
+    "name": "Seychelles",
+    "iso2": "SC",
+    "capital": "Victoria",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "French"
+    ],
+    "calling_code": "+248",
+    "tld": ".sc",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇨",
+    "currency": {
+      "name": "Seychelles Rupee",
+      "code": "SCR",
+      "symbol": "SCR"
+    },
+    "neighbors": [
+      "FRA",
+      "TZA",
+      "COM",
+      "MDG",
+      "MUS"
+    ]
+  },
+  "SLE": {
+    "name": "Sierra Leone",
+    "iso2": "SL",
+    "capital": "Freetown",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "MEN",
+      "TEM"
+    ],
+    "calling_code": "+232",
+    "tld": ".sl",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇱",
+    "currency": {
+      "name": "Leone",
+      "code": "SLE",
+      "symbol": "SLE"
+    },
+    "neighbors": [
+      "GIN",
+      "LBR"
+    ]
+  },
+  "SGP": {
+    "name": "Singapore",
+    "iso2": "SG",
+    "capital": "Singapore",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "CMN",
+      "English",
+      "Malay",
+      "Tamil",
+      "Chinese"
+    ],
+    "calling_code": "+65",
+    "tld": ".sg",
+    "driving_side": "left",
+    "flag_emoji": "🇸🇬",
+    "currency": {
+      "name": "Singapore Dollar",
+      "code": "SGD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "IDN",
+      "MYS"
+    ]
+  },
+  "SXM": {
+    "name": "Sint Maarten (Dutch part)",
+    "iso2": "SX",
+    "capital": "Philipsburg",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "English"
+    ],
+    "calling_code": "+1-721",
+    "tld": ".sx",
+    "driving_side": "right",
+    "currency": {
+      "name": "Caribbean Guilder",
+      "code": "XCG",
+      "symbol": "XCG"
+    },
+    "neighbors": [
+      "FRA",
+      "MAF"
+    ]
+  },
+  "SVK": {
+    "name": "Slovakia",
+    "iso2": "SK",
+    "capital": "Bratislava",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Slovak",
+      "Hungarian"
+    ],
+    "calling_code": "+421",
+    "tld": ".sk",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇰",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "HUN",
+      "POL",
+      "AUT",
+      "UKR",
+      "CZE"
+    ]
+  },
+  "SVN": {
+    "name": "Slovenia",
+    "iso2": "SI",
+    "capital": "Ljubljana",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Slovenian",
+      "SH"
+    ],
+    "calling_code": "+386",
+    "tld": ".si",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇮",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "HUN",
+      "ITA",
+      "AUT",
+      "HRV"
+    ]
+  },
+  "SLB": {
+    "name": "Solomon Islands",
+    "iso2": "SB",
+    "capital": "Honiara",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English",
+      "TPI"
+    ],
+    "calling_code": "+677",
+    "tld": ".sb",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇧",
+    "currency": {
+      "name": "Solomon Islands Dollar",
+      "code": "SBD",
+      "symbol": "SBD"
+    },
+    "neighbors": [
+      "FRA",
+      "AUS",
+      "VUT",
+      "PNG",
+      "FJI"
+    ]
+  },
+  "SOM": {
+    "name": "Somalia",
+    "iso2": "SO",
+    "capital": "Mogadishu",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "SO",
+      "Arabic",
+      "Italian",
+      "English"
+    ],
+    "calling_code": "+252",
+    "tld": ".so",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇴",
+    "currency": {
+      "name": "Somali Shilling",
+      "code": "SOS",
+      "symbol": "SOS"
+    },
+    "neighbors": [
+      "KEN",
+      "ETH",
+      "DJI"
+    ]
+  },
+  "ZAF": {
+    "name": "South Africa",
+    "iso2": "ZA",
+    "capital": "Pretoria",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "ZU",
+      "XH",
+      "AF",
+      "NSO",
+      "English"
+    ],
+    "calling_code": "+27",
+    "tld": ".za",
+    "driving_side": "left",
+    "flag_emoji": "🇿🇦",
+    "currency": {
+      "name": "Rand",
+      "code": "ZAR",
+      "symbol": "R"
+    },
+    "neighbors": [
+      "ZWE",
+      "BWA",
+      "LSO",
+      "MOZ",
+      "NAM",
+      "SWZ"
+    ],
+    "religions": {
+      "Christian": 80,
+      "Unaffiliated": 15
+    },
+    "national_animal": "Springbok",
+    "national_bird": "Blue Crane",
+    "national_flower": "King Protea"
+  },
+  "SGS": {
+    "name": "South Georgia and the South Sandwich Islands",
+    "iso2": "GS",
+    "capital": "Grytviken",
+    "continent": "Antarctica",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+500",
+    "tld": ".gs",
+    "driving_side": "right"
+  },
+  "SSD": {
+    "name": "South Sudan",
+    "iso2": "SS",
+    "capital": "Juba",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+211",
+    "tld": ".ss",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇸",
+    "currency": {
+      "name": "South Sudanese Pound",
+      "code": "SSP",
+      "symbol": "SSP"
+    },
+    "neighbors": [
+      "KEN",
+      "ETH",
+      "CAF",
+      "COD",
+      "UGA",
+      "SDN"
+    ]
+  },
+  "ESP": {
+    "name": "Spain",
+    "iso2": "ES",
+    "capital": "Madrid",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Spanish",
+      "CA",
+      "GL",
+      "EU",
+      "OC"
+    ],
+    "calling_code": "+34",
+    "tld": ".es",
+    "driving_side": "right",
+    "flag_emoji": "🇪🇸",
+    "currency": {
+      "name": "Euro",
+      "code": "EUR",
+      "symbol": "€"
+    },
+    "neighbors": [
+      "PRT",
+      "FRA",
+      "AND",
+      "MAR",
+      "GIB"
+    ],
+    "religions": {
+      "Christian": 69,
+      "Unaffiliated": 27
+    },
+    "national_animal": "Bull",
+    "national_flower": "Red Carnation"
+  },
+  "LKA": {
+    "name": "Sri Lanka",
+    "iso2": "LK",
+    "capital": "Colombo",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Sinhala",
+      "Tamil",
+      "English"
+    ],
+    "calling_code": "+94",
+    "tld": ".lk",
+    "driving_side": "left",
+    "flag_emoji": "🇱🇰",
+    "currency": {
+      "name": "Sri Lanka Rupee",
+      "code": "LKR",
+      "symbol": "LKR"
+    },
+    "neighbors": [
+      "IND"
+    ]
+  },
+  "PSE": {
+    "name": "State of Palestine",
+    "iso2": "PS",
+    "capital": "East Jerusalem",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "calling_code": "+970",
+    "tld": ".ps",
+    "driving_side": "right",
+    "flag_emoji": "🇵🇸",
+    "neighbors": [
+      "EGY",
+      "ISR",
+      "JOR"
+    ],
+    "disputes": [
+      {
+        "region": "Gaza Strip",
+        "description": "Coastal territory with disputed sovereignty between Israel and Palestine",
+        "other_claimants": [
+          "ISR"
+        ],
+        "status": "Disputed",
+        "type": "territorial",
+        "since": 1967
+      },
+      {
+        "region": "West Bank",
+        "description": "Territory with Israeli settlements, claimed by Palestine",
+        "other_claimants": [
+          "ISR"
+        ],
+        "status": "Partially occupied",
+        "type": "territorial",
+        "since": 1967
+      }
+    ]
+  },
+  "SDN": {
+    "name": "Sudan",
+    "iso2": "SD",
+    "capital": "Khartoum",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "English",
+      "FIA"
+    ],
+    "calling_code": "+249",
+    "tld": ".sd",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇩",
+    "currency": {
+      "name": "Sudanese Pound",
+      "code": "SDG",
+      "symbol": "SDG"
+    },
+    "neighbors": [
+      "EGY",
+      "KEN",
+      "ETH",
+      "TCD",
+      "CAF",
+      "SSD",
+      "COD",
+      "ERI",
+      "LBY",
+      "UGA"
+    ]
+  },
+  "SUR": {
+    "name": "Suriname",
+    "iso2": "SR",
+    "capital": "Paramaribo",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Dutch",
+      "English",
+      "SRN",
+      "HNS",
+      "JV"
+    ],
+    "calling_code": "+597",
+    "tld": ".sr",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇷",
+    "currency": {
+      "name": "Surinam Dollar",
+      "code": "SRD",
+      "symbol": "SRD"
+    },
+    "neighbors": [
+      "FRA",
+      "BRA",
+      "GUY"
+    ]
+  },
+  "SJM": {
+    "name": "Svalbard and Jan Mayen Islands",
+    "iso2": "SJ",
+    "capital": "Longyearbyen",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Norwegian",
+      "Russian"
+    ],
+    "calling_code": "+47",
+    "tld": ".sj",
+    "driving_side": "right",
+    "currency": {
+      "name": "Norwegian Krone",
+      "code": "NOK",
+      "symbol": "kr"
+    }
+  },
+  "SWE": {
+    "name": "Sweden",
+    "iso2": "SE",
+    "capital": "Stockholm",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Swedish",
+      "SE",
+      "SMA",
+      "Finnish"
+    ],
+    "calling_code": "+46",
+    "tld": ".se",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇪",
+    "currency": {
+      "name": "Swedish Krona",
+      "code": "SEK",
+      "symbol": "kr"
+    },
+    "neighbors": [
+      "NOR",
+      "FIN",
+      "DNK"
+    ],
+    "religions": {
+      "Unaffiliated": 52,
+      "Christian": 42
+    }
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "iso2": "CH",
+    "capital": "Bern",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "German",
+      "French",
+      "Italian",
+      "RM"
+    ],
+    "calling_code": "+41",
+    "tld": ".ch",
+    "driving_side": "right",
+    "flag_emoji": "🇨🇭",
+    "currency": {
+      "name": "Swiss Franc",
+      "code": "CHF",
+      "symbol": "Fr"
+    },
+    "neighbors": [
+      "ITA",
+      "AUT",
+      "FRA",
+      "DEU",
+      "LIE"
+    ]
+  },
+  "SYR": {
+    "name": "Syrian Arab Republic",
+    "iso2": "SY",
+    "capital": "Damascus",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "KU",
+      "HY",
+      "ARC",
+      "French"
+    ],
+    "calling_code": "+963",
+    "tld": ".sy",
+    "driving_side": "right",
+    "flag_emoji": "🇸🇾",
+    "currency": {
+      "name": "Syrian Pound",
+      "code": "SYP",
+      "symbol": "SYP"
+    },
+    "neighbors": [
+      "TUR",
+      "IRQ",
+      "ISR",
+      "JOR",
+      "LBN"
+    ],
+    "disputes": [
+      {
+        "region": "Golan Heights",
+        "description": "Territory captured by Israel from Syria in 1967, annexed in 1981",
+        "other_claimants": [
+          "ISR"
+        ],
+        "status": "Israeli administration",
+        "type": "territorial",
+        "since": 1967
+      }
+    ]
+  },
+  "TWN": {
+    "name": "Taiwan",
+    "iso2": "TW",
+    "capital": "Taipei",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Chinese",
+      "NAN",
+      "HAK"
+    ],
+    "calling_code": "+886",
+    "tld": ".tw",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇼",
+    "currency": {
+      "name": "New Taiwan Dollar",
+      "code": "TWD",
+      "symbol": "TWD"
+    },
+    "neighbors": [
+      "JPN",
+      "CHN",
+      "PHL"
+    ],
+    "disputes": [
+      {
+        "region": "Taiwan",
+        "description": "Self-governing island claimed by PRC, with its own government since 1949",
+        "other_claimants": [
+          "CHN"
+        ],
+        "status": "De facto independent",
+        "type": "sovereignty",
+        "since": 1949
+      },
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "CHN",
+          "VNM",
+          "PHL",
+          "MYS",
+          "BRN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      },
+      {
+        "region": "Senkaku/Diaoyu Islands",
+        "description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+        "other_claimants": [
+          "JPN",
+          "CHN"
+        ],
+        "status": "Japanese administration",
+        "type": "territorial",
+        "since": 1972
+      }
+    ]
+  },
+  "TJK": {
+    "name": "Tajikistan",
+    "iso2": "TJ",
+    "capital": "Dushanbe",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "TG",
+      "Russian"
+    ],
+    "calling_code": "+992",
+    "tld": ".tj",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇯",
+    "currency": {
+      "name": "Somoni",
+      "code": "TJS",
+      "symbol": "TJS"
+    },
+    "neighbors": [
+      "CHN",
+      "UZB",
+      "KGZ",
+      "AFG"
+    ]
+  },
+  "THA": {
+    "name": "Thailand",
+    "iso2": "TH",
+    "capital": "Bangkok",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Thai",
+      "English"
+    ],
+    "calling_code": "+66",
+    "tld": ".th",
+    "driving_side": "left",
+    "flag_emoji": "🇹🇭",
+    "currency": {
+      "name": "Baht",
+      "code": "THB",
+      "symbol": "฿"
+    },
+    "neighbors": [
+      "KHM",
+      "LAO",
+      "MYS",
+      "MMR"
+    ],
+    "religions": {
+      "Buddhist": 93,
+      "Muslim": 5
+    },
+    "national_animal": "Thai Elephant",
+    "national_flower": "Ratchaphruek"
+  },
+  "TLS": {
+    "name": "Timor-Leste",
+    "iso2": "TL",
+    "capital": "Dili",
+    "continent": "Oceania",
+    "region": "Asia",
+    "languages": [
+      "TET",
+      "Portuguese",
+      "Indonesian",
+      "English"
+    ],
+    "calling_code": "+670",
+    "tld": ".tl",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇱",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "IDN",
+      "AUS"
+    ]
+  },
+  "TGO": {
+    "name": "Togo",
+    "iso2": "TG",
+    "capital": "Lome",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "French",
+      "EE",
+      "HNA",
+      "KBP",
+      "DAG"
+    ],
+    "calling_code": "+228",
+    "tld": ".tg",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇬",
+    "currency": {
+      "name": "CFA Franc BCEAO",
+      "code": "XOF",
+      "symbol": "XOF"
+    },
+    "neighbors": [
+      "GHA",
+      "BEN",
+      "BFA"
+    ]
+  },
+  "TKL": {
+    "name": "Tokelau",
+    "iso2": "TK",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "TKL",
+      "English"
+    ],
+    "calling_code": "+690",
+    "tld": ".tk",
+    "driving_side": "right",
+    "currency": {
+      "name": "New Zealand Dollar",
+      "code": "NZD",
+      "symbol": "$"
+    }
+  },
+  "TON": {
+    "name": "Tonga",
+    "iso2": "TO",
+    "capital": "Nuku'alofa",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "TO",
+      "English"
+    ],
+    "calling_code": "+676",
+    "tld": ".to",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇴",
+    "currency": {
+      "name": "Pa’anga",
+      "code": "TOP",
+      "symbol": "TOP"
+    },
+    "neighbors": [
+      "USA"
+    ]
+  },
+  "TTO": {
+    "name": "Trinidad and Tobago",
+    "iso2": "TT",
+    "capital": "Port of Spain",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "HNS",
+      "French",
+      "Spanish",
+      "Chinese"
+    ],
+    "calling_code": "+1-868",
+    "tld": ".tt",
+    "driving_side": "left",
+    "flag_emoji": "🇹🇹",
+    "currency": {
+      "name": "Trinidad and Tobago Dollar",
+      "code": "TTD",
+      "symbol": "TTD"
+    },
+    "neighbors": [
+      "VEN"
+    ]
+  },
+  "TUN": {
+    "name": "Tunisia",
+    "iso2": "TN",
+    "capital": "Tunis",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "French"
+    ],
+    "calling_code": "+216",
+    "tld": ".tn",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇳",
+    "currency": {
+      "name": "Tunisian Dinar",
+      "code": "TND",
+      "symbol": "TND"
+    },
+    "neighbors": [
+      "DZA",
+      "LBY"
+    ]
+  },
+  "TUR": {
+    "name": "Turkey",
+    "iso2": "TR",
+    "capital": "Ankara",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Turkish",
+      "KU",
+      "DIQ",
+      "AZ",
+      "AV"
+    ],
+    "calling_code": "+90",
+    "tld": ".tr",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇷",
+    "currency": {
+      "name": "Turkish Lira",
+      "code": "TRY",
+      "symbol": "₺"
+    },
+    "neighbors": [
+      "GRC",
+      "BGR",
+      "AZE",
+      "GEO",
+      "ARM",
+      "IRN",
+      "IRQ",
+      "SYR"
+    ],
+    "religions": {
+      "Muslim": 98,
+      "Unaffiliated": 2
+    },
+    "national_animal": "Grey Wolf",
+    "national_flower": "Tulip",
+    "disputes": [
+      {
+        "region": "Northern Cyprus",
+        "description": "Territory occupied by Turkey since 1974, recognized only by Turkey",
+        "other_claimants": [
+          "CYP"
+        ],
+        "status": "Turkish administration",
+        "type": "territorial",
+        "since": 1974
+      }
+    ]
+  },
+  "TKM": {
+    "name": "Turkmenistan",
+    "iso2": "TM",
+    "capital": "Ashgabat",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "TK",
+      "Russian",
+      "UZ"
+    ],
+    "calling_code": "+993",
+    "tld": ".tm",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇲",
+    "currency": {
+      "name": "Turkmenistan New Manat",
+      "code": "TMT",
+      "symbol": "TMT"
+    },
+    "neighbors": [
+      "KAZ",
+      "UZB",
+      "IRN",
+      "AFG"
+    ]
+  },
+  "TCA": {
+    "name": "Turks and Caicos Islands",
+    "iso2": "TC",
+    "capital": "Cockburn Town",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-649",
+    "tld": ".tc",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "TUV": {
+    "name": "Tuvalu",
+    "iso2": "TV",
+    "capital": "Funafuti",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "TVL",
+      "English",
+      "SM",
+      "GIL"
+    ],
+    "calling_code": "+688",
+    "tld": ".tv",
+    "driving_side": "right",
+    "flag_emoji": "🇹🇻",
+    "currency": {
+      "name": "Australian Dollar",
+      "code": "AUD",
+      "symbol": "$"
+    }
+  },
+  "UGA": {
+    "name": "Uganda",
+    "iso2": "UG",
+    "capital": "Kampala",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "LG",
+      "Swahili",
+      "Arabic"
+    ],
+    "calling_code": "+256",
+    "tld": ".ug",
+    "driving_side": "left",
+    "flag_emoji": "🇺🇬",
+    "currency": {
+      "name": "Uganda Shilling",
+      "code": "UGX",
+      "symbol": "UGX"
+    },
+    "neighbors": [
+      "KEN",
+      "TZA",
+      "SSD",
+      "COD",
+      "RWA",
+      "SDN"
+    ]
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "iso2": "UA",
+    "capital": "Kyiv",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "Ukrainian",
+      "Russian",
+      "ROM",
+      "Polish",
+      "Hungarian"
+    ],
+    "calling_code": "+380",
+    "tld": ".ua",
+    "driving_side": "right",
+    "flag_emoji": "🇺🇦",
+    "currency": {
+      "name": "Hryvnia",
+      "code": "UAH",
+      "symbol": "₴"
+    },
+    "neighbors": [
+      "HUN",
+      "POL",
+      "RUS",
+      "BLR",
+      "SVK",
+      "MDA",
+      "ROU"
+    ],
+    "disputes": [
+      {
+        "region": "Crimea",
+        "description": "Peninsula annexed by Russia from Ukraine in 2014, internationally recognized as Ukrainian",
+        "other_claimants": [
+          "RUS"
+        ],
+        "status": "Russian administration, claimed by Ukraine",
+        "type": "territorial",
+        "since": 2014
+      }
+    ]
+  },
+  "ARE": {
+    "name": "United Arab Emirates",
+    "iso2": "AE",
+    "capital": "Abu Dhabi",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic",
+      "Persian",
+      "English",
+      "Hindi",
+      "Urdu"
+    ],
+    "calling_code": "+971",
+    "tld": ".ae",
+    "driving_side": "right",
+    "flag_emoji": "🇦🇪",
+    "currency": {
+      "name": "UAE Dirham",
+      "code": "AED",
+      "symbol": "د.إ"
+    },
+    "neighbors": [
+      "IRN",
+      "OMN",
+      "SAU"
+    ]
+  },
+  "GBR": {
+    "name": "United Kingdom of Great Britain and Northern Ireland",
+    "iso2": "GB",
+    "capital": "London",
+    "continent": "Europe",
+    "region": "Europe",
+    "languages": [
+      "English",
+      "Welsh",
+      "Scottish Gaelic"
+    ],
+    "calling_code": "+44",
+    "tld": ".uk",
+    "driving_side": "left",
+    "flag_emoji": "🇬🇧",
+    "currency": {
+      "name": "Pound Sterling",
+      "code": "GBP",
+      "symbol": "£"
+    },
+    "neighbors": [
+      "IRL"
+    ],
+    "religions": {
+      "Christian": 46,
+      "Unaffiliated": 37,
+      "Muslim": 6
+    },
+    "national_animal": "Lion",
+    "national_flower": "Tudor Rose",
+    "disputes": [
+      {
+        "region": "Falkland Islands (Malvinas)",
+        "description": "British Overseas Territory in South Atlantic, claimed by Argentina",
+        "other_claimants": [
+          "ARG"
+        ],
+        "status": "British administration",
+        "type": "sovereignty",
+        "since": 1833
+      }
+    ]
+  },
+  "TZA": {
+    "name": "United Republic of Tanzania",
+    "iso2": "TZ",
+    "capital": "Dodoma",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Swahili",
+      "English",
+      "Arabic"
+    ],
+    "calling_code": "+255",
+    "tld": ".tz",
+    "driving_side": "left",
+    "flag_emoji": "🇹🇿",
+    "currency": {
+      "name": "Tanzanian Shilling",
+      "code": "TZS",
+      "symbol": "TZS"
+    },
+    "neighbors": [
+      "KEN",
+      "ZMB",
+      "BDI",
+      "COD",
+      "MWI",
+      "MOZ",
+      "UGA",
+      "RWA",
+      "SYC"
+    ]
+  },
+  "UMI": {
+    "name": "United States Minor Outlying Islands",
+    "iso2": "UM",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+ ",
+    "tld": ".um",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "USA": {
+    "name": "United States of America",
+    "iso2": "US",
+    "capital": "Washington",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English",
+      "Spanish",
+      "Hawaiian",
+      "French"
+    ],
+    "calling_code": "+1",
+    "tld": ".us",
+    "driving_side": "right",
+    "flag_emoji": "🇺🇸",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    },
+    "neighbors": [
+      "CAN",
+      "MEX"
+    ],
+    "religions": {
+      "Christian": 65,
+      "Unaffiliated": 26,
+      "Jewish": 2,
+      "Muslim": 1
+    },
+    "national_animal": "Bald Eagle",
+    "national_bird": "Bald Eagle",
+    "national_flower": "Rose"
+  },
+  "VIR": {
+    "name": "United States Virgin Islands",
+    "iso2": "VI",
+    "capital": "Charlotte Amalie",
+    "continent": "North America",
+    "region": "Americas",
+    "languages": [
+      "English"
+    ],
+    "calling_code": "+1-340",
+    "tld": ".vi",
+    "driving_side": "right",
+    "currency": {
+      "name": "US Dollar",
+      "code": "USD",
+      "symbol": "$"
+    }
+  },
+  "URY": {
+    "name": "Uruguay",
+    "iso2": "UY",
+    "capital": "Montevideo",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+598",
+    "tld": ".uy",
+    "driving_side": "right",
+    "flag_emoji": "🇺🇾",
+    "currency": {
+      "name": "Peso Uruguayo,Unidad Previsional",
+      "code": "UYU,UYW",
+      "symbol": "UYU,UYW"
+    },
+    "neighbors": [
+      "BRA",
+      "ARG"
+    ]
+  },
+  "UZB": {
+    "name": "Uzbekistan",
+    "iso2": "UZ",
+    "capital": "Tashkent",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "UZ",
+      "Russian",
+      "TG"
+    ],
+    "calling_code": "+998",
+    "tld": ".uz",
+    "driving_side": "right",
+    "flag_emoji": "🇺🇿",
+    "currency": {
+      "name": "Uzbekistan Sum",
+      "code": "UZS",
+      "symbol": "UZS"
+    },
+    "neighbors": [
+      "KAZ",
+      "KGZ",
+      "TJK",
+      "TKM",
+      "AFG"
+    ]
+  },
+  "VUT": {
+    "name": "Vanuatu",
+    "iso2": "VU",
+    "capital": "Port Vila",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "BI",
+      "English",
+      "French"
+    ],
+    "calling_code": "+678",
+    "tld": ".vu",
+    "driving_side": "right",
+    "flag_emoji": "🇻🇺",
+    "currency": {
+      "name": "Vatu",
+      "code": "VUV",
+      "symbol": "VUV"
+    },
+    "neighbors": [
+      "AUS",
+      "SLB"
+    ]
+  },
+  "VEN": {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "iso2": "VE",
+    "capital": "Caracas",
+    "continent": "South America",
+    "region": "Americas",
+    "languages": [
+      "Spanish"
+    ],
+    "calling_code": "+58",
+    "tld": ".ve",
+    "driving_side": "right",
+    "flag_emoji": "🇻🇪",
+    "currency": {
+      "name": "Bolívar Soberano,Bolívar Soberano",
+      "code": "VES,VED",
+      "symbol": "VES,VED"
+    },
+    "neighbors": [
+      "USA",
+      "FRA",
+      "GBR",
+      "BRA",
+      "GUY",
+      "COL",
+      "TTO",
+      "VCT",
+      "LCA",
+      "KNA",
+      "GRD",
+      "DMA",
+      "DOM",
+      "NLD"
+    ]
+  },
+  "VNM": {
+    "name": "Viet Nam",
+    "iso2": "VN",
+    "capital": "Hanoi",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Vietnamese",
+      "English",
+      "French",
+      "Chinese",
+      "Khmer"
+    ],
+    "calling_code": "+84",
+    "tld": ".vn",
+    "driving_side": "right",
+    "flag_emoji": "🇻🇳",
+    "currency": {
+      "name": "Dong",
+      "code": "VND",
+      "symbol": "₫"
+    },
+    "neighbors": [
+      "CHN",
+      "KHM",
+      "LAO"
+    ],
+    "religions": {
+      "Unaffiliated": 73,
+      "Buddhist": 16,
+      "Christian": 8
+    },
+    "national_animal": "Water Buffalo",
+    "national_flower": "Lotus",
+    "disputes": [
+      {
+        "region": "South China Sea",
+        "description": "Maritime disputes over islands and resources between multiple nations",
+        "other_claimants": [
+          "CHN",
+          "PHL",
+          "MYS",
+          "BRN",
+          "TWN"
+        ],
+        "status": "Multiple overlapping claims",
+        "type": "maritime",
+        "since": 1947
+      }
+    ]
+  },
+  "WLF": {
+    "name": "Wallis and Futuna Islands",
+    "iso2": "WF",
+    "capital": "Mata Utu",
+    "continent": "Oceania",
+    "region": "Oceania",
+    "languages": [
+      "WLS",
+      "FUD",
+      "French"
+    ],
+    "calling_code": "+681",
+    "tld": ".wf",
+    "driving_side": "right",
+    "currency": {
+      "name": "CFP Franc",
+      "code": "XPF",
+      "symbol": "XPF"
+    }
+  },
+  "ESH": {
+    "name": "Western Sahara",
+    "iso2": "EH",
+    "capital": "El-Aaiun",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "Arabic",
+      "MEY"
+    ],
+    "calling_code": "+212",
+    "tld": ".eh",
+    "driving_side": "right",
+    "currency": {
+      "name": "Moroccan Dirham",
+      "code": "MAD",
+      "symbol": "MAD"
+    },
+    "disputes": [
+      {
+        "region": "Western Sahara",
+        "description": "Former Spanish colony, disputed between Morocco and Sahrawi Arab Democratic Republic",
+        "other_claimants": [
+          "MAR"
+        ],
+        "status": "Mostly Moroccan administration",
+        "type": "sovereignty",
+        "since": 1975
+      }
+    ]
+  },
+  "YEM": {
+    "name": "Yemen",
+    "iso2": "YE",
+    "capital": "Sanaa",
+    "continent": "Asia",
+    "region": "Asia",
+    "languages": [
+      "Arabic"
+    ],
+    "calling_code": "+967",
+    "tld": ".ye",
+    "driving_side": "right",
+    "flag_emoji": "🇾🇪",
+    "currency": {
+      "name": "Yemeni Rial",
+      "code": "YER",
+      "symbol": "YER"
+    },
+    "neighbors": [
+      "OMN",
+      "SAU"
+    ]
+  },
+  "ZMB": {
+    "name": "Zambia",
+    "iso2": "ZM",
+    "capital": "Lusaka",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "BEM",
+      "LOZ",
+      "LUN",
+      "LUE"
+    ],
+    "calling_code": "+260",
+    "tld": ".zm",
+    "driving_side": "left",
+    "flag_emoji": "🇿🇲",
+    "currency": {
+      "name": "Zambian Kwacha",
+      "code": "ZMW",
+      "symbol": "ZMW"
+    },
+    "neighbors": [
+      "AGO",
+      "TZA",
+      "ZWE",
+      "BWA",
+      "COD",
+      "MWI",
+      "MOZ",
+      "NAM"
+    ]
+  },
+  "ZWE": {
+    "name": "Zimbabwe",
+    "iso2": "ZW",
+    "capital": "Harare",
+    "continent": "Africa",
+    "region": "Africa",
+    "languages": [
+      "English",
+      "SN",
+      "NR",
+      "ND"
+    ],
+    "calling_code": "+263",
+    "tld": ".zw",
+    "driving_side": "left",
+    "flag_emoji": "🇿🇼",
+    "currency": {
+      "name": "Zimbabwe Gold",
+      "code": "ZWG",
+      "symbol": "ZWG"
+    },
+    "neighbors": [
+      "ZAF",
+      "ZMB",
+      "BWA",
+      "MOZ"
+    ]
+  }
+}

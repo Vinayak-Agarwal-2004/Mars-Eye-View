@@ -1,0 +1,9 @@
+{
+  "analysis": "The diplomatic tensions between Eritrea and Ethiopia have escalated, with Eritrea rejecting Ethiopia's claims of troop presence as false. Historical grievances and allegations of Eritrean support for insurgents have fueled hostilities, particularly after the civil war in Tigray. Ethiopian accusations suggest a deteriorating security situation, indicating that the fragile peace established post-conflict is still susceptible to breakdown.",
+  "visualization_type": "geodesic",
+  "arc_style": "dashed",
+  "location": null,
+  "toast_message": "Eritrea-Ethiopia diplomatic tensions rise.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

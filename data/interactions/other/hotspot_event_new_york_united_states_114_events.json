@@ -1,0 +1,67 @@
+{
+  "id": "hotspot_event_new_york_united_states_114_events",
+  "name": "Hotspot: event New York, United States (114 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event New York, United States (114 events)",
+  "sources": [
+    {
+      "url": "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://obrag.org/2026/02/good-news-communities-across-america-are-resisting-trumps-plans-to-convert-warehouses-into-immigrant-prison-camps/comment-page-1/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://allafrica.com/stories/202602040034.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+    "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+    "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+    "https://obrag.org/2026/02/good-news-communities-across-america-are-resisting-trumps-plans-to-convert-warehouses-into-immigrant-prison-camps/comment-page-1/",
+    "https://allafrica.com/stories/202602040034.html"
+  ],
+  "gdelt_metadata": {
+    "count": 114,
+    "key": "173|CRIME|New York, United States",
+    "categories": [
+      [
+        "CRIME",
+        114
+      ]
+    ]
+  }
+}

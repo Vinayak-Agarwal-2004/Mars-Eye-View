@@ -1,0 +1,1007 @@
+{
+  "AFG": {
+    "name": "Afghanistan",
+    "adm1": "data/adm1/AFG.geojson",
+    "adm2": "data/adm2/AFG.geojson"
+  },
+  "AGO": {
+    "name": "Angola",
+    "adm1": "data/adm1/AGO.geojson",
+    "adm2": "data/adm2/AGO.geojson"
+  },
+  "ALB": {
+    "name": "Albania",
+    "adm1": "data/adm1/ALB.geojson",
+    "adm2": "data/adm2/ALB.geojson"
+  },
+  "AND": {
+    "name": "Andorra",
+    "adm1": "data/adm1/AND.geojson",
+    "adm2": null
+  },
+  "ARE": {
+    "name": "United Arab Emirates",
+    "adm1": "data/adm1/ARE.geojson",
+    "adm2": null
+  },
+  "ARG": {
+    "name": "Argentina",
+    "adm1": "data/adm1/ARG.geojson",
+    "adm2": "data/adm2/ARG.geojson"
+  },
+  "ARM": {
+    "name": "Armenia",
+    "adm1": "data/adm1/ARM.geojson",
+    "adm2": "data/adm2/ARM.geojson"
+  },
+  "ATG": {
+    "name": "Antigua and Barbuda",
+    "adm1": "data/adm1/ATG.geojson",
+    "adm2": null
+  },
+  "AUS": {
+    "name": "Australia",
+    "adm1": "data/adm1/AUS.geojson",
+    "adm2": "data/adm2/AUS.geojson"
+  },
+  "AUT": {
+    "name": "Austria",
+    "adm1": "data/adm1/AUT.geojson",
+    "adm2": "data/adm2/AUT.geojson"
+  },
+  "AZE": {
+    "name": "Azerbaijan",
+    "adm1": "data/adm1/AZE.geojson",
+    "adm2": "data/adm2/AZE.geojson"
+  },
+  "BDI": {
+    "name": "Burundi",
+    "adm1": "data/adm1/BDI.geojson",
+    "adm2": "data/adm2/BDI.geojson"
+  },
+  "BEL": {
+    "name": "Belgium",
+    "adm1": "data/adm1/BEL.geojson",
+    "adm2": "data/adm2/BEL.geojson"
+  },
+  "BEN": {
+    "name": "Benin",
+    "adm1": "data/adm1/BEN.geojson",
+    "adm2": "data/adm2/BEN.geojson"
+  },
+  "BFA": {
+    "name": "Burkina Faso",
+    "adm1": "data/adm1/BFA.geojson",
+    "adm2": "data/adm2/BFA.geojson"
+  },
+  "BGD": {
+    "name": "Bangladesh",
+    "adm1": "data/adm1/BGD.geojson",
+    "adm2": "data/adm2/BGD.geojson"
+  },
+  "BGR": {
+    "name": "Bulgaria",
+    "adm1": "data/adm1/BGR.geojson",
+    "adm2": "data/adm2/BGR.geojson"
+  },
+  "BHR": {
+    "name": "Bahrain",
+    "adm1": "data/adm1/BHR.geojson",
+    "adm2": null
+  },
+  "BHS": {
+    "name": "Bahamas",
+    "adm1": "data/adm1/BHS.geojson",
+    "adm2": "data/adm2/BHS.geojson"
+  },
+  "BIH": {
+    "name": "Bosnia and Herzegovina",
+    "adm1": "data/adm1/BIH.geojson",
+    "adm2": "data/adm2/BIH.geojson"
+  },
+  "BLR": {
+    "name": "Belarus",
+    "adm1": "data/adm1/BLR.geojson",
+    "adm2": "data/adm2/BLR.geojson"
+  },
+  "BLZ": {
+    "name": "Belize",
+    "adm1": "data/adm1/BLZ.geojson",
+    "adm2": "data/adm2/BLZ.geojson"
+  },
+  "BOL": {
+    "name": "Bolivia (Plurinational State of)",
+    "adm1": "data/adm1/BOL.geojson",
+    "adm2": "data/adm2/BOL.geojson"
+  },
+  "BRA": {
+    "name": "Brazil",
+    "adm1": "data/adm1/BRA.geojson",
+    "adm2": "data/adm2/BRA.geojson"
+  },
+  "BRB": {
+    "name": "Barbados",
+    "adm1": "data/adm1/BRB.geojson",
+    "adm2": null
+  },
+  "BRN": {
+    "name": "Brunei Darussalam",
+    "adm1": "data/adm1/BRN.geojson",
+    "adm2": "data/adm2/BRN.geojson"
+  },
+  "BTN": {
+    "name": "Bhutan",
+    "adm1": "data/adm1/BTN.geojson",
+    "adm2": "data/adm2/BTN.geojson"
+  },
+  "BWA": {
+    "name": "Botswana",
+    "adm1": "data/adm1/BWA.geojson",
+    "adm2": "data/adm2/BWA.geojson"
+  },
+  "CAF": {
+    "name": "Central African Republic",
+    "adm1": "data/adm1/CAF.geojson",
+    "adm2": "data/adm2/CAF.geojson"
+  },
+  "CAN": {
+    "name": "Canada",
+    "adm1": "data/adm1/CAN.geojson",
+    "adm2": "data/adm2/CAN.geojson"
+  },
+  "CHE": {
+    "name": "Switzerland",
+    "adm1": "data/adm1/CHE.geojson",
+    "adm2": "data/adm2/CHE.geojson"
+  },
+  "CHL": {
+    "name": "Chile",
+    "adm1": "data/adm1/CHL.geojson",
+    "adm2": "data/adm2/CHL.geojson"
+  },
+  "CHN": {
+    "name": "China",
+    "adm1": "data/adm1/CHN.geojson",
+    "adm2": "data/adm2/CHN.geojson"
+  },
+  "CIV": {
+    "name": "C\u00f4te d'Ivoire",
+    "adm1": "data/adm1/CIV.geojson",
+    "adm2": "data/adm2/CIV.geojson"
+  },
+  "CMR": {
+    "name": "Cameroon",
+    "adm1": "data/adm1/CMR.geojson",
+    "adm2": "data/adm2/CMR.geojson"
+  },
+  "COD": {
+    "name": "Democratic Republic of the Congo",
+    "adm1": "data/adm1/COD.geojson",
+    "adm2": "data/adm2/COD.geojson"
+  },
+  "COG": {
+    "name": "Congo",
+    "adm1": "data/adm1/COG.geojson",
+    "adm2": "data/adm2/COG.geojson"
+  },
+  "COL": {
+    "name": "Colombia",
+    "adm1": "data/adm1/COL.geojson",
+    "adm2": "data/adm2/COL.geojson"
+  },
+  "COM": {
+    "name": "Comoros",
+    "adm1": "data/adm1/COM.geojson",
+    "adm2": "data/adm2/COM.geojson"
+  },
+  "CPV": {
+    "name": "Cabo Verde",
+    "adm1": "data/adm1/CPV.geojson",
+    "adm2": "data/adm2/CPV.geojson"
+  },
+  "CRI": {
+    "name": "Costa Rica",
+    "adm1": "data/adm1/CRI.geojson",
+    "adm2": "data/adm2/CRI.geojson"
+  },
+  "CUB": {
+    "name": "Cuba",
+    "adm1": "data/adm1/CUB.geojson",
+    "adm2": "data/adm2/CUB.geojson"
+  },
+  "CYP": {
+    "name": "Cyprus",
+    "adm1": "data/adm1/CYP.geojson",
+    "adm2": "data/adm2/CYP.geojson"
+  },
+  "CZE": {
+    "name": "Czechia",
+    "adm1": "data/adm1/CZE.geojson",
+    "adm2": "data/adm2/CZE.geojson"
+  },
+  "DEU": {
+    "name": "Germany",
+    "adm1": "data/adm1/DEU.geojson",
+    "adm2": "data/adm2/DEU.geojson"
+  },
+  "DJI": {
+    "name": "Djibouti",
+    "adm1": "data/adm1/DJI.geojson",
+    "adm2": "data/adm2/DJI.geojson"
+  },
+  "DMA": {
+    "name": "Dominica",
+    "adm1": "data/adm1/DMA.geojson",
+    "adm2": null
+  },
+  "DNK": {
+    "name": "Denmark",
+    "adm1": "data/adm1/DNK.geojson",
+    "adm2": "data/adm2/DNK.geojson"
+  },
+  "DOM": {
+    "name": "Dominican Republic",
+    "adm1": "data/adm1/DOM.geojson",
+    "adm2": "data/adm2/DOM.geojson"
+  },
+  "DZA": {
+    "name": "Algeria",
+    "adm1": "data/adm1/DZA.geojson",
+    "adm2": "data/adm2/DZA.geojson"
+  },
+  "ECU": {
+    "name": "Ecuador",
+    "adm1": "data/adm1/ECU.geojson",
+    "adm2": "data/adm2/ECU.geojson"
+  },
+  "EGY": {
+    "name": "Egypt",
+    "adm1": "data/adm1/EGY.geojson",
+    "adm2": "data/adm2/EGY.geojson"
+  },
+  "ERI": {
+    "name": "Eritrea",
+    "adm1": "data/adm1/ERI.geojson",
+    "adm2": "data/adm2/ERI.geojson"
+  },
+  "ESP": {
+    "name": "Spain",
+    "adm1": "data/adm1/ESP.geojson",
+    "adm2": "data/adm2/ESP.geojson"
+  },
+  "EST": {
+    "name": "Estonia",
+    "adm1": "data/adm1/EST.geojson",
+    "adm2": "data/adm2/EST.geojson"
+  },
+  "ETH": {
+    "name": "Ethiopia",
+    "adm1": "data/adm1/ETH.geojson",
+    "adm2": "data/adm2/ETH.geojson"
+  },
+  "FIN": {
+    "name": "Finland",
+    "adm1": "data/adm1/FIN.geojson",
+    "adm2": "data/adm2/FIN.geojson"
+  },
+  "FJI": {
+    "name": "Fiji",
+    "adm1": "data/adm1/FJI.geojson",
+    "adm2": "data/adm2/FJI.geojson"
+  },
+  "FRA": {
+    "name": "France",
+    "adm1": "data/adm1/FRA.geojson",
+    "adm2": "data/adm2/FRA.geojson"
+  },
+  "FSM": {
+    "name": "Micronesia (Fed. States of)",
+    "adm1": "data/adm1/FSM.geojson",
+    "adm2": "data/adm2/FSM.geojson"
+  },
+  "GAB": {
+    "name": "Gabon",
+    "adm1": "data/adm1/GAB.geojson",
+    "adm2": "data/adm2/GAB.geojson"
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "adm1": "data/adm1/GBR.geojson",
+    "adm2": "data/adm2/GBR.geojson"
+  },
+  "GEO": {
+    "name": "Georgia",
+    "adm1": "data/adm1/GEO.geojson",
+    "adm2": "data/adm2/GEO.geojson"
+  },
+  "GHA": {
+    "name": "Ghana",
+    "adm1": "data/adm1/GHA.geojson",
+    "adm2": "data/adm2/GHA.geojson"
+  },
+  "GIN": {
+    "name": "Guinea",
+    "adm1": "data/adm1/GIN.geojson",
+    "adm2": "data/adm2/GIN.geojson"
+  },
+  "GMB": {
+    "name": "Gambia",
+    "adm1": "data/adm1/GMB.geojson",
+    "adm2": "data/adm2/GMB.geojson"
+  },
+  "GNB": {
+    "name": "Guinea-Bissau",
+    "adm1": "data/adm1/GNB.geojson",
+    "adm2": "data/adm2/GNB.geojson"
+  },
+  "GNQ": {
+    "name": "Equatorial Guinea",
+    "adm1": "data/adm1/GNQ.geojson",
+    "adm2": "data/adm2/GNQ.geojson"
+  },
+  "GRC": {
+    "name": "Greece",
+    "adm1": "data/adm1/GRC.geojson",
+    "adm2": "data/adm2/GRC.geojson"
+  },
+  "GRD": {
+    "name": "Grenada",
+    "adm1": "data/adm1/GRD.geojson",
+    "adm2": null
+  },
+  "GRL": {
+    "name": "Greenland",
+    "adm1": "data/adm1/GRL.geojson",
+    "adm2": null
+  },
+  "GTM": {
+    "name": "Guatemala",
+    "adm1": "data/adm1/GTM.geojson",
+    "adm2": "data/adm2/GTM.geojson"
+  },
+  "GUY": {
+    "name": "Guyana",
+    "adm1": "data/adm1/GUY.geojson",
+    "adm2": "data/adm2/GUY.geojson"
+  },
+  "HND": {
+    "name": "Honduras",
+    "adm1": "data/adm1/HND.geojson",
+    "adm2": "data/adm2/HND.geojson"
+  },
+  "HRV": {
+    "name": "Croatia",
+    "adm1": "data/adm1/HRV.geojson",
+    "adm2": "data/adm2/HRV.geojson"
+  },
+  "HTI": {
+    "name": "Haiti",
+    "adm1": "data/adm1/HTI.geojson",
+    "adm2": "data/adm2/HTI.geojson"
+  },
+  "HUN": {
+    "name": "Hungary",
+    "adm1": "data/adm1/HUN.geojson",
+    "adm2": "data/adm2/HUN.geojson"
+  },
+  "IDN": {
+    "name": "Indonesia",
+    "adm1": "data/adm1/IDN.geojson",
+    "adm2": "data/adm2/IDN.geojson"
+  },
+  "IND": {
+    "name": "India",
+    "adm1": "data/adm1/IND.geojson",
+    "adm2": "data/adm2/IND.geojson"
+  },
+  "IRL": {
+    "name": "Ireland",
+    "adm1": "data/adm1/IRL.geojson",
+    "adm2": "data/adm2/IRL.geojson"
+  },
+  "IRN": {
+    "name": "Iran (Islamic Republic of)",
+    "adm1": "data/adm1/IRN.geojson",
+    "adm2": "data/adm2/IRN.geojson"
+  },
+  "IRQ": {
+    "name": "Iraq",
+    "adm1": "data/adm1/IRQ.geojson",
+    "adm2": "data/adm2/IRQ.geojson"
+  },
+  "ISL": {
+    "name": "Iceland",
+    "adm1": "data/adm1/ISL.geojson",
+    "adm2": "data/adm2/ISL.geojson"
+  },
+  "ISR": {
+    "name": "Israel",
+    "adm1": "data/adm1/ISR.geojson",
+    "adm2": "data/adm2/ISR.geojson"
+  },
+  "ITA": {
+    "name": "Italy",
+    "adm1": "data/adm1/ITA.geojson",
+    "adm2": "data/adm2/ITA.geojson"
+  },
+  "JAM": {
+    "name": "Jamaica",
+    "adm1": "data/adm1/JAM.geojson",
+    "adm2": "data/adm2/JAM.geojson"
+  },
+  "JOR": {
+    "name": "Jordan",
+    "adm1": "data/adm1/JOR.geojson",
+    "adm2": "data/adm2/JOR.geojson"
+  },
+  "JPN": {
+    "name": "Japan",
+    "adm1": "data/adm1/JPN.geojson",
+    "adm2": "data/adm2/JPN.geojson"
+  },
+  "KAZ": {
+    "name": "Kazakhstan",
+    "adm1": "data/adm1/KAZ.geojson",
+    "adm2": "data/adm2/KAZ.geojson"
+  },
+  "KEN": {
+    "name": "Kenya",
+    "adm1": "data/adm1/KEN.geojson",
+    "adm2": "data/adm2/KEN.geojson"
+  },
+  "KGZ": {
+    "name": "Kyrgyzstan",
+    "adm1": "data/adm1/KGZ.geojson",
+    "adm2": "data/adm2/KGZ.geojson"
+  },
+  "KHM": {
+    "name": "Cambodia",
+    "adm1": "data/adm1/KHM.geojson",
+    "adm2": "data/adm2/KHM.geojson"
+  },
+  "KIR": {
+    "name": "Kiribati",
+    "adm1": "data/adm1/KIR.geojson",
+    "adm2": "data/adm2/KIR.geojson"
+  },
+  "KNA": {
+    "name": "Saint Kitts and Nevis",
+    "adm1": "data/adm1/KNA.geojson",
+    "adm2": null
+  },
+  "KOR": {
+    "name": "Republic of Korea",
+    "adm1": "data/adm1/KOR.geojson",
+    "adm2": "data/adm2/KOR.geojson"
+  },
+  "KWT": {
+    "name": "Kuwait",
+    "adm1": "data/adm1/KWT.geojson",
+    "adm2": "data/adm2/KWT.geojson"
+  },
+  "LAO": {
+    "name": "Lao People's Democratic Republic",
+    "adm1": "data/adm1/LAO.geojson",
+    "adm2": "data/adm2/LAO.geojson"
+  },
+  "LBN": {
+    "name": "Lebanon",
+    "adm1": "data/adm1/LBN.geojson",
+    "adm2": "data/adm2/LBN.geojson"
+  },
+  "LBR": {
+    "name": "Liberia",
+    "adm1": "data/adm1/LBR.geojson",
+    "adm2": "data/adm2/LBR.geojson"
+  },
+  "LBY": {
+    "name": "Libya",
+    "adm1": "data/adm1/LBY.geojson",
+    "adm2": null
+  },
+  "LCA": {
+    "name": "Saint Lucia",
+    "adm1": "data/adm1/LCA.geojson",
+    "adm2": "data/adm2/LCA.geojson"
+  },
+  "LIE": {
+    "name": "Liechtenstein",
+    "adm1": "data/adm1/LIE.geojson",
+    "adm2": null
+  },
+  "LKA": {
+    "name": "Sri Lanka",
+    "adm1": "data/adm1/LKA.geojson",
+    "adm2": "data/adm2/LKA.geojson"
+  },
+  "LSO": {
+    "name": "Lesotho",
+    "adm1": "data/adm1/LSO.geojson",
+    "adm2": "data/adm2/LSO.geojson"
+  },
+  "LTU": {
+    "name": "Lithuania",
+    "adm1": "data/adm1/LTU.geojson",
+    "adm2": "data/adm2/LTU.geojson"
+  },
+  "LUX": {
+    "name": "Luxembourg",
+    "adm1": "data/adm1/LUX.geojson",
+    "adm2": "data/adm2/LUX.geojson"
+  },
+  "LVA": {
+    "name": "Latvia",
+    "adm1": "data/adm1/LVA.geojson",
+    "adm2": "data/adm2/LVA.geojson"
+  },
+  "MAR": {
+    "name": "Morocco",
+    "adm1": "data/adm1/MAR.geojson",
+    "adm2": "data/adm2/MAR.geojson"
+  },
+  "MCO": {
+    "name": "Monaco",
+    "adm1": "data/adm1/MCO.geojson",
+    "adm2": "data/adm2/MCO.geojson"
+  },
+  "MDA": {
+    "name": "Republic of Moldova",
+    "adm1": "data/adm1/MDA.geojson",
+    "adm2": null
+  },
+  "MDG": {
+    "name": "Madagascar",
+    "adm1": "data/adm1/MDG.geojson",
+    "adm2": "data/adm2/MDG.geojson"
+  },
+  "MDV": {
+    "name": "Maldives",
+    "adm1": "data/adm1/MDV.geojson",
+    "adm2": "data/adm2/MDV.geojson"
+  },
+  "MEX": {
+    "name": "Mexico",
+    "adm1": "data/adm1/MEX.geojson",
+    "adm2": "data/adm2/MEX.geojson"
+  },
+  "MHL": {
+    "name": "Marshall Islands",
+    "adm1": "data/adm1/MHL.geojson",
+    "adm2": null
+  },
+  "MKD": {
+    "name": "North Macedonia",
+    "adm1": "data/adm1/MKD.geojson",
+    "adm2": "data/adm2/MKD.geojson"
+  },
+  "MLI": {
+    "name": "Mali",
+    "adm1": "data/adm1/MLI.geojson",
+    "adm2": "data/adm2/MLI.geojson"
+  },
+  "MLT": {
+    "name": "Malta",
+    "adm1": "data/adm1/MLT.geojson",
+    "adm2": null
+  },
+  "MMR": {
+    "name": "Myanmar",
+    "adm1": "data/adm1/MMR.geojson",
+    "adm2": "data/adm2/MMR.geojson"
+  },
+  "MNE": {
+    "name": "Montenegro",
+    "adm1": "data/adm1/MNE.geojson",
+    "adm2": null
+  },
+  "MNG": {
+    "name": "Mongolia",
+    "adm1": "data/adm1/MNG.geojson",
+    "adm2": "data/adm2/MNG.geojson"
+  },
+  "MOZ": {
+    "name": "Mozambique",
+    "adm1": "data/adm1/MOZ.geojson",
+    "adm2": "data/adm2/MOZ.geojson"
+  },
+  "MRT": {
+    "name": "Mauritania",
+    "adm1": "data/adm1/MRT.geojson",
+    "adm2": "data/adm2/MRT.geojson"
+  },
+  "MUS": {
+    "name": "Mauritius",
+    "adm1": "data/adm1/MUS.geojson",
+    "adm2": null
+  },
+  "MWI": {
+    "name": "Malawi",
+    "adm1": "data/adm1/MWI.geojson",
+    "adm2": "data/adm2/MWI.geojson"
+  },
+  "MYS": {
+    "name": "Malaysia",
+    "adm1": "data/adm1/MYS.geojson",
+    "adm2": "data/adm2/MYS.geojson"
+  },
+  "NAM": {
+    "name": "Namibia",
+    "adm1": "data/adm1/NAM.geojson",
+    "adm2": "data/adm2/NAM.geojson"
+  },
+  "NER": {
+    "name": "Niger",
+    "adm1": "data/adm1/NER.geojson",
+    "adm2": "data/adm2/NER.geojson"
+  },
+  "NGA": {
+    "name": "Nigeria",
+    "adm1": "data/adm1/NGA.geojson",
+    "adm2": "data/adm2/NGA.geojson"
+  },
+  "NIC": {
+    "name": "Nicaragua",
+    "adm1": "data/adm1/NIC.geojson",
+    "adm2": "data/adm2/NIC.geojson"
+  },
+  "NIU": {
+    "name": "Niue",
+    "adm1": "data/adm1/NIU.geojson",
+    "adm2": null
+  },
+  "NLD": {
+    "name": "Netherlands",
+    "adm1": "data/adm1/NLD.geojson",
+    "adm2": "data/adm2/NLD.geojson"
+  },
+  "NOR": {
+    "name": "Norway",
+    "adm1": "data/adm1/NOR.geojson",
+    "adm2": "data/adm2/NOR.geojson"
+  },
+  "NPL": {
+    "name": "Nepal",
+    "adm1": "data/adm1/NPL.geojson",
+    "adm2": "data/adm2/NPL.geojson"
+  },
+  "NRU": {
+    "name": "Nauru",
+    "adm1": "data/adm1/NRU.geojson",
+    "adm2": null
+  },
+  "NZL": {
+    "name": "New Zealand",
+    "adm1": "data/adm1/NZL.geojson",
+    "adm2": "data/adm2/NZL.geojson"
+  },
+  "OMN": {
+    "name": "Oman",
+    "adm1": "data/adm1/OMN.geojson",
+    "adm2": "data/adm2/OMN.geojson"
+  },
+  "PAK": {
+    "name": "Pakistan",
+    "adm1": "data/adm1/PAK.geojson",
+    "adm2": "data/adm2/PAK.geojson"
+  },
+  "PAN": {
+    "name": "Panama",
+    "adm1": "data/adm1/PAN.geojson",
+    "adm2": "data/adm2/PAN.geojson"
+  },
+  "PER": {
+    "name": "Peru",
+    "adm1": "data/adm1/PER.geojson",
+    "adm2": "data/adm2/PER.geojson"
+  },
+  "PHL": {
+    "name": "Philippines",
+    "adm1": "data/adm1/PHL.geojson",
+    "adm2": "data/adm2/PHL.geojson"
+  },
+  "PLW": {
+    "name": "Palau",
+    "adm1": "data/adm1/PLW.geojson",
+    "adm2": "data/adm2/PLW.geojson"
+  },
+  "PNG": {
+    "name": "Papua New Guinea",
+    "adm1": "data/adm1/PNG.geojson",
+    "adm2": "data/adm2/PNG.geojson"
+  },
+  "POL": {
+    "name": "Poland",
+    "adm1": "data/adm1/POL.geojson",
+    "adm2": "data/adm2/POL.geojson"
+  },
+  "PRK": {
+    "name": "Dem. People's Republic of Korea",
+    "adm1": "data/adm1/PRK.geojson",
+    "adm2": "data/adm2/PRK.geojson"
+  },
+  "PRT": {
+    "name": "Portugal",
+    "adm1": "data/adm1/PRT.geojson",
+    "adm2": "data/adm2/PRT.geojson"
+  },
+  "PRY": {
+    "name": "Paraguay",
+    "adm1": "data/adm1/PRY.geojson",
+    "adm2": "data/adm2/PRY.geojson"
+  },
+  "PSE": {
+    "name": "State of Palestine",
+    "adm1": "data/adm1/PSE.geojson",
+    "adm2": "data/adm2/PSE.geojson"
+  },
+  "QAT": {
+    "name": "Qatar",
+    "adm1": "data/adm1/QAT.geojson",
+    "adm2": "data/adm2/QAT.geojson"
+  },
+  "ROU": {
+    "name": "Romania",
+    "adm1": "data/adm1/ROU.geojson",
+    "adm2": "data/adm2/ROU.geojson"
+  },
+  "RUS": {
+    "name": "Russian Federation",
+    "adm1": "data/adm1/RUS.geojson",
+    "adm2": "data/adm2/RUS.geojson"
+  },
+  "RWA": {
+    "name": "Rwanda",
+    "adm1": "data/adm1/RWA.geojson",
+    "adm2": "data/adm2/RWA.geojson"
+  },
+  "SAU": {
+    "name": "Saudi Arabia",
+    "adm1": "data/adm1/SAU.geojson",
+    "adm2": "data/adm2/SAU.geojson"
+  },
+  "SDN": {
+    "name": "Sudan",
+    "adm1": "data/adm1/SDN.geojson",
+    "adm2": "data/adm2/SDN.geojson"
+  },
+  "SEN": {
+    "name": "Senegal",
+    "adm1": "data/adm1/SEN.geojson",
+    "adm2": "data/adm2/SEN.geojson"
+  },
+  "SGP": {
+    "name": "Singapore",
+    "adm1": "data/adm1/SGP.geojson",
+    "adm2": "data/adm2/SGP.geojson"
+  },
+  "SLB": {
+    "name": "Solomon Islands",
+    "adm1": "data/adm1/SLB.geojson",
+    "adm2": "data/adm2/SLB.geojson"
+  },
+  "SLE": {
+    "name": "Sierra Leone",
+    "adm1": "data/adm1/SLE.geojson",
+    "adm2": "data/adm2/SLE.geojson"
+  },
+  "SLV": {
+    "name": "El Salvador",
+    "adm1": "data/adm1/SLV.geojson",
+    "adm2": "data/adm2/SLV.geojson"
+  },
+  "SMR": {
+    "name": "San Marino",
+    "adm1": "data/adm1/SMR.geojson",
+    "adm2": null
+  },
+  "SOM": {
+    "name": "Somalia",
+    "adm1": "data/adm1/SOM.geojson",
+    "adm2": "data/adm2/SOM.geojson"
+  },
+  "SRB": {
+    "name": "Serbia",
+    "adm1": "data/adm1/SRB.geojson",
+    "adm2": "data/adm2/SRB.geojson"
+  },
+  "SSD": {
+    "name": "South Sudan",
+    "adm1": "data/adm1/SSD.geojson",
+    "adm2": "data/adm2/SSD.geojson"
+  },
+  "STP": {
+    "name": "Sao Tome and Principe",
+    "adm1": "data/adm1/STP.geojson",
+    "adm2": "data/adm2/STP.geojson"
+  },
+  "SUR": {
+    "name": "Suriname",
+    "adm1": "data/adm1/SUR.geojson",
+    "adm2": "data/adm2/SUR.geojson"
+  },
+  "SVK": {
+    "name": "Slovakia",
+    "adm1": "data/adm1/SVK.geojson",
+    "adm2": "data/adm2/SVK.geojson"
+  },
+  "SVN": {
+    "name": "Slovenia",
+    "adm1": "data/adm1/SVN.geojson",
+    "adm2": "data/adm2/SVN.geojson"
+  },
+  "SWE": {
+    "name": "Sweden",
+    "adm1": "data/adm1/SWE.geojson",
+    "adm2": "data/adm2/SWE.geojson"
+  },
+  "SWZ": {
+    "name": "Eswatini",
+    "adm1": "data/adm1/SWZ.geojson",
+    "adm2": "data/adm2/SWZ.geojson"
+  },
+  "SYC": {
+    "name": "Seychelles",
+    "adm1": "data/adm1/SYC.geojson",
+    "adm2": "data/adm2/SYC.geojson"
+  },
+  "SYR": {
+    "name": "Syrian Arab Republic",
+    "adm1": "data/adm1/SYR.geojson",
+    "adm2": "data/adm2/SYR.geojson"
+  },
+  "TCD": {
+    "name": "Chad",
+    "adm1": "data/adm1/TCD.geojson",
+    "adm2": "data/adm2/TCD.geojson"
+  },
+  "TGO": {
+    "name": "Togo",
+    "adm1": "data/adm1/TGO.geojson",
+    "adm2": "data/adm2/TGO.geojson"
+  },
+  "THA": {
+    "name": "Thailand",
+    "adm1": "data/adm1/THA.geojson",
+    "adm2": "data/adm2/THA.geojson"
+  },
+  "TJK": {
+    "name": "Tajikistan",
+    "adm1": "data/adm1/TJK.geojson",
+    "adm2": "data/adm2/TJK.geojson"
+  },
+  "TKM": {
+    "name": "Turkmenistan",
+    "adm1": "data/adm1/TKM.geojson",
+    "adm2": "data/adm2/TKM.geojson"
+  },
+  "TLS": {
+    "name": "Timor-Leste",
+    "adm1": "data/adm1/TLS.geojson",
+    "adm2": "data/adm2/TLS.geojson"
+  },
+  "TON": {
+    "name": "Tonga",
+    "adm1": "data/adm1/TON.geojson",
+    "adm2": "data/adm2/TON.geojson"
+  },
+  "TTO": {
+    "name": "Trinidad and Tobago",
+    "adm1": "data/adm1/TTO.geojson",
+    "adm2": null
+  },
+  "TUN": {
+    "name": "Tunisia",
+    "adm1": "data/adm1/TUN.geojson",
+    "adm2": "data/adm2/TUN.geojson"
+  },
+  "TUR": {
+    "name": "Turkey",
+    "adm1": "data/adm1/TUR.geojson",
+    "adm2": "data/adm2/TUR.geojson"
+  },
+  "TUV": {
+    "name": "Tuvalu",
+    "adm1": "data/adm1/TUV.geojson",
+    "adm2": "data/adm2/TUV.geojson"
+  },
+  "TWN": {
+    "name": "Taiwan",
+    "adm1": "data/adm1/TWN.geojson",
+    "adm2": "data/adm2/TWN.geojson"
+  },
+  "TZA": {
+    "name": "United Republic of Tanzania",
+    "adm1": "data/adm1/TZA.geojson",
+    "adm2": "data/adm2/TZA.geojson"
+  },
+  "UGA": {
+    "name": "Uganda",
+    "adm1": "data/adm1/UGA.geojson",
+    "adm2": "data/adm2/UGA.geojson"
+  },
+  "UKR": {
+    "name": "Ukraine",
+    "adm1": "data/adm1/UKR.geojson",
+    "adm2": "data/adm2/UKR.geojson"
+  },
+  "URY": {
+    "name": "Uruguay",
+    "adm1": "data/adm1/URY.geojson",
+    "adm2": "data/adm2/URY.geojson"
+  },
+  "USA": {
+    "name": "United States of America",
+    "adm1": "data/adm1/USA.geojson",
+    "adm2": "data/adm2/USA.geojson"
+  },
+  "UZB": {
+    "name": "Uzbekistan",
+    "adm1": "data/adm1/UZB.geojson",
+    "adm2": "data/adm2/UZB.geojson"
+  },
+  "VCT": {
+    "name": "Saint Vincent and the Grenadines",
+    "adm1": "data/adm1/VCT.geojson",
+    "adm2": null
+  },
+  "VEN": {
+    "name": "Venezuela (Bolivarian Republic of)",
+    "adm1": "data/adm1/VEN.geojson",
+    "adm2": "data/adm2/VEN.geojson"
+  },
+  "VNM": {
+    "name": "Viet Nam",
+    "adm1": "data/adm1/VNM.geojson",
+    "adm2": "data/adm2/VNM.geojson"
+  },
+  "VUT": {
+    "name": "Vanuatu",
+    "adm1": "data/adm1/VUT.geojson",
+    "adm2": "data/adm2/VUT.geojson"
+  },
+  "WSM": {
+    "name": "Samoa",
+    "adm1": "data/adm1/WSM.geojson",
+    "adm2": "data/adm2/WSM.geojson"
+  },
+  "XKX": {
+    "name": "Kosovo",
+    "adm1": "data/adm1/XKX.geojson",
+    "adm2": "data/adm2/XKX.geojson"
+  },
+  "YEM": {
+    "name": "Yemen",
+    "adm1": "data/adm1/YEM.geojson",
+    "adm2": "data/adm2/YEM.geojson"
+  },
+  "ZAF": {
+    "name": "South Africa",
+    "adm1": "data/adm1/ZAF.geojson",
+    "adm2": "data/adm2/ZAF.geojson"
+  },
+  "ZMB": {
+    "name": "Zambia",
+    "adm1": "data/adm1/ZMB.geojson",
+    "adm2": "data/adm2/ZMB.geojson"
+  },
+  "ZWE": {
+    "name": "Zimbabwe",
+    "adm1": "data/adm1/ZWE.geojson",
+    "adm2": "data/adm2/ZWE.geojson"
+  },
+  "GUM": {
+    "name": "GUM",
+    "adm1": null,
+    "adm2": "data/adm2/GUM.geojson"
+  },
+  "MNP": {
+    "name": "MNP",
+    "adm1": null,
+    "adm2": "data/adm2/MNP.geojson"
+  },
+  "PRI": {
+    "name": "PRI",
+    "adm1": null,
+    "adm2": "data/adm2/PRI.geojson"
+  }
+}

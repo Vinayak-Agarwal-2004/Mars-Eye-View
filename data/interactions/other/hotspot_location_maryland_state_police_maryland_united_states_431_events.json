@@ -1,0 +1,86 @@
+{
+  "id": "hotspot_location_maryland_state_police_maryland_united_states_431_events",
+  "name": "Hotspot: location Maryland State Police, Maryland, United States (431 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Maryland State Police, Maryland, United States (431 events)",
+  "sources": [
+    {
+      "url": "https://www.journalgazette.net/local/local-government/fort-wayne-business-owner-released-from-ice-detention-after-5-months/article_53506304-4ba0-451b-bcab-fadd6566ad0f.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dl-online.com/news/local/detroit-lakes-man-accused-of-cutting-woman-hitting-her-with-hammer",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://finance-commerce.com/2026/02/trump-independence-arch-250th-anniversary/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 38.37837837837838,
+    "lon": -77.2972972972973
+  },
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.journalgazette.net/local/local-government/fort-wayne-business-owner-released-from-ice-detention-after-5-months/article_53506304-4ba0-451b-bcab-fadd6566ad0f.html",
+    "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+    "https://www.dl-online.com/news/local/detroit-lakes-man-accused-of-cutting-woman-hitting-her-with-hammer",
+    "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm",
+    "https://finance-commerce.com/2026/02/trump-independence-arch-250th-anniversary/"
+  ],
+  "gdelt_metadata": {
+    "count": 431,
+    "key": "35:-72",
+    "categories": [
+      [
+        "CONFLICT",
+        210
+      ],
+      [
+        "CRIME",
+        151
+      ],
+      [
+        "VIOLENCE",
+        34
+      ],
+      [
+        "PROTEST",
+        28
+      ],
+      [
+        "DISPLACEMENT",
+        8
+      ]
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "analysis": "Recent protests in Sydney saw significant unrest as 50,000 individuals gathered to voice their dissent against the Australian government's support for Israeli President Isaac Herzog, whom they accuse of inciting genocide. ThePolice's violent response to this peaceful assembly has raised serious concerns over civil rights and the government's commitment to freedom of expression, as demonstrated by the Palestine Action Group Sydney's condemnation of the actions taken against the protesters.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Protests in Sydney escalate amid Herzog's visit.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

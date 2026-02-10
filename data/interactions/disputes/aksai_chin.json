@@ -1,0 +1,49 @@
+{
+  "id": "aksai_chin",
+  "name": "Aksai Chin",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Chinese administration",
+    "since": 1962
+  },
+  "claimants": [
+    {
+      "iso": "CHN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "IND",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "CHN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Region administered by China, claimed by India as part of Ladakh",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.700419Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.700424Z",
+    "updated": "2026-02-01T22:23:47.700426Z",
+    "confidence": 0.8
+  }
+}

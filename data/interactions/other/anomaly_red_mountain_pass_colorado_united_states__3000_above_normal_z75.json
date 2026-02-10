@@ -1,0 +1,63 @@
+{
+  "id": "anomaly_red_mountain_pass_colorado_united_states__3000_above_normal_z75",
+  "name": "Anomaly: Red Mountain Pass, Colorado, United States - 300.0% above normal (z=7.5)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Red Mountain Pass, Colorado, United States - 300.0% above normal (z=7.5)",
+  "sources": [
+    {
+      "url": "https://rutgersfoundation.org/news/alumni-news/groundbreaking-scientist-exceptional-educator-and-generous-alumnus",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.denverpost.com/2026/02/10/rtd-board-colorado-transit-system-study-canada/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.utilitydive.com/spons/the-strategic-case-for-composite-poles-targeted-deployment-maximum-grid-v/811182/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-15545843/colorado-family-trailer-no-water-home-rebuild-construction-work-stop.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.mlive.com/news/us-world/2026/02/chinook-helicopter-crew-battles-winds-to-rescue-climbers-stranded-at-14000-feet.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://rutgersfoundation.org/news/alumni-news/groundbreaking-scientist-exceptional-educator-and-generous-alumnus",
+    "https://www.denverpost.com/2026/02/10/rtd-board-colorado-transit-system-study-canada/",
+    "https://www.utilitydive.com/spons/the-strategic-case-for-composite-poles-targeted-deployment-maximum-grid-v/811182/",
+    "https://www.dailymail.co.uk/news/article-15545843/colorado-family-trailer-no-water-home-rebuild-construction-work-stop.html",
+    "https://www.mlive.com/news/us-world/2026/02/chinook-helicopter-crew-battles-winds-to-rescue-climbers-stranded-at-14000-feet.html"
+  ],
+  "gdelt_metadata": {
+    "z_score": 7.5,
+    "severity": "critical",
+    "current_count": 10,
+    "baseline_mean": 2.5
+  }
+}

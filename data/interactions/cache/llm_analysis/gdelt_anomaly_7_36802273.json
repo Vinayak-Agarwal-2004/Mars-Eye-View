@@ -1,0 +1,9 @@
+{
+  "analysis": "Recent reports indicate a significant increase in violence involving Israeli settlers in the occupied West Bank, coupled with military operations in southern Lebanon targeting suspected militants. Israel's actions against both Palestinian locals and Lebanese groups, such as the abduction of a Jamaa Islamiya member, illustrate a continued escalation of regional tensions amidst a backdrop of deteriorating humanitarian conditions since the Gaza conflict began in October 2023.",
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Escalation of Israel-Lebanon tensions observed.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

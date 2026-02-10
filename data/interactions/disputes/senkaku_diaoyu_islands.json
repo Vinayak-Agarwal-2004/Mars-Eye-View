@@ -1,0 +1,54 @@
+{
+  "id": "senkaku_diaoyu_islands",
+  "name": "Senkaku/Diaoyu Islands",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Japanese administration",
+    "since": 1972
+  },
+  "claimants": [
+    {
+      "iso": "CHN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "JPN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "TWN",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "CHN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.700626Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.700634Z",
+    "updated": "2026-02-01T22:23:47.700636Z",
+    "confidence": 0.8
+  }
+}

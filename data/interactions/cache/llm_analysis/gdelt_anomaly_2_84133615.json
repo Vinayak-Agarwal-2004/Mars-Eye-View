@@ -1,0 +1,11 @@
+{
+  "analysis": "The reports from KRCG TV and AM New Mexico describe a notable case involving a Columbia man, Owen Ramsingh, who was detained by U.S. Immigration and Customs Enforcement (ICE) and subsequently deported back to the Netherlands following a court ruling in New Mexico. The case raises concerns about immigration procedures and the impact of past convictions on current status. The situation reflects the complexities of immigration enforcement processes in the U.S. Meanwhile, the E&E News article discusses a long-running legal battle over water rights related to the Rio Grande and a recent recommendation for a settlement, which highlights ongoing environmental and resource management issues in the region. Additionally, the Albuquerque Journal covers a murder trial concerning a car meet shooting in Las Cruces that resulted in multiple fatalities, indicating a rise in violent crime within the state. Lastly, the report on Meta highlights significant legal actions against social media for its role in child exploitation, showcasing the state's effort to protect its youth. These articles collectively underscore pressing societal issues in New Mexico, including immigration, resource management, crime, and children's safety in relation to technology.\n\nOverall, this convergence of events paints a troubling picture of New Mexico that emphasizes the need for comprehensive policies addressing immigration, resource sustainability, crime prevention, and child protection. As these issues unfold, they may impact state governance and public perception, stressing the urgency for legislative attention and reform to mitigate future challenges.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

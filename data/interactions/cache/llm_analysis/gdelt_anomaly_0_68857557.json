@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent sentencing of Jimmy Lai, a prominent pro-democracy figure in Hong Kong, underscores a significant anomaly in political repression trends, with a recorded 1250% increase in related activities. This event highlights ongoing concerns about human rights and the stifling of dissent under China's national security law, drawing international condemnation and scrutiny towards Beijing's governance methods in Hong Kong.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 22.3964,
+    "lon": 114.1099
+  },
+  "toast_message": "Heightened scrutiny on Hong Kong's human rights situation.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

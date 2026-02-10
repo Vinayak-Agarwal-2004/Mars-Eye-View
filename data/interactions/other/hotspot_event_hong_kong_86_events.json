@@ -1,0 +1,67 @@
+{
+  "id": "hotspot_event_hong_kong_86_events",
+  "name": "Hotspot: event Hong Kong (86 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Hong Kong (86 events)",
+  "sources": [
+    {
+      "url": "http://en.people.cn/n3/2026/0210/c90000-20424213.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.chinanationalnews.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.cambodiantimes.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.catholicworldreport.com/2026/02/09/secretary-rubio-other-leaders-denounce-jimmy-lais-tragic-20-year-sentence/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.bjreview.com.cn/Latest_Headlines/202602/t20260210_800430161.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "http://en.people.cn/n3/2026/0210/c90000-20424213.html",
+    "http://www.chinanationalnews.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+    "http://www.cambodiantimes.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+    "https://www.catholicworldreport.com/2026/02/09/secretary-rubio-other-leaders-denounce-jimmy-lais-tragic-20-year-sentence/",
+    "http://www.bjreview.com.cn/Latest_Headlines/202602/t20260210_800430161.html"
+  ],
+  "gdelt_metadata": {
+    "count": 86,
+    "key": "173|CRIME|Hong Kong",
+    "categories": [
+      [
+        "CRIME",
+        86
+      ]
+    ]
+  }
+}

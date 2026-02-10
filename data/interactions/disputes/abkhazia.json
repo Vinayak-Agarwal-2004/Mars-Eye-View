@@ -1,0 +1,51 @@
+{
+  "id": "abkhazia",
+  "name": "Abkhazia",
+  "aliases": [],
+  "classification": {
+    "type": "sovereignty",
+    "status": "De facto independent, limited recognition",
+    "since": 2008
+  },
+  "claimants": [
+    {
+      "iso": "GEO",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "RUS",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "GEO",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Breakaway region from Georgia with Russian support",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.701271Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.701276Z",
+    "updated": "2026-02-01T22:23:47.701278Z",
+    "confidence": 0.8
+  },
+  "llm_analysis": "The event discusses a breakaway region from Georgia that has received support from Russia. This situation highlights the ongoing tension between these two countries, with Georgia viewing the region as part of its sovereign territory, while Russia supports the separatist claims. The dynamics between Georgia and Russia are key in understanding regional security and territorial integrity issues in the South Caucasus.\n\nThe lack of confidence in the data means that we should approach this analysis with caution. However, the implications are clear: this event may exacerbate existing hostilities and could potentially impact broader geopolitical relations involving NATO and the European Union, particularly with regards to territory, sovereignty, and international support for Georgia.",
+  "llm_analysis_cached": true
+}

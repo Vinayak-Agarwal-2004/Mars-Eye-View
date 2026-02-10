@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_usachn_military_chn_usa",
+  "name": "Diplomatic: USA-CHN (military)",
+  "category": "military",
+  "subtype": "general",
+  "type": "Military & Defense",
+  "type_label": "Military & Defense",
+  "status": "Active",
+  "participants": [
+    "USA",
+    "CHN"
+  ],
+  "description": "Diplomatic: USA-CHN (military)",
+  "sources": [
+    {
+      "url": "https://www.coindesk.com/business/2026/02/10/fugitive-foreigner-sentenced-in-the-u-s-to-20-years-for-usd73-million-crypto-scam",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://www.coindesk.com/business/2026/02/10/fugitive-foreigner-sentenced-in-the-u-s-to-20-years-for-usd73-million-crypto-scam"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 16,
+    "GoldsteinScale": -5.0,
+    "EventDate": "2026-02-10"
+  }
+}

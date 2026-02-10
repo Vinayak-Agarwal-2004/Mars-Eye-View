@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent report highlights growing concerns over the infiltration of Chinese nationals linked to the Chinese Communist Party in American universities, suggesting potential risks to U.S. national security. This coincides with local resistance against government plans to convert warehouses into immigration detention centers, indicating broader socio-political tensions in the U.S. around immigration policy and national security.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Growing concerns over national security in the US.",
+  "toast_type": "warning",
+  "confidence": 0.8
+}

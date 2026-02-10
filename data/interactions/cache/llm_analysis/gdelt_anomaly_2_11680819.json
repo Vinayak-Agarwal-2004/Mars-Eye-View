@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses the arraignment of two men charged in connection with a deadly nightclub shooting in Cleveland, Ohio. Their charges include murder and felonious assault, highlighting ongoing issues of gun violence in the area. The second article details a case where a police officer pleaded guilty to attempted abduction after unlawfully detaining a man they suspected of being undocumented. This incident sheds light on the potential overreach and misconduct by law enforcement. The third article reports on a tragic accident involving two individuals, one of whom was found dead and the other unconscious. This reflects on the risks associated with alcohol and outdoor conditions in winter.\n\nThese articles collectively illustrate a troubling spike in violence and legal misconduct in Cleveland. While one article reports on direct violence leading to fatalities, another explores issues of police conduct. Although dealing with different events, they present a common theme of serious incidents affecting the community.\n\nOverall, the data indicates a significant anomaly in terms of violence and criminal activity in Cleveland, with law enforcement being scrutinized for their actions amidst these violent occurrences. This not only raises concerns about the safety of the public but also about the integrity of law enforcement practices in the region.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in Cleveland, Ohio.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

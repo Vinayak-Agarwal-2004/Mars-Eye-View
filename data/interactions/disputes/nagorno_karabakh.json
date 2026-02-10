@@ -1,0 +1,49 @@
+{
+  "id": "nagorno_karabakh",
+  "name": "Nagorno-Karabakh",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Azerbaijani control since 2023",
+    "since": 1991
+  },
+  "claimants": [
+    {
+      "iso": "ARM",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "AZE",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ARM",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Region in Azerbaijan, formerly disputed with Armenia",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.699123Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.699129Z",
+    "updated": "2026-02-01T22:23:47.699131Z",
+    "confidence": 0.8
+  }
+}

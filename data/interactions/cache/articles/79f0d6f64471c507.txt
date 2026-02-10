@@ -1,0 +1,12 @@
+<html><body><div><article class="news-content prose prose-lg max-w-none"><figure class="mb-6"><figcaption class="mt-2 text-center text-sm lg:text-base text-gray-600 dark:text-gray-100">These images show the wreckage of a drone that North Korea claims came from South Korea and was brought down by specialised electronic warfare assets after violating its airspace. (AFP pic)</figcaption></figure>
+<div class="py-1.5 mb-4 text-lg font-bitter"><address class="location-block" itemprop="contentLocation" itemscope itemtype="https://schema.org/Place"><span itemprop="name">SEOUL</span>:</address><p> South Korean authorities raided the country’s spy agency on Tuesday as they investigated how a drone was flown across the border and shot down over North Korea.</p></div>
+<p class="py-1.5 mb-4 text-lg">Pyongyang accused Seoul of flying a drone into Kaesong earlier this year, releasing images that purported to show debris from the downed aircraft.</p>
+<p class="py-1.5 mb-4 text-lg">South Korea initially denied government involvement, suggesting civilians may have been responsible.</p><p class="my-2 flex justify-center"></p>
+<p class="py-1.5 mb-4 text-lg">But police said on Tuesday they were investigating three active-duty soldiers and one spy agency employee suspected of involvement in the case.</p>
+<p class="py-1.5 mb-4 text-lg">Search and seizure warrants have been executed “at a total of 18 locations, including the Defense Intelligence Command and the National Intelligence Service,” authorities said in a statement.</p><p class="my-2 flex justify-center"></p>
+<p class="py-1.5 mb-4 text-lg">Three civilians have been charged for their alleged role in the drone scandal.</p>
+<p class="py-1.5 mb-4 text-lg">One of them has publicly claimed responsibility, saying he acted to detect radiation levels from North Korea’s Pyongsan uranium processing facility.</p>
+<p class="py-1.5 mb-4 text-lg">South Korean President Lee Jae Myung has previously said flying the drone into North Korea was akin to “firing a shot” across the border.</p>
+<p class="py-1.5 mb-4 text-lg">Disgraced ex-president Yoon Suk Yeol is currently standing trial on charges he illegally sent drones into North Korea to help create the pretext for declaring martial law in late 2024.</p><p class="my-2 flex justify-center"></p>
+<p class="py-1.5 mb-4 text-lg">His attempt to overturn civilian rule failed, and Yoon was impeached and ousted from office in April last year.</p>
+</article></div></body></html>

@@ -1,0 +1,12 @@
+{
+  "analysis": "Recent events in Camden County, New Jersey, and nearby Delaware reveal a concerning spike in violent incidents, including high-profile legal cases involving sexual assault and murder. Notably, Barry Cunningham's attempt to withdraw his guilty plea for child rape highlights issues in legal representation and the complexities of the justice system. Concurrently, William Stevenson, Jill Biden's ex-husband, faces charges for the alleged murder of his wife, raising questions about the implications of domestic disputes in the political landscape.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 39.45945945945946,
+    "lon": -75.13513513513514
+  },
+  "toast_message": "Notable legal cases emerging in New Jersey and Delaware.",
+  "toast_type": "info",
+  "confidence": 0.85
+}

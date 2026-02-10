@@ -1,0 +1,37 @@
+<html><body><div><div class="modal-body cookieBody"><p>
+                Mandatory cookies are used on our website www.aa.com.tr in order to provide you with a better service. These cookies cannot be disabled via the "Cookie Control Panel". You can view the cookies used on our site via the "Cookie Control Panel" and change your preferences.
+                </p><div class="p-3">
+                    <p class="font-weight-bold mt-3 mb-2">
+                        Necessary Cookies
+                    </p>
+                    <p>
+                        This cookie is used to distinguish between humans and bots. This is beneficial for the web site, in order to make valid reports on the use of their web site.
+                    </p>
+                    <hr>
+
+                    <p class="font-weight-bold mt-2 mb-2">
+                        Functional Cookies
+                    </p>
+                    <p>
+                        Remembers the user's selected language version of a website.
+                    </p>
+                    <hr>
+                    <p class="font-weight-bold mt-2 mb-2">
+                        Performance/Analytical Cookies
+                    </p>
+                    <p>
+                        Registers a unique ID that is used to generate statistical data on how the visitor uses the website.Used by Google Analytics to throttle request rate.
+                    </p>
+                    
+                    <hr>
+                    <p class="font-weight-bold mt-2 mb-2">
+                        Advertising/Marketing Cookies
+                    </p>
+                    <p>
+                        This cookie is used to collect information on consumer behavior, which is sent to Alexa Analytics. (Alexa Analytics is an Amazon company.)
+                    </p>
+                    
+                </div>
+            </div>
+            
+        </div></body></html>

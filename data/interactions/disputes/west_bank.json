@@ -1,0 +1,49 @@
+{
+  "id": "west_bank",
+  "name": "West Bank",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Partially occupied",
+    "since": 1967
+  },
+  "claimants": [
+    {
+      "iso": "ISR",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "PSE",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ISR",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Territory with Israeli settlements, claimed by Palestine",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.702269Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.702274Z",
+    "updated": "2026-02-01T22:23:47.702275Z",
+    "confidence": 0.8
+  }
+}

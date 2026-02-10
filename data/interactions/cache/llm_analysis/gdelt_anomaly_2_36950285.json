@@ -1,0 +1,11 @@
+{
+  "analysis": "Recent events in Cleveland, Ohio, highlight a significant surge in violent incidents, including a deadly nightclub shooting that resulted in multiple charges against two suspects. Additionally, law enforcement faces scrutiny after indictments related to unlawful detainment of individuals. These incidents could indicate escalating tensions within the community regarding crime and law enforcement practices, warranting closer examination of public safety measures and community responses.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Cleveland grapples with rising violence and law enforcement challenges.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

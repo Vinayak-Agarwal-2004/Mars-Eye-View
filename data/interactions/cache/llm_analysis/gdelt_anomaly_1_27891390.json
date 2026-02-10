@@ -1,0 +1,11 @@
+{
+  "analysis": "(1) The first article from The Korea Times discusses a raid by investigators on South Korea's National Intelligence Service and military intelligence units related to alleged drone flights into North Korea, noting the involvement of military officers and civilians in the scandal. (2) The Free Malaysia Today article elaborates on the details of the drone flight accusations, indicating that North Korean authorities claimed a drone violated their airspace, which led to an investigation involving military personnel. (3) The Xinhua report states that simultaneous raids on 18 locations took place, revealing that the joint military-police investigation involves multiple suspects who are now considered linked to the drone incidents. (4) The China Daily report briefly mentions an unrelated fire incident in South Korea, which is not relevant to the drone flights issue. (5) The Korea Herald article includes additional context surrounding the importance of the drone related allegations, referencing past actions by South Korean officials and their implications.  \n\nThe articles consistently present details of a complex investigation involving military and civilian actors in South Korea and their suspected participation in unauthorized drone operations that may have infringed on North Korean sovereignty. There is a clear emphasis on the legal ramifications for those involved, indicating serious concerns over military protocols and national security. \n\nOverall, this situation portrays a heightened tension between South Korea and North Korea, particularly as allegations of territorial violations emerge in a sensitive geopolitical context. The ramifications could impact military relations and public sentiment in both Koreas, highlighting the delicate balance of security in the region.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "KOR"
+  },
+  "toast_message": "Investigation into drone flights raises significant concerns in South Korea.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

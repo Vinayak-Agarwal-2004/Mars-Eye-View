@@ -1,0 +1,50 @@
+{
+  "id": "hotspot_actor_united_kingdom_316_events",
+  "name": "Hotspot: actor united kingdom (316 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor united kingdom (316 events)",
+  "sources": [
+    {
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kwqc.com:443/2026/02/03/trudy-appleby-case-man-charged-with-her-murder-wants-trial-moved/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/british-army-officer-killed-northumberland-33388033",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.herald-dispatch.com/opinion/frederic-j-fransen-the-war-for-independence-was-the-people-s-war-opinion/article_0b763b15-794c-45a7-8c80-ae1dda089f4c.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.lbc.co.uk/article/teenagers-in-suspected-suicide-pact-after-indecent-child-image-arrests-5HjdS4y_2/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 54.5,
+    "lon": -2.5
+  },
+  "toast_message": "UK geopolitical tensions rise amid anti-Zionist movement.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent developments in the UK reflect significant geopolitical tensions tied to anti-Zionist movements, particularly with the arrests at the Birmingham launch of the Anti-Zionist Movement, which emphasize a growing polarization. Additionally, the tragic death of Captain Muldowney during training highlights the risks associated with military operations, serving as a reminder of the human element in these geopolitical discussions.",
+  "llm_analysis_cached": true,
+  "confidence": 0.75,
+  "source": "hotspot"
+}

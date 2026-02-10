@@ -1,0 +1,12 @@
+{
+  "analysis": "Saif al-Islam Gaddafi, the last surviving son of the late Libyan leader Muammar Gaddafi, was reportedly killed in an armed attack at his home in Zintan, Libya. This incident not only signifies the ongoing instability in Libya but also raises questions about the factions vying for power in the post-Gaddafi era. Calls from his political team for an investigation into the circumstances surrounding his death indicate potential for further conflict in a nation still recovering from a decade of turmoil.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 32.8756,
+    "lon": 13.378
+  },
+  "toast_message": "Saif al-Islam Gaddafi killed in Libya.",
+  "toast_type": "info",
+  "confidence": 0.85
+}

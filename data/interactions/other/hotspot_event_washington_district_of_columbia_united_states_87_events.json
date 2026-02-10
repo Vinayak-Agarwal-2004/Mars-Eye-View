@@ -1,0 +1,67 @@
+{
+  "id": "hotspot_event_washington_district_of_columbia_united_states_87_events",
+  "name": "Hotspot: event Washington, District of Columbia, United States (87 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Washington, District of Columbia, United States (87 events)",
+  "sources": [
+    {
+      "url": "https://www.miningmx.com/trending/64057-techmet-seeks-additional-funds-for-minerals-portfolio/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-15525253/white-house-fox-nation-john-adams-charles.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.asiaone.com/world/trumps-call-nationalise-elections-draws-furious-pushback-democrats",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.miningmx.com/trending/64057-techmet-seeks-additional-funds-for-minerals-portfolio/",
+    "https://www.dailymail.co.uk/tvshowbiz/article-15525253/white-house-fox-nation-john-adams-charles.html",
+    "https://www.asiaone.com/world/trumps-call-nationalise-elections-draws-furious-pushback-democrats",
+    "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+    "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm"
+  ],
+  "gdelt_metadata": {
+    "count": 87,
+    "key": "190|CONFLICT|Washington, District of Columbia, United States",
+    "categories": [
+      [
+        "CONFLICT",
+        87
+      ]
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "conflict_sydney_new_south_wales_australia_violence",
+  "name": "Conflict: Sydney, New South Wales, Australia (violence)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Sydney, New South Wales, Australia (violence)",
+  "sources": [
+    {
+      "url": "https://www.northerndailyleader.com.au/story/9171445/protesters-beaten-arrested-as-herzog-visit-continues/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Protests in Sydney escalate amid Herzog's visit.",
+  "toast_type": "warning",
+  "llm_analysis": "Recent protests in Sydney saw significant unrest as 50,000 individuals gathered to voice their dissent against the Australian government's support for Israeli President Isaac Herzog, whom they accuse of inciting genocide. ThePolice's violent response to this peaceful assembly has raised serious concerns over civil rights and the government's commitment to freedom of expression, as demonstrated by the Palestine Action Group Sydney's condemnation of the actions taken against the protesters.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "category": "disputes"
+}

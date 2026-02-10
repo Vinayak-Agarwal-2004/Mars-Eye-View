@@ -1,0 +1,9 @@
+{
+  "analysis": "Recent Israeli military operations in Gaza have resulted in significant civilian casualties, including children and paramedics, as reported by multiple sources. The attacks are seen as violations of a ceasefire agreement with Hamas, which further escalates tensions in the region. Additionally, the U.S. and Israel's complex negotiation dynamics to ensure long-term peace are overshadowed by ongoing violence.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": null,
+  "toast_message": "Escalation in Gaza leads to civilian casualties.",
+  "toast_type": "warning",
+  "confidence": 0.8
+}

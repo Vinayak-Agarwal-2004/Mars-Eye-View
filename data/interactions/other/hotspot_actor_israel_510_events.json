@@ -1,0 +1,83 @@
+{
+  "id": "hotspot_actor_israel_510_events",
+  "name": "Hotspot: actor israel (510 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor israel (510 events)",
+  "sources": [
+    {
+      "url": "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.businessday.co.za/opinion/2026-02-04-nicholas-woode-smith-expelling-israels-envoy-was-a-moral-and-strategic-misstep/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+    "https://www.businessday.co.za/opinion/2026-02-04-nicholas-woode-smith-expelling-israels-envoy-was-a-moral-and-strategic-misstep/",
+    "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+    "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+    "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/"
+  ],
+  "gdelt_metadata": {
+    "count": 510,
+    "key": "israel",
+    "categories": [
+      [
+        "CONFLICT",
+        297
+      ],
+      [
+        "CRIME",
+        93
+      ],
+      [
+        "PROTEST",
+        63
+      ],
+      [
+        "VIOLENCE",
+        44
+      ],
+      [
+        "DISPLACEMENT",
+        13
+      ]
+    ]
+  }
+}

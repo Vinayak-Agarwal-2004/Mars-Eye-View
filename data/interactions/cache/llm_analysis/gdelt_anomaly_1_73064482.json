@@ -1,0 +1,11 @@
+{
+  "analysis": "The articles discuss the city of Providence's release of records related to the Brown University shooting that occurred on December 13, 2025, resulting in two fatalities and nine injured individuals. The records included a redacted 20-minute bodycam video from police officers showing their response to the chaotic scene. Providence Mayor Brett Smiley expressed the challenges of balancing public interest in the records against the potential trauma to victims and their families, particularly as numerous family members had requested that the records not be released. The articles agree on the key details of the shooting and the subsequent release of records, highlighting the gravity of the situation and the responsible handling of sensitive content.\n\nThe coverage underscores the growing concern around gun violence in schools and the significant public interest in the transparency of police actions during such crises. This anomaly in Providence reflects broader societal issues regarding violence and the complexities involved in ensuring public safety while preserving the dignity and privacy of victims and their families. The recorded materials and detailed incident reports may play an essential role in the ongoing discussions about school safety strategies and community responses to similar events in the future.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Data updated for Rhode Island anomaly.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

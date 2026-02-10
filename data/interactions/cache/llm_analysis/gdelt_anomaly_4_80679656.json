@@ -1,0 +1,11 @@
+{
+  "analysis": "The first source discusses the heavy historical context of genocide and how it often gets justified under the guise of self-defense or safety, drawing parallels between various instances of mass atrocities. The second article references the conservative shift in Thailand's politics with the Bhumjaithai Party's recent election victory, indicating a preference for stability that may impact regional dynamics, especially in relation to Cambodia. The third source addresses a broader geopolitical scenario where multiple elections in nearby nations are set to test India's influence, underlining the volatility of the region.\n\nThese articles exhibit a range of geopolitical issues, from historical reflections on violence and genocide to the present-day electoral shifts that suggest changing political landscapes in Southeast Asia. While they originate from different contexts\u2014historical vs. contemporary political shifts\u2014they underscore a continuous theme of instability in governance and the potential consequences on regional relationships.\n\nOverall, the anomaly in Cambodia, marked by a significant deviation of 271.4% above the norm, aligns with the trends of political volatility discussed in the linked articles. This statistical outlier could indicate underlying tensions or governance crises potentially exacerbated by political changes in neighboring countries, particularly Thailand's conservative shift, thus hinting at broader implications for regional stability and human rights considerations.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "KHM"
+  },
+  "toast_message": "Anomaly detected in Cambodia.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

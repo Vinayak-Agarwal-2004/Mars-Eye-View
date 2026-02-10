@@ -1,0 +1,11 @@
+{
+  "analysis": "The articles cover the recent raids by South Korean authorities on military and intelligence facilities due to allegations regarding unauthorized drone flights into North Korea. The first source details the significant impact of these accusations, highlighting South Korea's investigation into military personnel and civilians linked to the incidents. The second source contains specific details on the suspects being investigated, including military officers and civilians involved in intelligence activities. The third source notes the simultaneous raids executed at multiple locations and emphasizes the seriousness of the accusations coming from North Korea regarding airspace violations. Lastly, the fourth source reiterates the joint investigation efforts, focusing on the extensive measures taken by South Korean authorities.\n\nAll sources converge on the theme of escalating tensions and suspicions regarding drone activities related to North Korea and reflect a proactive stance by South Korea to address these serious allegations. The overall picture reveals a complex situation involving military accountability, civil rights issues, and geopolitical ramifications concerning ongoing inter-Korean tensions. The implications are significant as they may affect domestic political stability and international relations in the region.\n\n",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "KOR"
+  },
+  "toast_message": "Anomaly detected in South Korea's military operations.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

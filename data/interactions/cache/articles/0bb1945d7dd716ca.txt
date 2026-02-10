@@ -1,0 +1,23 @@
+<html><body><div><p class="article__summary">The shooting happened on Jan. 6, 2025 at an apartment complex on 20th Avenue Drive NE in Hickory.</p>
+        <div class="article__body">
+                    <div class="article__section article__section_type_text utility__text">
+<p>CHARLOTTE, N.C. — A man was sentenced to prison for a January 2025 <a href="/crime" target="_blank" rel="noopener noreferrer">shooting </a>that left one person hurt.</p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Donzell Wilfong, 56, pleaded guilty to charges of assault with a deadly weapon with intent to kill inflicting serious injury, and possession of a firearm by a felon in Catawba County Court on Jan. 28. He was sentenced to seven to nine years in prison for these crimes.</p>                    </div>
+                        
+                    <div class="article__section article__section_type_text utility__text">
+<p>The shooting happened on Jan. 6, 2025, at an apartment complex on 20th Avenue Drive NE in Hickory.</p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Prosecutors say Wilfong went to the victim's apartment and started an argument. Wilfong forced his way into the apartment after the victim's child opened the door. </p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Wilfong fired at least six shots at the victim, causing multiple gunshot wounds. The victim was injured in the shooting.</p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>The victim told police that he did not know Wilfong before the shooting.</p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Surveillance video showed Wilfong holding a firearm and captured the argument between Wilfong and the victim. </p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Police arrived shortly after the shooting and arrested Wilfong. He was initially charged with attempted first-degree murder in addition to the charges he pleaded guilty to. Wilfong was briefly held with a $175,000 bond but posted bond days after his arrest.</p>                    </div>
+                    <div class="article__section article__section_type_text utility__text">
+<p>Wilfong has numerous previous convictions in North Carolina as far back as 1989 for assault, drug possession, and driving while impaired. </p>                    </div>
+    </div>
+        </div></body></html>

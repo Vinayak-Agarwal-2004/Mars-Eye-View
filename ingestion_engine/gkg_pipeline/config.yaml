@@ -1,0 +1,26 @@
+gdelt:
+  base_url: "http://data.gdeltproject.org/gdeltv2"
+  gkg_counts_url: "http://data.gdeltproject.org/gkg"
+  update_interval_minutes: 15
+
+paths:
+  raw_gkg_dir: "data/raw/gkg"
+  raw_gkgcounts_dir: "data/raw/gkgcounts"
+  processed_dir: "data/processed"
+  archive_dir: "data/archive/gkg"
+  db_path: "data/gkg_metrics.duckdb"
+
+metrics:
+  - KILL
+  - INJURED
+  - CRISISLEXT03DEAD
+  - CRISISLEXT02INJURED
+  - DISPLACED
+  - REFUGEES
+  - PROTEST
+  - ARREST
+
+retention:
+  raw_gkg_days: 7
+  raw_gkgcounts_days: 90
+  processed_days: 365

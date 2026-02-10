@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses the dismissal of lawsuits against Neil Gaiman for alleged sexual assault in New Zealand, highlighting the legal complexities and jurisdictional issues surrounding the cases, which have now been directed back to New Zealand courts. The second article details the sentencing of a gang member involved in a major drug supply network in New Zealand, reflecting ongoing issues with organized crime and drug trafficking within the country. The third article outlines political tensions regarding a Free Trade Agreement between New Zealand and India, contrasting it with nationalistic resistance led by Winston Peters and pointing out the challenges that the agreement presents against the backdrop of an unpopular government. \n\nTogether, these articles illustrate a range of social and political challenges facing New Zealand, from legal controversies surrounding public figures and serious crime issues, to divisive political debates over immigration and trade policy. This highlights a period of instability and contention across various sectors of New Zealand society, which may carry implications for future governance and social cohesion as elections approach.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NZL"
+  },
+  "toast_message": "Anomaly detected in New Zealand.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

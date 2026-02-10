@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_new_mexico_united_states__2750_above_normal_z110",
+  "name": "Anomaly: New Mexico, United States - 275.0% above normal (z=11.0)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: New Mexico, United States - 275.0% above normal (z=11.0)",
+  "sources": [
+    {
+      "url": "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "llm_analysis": "The first linked article discusses the repatriation of a Columbia man who was detained by U.S. Immigration and Customs Enforcement (ICE) in New Mexico, highlighting the complexities and family implications of his deportation after a judge's ruling. The second article details a Supreme Court recommendation to approve a settlement regarding the Rio Grande water rights, suggesting ongoing tensions over water resources between New Mexico and Texas. The third article covers a high-profile murder trial in Las Cruces connected to a tragic mass shooting at a car meet, indicating public concern over safety and violence in community events. Lastly, the fourth article reports on the trial against Meta in New Mexico concerning its practices on child safety and exploitation online, emphasizing rising scrutiny on social media companies regarding their impact on youth.\n\nThese articles reflect a diverse set of challenges facing New Mexico, ranging from immigration issues, environmental conflicts over water, public safety concerns, and accountability of social media platforms. Together, they paint a picture of a region grappling with pressing social, legal, and ethical challenges, revealing the interconnectedness of these issues and their implications for community well-being and governance.\n\nOverall, New Mexico is currently dealing with significant anomalies as evidenced by the 250% increase in events, indicating a community at a crucial juncture, particularly in terms of legal and social stability. This geopolitical landscape signifies the need for proactive measures and reforms to address these multifaceted challenges effectively.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+    "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+    "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+    "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+    "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/"
+  ],
+  "gdelt_metadata": {
+    "z_score": 11.0,
+    "severity": "critical",
+    "current_count": 15,
+    "baseline_mean": 4.0
+  }
+}

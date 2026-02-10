@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent release of public records related to the tragic shooting at Brown University, which resulted in two fatalities and nine injuries, underscores significant public safety concerns in Providence, Rhode Island. The extensive police and emergency response captured in newly disclosed bodycam footage and incident reports illustrates the chaotic nature of the event, raising broader questions about campus security and crisis management protocols in educational institutions.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Providence shooting records reveal chaotic response.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

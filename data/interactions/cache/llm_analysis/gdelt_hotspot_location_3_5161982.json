@@ -1,0 +1,12 @@
+{
+  "analysis": "The protests in Minnesota highlight growing tensions surrounding federal immigration enforcement, especially following the controversial deaths of two American citizens at the hands of federal agents. Demonstrations led by high school students and public outcry from lawmakers underscore the urgency for transparency and accountability within immigration enforcement agencies, particularly with reports of masked agents involved in violent encounters. These incidents reflect not only local but also national sentiments regarding immigration policies and law enforcement accountability.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 45.94594594594595,
+    "lon": -93.51351351351352
+  },
+  "toast_message": "Protests against ICE escalate in Minnesota.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

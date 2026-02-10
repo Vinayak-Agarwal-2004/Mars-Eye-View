@@ -1,0 +1,50 @@
+{
+  "id": "hotspot_location_district_of_columbia_united_states_262_events",
+  "name": "Hotspot: location District of Columbia, United States (262 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location District of Columbia, United States (262 events)",
+  "sources": [
+    {
+      "url": "https://www.journalgazette.net/local/local-government/fort-wayne-business-owner-released-from-ice-detention-after-5-months/article_53506304-4ba0-451b-bcab-fadd6566ad0f.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dl-online.com/news/local/detroit-lakes-man-accused-of-cutting-woman-hitting-her-with-hammer",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://finance-commerce.com/2026/02/trump-independence-arch-250th-anniversary/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/tvshowbiz/article-15525253/white-house-fox-nation-john-adams-charles.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 38.37837837837838,
+    "lon": -77.2972972972973
+  },
+  "toast_message": "US immigration law enforcement under scrutiny.",
+  "toast_type": "info",
+  "llm_analysis": "The recent activities in the District of Columbia highlight a convergence of issues surrounding immigration law enforcement and human rights violations, evidenced by the contrasting cases of Paramjit Singh, who was wrongfully detained by ICE for a baseless conviction, and Armando Fern\u00e1ndez Larios, a former Chilean agent facing extradition for human rights abuses. The high volume of events in this region signifies heightened tensions and governmental scrutiny related to immigration policies and their socio-political implications.",
+  "llm_analysis_cached": true,
+  "confidence": 0.75,
+  "source": "hotspot"
+}

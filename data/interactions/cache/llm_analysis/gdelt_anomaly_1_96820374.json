@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent release of bodycam footage and incident reports related to the tragic shooting at Brown University highlights significant tensions surrounding public information transparency versus community sensitivity. Providence Mayor Brett Smiley's efforts to balance these concerns reflect broader societal challenges in handling violent events and their aftermath.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Providence shooting records released amidst community concerns.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

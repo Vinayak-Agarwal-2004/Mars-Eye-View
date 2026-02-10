@@ -1,0 +1,69 @@
+{
+  "id": "south_china_sea",
+  "name": "South China Sea",
+  "aliases": [],
+  "classification": {
+    "type": "maritime",
+    "status": "Multiple overlapping claims",
+    "since": 1947
+  },
+  "claimants": [
+    {
+      "iso": "BRN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "CHN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "MYS",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "PHL",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "TWN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "VNM",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "BRN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Maritime disputes over islands and resources between multiple nations",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.699355Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.699360Z",
+    "updated": "2026-02-01T22:23:47.699362Z",
+    "confidence": 0.8
+  }
+}

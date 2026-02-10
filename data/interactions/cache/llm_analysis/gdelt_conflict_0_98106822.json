@@ -1,0 +1,12 @@
+{
+  "analysis": "The event in Brant County, Ontario, involves coercion linked to a notorious killer being granted day parole after a lengthy imprisonment for a past crime spree. This decision has raised significant public concern given the violent history of the individual, emphasizing the ongoing tension between criminal justice reform and community safety.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 43.1667,
+    "lon": -80.1333
+  },
+  "toast_message": "Parole decision for notorious killer sparks community concern.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

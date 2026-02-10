@@ -1,0 +1,51 @@
+{
+  "id": "falkland_islands_malvinas",
+  "name": "Falkland Islands (Malvinas)",
+  "aliases": [],
+  "classification": {
+    "type": "sovereignty",
+    "status": "British administration",
+    "since": 1833
+  },
+  "claimants": [
+    {
+      "iso": "ARG",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "GBR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ARG",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "British Overseas Territory in South Atlantic, claimed by Argentina",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.698809Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.698846Z",
+    "updated": "2026-02-01T22:23:47.698875Z",
+    "confidence": 0.8
+  },
+  "llm_analysis": "The event relates to the sovereignty dispute over the British Overseas Territory in the South Atlantic, which Argentina claims. This long-standing conflict has implications for both nations, as it encompasses issues of national identity, territorial integrity, and geopolitical influence in the region. The absence of article content means the details about any current actions or diplomatic stances are not available, but the historical context signifies that tensions may still exist between Argentina and Great Britain over this territory.\n\nThe geopolitical landscape in this area is influenced by historical ties and conflicts, indicating potential risks for future diplomatic relations. As the participants are locked in a sovereignty dispute, it may also affect their interactions on other international matters, impacting regional stability in South America and the Atlantic.",
+  "llm_analysis_cached": true
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "Recent events highlight a concerning rise in violent incidents involving law enforcement in the United States, such as the capital murder charge against Reanna Gallamore in Blytheville, and the armed suspect Andrew Clark, who shot at police in West Des Moines. These cases reflect ongoing tensions and issues related to public safety, police engagement, and gun violence. The shooting death of a man in Chicago further emphasizes the urgency of addressing crime and violence within urban settings.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Rising violence and police engagement in the US is alarming.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

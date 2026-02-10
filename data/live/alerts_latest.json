@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-02-10T20:49:14.573898+00:00",
+  "count": 1,
+  "alerts": [
+    {
+      "timestamp": "2026-02-10T20:49:14.573417+00:00",
+      "event_id": 1288495685,
+      "category": "coercion",
+      "severity": 136.0,
+      "location": "Butte County, California, United States",
+      "country": "3",
+      "description": "CALIF 173 ",
+      "goldstein": -5.0,
+      "sources": 63,
+      "tone": -5.0,
+      "url": "https://cbs2iowa.com/news/nation-world/cult-leader-guilty-of-molesting-raping-followers-in-northern-california"
+    }
+  ]
+}

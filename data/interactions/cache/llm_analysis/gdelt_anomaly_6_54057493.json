@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent protests in Bhopal, led by Congress over beef allegations and water quality issues, indicate significant public unrest in Madhya Pradesh. This anomaly, characterized by a 500% increase in reported events, likely reflects heightened tensions between political groups and the local administration, exacerbated by ongoing concerns about essential services such as water supply. Additionally, the simultaneous police activities, notably recovery of stolen property, suggest a backdrop of increasing civic strife.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  "toast_message": "Protests in Bhopal highlight civic unrest.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

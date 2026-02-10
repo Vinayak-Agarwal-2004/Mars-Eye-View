@@ -1,0 +1,49 @@
+{
+  "id": "crimea",
+  "name": "Crimea",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Russian administration, claimed by Ukraine",
+    "since": 2014
+  },
+  "claimants": [
+    {
+      "iso": "RUS",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "UKR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "RUS",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Peninsula annexed by Russia from Ukraine in 2014, internationally recognized as Ukrainian",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.703629Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.703634Z",
+    "updated": "2026-02-01T22:23:47.703635Z",
+    "confidence": 0.8
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent spike in violence, particularly the arraignment of two men charged with murder in Cleveland and the indictment of law enforcement officers, underscores a growing concern regarding gun violence and police accountability in the area. This anomaly, represented by an 800% increase in criminal activity, highlights the interconnectedness of community safety, law enforcement practices, and public trust.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Cleveland violence surge raises safety concerns.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

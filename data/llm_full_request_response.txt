@@ -1,0 +1,159 @@
+================================================================================
+EVENT
+================================================================================
+id: gdelt_anomaly_0_83969917
+description: Anomaly: Hong Kong - 1250.0% above normal (z=17.68)
+type: anomaly
+participants: []
+source_urls: ['https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters', 'https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/', 'https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/', 'https://www.peeblesshirenews.com/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/', 'https://www.theargus.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/']
+
+================================================================================
+ARTICLES FETCHED (URL -> length of text)
+================================================================================
+
+URL: https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters
+Length: 18884 chars
+Excerpt (first 500 chars):
+<html><body><div><div class="wysiwyg wysiwyg--all-content" aria-live="polite" aria-atomic="true"><p>Jimmy Lai, Hong Kong’s prominent pro-democracy prisoner and media mogul, was sentenced to 20 years in prison under Beijing’s sweeping national security law on Monday in a high-profile case that has dragged on for five years.</p><p>Lai, the founder ⁠of the now-shuttered Apple Daily newspaper, was first arrested in August 2020 and found guilty late last year on two counts of foreign collusion and on...
+
+URL: https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/
+Length: 4512 chars
+Excerpt (first 500 chars):
+<html><body><div><div class="he-boCo-11616d9 ldJsonContent"><p id="eZ2u0thLyk" data-wc="22">The <a class="hm-link he-link" href="https://www.hellomagazine.com/tags/king-charles/" data-mrf-recirculation="article-body-link">King</a> was heckled again about his brother, Andrew Mountbatten-Windsor, as he arrived for a public engagement in Lancashire on Monday morning. </p><p id="eNy5uBnfhLK" data-wc="30">Charles, 77, greeted crowds at Clitheroe train station and is later expected to meet local manuf...
+
+URL: https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/
+Length: 6342 chars
+Excerpt (first 500 chars):
+<html><body><div><div id="subscription-content">
+<p>Emails released by the US Department of Justice earlier this month appear to show the former duke sharing reports of official visits to Hong Kong, Vietnam, and Singapore.</p>
+<p>One email, dated November 2010, was forwarded by Andrew just five minutes after being sent by his then-special advisor, Amir Patel.</p>
+<figure id="0_4pamibf9" data-urn="urn:pressassociation:video:202402">
+</figure><p>The former duke made the visits in his capacity as t...
+
+================================================================================
+ARTICLE CONTENT INJECTED INTO PROMPT (full text used)
+================================================================================
+[Source: https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters]
+<html><body><div><div class="wysiwyg wysiwyg--all-content" aria-live="polite" aria-atomic="true"><p>Jimmy Lai, Hong Kong’s prominent pro-democracy prisoner and media mogul, was sentenced to 20 years in prison under Beijing’s sweeping national security law on Monday in a high-profile case that has dragged on for five years.</p><p>Lai, the founder ⁠of the now-shuttered Apple Daily newspaper, was first arrested in August 2020 and found guilty late last year on two counts of foreign collusion and one count of seditious publication.</p><p>Now age 78, he faces a prison term that is effectively a life sentence, rights groups say – a “profoundly unjust” verdict they call emblematic of China’s crackdown on pro-democracy activists in Hong Kong.</p><p>More than six years have passed since millions of Hong Kongers – led by students and young activists – first took to the streets to protest against Beijing’s expanding powers in the territory in 2019.</p><p>After a months-long standoff with protesters occupying roads ended with thousands of arrests, China imposed its sweeping national security law in Hong Kong in 2020, effectively quelling the most significant challenge to the Communist Party’s authority in decades.</p><p>Called the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, the legislation practically criminalised protest, or any act of subversion, in Hong Kong. Since its introduction, it has seen a near-100 percent conviction rate.</p><p>So, what happened to the pro-democracy activists in these years, and where are they now?</p><figure id="attachment_4174732" aria-describedby="caption-attachment-4174732" class="wp-caption aligncenter"><img data-recalc-dims="1" loading="lazy" class="size-arc-image-770 wp-image-4174732" src="/wp-content/uploads/2025/12/AP25348133895375-1765768888.jpg?w=770&amp;resize=770%2C514&amp;quality=80" alt="Jimmy Lai escorted from Stanley Prison" fetchpriority="low"><figcaption id="caption-attachment-4174732" class="wp-caption-text">Jimmy Lai walks through the Stanley Prison in Hong Kong on July 28, 2023 [File: Louise Delmotte/AP]</figcaption></figure><h2 id="who-is-jimmy-lai-and-what-is-his-sentence-for">Who is Jimmy Lai, and what is his sentence for?</h2><p>Lai’s case has drawn the attention of world leaders and global rights groups.</p><p>Before he was arrested in 2020 and held in solitary confinement in Hong Kong’s high-security Stanley Prison, Lai was one of Hong Kong’s most famous rags-to-riches stories.</p><p>After fleeing China for then-British Hong Kong as a child in the 1950s, he built up a business empire in the city, including the tabloid Apple Daily, over several decades.</p><p>He was among the few Beijing critics among Hong Kong elites, and has openly supported the city’s democracy movement, including during the 2019 protests.</p><p>Last year, Lai was found guilty of two counts of foreign collusion and one count of seditious publication.</p><p>The...
+
+---
+
+[Source: https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/]
+<html><body><div><div class="he-boCo-11616d9 ldJsonContent"><p id="eZ2u0thLyk" data-wc="22">The <a class="hm-link he-link" href="https://www.hellomagazine.com/tags/king-charles/" data-mrf-recirculation="article-body-link">King</a> was heckled again about his brother, Andrew Mountbatten-Windsor, as he arrived for a public engagement in Lancashire on Monday morning. </p><p id="eNy5uBnfhLK" data-wc="30">Charles, 77, greeted crowds at Clitheroe train station and is later expected to meet local manufacturers and farmers on a series of visits in the Ribble Valley throughout the day.  </p><p id="eXXgEi4uw4q" data-wc="46">Charles was meeting well-wishers after arriving by royal train when a man shouted: "How long have you known about Andrew?" The rest of the crowd booed after the question was asked, while a video showed members of the public shouting "shut up" and "kick him out". </p><div class="fr-embedded">
+ <div data-wc="100" id="ekT-53GrQo"><p id="ekT-53GrQo"><figure class="viPl-1156a89"><figcaption class="viPlTi-167079e">King Charles heckled over Andrew Mountbatten-Windsor in Clitheroe</figcaption></figure></p></div>
+</div><p id="eS5raWZcD09" data-wc="57">Clitheroe locals said that the heckler was pulled away by a member of the crowd before walking off. The rest of the reception was generally positive, with some wearing Union flag hats to greet the King, and one brought a Corgi puppy to meet him. The crowd cheered as Charles waved goodbye before getting into a car. </p><p id="e9iLE0XXyA" data-wc="55">The visit comes amid mounting pressure to speak out following an official statement from the Prince and Princess of Wales regarding Andrew Mountbatten-Windsor early on Monday morning. It comes less than a week after the King was heckled about his brother's friendship with convicted sex offender Jeffrey Epstein during a visit to Essex last Thursday. </p><h2 dir="ltr" data-wc="4" id="h2-idp34mlfgnwpa">William and Kate's statement </h2><p id="egjA9Lm6yK4" data-wc="42">In a statement ahead of Prince William's first official visit to Saudi Arabia later today, a spokesman told travelling media: "I can confirm The Prince and Princess have been deeply concerned by the continuing revelations. Their thoughts remain focused on the victims."</p><div class="fr-embedded">
+ <div data-wc="200" id="eU6gS5W7Bf"><figure class="he-meIm-995f02"><div class="imCo-14461c5"><img src="https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg" sizes="(min-width:1360px) 630px, (min-width:960px) 60vw, (min-width:320px) calc(100vw - (var(--page-gutter) * 2)), calc(100vw - (var(--page-gutter) * 2))" srcset="https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg?tx=c_limit,w_960 960w, https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg?tx=c_limit,w_640 640w, https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimage...
+
+---
+
+[Source: https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/]
+<html><body><div><div id="subscription-content">
+<p>Emails released by the US Department of Justice earlier this month appear to show the former duke sharing reports of official visits to Hong Kong, Vietnam, and Singapore.</p>
+<p>One email, dated November 2010, was forwarded by Andrew just five minutes after being sent by his then-special advisor, Amir Patel.</p>
+<figure id="0_4pamibf9" data-urn="urn:pressassociation:video:202402">
+</figure><p>The former duke made the visits in his capacity as trade envoy in late 2010, conducting meetings and trade talks.</p>
+
+<p>Additionally, on Christmas Eve 2010, Andrew looped Epstein in on a confidential brief on investment opportunities in the reconstruction of Helmand Province, Afghanistan.</p>
+<p>Graham Smith, chief executive of anti-monarchy campaign group Republic, said he had reported the allegations to police.</p>
+<p>In a post on X, he said: “I have now reported Andrew to the (Thames Valley Police) for suspected misconduct in public office and breach of official secrets in relation to these specific allegations.</p>
+
+<p>“I cannot see any significant difference between these allegations and those against Peter Mandelson.”</p>
+<p>Andrew has previously denied any wrongdoing over his Epstein links but has not directly responded to the latest allegations.</p>
+<figure id="embedded267647057"><img src="//image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=640" alt="Jeffrey Epstein" data-title="Ghislaine Maxwell court case" data-copyright-holder="PA Media" data-copyright-notice="PA Media" data-credit="US Department of Justice" data-usage-terms="PICTURE DESK USE ONLY. FILE PHOTO NO SALES" srcset="https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=262 262w, https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=524 524w, https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=1049 1049w" sizes="(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px"><figcaption>Jeffrey Epstein was found dead in his jail cell in August 2019 (US Department of Justice/PA)</figcaption></figure><p id="po-inline-article-inside"></p>
+
+<p>On Monday, Thames Valley Police confirmed they were assessing the fresh allegations.</p>
+<p>A Thames Valley Police spokesperson said: “We can confirm receipt of this report and are assessing the information in line with our established procedures.”</p>
+<p>Mr Smith told the Press Association he received a confirmation email after making the report.</p>
+<p>It comes after the force last week said it was assessing allegations that a woman was sent to the UK by Epstein for a sexual encounter with Andrew in 2010.</p>
+
+<p>...
+
+================================================================================
+EVERYTHING WE SEND
+================================================================================
+URL: https://openrouter.ai/api/v1/chat/completions
+
+Headers:
+  Content-Type: application/json
+  Authorization: Bearer sk-or-v1-2aaff20949b...
+
+Body (full JSON; user message contains the full prompt with articles):
+{
+  "model": "openai/gpt-4o-mini",
+  "messages": [
+    {
+      "role": "system",
+      "content": "You are a geopolitical analyst. Respond only with valid JSON."
+    },
+    {
+      "role": "user",
+      "content": "You are analyzing a geopolitical event for a map visualization. Output only valid JSON.\n\nGDELT Event Data:\n- Type: anomaly\n- Participants (countries/actors): (none)\n- Participant count: 0 (use this to decide visualization_type)\n- Location: N/A\n- Description: Anomaly: Hong Kong - 1250.0% above normal (z=17.68)\n- Confidence: 0.95\n- Source URLs: https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters, https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/, https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/, https://www.peeblesshirenews.com/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/, https://www.theargus.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/\n\nRelated Articles (excerpts):\n[Source: https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters]\n<html><body><div><div class=\"wysiwyg wysiwyg--all-content\" aria-live=\"polite\" aria-atomic=\"true\"><p>Jimmy Lai, Hong Kong’s prominent pro-democracy prisoner and media mogul, was sentenced to 20 years in prison under Beijing’s sweeping national security law on Monday in a high-profile case that has dragged on for five years.</p><p>Lai, the founder ⁠of the now-shuttered Apple Daily newspaper, was first arrested in August 2020 and found guilty late last year on two counts of foreign collusion and one count of seditious publication.</p><p>Now age 78, he faces a prison term that is effectively a life sentence, rights groups say – a “profoundly unjust” verdict they call emblematic of China’s crackdown on pro-democracy activists in Hong Kong.</p><p>More than six years have passed since millions of Hong Kongers – led by students and young activists – first took to the streets to protest against Beijing’s expanding powers in the territory in 2019.</p><p>After a months-long standoff with protesters occupying roads ended with thousands of arrests, China imposed its sweeping national security law in Hong Kong in 2020, effectively quelling the most significant challenge to the Communist Party’s authority in decades.</p><p>Called the Law of the People’s Republic of China on Safeguarding National Security in the Hong Kong Special Administrative Region, the legislation practically criminalised protest, or any act of subversion, in Hong Kong. Since its introduction, it has seen a near-100 percent conviction rate.</p><p>So, what happened to the pro-democracy activists in these years, and where are they now?</p><figure id=\"attachment_4174732\" aria-describedby=\"caption-attachment-4174732\" class=\"wp-caption aligncenter\"><img data-recalc-dims=\"1\" loading=\"lazy\" class=\"size-arc-image-770 wp-image-4174732\" src=\"/wp-content/uploads/2025/12/AP25348133895375-1765768888.jpg?w=770&amp;resize=770%2C514&amp;quality=80\" alt=\"Jimmy Lai escorted from Stanley Prison\" fetchpriority=\"low\"><figcaption id=\"caption-attachment-4174732\" class=\"wp-caption-text\">Jimmy Lai walks through the Stanley Prison in Hong Kong on July 28, 2023 [File: Louise Delmotte/AP]</figcaption></figure><h2 id=\"who-is-jimmy-lai-and-what-is-his-sentence-for\">Who is Jimmy Lai, and what is his sentence for?</h2><p>Lai’s case has drawn the attention of world leaders and global rights groups.</p><p>Before he was arrested in 2020 and held in solitary confinement in Hong Kong’s high-security Stanley Prison, Lai was one of Hong Kong’s most famous rags-to-riches stories.</p><p>After fleeing China for then-British Hong Kong as a child in the 1950s, he built up a business empire in the city, including the tabloid Apple Daily, over several decades.</p><p>He was among the few Beijing critics among Hong Kong elites, and has openly supported the city’s democracy movement, including during the 2019 protests.</p><p>Last year, Lai was found guilty of two counts of foreign collusion and one count of seditious publication.</p><p>The...\n\n---\n\n[Source: https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/]\n<html><body><div><div class=\"he-boCo-11616d9 ldJsonContent\"><p id=\"eZ2u0thLyk\" data-wc=\"22\">The <a class=\"hm-link he-link\" href=\"https://www.hellomagazine.com/tags/king-charles/\" data-mrf-recirculation=\"article-body-link\">King</a> was heckled again about his brother, Andrew Mountbatten-Windsor, as he arrived for a public engagement in Lancashire on Monday morning. </p><p id=\"eNy5uBnfhLK\" data-wc=\"30\">Charles, 77, greeted crowds at Clitheroe train station and is later expected to meet local manufacturers and farmers on a series of visits in the Ribble Valley throughout the day.  </p><p id=\"eXXgEi4uw4q\" data-wc=\"46\">Charles was meeting well-wishers after arriving by royal train when a man shouted: \"How long have you known about Andrew?\" The rest of the crowd booed after the question was asked, while a video showed members of the public shouting \"shut up\" and \"kick him out\". </p><div class=\"fr-embedded\">\n <div data-wc=\"100\" id=\"ekT-53GrQo\"><p id=\"ekT-53GrQo\"><figure class=\"viPl-1156a89\"><figcaption class=\"viPlTi-167079e\">King Charles heckled over Andrew Mountbatten-Windsor in Clitheroe</figcaption></figure></p></div>\n</div><p id=\"eS5raWZcD09\" data-wc=\"57\">Clitheroe locals said that the heckler was pulled away by a member of the crowd before walking off. The rest of the reception was generally positive, with some wearing Union flag hats to greet the King, and one brought a Corgi puppy to meet him. The crowd cheered as Charles waved goodbye before getting into a car. </p><p id=\"e9iLE0XXyA\" data-wc=\"55\">The visit comes amid mounting pressure to speak out following an official statement from the Prince and Princess of Wales regarding Andrew Mountbatten-Windsor early on Monday morning. It comes less than a week after the King was heckled about his brother's friendship with convicted sex offender Jeffrey Epstein during a visit to Essex last Thursday. </p><h2 dir=\"ltr\" data-wc=\"4\" id=\"h2-idp34mlfgnwpa\">William and Kate's statement </h2><p id=\"egjA9Lm6yK4\" data-wc=\"42\">In a statement ahead of Prince William's first official visit to Saudi Arabia later today, a spokesman told travelling media: \"I can confirm The Prince and Princess have been deeply concerned by the continuing revelations. Their thoughts remain focused on the victims.\"</p><div class=\"fr-embedded\">\n <div data-wc=\"200\" id=\"eU6gS5W7Bf\"><figure class=\"he-meIm-995f02\"><div class=\"imCo-14461c5\"><img src=\"https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg\" sizes=\"(min-width:1360px) 630px, (min-width:960px) 60vw, (min-width:320px) calc(100vw - (var(--page-gutter) * 2)), calc(100vw - (var(--page-gutter) * 2))\" srcset=\"https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg?tx=c_limit,w_960 960w, https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimages-2260670215.jpg?tx=c_limit,w_640 640w, https://images.hellomagazine.com/horizon/original_aspect_ratio/06250b0b843a-gettyimage...\n\n---\n\n[Source: https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/]\n<html><body><div><div id=\"subscription-content\">\n<p>Emails released by the US Department of Justice earlier this month appear to show the former duke sharing reports of official visits to Hong Kong, Vietnam, and Singapore.</p>\n<p>One email, dated November 2010, was forwarded by Andrew just five minutes after being sent by his then-special advisor, Amir Patel.</p>\n<figure id=\"0_4pamibf9\" data-urn=\"urn:pressassociation:video:202402\">\n</figure><p>The former duke made the visits in his capacity as trade envoy in late 2010, conducting meetings and trade talks.</p>\n\n<p>Additionally, on Christmas Eve 2010, Andrew looped Epstein in on a confidential brief on investment opportunities in the reconstruction of Helmand Province, Afghanistan.</p>\n<p>Graham Smith, chief executive of anti-monarchy campaign group Republic, said he had reported the allegations to police.</p>\n<p>In a post on X, he said: “I have now reported Andrew to the (Thames Valley Police) for suspected misconduct in public office and breach of official secrets in relation to these specific allegations.</p>\n\n<p>“I cannot see any significant difference between these allegations and those against Peter Mandelson.”</p>\n<p>Andrew has previously denied any wrongdoing over his Epstein links but has not directly responded to the latest allegations.</p>\n<figure id=\"embedded267647057\"><img src=\"//image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=640\" alt=\"Jeffrey Epstein\" data-title=\"Ghislaine Maxwell court case\" data-copyright-holder=\"PA Media\" data-copyright-notice=\"PA Media\" data-credit=\"US Department of Justice\" data-usage-terms=\"PICTURE DESK USE ONLY. FILE PHOTO NO SALES\" srcset=\"https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=262 262w, https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=524 524w, https://image.assets.pressassociation.io/v2/image/production/16ce26f7ce7aa84b81c8ec7dbd846aa2Y29udGVudHNlYXJjaGFwaSwxNzcwNzMyNzQx/2.67647057.jpg?w=1049 1049w\" sizes=\"(max-width: 767px) 89vw, (max-width: 1000px) 54vw, (max-width: 1071px) 543px, 580px\"><figcaption>Jeffrey Epstein was found dead in his jail cell in August 2019 (US Department of Justice/PA)</figcaption></figure><p id=\"po-inline-article-inside\"></p>\n\n<p>On Monday, Thames Valley Police confirmed they were assessing the fresh allegations.</p>\n<p>A Thames Valley Police spokesperson said: “We can confirm receipt of this report and are assessing the information in line with our established procedures.”</p>\n<p>Mr Smith told the Press Association he received a confirmation email after making the report.</p>\n<p>It comes after the force last week said it was assessing allegations that a woman was sent to the UK by Epstein for a sexual encounter with Andrew in 2010.</p>\n\n<p>...\n\nRULES (follow strictly):\n1. visualization_type:\n   - When Participant count is 2 or more, use \"geodesic\" (arc between two countries). Geodesic draws an arc between the first two countries in Participants.\n   - Use \"geodesic\" ONLY when there are at least TWO distinct countries in Participants (e.g. \"USA, China\" or \"Israel, Lebanon\").\n   - Use \"dot\" in ALL other cases: when Participants is empty, when there is only one country/actor, when the event is about a single location/hotspot/anomaly/actor, or when the event type is anomaly/hotspot/location/actor. Dot shows a single point on the map.\n2. For \"dot\" you MUST set location. Use event Location if given (lat/lon), or infer from description (e.g. \"Israel\" -> {\"iso\": \"ISR\"}, \"United States\" -> {\"iso\": \"USA\"}). Format: {\"lat\": number, \"lon\": number} or {\"iso\": \"XXX\"}. For \"geodesic\" set location to null.\n3. arc_style: \"dashed\" | \"solid\" | \"dotted\" (only for geodesic; use \"solid\" if dot).\n4. analysis: 2-4 sentence summary.\n5. toast_message: one short line for a notification.\n6. toast_type: \"info\" | \"success\" | \"warning\" | \"error\".\n7. confidence: 0.0-1.0.\n\nReturn valid JSON only with keys: analysis, visualization_type, arc_style, location, toast_message, toast_type, confidence."
+    }
+  ],
+  "response_format": {
+    "type": "json_object"
+  }
+}
+
+================================================================================
+EVERYTHING WE RECEIVE
+================================================================================
+Status: 200
+
+Response headers:
+  Date: Mon, 09 Feb 2026 20:38:16 GMT
+  Content-Type: application/json
+  Transfer-Encoding: chunked
+  Connection: keep-alive
+  Content-Encoding: gzip
+  Access-Control-Allow-Origin: *
+  Vary: Accept-Encoding
+  Permissions-Policy: payment=(self "https://checkout.stripe.com" "https://connect-js.stripe.com" "https://js.stripe.com" "https://*.js.stripe.com" "https://hooks.stripe.com")
+  Referrer-Policy: no-referrer, strict-origin-when-cross-origin
+  X-Content-Type-Options: nosniff
+  Server: cloudflare
+  CF-RAY: 9cb62b5b1c9aad7b-DEL
+
+Response body (full JSON):
+{
+  "id": "gen-1770669495-faeYAZRr9MLmNdXZRa6M",
+  "provider": "OpenAI",
+  "model": "openai/gpt-4o-mini",
+  "object": "chat.completion",
+  "created": 1770669495,
+  "choices": [
+    {
+      "logprobs": null,
+      "finish_reason": "stop",
+      "native_finish_reason": "stop",
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "{\n  \"analysis\": \"The event indicates a significant anomaly in Hong Kong, with reported activity 1250% above normal levels, highlighting ongoing tensions and challenges related to the pro-democracy movement. This spike likely correlates with recent developments concerning high-profile cases like that of Jimmy Lai, which reflect the broader implications of Beijing's national security laws in the region. The outlier status of this event suggests a critical moment in Hong Kong's sociopolitical landscape that merits close attention from observers and analysts.\",\n  \"visualization_type\": \"dot\",\n  \"arc_style\": \"solid\",\n  \"location\": {\n    \"iso\": \"HKG\"\n  },\n  \"toast_message\": \"Significant anomaly detected in Hong Kong.\",\n  \"toast_type\": \"info\",\n  \"confidence\": 0.95\n}",
+        "refusal": null,
+        "reasoning": null
+      }
+    }
+  ],
+  "system_fingerprint": "fp_842ff35899",
+  "usage": {
+    "prompt_tokens": 3223,
+    "completion_tokens": 165,
+    "total_tokens": 3388,
+    "cost": 0.00058245,
+    "is_byok": false,
+    "prompt_tokens_details": {
+      "cached_tokens": 0,
+      "audio_tokens": 0
+    },
+    "cost_details": {
+      "upstream_inference_cost": 0.00058245,
+      "upstream_inference_prompt_cost": 0.00048345,
+      "upstream_inference_completions_cost": 9.9e-05
+    },
+    "completion_tokens_details": {
+      "reasoning_tokens": 0,
+      "audio_tokens": 0
+    }
+  }
+}

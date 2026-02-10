@@ -1,0 +1,41 @@
+{
+  "id": "conflict_paris_france_general_france_violence_fra",
+  "name": "Conflict: Paris, France (general), France (violence)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [
+    "FRA"
+  ],
+  "description": "Conflict: Paris, France (general), France (violence)",
+  "sources": [
+    {
+      "url": "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "FRA"
+  },
+  "toast_message": "Analysis complete for incident in France.",
+  "toast_type": "info",
+  "llm_analysis": "The linked article recounts the harrowing experience of a French magistrate and her mother, who were kidnapped as part of a cryptocurrency ransom plot. The mother-daughter duo were held captive for 30 hours before managing to escape during a moment when their captors were absent. Their escape led to a dramatic rescue by neighbors and a subsequent manhunt that resulted in the arrest of several suspects connected to the kidnapping. This incident highlights a concerning trend of crypto-related kidnappings in France, showcasing an increase in violence and criminal activity associated with the cryptocurrency sector.\n\nBy analyzing the article and the broader context of recent kidnappings in France, it is evident that there is a troubling uptick in such crimes, driven by the allure and financial motivation tied to cryptocurrencies. This reflects a significant shift in the nature of violence in urban settings, where potentially large ransoms can incite organized crime. The implications of these developments suggest a growing need for law enforcement to adapt strategies to address and mitigate the risks associated with cryptocurrency-related offenses, especially as they become more prevalent in urban environments like Paris.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "source_urls": [
+    "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 168,
+    "severity_score": 352.0
+  }
+}

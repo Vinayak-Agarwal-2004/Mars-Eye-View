@@ -1,0 +1,47 @@
+{
+  "id": "anomaly_rhode_island_united_states__12000_above_normal_z1697",
+  "name": "Anomaly: Rhode Island, United States - 1200.0% above normal (z=16.97)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Rhode Island, United States - 1200.0% above normal (z=16.97)",
+  "sources": [
+    {
+      "url": "https://13wham.com/news/nation-world/providence-expected-to-release-public-records-on-the-brown-university-shooting-school-mass-shooting-city-response-to-gunman-feb-9-2026",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://abcnews4.com/news/nation-world/providence-expected-to-release-public-records-on-the-brown-university-shooting-school-mass-shooting-city-response-to-gunman-feb-9-2026",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://foxreno.com/news/nation-world/providence-expected-to-release-public-records-on-the-brown-university-shooting-school-mass-shooting-city-response-to-gunman-feb-9-2026",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://katv.com/news/nation-world/providence-expected-to-release-public-records-on-the-brown-university-shooting-school-mass-shooting-city-response-to-gunman-feb-9-2026",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://klewtv.com/news/nation-world/providence-expected-to-release-public-records-on-the-brown-university-shooting-school-mass-shooting-city-response-to-gunman-feb-9-2026",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

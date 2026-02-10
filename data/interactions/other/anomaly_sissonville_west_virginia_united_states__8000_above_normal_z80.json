@@ -1,0 +1,53 @@
+{
+  "id": "anomaly_sissonville_west_virginia_united_states__8000_above_normal_z80",
+  "name": "Anomaly: Sissonville, West Virginia, United States - 800.0% above normal (z=8.0)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Sissonville, West Virginia, United States - 800.0% above normal (z=8.0)",
+  "sources": [
+    {
+      "url": "https://www.wsaz.com/2026/02/10/man-sentenced-kanawha-county-murder-trial/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://wchstv.com/news/local/man-charged-in-death-investigation-in-logan-county-troopers-say",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wvgazettemail.com/news/legislative_session/wv-senate-law-enforcement-must-notify-ice-if-they-id-undocumented-immigrants/article_fcb994f0-1512-5ac6-86e8-1fd468f0fe0d.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected: Crime surge in West Virginia.",
+  "toast_type": "warning",
+  "llm_analysis": "The first article discusses the sentencing of Michael Smith, who was convicted of second-degree murder related to the death of Cheyenne Johnson in Sissonville, West Virginia. It describes the circumstances of the murder and the details of Smith's sentencing. The second article covers the arrest of Jimmy Dale Conley Jr., charged with drug-related offenses following a woman's overdose death in Logan County, showcasing ongoing issues with drug abuse in the region. The third article highlights a legislative requirement for law enforcement in West Virginia regarding undocumented immigrants, indicating a political response to broader societal issues.\n\nThese articles collectively illustrate a pattern of violent crime and its consequences in West Virginia, emphasizing both individual criminal cases and systemic issues like drug abuse and law enforcement practices. While the first two articles focus on crime and its repercussions, the third addresses legislative action, indicating a multifaceted approach to addressing these challenges in the state.\n\nOverall, there is an alarming spike in crime and drug-related incidents in West Virginia, highlighted by an 800% anomaly. This statistic suggests that recent events may be indicative of larger, troubling trends that could reflect broader societal unrest or systemic issues within the state's law enforcement and public health approach.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.wsaz.com/2026/02/10/man-sentenced-kanawha-county-murder-trial/",
+    "https://wchstv.com/news/local/man-charged-in-death-investigation-in-logan-county-troopers-say",
+    "https://www.wvgazettemail.com/news/legislative_session/wv-senate-law-enforcement-must-notify-ice-if-they-id-undocumented-immigrants/article_fcb994f0-1512-5ac6-86e8-1fd468f0fe0d.html"
+  ],
+  "gdelt_metadata": {
+    "z_score": 8.0,
+    "severity": "critical",
+    "current_count": 9,
+    "baseline_mean": 1.0
+  }
+}

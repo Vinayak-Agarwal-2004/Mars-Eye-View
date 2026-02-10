@@ -1,0 +1,50 @@
+{
+  "id": "anomaly_hong_kong__12500_above_normal_z1768",
+  "name": "Anomaly: Hong Kong - 1250.0% above normal (z=17.68)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Hong Kong - 1250.0% above normal (z=17.68)",
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.peeblesshirenews.com/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theargus.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 22.3964,
+    "lon": 114.1099
+  },
+  "toast_message": "Heightened global concern over Hong Kong's democracy suppression.",
+  "toast_type": "warning",
+  "llm_analysis": "The sentencing of pro-democracy activist Jimmy Lai in Hong Kong to a 20-year prison term under the national security law underscores the escalating repression of dissent in the region, reflecting China's broader crackdown on civil liberties. This anomaly, representing a drastic increase in related events, is indicative of the heightened international concern surrounding the treatment of political prisoners and the implications for Hong Kong's autonomy.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "conflict_gaza_israel_general_israel_violence",
+  "name": "Conflict: Gaza, Israel (general), Israel (violence)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Gaza, Israel (general), Israel (violence)",
+  "sources": [
+    {
+      "url": "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "ISR"
+  },
+  "toast_message": "Analysis complete for Gaza-Israel conflict.",
+  "toast_type": "info",
+  "llm_analysis": "The source article discusses an incident in which a person experienced a violent altercation during a police rally, highlighting the chaotic nature of the event and the ongoing tensions in the region. This incident illustrates the broader conflict in the area, particularly the violence that has been prevalent in Israel and Gaza.\n\nThe articles present a consistent perspective on the troubles faced during the rally and reflect the increasing anxieties around public safety in the context of broader socio-political unrest, suggesting a society under considerable strain. The implications are significant: ongoing violence not only affects immediate safety but also may exacerbate existing tensions within the community and influence public perception of law enforcement in such situations.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "source_urls": [
+    "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 50,
+    "severity_score": 116.0
+  }
+}

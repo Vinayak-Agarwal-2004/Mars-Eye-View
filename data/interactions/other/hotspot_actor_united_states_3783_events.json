@@ -1,0 +1,83 @@
+{
+  "id": "hotspot_actor_united_states_3783_events",
+  "name": "Hotspot: actor united states (3783 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor united states (3783 events)",
+  "sources": [
+    {
+      "url": "https://thedailyrecord.com/2026/02/03/maryland-appellate-court-defense-of-others-murder-trial/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.observer-reporter.com/editors_pick/2026/feb/04/fire-destroys-old-barn-at-historic-ross-farm-killing-138-sheep/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wrdw.com/2026/02/09/fathers-trial-apalachee-school-shooting-what-you-need-know/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.atlantanewsfirst.com/2026/02/09/colin-grays-apalachee-school-shooting-trial-what-you-need-know/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://thedailyrecord.com/2026/02/03/maryland-appellate-court-defense-of-others-murder-trial/",
+    "https://www.observer-reporter.com/editors_pick/2026/feb/04/fire-destroys-old-barn-at-historic-ross-farm-killing-138-sheep/",
+    "https://www.wrdw.com/2026/02/09/fathers-trial-apalachee-school-shooting-what-you-need-know/",
+    "https://www.atlantanewsfirst.com/2026/02/09/colin-grays-apalachee-school-shooting-trial-what-you-need-know/",
+    "https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/"
+  ],
+  "gdelt_metadata": {
+    "count": 3783,
+    "key": "united states",
+    "categories": [
+      [
+        "CRIME",
+        1678
+      ],
+      [
+        "CONFLICT",
+        1614
+      ],
+      [
+        "VIOLENCE",
+        241
+      ],
+      [
+        "PROTEST",
+        145
+      ],
+      [
+        "DISPLACEMENT",
+        105
+      ]
+    ]
+  }
+}

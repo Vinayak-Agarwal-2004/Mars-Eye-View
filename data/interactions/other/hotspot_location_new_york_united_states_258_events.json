@@ -1,0 +1,86 @@
+{
+  "id": "hotspot_location_new_york_united_states_258_events",
+  "name": "Hotspot: location New York, United States (258 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location New York, United States (258 events)",
+  "sources": [
+    {
+      "url": "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://kfgo.com/2026/02/09/luigi-mangione-speaks-out-in-protest-as-judge-sets-state-murder-trial-for-june-8/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.foxnews.com/us/mamdani-calls-da-not-prosecute-mentally-ill-man-shot-police-knife-attack",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 41.62162162162162,
+    "lon": -75.13513513513514
+  },
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+    "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+    "https://kfgo.com/2026/02/09/luigi-mangione-speaks-out-in-protest-as-judge-sets-state-murder-trial-for-june-8/",
+    "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+    "https://www.foxnews.com/us/mamdani-calls-da-not-prosecute-mentally-ill-man-shot-police-knife-attack"
+  ],
+  "gdelt_metadata": {
+    "count": 258,
+    "key": "38:-70",
+    "categories": [
+      [
+        "CRIME",
+        125
+      ],
+      [
+        "CONFLICT",
+        91
+      ],
+      [
+        "PROTEST",
+        19
+      ],
+      [
+        "DISPLACEMENT",
+        12
+      ],
+      [
+        "VIOLENCE",
+        11
+      ]
+    ]
+  }
+}

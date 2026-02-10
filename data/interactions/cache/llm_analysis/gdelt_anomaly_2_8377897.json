@@ -1,0 +1,11 @@
+{
+  "analysis": "Recent incidents in Cleveland, Ohio, have highlighted a troubling spike in violent crime and police-related controversies, with reported shootings at nightclubs and allegations against law enforcement officers for unlawful detainment. The 800% anomaly indicates a significant deviation from normal patterns, likely fueled by escalating tensions linked to gun violence and misconduct within the police force. Such issues reflect broader societal challenges concerning law enforcement practices and public safety in urban areas.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Cleveland reports alarming spike in violence and police scrutiny.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_jpnusa_conflict_jpn_usa",
+  "name": "Diplomatic: JPN-USA (conflict)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [
+    "JPN",
+    "USA"
+  ],
+  "description": "Diplomatic: JPN-USA (conflict)",
+  "sources": [
+    {
+      "url": "https://newsradio1049.iheart.com/content/2026-02-09-tow-truck-driver-on-the-run-after-allegedly-murdering-two-competitors/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://newsradio1049.iheart.com/content/2026-02-09-tow-truck-driver-on-the-run-after-allegedly-murdering-two-competitors/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 12,
+    "GoldsteinScale": -8.0,
+    "EventDate": "2026-02-10"
+  }
+}

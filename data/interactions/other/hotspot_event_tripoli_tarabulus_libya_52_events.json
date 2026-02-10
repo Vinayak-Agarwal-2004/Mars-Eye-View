@@ -1,0 +1,50 @@
+{
+  "id": "hotspot_event_tripoli_tarabulus_libya_52_events",
+  "name": "Hotspot: event Tripoli, Tarabulus, Libya (52 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Tripoli, Tarabulus, Libya (52 events)",
+  "sources": [
+    {
+      "url": "https://www.thetimes.com/world/middle-east/article/aif-gaddafi-son-dead-dies-libya-3b7x9zgcn",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.livemint.com/news/world/saif-al-islam-gaddafi-son-of-slain-ex-libyan-leader-muammar-gaddafi-confirmed-dead-11770166548400.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.eurasiareview.com/04022026-libya-saif-al-islam-gaddafi-killed-in-clashes-near-zintan/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/who-was-saif-al-islam-gaddafi-son-of-late-libya-dictator-moammar-gaddafi-killed-in-his-home/articleshow/127897864.cms",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.mirror.co.uk/news/world-news/dictator-colonel-gaddafis-son-killed-36665822",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 32.8756,
+    "lon": 13.378
+  },
+  "toast_message": "Saif al-Islam Gaddafi killed in Libya.",
+  "toast_type": "info",
+  "llm_analysis": "Saif al-Islam Gaddafi, the last surviving son of the late Libyan leader Muammar Gaddafi, was reportedly killed in an armed attack at his home in Zintan, Libya. This incident not only signifies the ongoing instability in Libya but also raises questions about the factions vying for power in the post-Gaddafi era. Calls from his political team for an investigation into the circumstances surrounding his death indicate potential for further conflict in a nation still recovering from a decade of turmoil.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "hotspot"
+}

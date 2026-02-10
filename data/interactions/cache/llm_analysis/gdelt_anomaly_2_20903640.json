@@ -1,0 +1,11 @@
+{
+  "analysis": "The GDELT event data indicates a significant anomaly in New Mexico, with reports highlighting a 250% increase above normal levels, described with a z-score of 10.0. The first article from KRGV discusses the return of a Columbia man, Owen Ramsingh, to the Netherlands after a deportation ruling made by a judge in New Mexico. The second article from E&E News covers a proposed settlement regarding water rights on the Rio Grande, which involves New Mexico forfeiting a certain amount of groundwater to Texas. The third article from the Albuquerque Journal focuses on a murder trial linked to a shooting at a car meet in Las Cruces, showing how violence is affecting community events. The fourth article from KITV discusses a trial against Meta over child sexual exploitation, emphasizing the dangers of social media platforms. \n\nThese articles collectively paint a picture of New Mexico undergoing various critical societal and legal issues, from immigration and water rights to violence and corporate accountability in child safety. While some issues are distinct, they collectively represent a state grappling with significant legal, social, and ethical challenges, indicating a broader concern for community safety and legal justice that may affect its socio-political landscape in the future.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Geopolitical anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

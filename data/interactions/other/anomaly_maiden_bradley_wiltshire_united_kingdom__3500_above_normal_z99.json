@@ -1,0 +1,47 @@
+{
+  "id": "anomaly_maiden_bradley_wiltshire_united_kingdom__3500_above_normal_z99",
+  "name": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 350.0% above normal (z=9.9)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 350.0% above normal (z=9.9)",
+  "sources": [
+    {
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-15542839/VIP-abuse-ring-fantasist-Nick-freed-serving-half-sentence-Labours-prisoner-early-release-scheme.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/25837003.starmer-position-complete-weakness-says-swinney/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.express.co.uk/news/uk/2168626/twisted-nursery-worker-raped-abused",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

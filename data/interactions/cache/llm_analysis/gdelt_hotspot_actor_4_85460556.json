@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent developments in the UK reflect significant geopolitical tensions tied to anti-Zionist movements, particularly with the arrests at the Birmingham launch of the Anti-Zionist Movement, which emphasize a growing polarization. Additionally, the tragic death of Captain Muldowney during training highlights the risks associated with military operations, serving as a reminder of the human element in these geopolitical discussions.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 54.5,
+    "lon": -2.5
+  },
+  "toast_message": "UK geopolitical tensions rise amid anti-Zionist movement.",
+  "toast_type": "warning",
+  "confidence": 0.75
+}

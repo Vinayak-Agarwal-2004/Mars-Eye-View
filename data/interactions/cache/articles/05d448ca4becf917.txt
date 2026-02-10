@@ -1,0 +1,23 @@
+<html><body><div><div id="article-body" itemprop="articleBody" class="asset-content  subscriber-premium" false>
+                                <meta itemprop="isAccessibleForFree" content="true">
+                                
+                                
+                                <p>A 38-year-old woman is safe, and a 35-year-old man, identified as Anthony Harwell, has been arrested and charged with aggravated kidnapping.</p><p>"On Monday, February 2, 2026 at 10:44 p.m. Kerrville Police Department officers responded to a report of a kidnapping that took place in a parking garage in the 200 block of Water Street," KPD Sgt. Jonathan Lamb said. "Officers spoke with a witness who reported that they took the victim to meet Harwell in order to retrieve personal property belonging to the victim. During that interaction, Harwell forced the victim into his vehicle and left the parking garage in an unknown direction."</p><p>According to Lamb, officers immediately attempted to locate the suspect vehicle, notified neighboring law enforcement agencies and issued a state-wide Coordinated Law Enforcement Adult Rescue Alert.</p>
+        <p data-tnt-ads-tmp='{"vendor":"blox","type":"region","region":"fixed-big-ad-top-asset","id":"fixed-big-ad-top-asset","pos":"fixed-big-ad-top-asset, atf","fold":"above","include_domain":null,"size":"[300,250]","height":"250","width":"300","mobile":false,"js":{"video":"https:\/\/bloximages.chicago2.vip.townnews.com\/hccommunityjournal.com\/shared-content\/art\/tncms\/templates\/libraries\/flex\/components\/video\/resources\/scripts\/video.512a6903eae08e033c76afdce2a0eac7.js"},"overline":null,"index_slug":null,"url":"\/","refresh":false}'></p><p id="tncms-region-article_instory_top" class="tncms-region hidden-print"></p><p>"The suspect vehicle was later located parked at a residence in Somerville, Texas. The Texas Department of Public Safety Texas Rangers coordinated a law enforcement response which resulted in the arrest of the suspect without incident and the safe recovery of the victim," Lamb said.</p><p>Subsequent to the criminal investigation, KPD detectives obtained an arrest warrant for Aggravated Kidnapping, Texas Penal Code 20.04, and the suspect was arrested and booked into the Burleson County Jail, where he is being held pending bond, Lamb said.</p>
+        <p data-tnt-ads-tmp='{"vendor":"blox","type":"region","region":"fixed-big-ad-bottom-asset","id":"fixed-big-ad-bottom-asset","pos":"fixed-big-ad-bottom-asset, btf","fold":"below","include_domain":null,"size":"[300,250]","height":"250","width":"300","mobile":false,"js":{"video":"https:\/\/bloximages.chicago2.vip.townnews.com\/hccommunityjournal.com\/shared-content\/art\/tncms\/templates\/libraries\/flex\/components\/video\/resources\/scripts\/video.512a6903eae08e033c76afdce2a0eac7.js"},"overline":null,"index_slug":null,"url":"\/","refresh":false}'></p><p id="tncms-region-article_instory_bottom" class="tncms-region hidden-print"></p>
+                                <p id="tncms-region-article_bottom_content" class="tncms-region hidden-print"></p>
+                                
+                            </div>
+
+                            
+
+                            
+    
+
+
+                            
+    
+
+
+                            
+                                </div></body></html>

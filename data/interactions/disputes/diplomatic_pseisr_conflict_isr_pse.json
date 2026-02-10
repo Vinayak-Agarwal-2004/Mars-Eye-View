@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_pseisr_conflict_isr_pse",
+  "name": "Diplomatic: PSE-ISR (conflict)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [
+    "PSE",
+    "ISR"
+  ],
+  "description": "Diplomatic: PSE-ISR (conflict)",
+  "sources": [
+    {
+      "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 12,
+    "GoldsteinScale": -8.0,
+    "EventDate": "2026-02-10"
+  }
+}

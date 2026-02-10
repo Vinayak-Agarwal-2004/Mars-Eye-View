@@ -1,0 +1,37 @@
+{
+  "id": "anomaly_cleveland_ohio_united_states__8000_above_normal_z160",
+  "name": "Anomaly: Cleveland, Ohio, United States - 800.0% above normal (z=16.0)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Cleveland, Ohio, United States - 800.0% above normal (z=16.0)",
+  "sources": [
+    {
+      "url": "https://www.cleveland19.com/2026/02/09/arraignment-2-men-charged-connection-with-deadly-cleveland-nightclub-shooting/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.cleveland19.com/2026/02/09/court-hearing-2-ne-ohio-officers-facing-charges-incident-with-man-they-thought-was-undocumented/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.cleveland19.com/2026/02/09/man-found-dead-outside-north-olmsted-home/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

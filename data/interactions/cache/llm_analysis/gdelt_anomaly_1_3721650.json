@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent surge in media activity surrounding the Brown University shooting in Providence, Rhode Island, indicates a significant public interest and concern about the event, especially given the reported 1200% increase above normal levels. The release of bodycam footage and incident reports by the city aims to balance transparency with the sensitivities of the ongoing mourning process for the affected families. The mayor's comments highlight the challenge of addressing public demand for information while considering the emotional impact on the community.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Providence reports surge in media coverage following school shooting.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

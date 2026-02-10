@@ -1,0 +1,86 @@
+{
+  "id": "hotspot_location_arncliffe_new_south_wales_australia_291_events",
+  "name": "Hotspot: location Arncliffe, New South Wales, Australia (291 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Arncliffe, New South Wales, Australia (291 events)",
+  "sources": [
+    {
+      "url": "https://www.theguardian.com/australia-news/2026/feb/10/sheikh-who-led-prayer-at-sydney-protest-against-herzog-says-police-were-unhinged-and-aggressive-ntwnfb",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.perthnow.com.au/news/dagger-at-the-heart-of-our-country-former-pm-tony-abbott-erupts-amid-sydney-protest-c-21585521",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.aol.co.uk/articles/australia-calls-restraint-clashes-sydney-064843860.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": -34.054054054054056,
+    "lon": 150.8108108108108
+  },
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.theguardian.com/australia-news/2026/feb/10/sheikh-who-led-prayer-at-sydney-protest-against-herzog-says-police-were-unhinged-and-aggressive-ntwnfb",
+    "https://www.perthnow.com.au/news/dagger-at-the-heart-of-our-country-former-pm-tony-abbott-erupts-amid-sydney-protest-c-21585521",
+    "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+    "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+    "https://www.aol.co.uk/articles/australia-calls-restraint-clashes-sydney-064843860.html"
+  ],
+  "gdelt_metadata": {
+    "count": 291,
+    "key": "-32:139",
+    "categories": [
+      [
+        "CONFLICT",
+        102
+      ],
+      [
+        "PROTEST",
+        81
+      ],
+      [
+        "CRIME",
+        59
+      ],
+      [
+        "VIOLENCE",
+        47
+      ],
+      [
+        "DISPLACEMENT",
+        2
+      ]
+    ]
+  }
+}

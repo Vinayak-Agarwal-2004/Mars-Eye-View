@@ -1,0 +1,31 @@
+{
+  "id": "conflict_hollywood_california_united_states_protest",
+  "name": "Conflict: Hollywood, California, United States (protest)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Hollywood, California, United States (protest)",
+  "sources": [
+    {
+      "url": "https://wwmt.com/news/entertainment/dax-shepard-recounts-car-accident-nearly-killed-him-armchair-expert-when-in-rome-kristen-bell-kaley-cuoco",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 34.0928,
+    "lon": -118.3287
+  },
+  "toast_message": "Protests in Hollywood highlight cultural anxieties.",
+  "toast_type": "info",
+  "llm_analysis": "The protest in Hollywood, California appears to stem from a convergence of social dynamics, as highlighted by the recent near-death revelations of actor Dax Shepard. His harrowing recount of a life-threatening car accident serves as a poignant reminder of life's fragility, potentially resonating with the sentiments expressed by protesters advocating for various issues connected to Hollywood culture and celebrity influence.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "category": "disputes"
+}

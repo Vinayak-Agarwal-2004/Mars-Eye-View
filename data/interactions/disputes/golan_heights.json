@@ -1,0 +1,49 @@
+{
+  "id": "golan_heights",
+  "name": "Golan Heights",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Israeli administration",
+    "since": 1967
+  },
+  "claimants": [
+    {
+      "iso": "ISR",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "SYR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ISR",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Territory captured by Israel from Syria in 1967, annexed in 1981",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.701800Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.701805Z",
+    "updated": "2026-02-01T22:23:47.701807Z",
+    "confidence": 0.8
+  }
+}

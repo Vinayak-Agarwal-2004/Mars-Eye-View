@@ -1,0 +1,30 @@
+{
+  "id": "diplomatic_isrirn_military_irn_isr",
+  "name": "Diplomatic: ISR-IRN (military)",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "IRN",
+    "ISR"
+  ],
+  "description": "Diplomatic: ISR-IRN (military)",
+  "sources": [
+    {
+      "url": "https://www.jpost.com/israel-news/crime-in-israel/article-886126",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Escalating espionage concerns between Israel and Iran.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent indictment of two Israeli brothers for contact with Iranian intelligence highlights ongoing concerns about espionage and security threats. This incident, framed within a broader context of increased Iranian attempts to penetrate Israeli society, suggests a persistent military and intelligence rivalry between Israel and Iran, exacerbated by financial incentives for collaboration with hostile actors.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "gdelt_diplomatic"
+}

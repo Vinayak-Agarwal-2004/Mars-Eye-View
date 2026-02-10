@@ -1,0 +1,49 @@
+{
+  "id": "western_sahara",
+  "name": "Western Sahara",
+  "aliases": [],
+  "classification": {
+    "type": "sovereignty",
+    "status": "Mostly Moroccan administration",
+    "since": 1975
+  },
+  "claimants": [
+    {
+      "iso": "ESH",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "MAR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ESH",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Former Spanish colony, disputed between Morocco and Sahrawi Arab Democratic Republic",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.703132Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.703137Z",
+    "updated": "2026-02-01T22:23:47.703139Z",
+    "confidence": 0.8
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses the dismissal of lawsuits against Neil Gaiman related to allegations of sexual assault that occurred in New Zealand, highlighting the complex jurisdictional issues involved as the cases were moved from US courts to New Zealand. The second article covers the sentencing of a gang treasurer involved in a major drug supply operation in New Zealand, illustrating the ongoing challenges posed by organized crime in the region. The third article addresses political tensions within New Zealand regarding a recently signed Free Trade Agreement (FTA) with India, specifically opposition from the New Zealand First Party over immigration concerns.Focusing on these events showcases significant social, legal, and political dynamics in New Zealand such as the handling of serious crime, issues of personal safety, and the complexities of immigration reported through trade agreements. The events outlined reflect broader societal concerns about crime, government responsiveness to public opinion, and navigating international relations under domestic pressures. Overall, the situation in New Zealand seems precarious across multiple fronts, with rising crime and political opposition reflecting deeper cultural tensions, ensuring a careful watch on how the government reconciles these competing interests moving forward.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NZL"
+  },
+  "toast_message": "Analyzing anomaly trends in New Zealand.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

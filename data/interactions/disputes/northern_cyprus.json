@@ -1,0 +1,49 @@
+{
+  "id": "northern_cyprus",
+  "name": "Northern Cyprus",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Turkish administration",
+    "since": 1974
+  },
+  "claimants": [
+    {
+      "iso": "CYP",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "TUR",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "CYP",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Territory occupied by Turkey since 1974, recognized only by Turkey",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.700851Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.700856Z",
+    "updated": "2026-02-01T22:23:47.700857Z",
+    "confidence": 0.8
+  }
+}

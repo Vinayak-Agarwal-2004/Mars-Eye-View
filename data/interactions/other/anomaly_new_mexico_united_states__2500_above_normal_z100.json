@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_new_mexico_united_states__2500_above_normal_z100",
+  "name": "Anomaly: New Mexico, United States - 250.0% above normal (z=10.0)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: New Mexico, United States - 250.0% above normal (z=10.0)",
+  "sources": [
+    {
+      "url": "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Geopolitical anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "llm_analysis": "The GDELT event data indicates a significant anomaly in New Mexico, with reports highlighting a 250% increase above normal levels, described with a z-score of 10.0. The first article from KRGV discusses the return of a Columbia man, Owen Ramsingh, to the Netherlands after a deportation ruling made by a judge in New Mexico. The second article from E&E News covers a proposed settlement regarding water rights on the Rio Grande, which involves New Mexico forfeiting a certain amount of groundwater to Texas. The third article from the Albuquerque Journal focuses on a murder trial linked to a shooting at a car meet in Las Cruces, showing how violence is affecting community events. The fourth article from KITV discusses a trial against Meta over child sexual exploitation, emphasizing the dangers of social media platforms. \n\nThese articles collectively paint a picture of New Mexico undergoing various critical societal and legal issues, from immigration and water rights to violence and corporate accountability in child safety. While some issues are distinct, they collectively represent a state grappling with significant legal, social, and ethical challenges, indicating a broader concern for community safety and legal justice that may affect its socio-political landscape in the future.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+    "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+    "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+    "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+    "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/"
+  ],
+  "gdelt_metadata": {
+    "z_score": 10.0,
+    "severity": "critical",
+    "current_count": 14,
+    "baseline_mean": 4
+  }
+}

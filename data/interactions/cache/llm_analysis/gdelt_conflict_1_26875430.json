@@ -1,0 +1,11 @@
+{
+  "analysis": "The incident involves the rescue of a magistrate and her mother who were kidnapped in France as part of a cryptocurrency ransom plot. A neighbor heard them calling for help and intervened, leading to their escape after about 30 hours in captivity. The French authorities have arrested six suspects in connection with this case, highlighting a worrying trend of cryptocurrency-related kidnappings in France, which has seen similar events in recent years.\n\nThe articles emphasize the growing concern over the rise of crypto-related abductions in France, indicating a shift in criminal activities linked to the digital currency landscape. This incident sheds light on a broader issue affecting not just individual victims but the security landscape overall, prompting a response from law enforcement.\n\nOverall, the situation illustrates the complexities introduced by the criminal exploitation of cryptocurrency, signaling a need for enhanced protective measures and public awareness regarding the risks associated with digital assets.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "FRA"
+  },
+  "toast_message": "Incident of kidnapping and rescue in France.",
+  "toast_type": "info",
+  "confidence": 0.9
+}

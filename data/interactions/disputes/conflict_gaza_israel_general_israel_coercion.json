@@ -1,0 +1,37 @@
+{
+  "id": "conflict_gaza_israel_general_israel_coercion",
+  "name": "Conflict: Gaza, Israel (general), Israel (coercion)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Gaza, Israel (general), Israel (coercion)",
+  "sources": [
+    {
+      "url": "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "source_urls": [
+    "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 50,
+    "severity_score": 110.0
+  }
+}

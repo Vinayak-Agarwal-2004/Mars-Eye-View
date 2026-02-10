@@ -1,0 +1,53 @@
+{
+  "id": "anomaly_northern_ireland_craigavon_united_kingdom__11000_above_normal_z110",
+  "name": "Anomaly: Northern Ireland, Craigavon, United Kingdom - 1100.0% above normal (z=11.0)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Northern Ireland, Craigavon, United Kingdom - 1100.0% above normal (z=11.0)",
+  "sources": [
+    {
+      "url": "https://www.dailystar.co.uk/news/latest-news/britain-battered-heavy-600-mile-36696607",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/hate-mail-wont-stop-bloody-060353696.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://macaudailytimes.com.mo/1996-docklands-bomb-ends-ira-ceasefire.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "GB"
+  },
+  "toast_message": "Snowstorm anomaly detected in Northern Ireland.",
+  "toast_type": "info",
+  "llm_analysis": "The first article discusses a severe snowstorm predicted to hit parts of the UK, including Northern Ireland, where snow could accumulate at a rate of up to four inches per hour. It highlights the vast area affected, covering 600 miles across Scotland, England, Wales, and Northern Ireland. The second article delves into the long-lasting impact of Bloody Sunday, recounting the emotional toll on families affected by the violence. It stresses the ongoing quest for justice and the resurgence of tensions related to historical events in Northern Ireland. The third article reflects on a significant IRA bombing in London that ended a ceasefire, indicating a resumption of violence during a fragile period in peace negotiations.\n\nWhile the articles cover distinct topics, they share a common thread of ongoing issues in Northern Ireland, reflecting both current weather-related anomalies and historical societal tensions. Together, they illustrate how emerging challenges, like extreme weather, can affect regions with historical conflict, potentially reigniting old grievances and complicating public safety and community relations. The overall picture suggests that Northern Ireland continues to navigate the dual pressures of natural events and its tumultuous past, each influencing the current social climate.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.dailystar.co.uk/news/latest-news/britain-battered-heavy-600-mile-36696607",
+    "https://www.yahoo.com/news/articles/hate-mail-wont-stop-bloody-060353696.html",
+    "https://macaudailytimes.com.mo/1996-docklands-bomb-ends-ira-ceasefire.html"
+  ],
+  "gdelt_metadata": {
+    "z_score": 11.0,
+    "severity": "critical",
+    "current_count": 12,
+    "baseline_mean": 1.0
+  }
+}

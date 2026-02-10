@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent kidnapping of Juan Pablo Guanipa by armed government agents in Caracas illustrates the ongoing coercive tactics employed by the Maduro regime against political opposition. This event comes shortly after Guanipa's release from prison and his calls for democratic reforms, underscoring the heightened risks faced by those advocating for political change in Venezuela, particularly as the 2024 elections loom and the legitimacy of the government's authority remains contested.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 10.4918,
+    "lon": -66.8883
+  },
+  "toast_message": "Escalation of political coercion in Venezuela.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

@@ -1,0 +1,49 @@
+{
+  "id": "anomaly_iraq__5800_above_normal_z684",
+  "name": "Anomaly: Iraq - 580.0% above normal (z=6.84)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Iraq - 580.0% above normal (z=6.84)",
+  "sources": [
+    {
+      "url": "https://www.presstv.ir/Detail/2026/02/09/763778/Iraq-executes-killer-Shia-cleric-Mohammed-Baqir-al-Sadr",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://kcrr.com/ixp/675/p/iowa-national-guard-homecoming/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.thehindu.com/news/international/iraq-executes-former-senior-officer-under-saddam-for-1980-killing-of-shiite-cleric/article70610639.ece",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.standard.co.uk/news/world/trump-deports-45-brits-b1270187.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.nakedcapitalism.com/2026/02/iran-war-watch-us-moves-towards-attack-footing-despite-questionable-odds-of-success.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "IRQ"
+  },
+  "toast_message": "Iraq executes Saddam-era official for historical crimes.",
+  "toast_type": "info",
+  "llm_analysis": "The execution of Saadoun Sabri al-Qaisi for the 1980 killing of prominent Shia cleric Mohammed Baqir al-Sadr represents a significant moment in Iraq's ongoing efforts to confront its past, particularly the abuses under Saddam Hussein's regime. This event is highlighted by the anomalous spike in activities monitored by GDELT, indicating heightened public interest or unrest around Iraq's historical accountability and its implications for current sectarian tensions, especially in relation to US-Iranian dynamics that remain volatile in the region.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

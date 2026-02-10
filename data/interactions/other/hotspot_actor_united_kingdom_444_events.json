@@ -1,0 +1,83 @@
+{
+  "id": "hotspot_actor_united_kingdom_444_events",
+  "name": "Hotspot: actor united kingdom (444 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor united kingdom (444 events)",
+  "sources": [
+    {
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kwqc.com:443/2026/02/03/trudy-appleby-case-man-charged-with-her-murder-wants-trial-moved/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.chroniclelive.co.uk/news/north-east-news/british-army-officer-killed-northumberland-33388033",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.herald-dispatch.com/opinion/frederic-j-fransen-the-war-for-independence-was-the-people-s-war-opinion/article_0b763b15-794c-45a7-8c80-ae1dda089f4c.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.lbc.co.uk/article/teenagers-in-suspected-suicide-pact-after-indecent-child-image-arrests-5HjdS4y_2/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.jpost.com/diaspora/antisemitism/article-886084",
+    "https://www.kwqc.com:443/2026/02/03/trudy-appleby-case-man-charged-with-her-murder-wants-trial-moved/",
+    "https://www.chroniclelive.co.uk/news/north-east-news/british-army-officer-killed-northumberland-33388033",
+    "https://www.herald-dispatch.com/opinion/frederic-j-fransen-the-war-for-independence-was-the-people-s-war-opinion/article_0b763b15-794c-45a7-8c80-ae1dda089f4c.html",
+    "https://www.lbc.co.uk/article/teenagers-in-suspected-suicide-pact-after-indecent-child-image-arrests-5HjdS4y_2/"
+  ],
+  "gdelt_metadata": {
+    "count": 444,
+    "key": "united kingdom",
+    "categories": [
+      [
+        "CRIME",
+        246
+      ],
+      [
+        "CONFLICT",
+        139
+      ],
+      [
+        "DISPLACEMENT",
+        24
+      ],
+      [
+        "VIOLENCE",
+        18
+      ],
+      [
+        "PROTEST",
+        17
+      ]
+    ]
+  }
+}

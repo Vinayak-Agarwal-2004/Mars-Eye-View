@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses the dismissal of lawsuits against Neil Gaiman, a fantasy author, accused of sexual assault in New Zealand. It highlights complex jurisdictional issues related to these allegations and underscores the challenges faced by the plaintiff. The second article focuses on criminal activities related to drug supply networks operated by gang members in New Zealand, revealing a major drug operation that led to multiple arrests. The third article addresses a controversial Free Trade Agreement (FTA) between New Zealand and India, leading to internal disputes in the New Zealand government, particularly from the New Zealand First Party regarding immigration aspects of the deal. \n\nThe articles showcase different aspects of issues currently affecting New Zealand: legal disputes involving high-profile individuals, organized crime impacting community safety, and contentious political negotiations surrounding trade and immigration. This reflects a turbulent landscape in New Zealand, marked by legal grievances, ongoing drug-related violence, and political discord over economic policies.\n\nOverall, these articles illustrate the multifaceted challenges New Zealand faces, ranging from social justice issues to economic management and crime. The significant spike in media attention indicated by the anomaly suggests a growing public concern and potential instability in various sectors including legal, social, and political landscapes.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NZL"
+  },
+  "toast_message": "Anomaly detected in New Zealand events.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

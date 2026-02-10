@@ -1,0 +1,11 @@
+{
+  "analysis": "The situation in New Mexico shows a significant anomaly with a reported 275.0% increase, which is remarkably high and indicative of a unique or unusual occurrence that warrants attention. The linked article from KRGCTV discusses the return of a Colombian man after being detained by U.S. Immigration and Customs Enforcement (ICE), which reflects broader immigration challenges faced in the region. E.E. News covers a legal settlement concerning water rights in the Rio Grande, demonstrating ongoing disputes over vital resources in New Mexico. The ABQ Journal highlights a murder trial in Las Cruces connected to a mass shooting event, while KITV's article reveals a trial against Meta concerning child safety on social media in New Mexico. These articles do not contradict but instead illustrate various dimensions of societal issues in the state, encompassing immigration, legal disputes, public safety, and child welfare. Collectively, they paint a complex picture, where unusually high anomaly data coincides with serious legal and social challenges within New Mexico, suggesting a critical need for analysis and proactive responses from local authorities.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in New Mexico",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

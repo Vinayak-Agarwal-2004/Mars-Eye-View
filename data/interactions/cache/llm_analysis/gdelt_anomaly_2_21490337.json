@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article from BSS/AFP discusses the alarming exodus of over 100,000 people from Sudan's Kordofan region due to escalating violence between the Sudanese army and the Rapid Support Forces (RSF). It emphasizes the humanitarian crisis caused by ongoing conflict, naming specific incidents of drone strikes and mass killings. The second article from MyJoyOnline presents intelligence that contradicts official narratives, revealing that a convoy attacked by the RSF was not humanitarian but rather a military supply transport disguised as such. This raises serious ethical concerns about the conduct of the Sudanese army and the exploitation of humanitarian operations.\n\nBoth articles highlight the gripping situation in Kordofan, reflecting different facets of the conflict: humanitarian disaster versus military deception. While the first focuses on the displacement crisis, the second provides insight into the manipulation of humanitarian efforts for military gain. Together, they paint a grim picture of the situation in Kordofan, illustrating a region steeped in violence and complex humanitarian challenges that contribute to an increasingly precarious environment for civilians and aid workers alike. The rising violence and strategic significance of Kordofan suggest a prolonged conflict with severe implications for regional stability and humanitarian efforts.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "SD"
+  },
+  "toast_message": "Anomaly detected in Kordofan region, Sudan.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

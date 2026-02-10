@@ -1,0 +1,1 @@
+<html><body><div><div><p class="PaymentStatus-title">Your subscription is due to terminate</p><p class="PaymentStatus-text">We've tried to contact you several times as we haven't been able to take payment. You must update your payment details via My Account, otherwise your subscription will terminate.</p> </div></div></body></html>

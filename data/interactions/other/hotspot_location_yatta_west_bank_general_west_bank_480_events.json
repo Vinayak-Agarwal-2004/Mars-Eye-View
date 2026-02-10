@@ -1,0 +1,86 @@
+{
+  "id": "hotspot_location_yatta_west_bank_general_west_bank_480_events",
+  "name": "Hotspot: location Yatta, West Bank (general), West Bank (480 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Yatta, West Bank (general), West Bank (480 events)",
+  "sources": [
+    {
+      "url": "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260208-presstv04.htm",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 31.891891891891895,
+    "lon": 35.13513513513514
+  },
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+    "https://www.globalsecurity.org/military/library/news/2026/02/mil-260208-presstv04.htm",
+    "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+    "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+    "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html"
+  ],
+  "gdelt_metadata": {
+    "count": 480,
+    "key": "29:32",
+    "categories": [
+      [
+        "CONFLICT",
+        266
+      ],
+      [
+        "CRIME",
+        92
+      ],
+      [
+        "PROTEST",
+        60
+      ],
+      [
+        "VIOLENCE",
+        57
+      ],
+      [
+        "DISPLACEMENT",
+        5
+      ]
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent detention of Cameroonian separatist leader Lucas Cho Ayaba in Norway, on suspicion of war crimes, highlights the ongoing conflict between separatists and state forces in Cameroon, where approximately 6,000 civilians have died since the unrest began in 2016. His arrest reflects the challenges faced by international bodies in addressing crimes against humanity, as well as the broader turmoil affecting Africa, as emphasized by the urgent need for diplomatic solutions amidst escalating violence.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 5.938,
+    "lon": 10.1591
+  },
+  "toast_message": "Cameroonian separatist leader detained on war crimes suspicion.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

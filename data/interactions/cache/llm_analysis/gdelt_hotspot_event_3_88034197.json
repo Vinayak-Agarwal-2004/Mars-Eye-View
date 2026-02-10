@@ -1,0 +1,11 @@
+{
+  "analysis": "Recent events in Texas, particularly involving refugees and the judicial system, highlight a growing tension in U.S. immigration policy. Notably, the temporary restraining order against Operation PARRIS in Minnesota reflects a significant legal pushback against perceived federal overreach. Additionally, the tragic case of Leqaa Kordia underscores the detrimental impact of deportation practices, raising serious concerns about the wellbeing of detained individuals in ICE custody.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Texas refugee detention issues raise critical human rights concerns.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

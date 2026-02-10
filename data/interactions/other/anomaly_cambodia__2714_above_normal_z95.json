@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_cambodia__2714_above_normal_z95",
+  "name": "Anomaly: Cambodia - 271.4% above normal (z=9.5)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Cambodia - 271.4% above normal (z=9.5)",
+  "sources": [
+    {
+      "url": "https://original.antiwar.com/william_astore/2026/02/09/what-is-genocide/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wral.com/news/ap/e7897-bhumjaithai-partys-election-victory-signals-a-conservative-shift-in-thailands-politics/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.news18.com/opinion/in-2026-five-elections-in-volatile-neighbourhood-test-indias-influence-pragmatism-ws-l-9891811.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.chinadaily.com.cn/a/202602/10/WS698a875fa310d6866eb38640.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.straitstimes.com/asia/ai-helps-scam-centres-evade-crackdown-in-asia-dupe-more-victims",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "KH"
+  },
+  "toast_message": "Anomaly detected in Cambodia's political landscape.",
+  "toast_type": "info",
+  "llm_analysis": "The first article explores the horrific history of genocide, drawing parallels to contemporary issues such as the situation in Gaza and historical injustices experienced by Native Americans. It delves into the moral complexities surrounding mass violence and its justification by aggressors who view their victims as threats. The second article discusses Thailand's political realignment towards conservatism, highlighted by the Bhumjaithai Party's surprising electoral success, which marks a significant shift in the nation's political landscape after a long history of populist dominance. Finally, the third article reviews multiple elections across Southeast Asia and their implications for India\u2019s regional influence, emphasizing the ongoing political volatility in countries like Myanmar and Bangladesh.\n\nThe articles collectively reflect a broader narrative of political shifts and historical injustices in Southeast Asia, particularly in Cambodia and Thailand, while also highlighting the interconnected nature of regional governance and historical narratives. The first article's focus on genocide underscores the continuing relevance of past atrocities in shaping current political landscapes, as seen in Thailand's recent elections that navigate issues of nationalism and stability in the region. The implications are significant, as rising conservatism in Thailand could lead to more nationalist policies that reflect past hostility and complicate regional dynamics, particularly in relation to issues like Myanmar\u2019s ongoing turmoil. \n\nOverall, this anomaly regarding Cambodia's dramatic rise points to potential underlying issues, including human rights concerns and systemic violence in regional politics. It suggests that the increased anomaly in Cambodia\u2019s context may reflect broader trends of instability that could influence neighboring countries, particularly as electoral outcomes shift power dynamics.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://original.antiwar.com/william_astore/2026/02/09/what-is-genocide/",
+    "https://www.wral.com/news/ap/e7897-bhumjaithai-partys-election-victory-signals-a-conservative-shift-in-thailands-politics/",
+    "https://www.news18.com/opinion/in-2026-five-elections-in-volatile-neighbourhood-test-indias-influence-pragmatism-ws-l-9891811.html",
+    "https://www.chinadaily.com.cn/a/202602/10/WS698a875fa310d6866eb38640.html",
+    "https://www.straitstimes.com/asia/ai-helps-scam-centres-evade-crackdown-in-asia-dupe-more-victims"
+  ],
+  "gdelt_metadata": {
+    "z_score": 9.5,
+    "severity": "critical",
+    "current_count": 13,
+    "baseline_mean": 3.5
+  }
+}

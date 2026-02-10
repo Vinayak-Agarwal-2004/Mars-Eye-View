@@ -1,0 +1,49 @@
+{
+  "id": "kuril_islands_northern_territories",
+  "name": "Kuril Islands (Northern Territories)",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Russian administration",
+    "since": 1945
+  },
+  "claimants": [
+    {
+      "iso": "JPN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "RUS",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "JPN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Islands held by Russia, claimed by Japan since WWII",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.702573Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.702578Z",
+    "updated": "2026-02-01T22:23:47.702580Z",
+    "confidence": 0.8
+  }
+}

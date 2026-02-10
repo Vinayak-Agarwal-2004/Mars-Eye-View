@@ -1,0 +1,35 @@
+{
+  "id": "anomaly_cameroon__3500_above_normal_z70",
+  "name": "Anomaly: Cameroon - 350.0% above normal (z=7.0)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Cameroon - 350.0% above normal (z=7.0)",
+  "sources": [
+    {
+      "url": "https://allafrica.com/stories/202602090741.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.justiceinfo.net/en/155236-cameroonian-separatist-held-in-norway-suspected-of-war-crimes.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 5.848,
+    "lon": 10.1591
+  },
+  "toast_message": "Escalating conflict in Cameroon raises international concerns.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent anomaly detected in Cameroon, marked by a significant uptick in conflict, correlates with the ongoing armed struggle led by separatist leader Lucas Cho Ayaba. His recent arrest in Norway for war crimes underscores the international ripple effects of this conflict, which has already led to severe human rights violations and casualties among civilians. The situation highlights the urgent need for effective mediation amid a growing humanitarian crisis fueled by deep-rooted resentments in Anglophone regions.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

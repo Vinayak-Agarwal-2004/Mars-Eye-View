@@ -1,0 +1,12 @@
+{
+  "analysis": "The sentencing of pro-democracy activist Jimmy Lai in Hong Kong to a 20-year prison term under the national security law underscores the escalating repression of dissent in the region, reflecting China's broader crackdown on civil liberties. This anomaly, representing a drastic increase in related events, is indicative of the heightened international concern surrounding the treatment of political prisoners and the implications for Hong Kong's autonomy.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 22.3964,
+    "lon": 114.1099
+  },
+  "toast_message": "Heightened global concern over Hong Kong's democracy suppression.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

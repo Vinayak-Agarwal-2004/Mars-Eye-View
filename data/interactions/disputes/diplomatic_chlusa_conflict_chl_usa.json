@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_chlusa_conflict_chl_usa",
+  "name": "Diplomatic: CHL-USA (conflict)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [
+    "USA",
+    "CHL"
+  ],
+  "description": "Diplomatic: CHL-USA (conflict)",
+  "sources": [
+    {
+      "url": "https://www.wataugademocrat.com/news/national/latam-gpt-a-latin-american-ai-to-combat-us-centric-bias/article_8047e9c8-7ee3-5d0f-b273-cc73ab3ef3ac.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://www.wataugademocrat.com/news/national/latam-gpt-a-latin-american-ai-to-combat-us-centric-bias/article_8047e9c8-7ee3-5d0f-b273-cc73ab3ef3ac.html"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 30,
+    "GoldsteinScale": -8.0,
+    "EventDate": "2026-02-10"
+  }
+}

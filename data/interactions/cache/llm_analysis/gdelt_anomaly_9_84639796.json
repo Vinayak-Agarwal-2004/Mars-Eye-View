@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent execution of Saadoun Sabri al-Qaisi in Iraq represents a significant moment in the ongoing efforts to address historical injustices tied to the Baathist regime. This action, with its high profile given al-Qaisi's role in the killing of prominent cleric Mohammed Baqir al-Sadr, has drawn renewed attention to Iraq's complicated legacy of sectarian strife and human rights violations. It also occurs amidst increasing regional tensions involving the US and Iran, suggesting that the dynamics of justice in Iraq are interlinked with broader geopolitical issues.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "IRQ"
+  },
+  "toast_message": "Iraq addresses past injustices with a high-profile execution.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

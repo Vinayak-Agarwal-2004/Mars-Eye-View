@@ -1,0 +1,11 @@
+{
+  "analysis": "The protest event in Hollywood, California, appears to be influenced by recent discussions surrounding celebrity experiences with mortality, as highlighted by Dax Shepard in his podcast. The high confidence level of 0.9 suggests a strong likelihood that public sentiment related to such personal narratives is fueling unrest or activism in the area, potentially surrounding issues related to safety or mental health awareness.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Protest in Hollywood, CA sparks discussions on safety.",
+  "toast_type": "info",
+  "confidence": 0.9
+}

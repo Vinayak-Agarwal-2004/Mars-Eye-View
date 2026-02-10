@@ -1,0 +1,49 @@
+{
+  "id": "hotspot_event_texas_united_states_60_events",
+  "name": "Hotspot: event Texas, United States (60 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Texas, United States (60 events)",
+  "sources": [
+    {
+      "url": "https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.middleeastmonitor.com/20260209-vanished-in-ice-custody-palestinian-hospitalised-family-fears-for-leqaa-kordias-life/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.hccommunityjournal.com/article_715f9096-295d-477b-a3d1-285a9adae8e1.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kgw.com/article/news/politics/national-politics/oregon-congresswoman-visit-detained-portland-family-texas-facility-measles-cases/283-688a2f20-7e1d-4962-b376-aa239808cb19",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://nypost.com/2026/02/03/us-news/judge-who-blocked-haitian-deportations-donated-38k-to-dems-including-biden-and-aoc/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Texas refugee detention issues raise critical human rights concerns.",
+  "toast_type": "warning",
+  "llm_analysis": "Recent events in Texas, particularly involving refugees and the judicial system, highlight a growing tension in U.S. immigration policy. Notably, the temporary restraining order against Operation PARRIS in Minnesota reflects a significant legal pushback against perceived federal overreach. Additionally, the tragic case of Leqaa Kordia underscores the detrimental impact of deportation practices, raising serious concerns about the wellbeing of detained individuals in ICE custody.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "hotspot"
+}

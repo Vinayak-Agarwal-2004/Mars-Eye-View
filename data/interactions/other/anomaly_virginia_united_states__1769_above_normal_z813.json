@@ -1,0 +1,47 @@
+{
+  "id": "anomaly_virginia_united_states__1769_above_normal_z813",
+  "name": "Anomaly: Virginia, United States - 176.9% above normal (z=8.13)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Virginia, United States - 176.9% above normal (z=8.13)",
+  "sources": [
+    {
+      "url": "https://www.mirror.co.uk/news/uk-news/breaking-nursery-worker-nathan-bennett-36693377",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://gazette.com/2026/02/09/hick-much-like-trump-harmed-rural-colorado-dick-wadhams/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-15542481/Nursery-worker-Nathan-Bennett-guilty-sexual-offences-children-care.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wral.com/news/local/officer-shooting-henderson-stolen-car-search-february-2026/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://patriotpost.us/opinion/124960-shes-back-2026-02-09",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

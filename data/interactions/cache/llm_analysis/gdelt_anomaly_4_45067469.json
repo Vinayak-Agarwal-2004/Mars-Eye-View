@@ -1,0 +1,11 @@
+{
+  "analysis": "(a) The first article discusses the intense situation in occupied Palestine, particularly focusing on the ongoing toll of Israeli actions on Palestinian lives, and advocates for sanctions against Israel. (b) The second article reports on recent coordinated attacks by armed Israeli settlers in the West Bank, which resulted in multiple injuries among Palestinians, highlighting the increasing violence in the region. (c) The third article covers an incident where a Lebanese party accused Israel of abducting one of its members, indicating ongoing tensions and military actions across Israel's borders. Overall, these articles illustrate a complex and deteriorating situation characterized by violence and violations of rights, contributing to an atmosphere of instability in the region. The highlighted anomalies in Hebron reflect a significantly elevated level of unrest, tied to broader patterns of aggression in both the West Bank and southern Lebanon.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "ISR"
+  },
+  "toast_message": "Anomaly detected in Hebron, Israel.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

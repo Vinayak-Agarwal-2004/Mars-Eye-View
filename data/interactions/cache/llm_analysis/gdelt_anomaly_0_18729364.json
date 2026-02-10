@@ -1,0 +1,11 @@
+{
+  "analysis": "A significant anomaly has been detected in Providence, Rhode Island, with reports indicating a massive increase in activity (1200.0% above normal) related to the Brown University shooting incident which resulted in two fatalities and nine injuries. The release of public records and police response footage has drawn considerable attention, reflecting the city's efforts to manage public transparency amidst community concerns following the tragedy.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Significant increase in activity following Brown University shooting.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

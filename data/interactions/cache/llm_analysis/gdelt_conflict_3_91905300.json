@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent protests in Sydney against President Herzog's visit have escalated into violent confrontations, with police reportedly using excessive force against demonstrators expressing outrage over allegations of genocide. The high turnout, indicated by 50,000 people, highlights the intensity of dissent and the potential geopolitical implications of such protests in the context of Israel-Palestine relations.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Protests in Sydney against Herzog's visit escalate.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

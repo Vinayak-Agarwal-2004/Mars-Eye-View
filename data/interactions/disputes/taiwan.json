@@ -1,0 +1,49 @@
+{
+  "id": "taiwan",
+  "name": "Taiwan",
+  "aliases": [],
+  "classification": {
+    "type": "sovereignty",
+    "status": "De facto independent",
+    "since": 1949
+  },
+  "claimants": [
+    {
+      "iso": "CHN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "TWN",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "CHN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Self-governing island claimed by PRC, with its own government since 1949",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.700001Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.700006Z",
+    "updated": "2026-02-01T22:23:47.700008Z",
+    "confidence": 0.8
+  }
+}

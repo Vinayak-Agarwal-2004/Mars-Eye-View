@@ -1,0 +1,31 @@
+{
+  "id": "diplomatic_espusa_conflict_esp_usa",
+  "name": "Diplomatic: ESP-USA (conflict)",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "USA",
+    "ESP"
+  ],
+  "description": "Diplomatic: ESP-USA (conflict)",
+  "sources": [
+    {
+      "url": "https://www.fox10tv.com/2026/02/07/man-charged-with-threatening-kill-jd-vance-possessing-child-abuse-files/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Threat against US Vice President prompts federal investigation.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent indictment of Shannon Mathre for threatening Vice President JD Vance highlights a significant security concern, particularly given Mathre's possession of digital files depicting child sexual abuse. The event underscores the seriousness with which federal authorities are treating threats against high-ranking officials and raises questions about mental health issues in the context of violent threats. The law enforcement response involved collaboration among various agencies, reflecting a unified approach towards public safety.",
+  "llm_analysis_cached": true,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "category": "meetings"
+}

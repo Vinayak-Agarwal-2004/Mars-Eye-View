@@ -1,0 +1,31 @@
+{
+  "id": "conflict_brant_county_ontario_canada_coercion",
+  "name": "Conflict: Brant County, Ontario, Canada (coercion)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Brant County, Ontario, Canada (coercion)",
+  "sources": [
+    {
+      "url": "https://www.stthomastimesjournal.com:443/news/local-news/decades-after-deadly-crime-spree-london-killer-gets-6-months-of-day-parole",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 43.1333,
+    "lon": -80.1833
+  },
+  "toast_message": "Day parole granted to London killer in Brant County raises concerns.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent coercive event in Brant County, Ontario, involving the London killer's granting of day parole highlights lingering tensions associated with past violent crimes. Local sentiments regarding the decision are likely complicated by the implications for community safety and victim rights, as emphasized by the actions of a retired police officer who intervened during the original crime spree.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "category": "disputes"
+}

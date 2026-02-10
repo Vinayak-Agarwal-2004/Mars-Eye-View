@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent anomaly detected in Cameroon, marked by a significant uptick in conflict, correlates with the ongoing armed struggle led by separatist leader Lucas Cho Ayaba. His recent arrest in Norway for war crimes underscores the international ripple effects of this conflict, which has already led to severe human rights violations and casualties among civilians. The situation highlights the urgent need for effective mediation amid a growing humanitarian crisis fueled by deep-rooted resentments in Anglophone regions.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 5.848,
+    "lon": 10.1591
+  },
+  "toast_message": "Escalating conflict in Cameroon raises international concerns.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

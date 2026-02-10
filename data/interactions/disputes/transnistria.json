@@ -1,0 +1,51 @@
+{
+  "id": "transnistria",
+  "name": "Transnistria",
+  "aliases": [],
+  "classification": {
+    "type": "sovereignty",
+    "status": "De facto independent, unrecognized",
+    "since": 1992
+  },
+  "claimants": [
+    {
+      "iso": "MDA",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "RUS",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "MDA",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Breakaway region from Moldova with Russian support",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.703384Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.703388Z",
+    "updated": "2026-02-01T22:23:47.703390Z",
+    "confidence": 0.8
+  },
+  "llm_analysis": "The geopolitical event indicates a breakaway region from Moldova that has received support from Russia. This situation highlights the tensions between Moldova and Russia, particularly regarding territorial integrity and influence in post-Soviet states. The lack of additional sources means that the extent of international reactions or implications remains unclear. This development could further strain Moldova's relations with both Russia and the West, especially given the current geopolitical climate in Eastern Europe.\n\nThe event underscores ongoing conflicts related to sovereignty and territorial claims in the region. This pattern of breakaway regions often supported by external powers suggests a recurring dynamic of influence and contestation, which may lead to further destabilization. Policymakers should closely monitor these developments as they may have implications for regional security and the broader geopolitical landscape.",
+  "llm_analysis_cached": true
+}

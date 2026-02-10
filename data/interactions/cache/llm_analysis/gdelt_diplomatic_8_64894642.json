@@ -1,0 +1,9 @@
+{
+  "analysis": "Tensions between Eritrea and Ethiopia are escalating as Eritrea firmly denies accusations from Ethiopia regarding troop presence within its borders, labeling these claims as false. The longstanding volatile relationship, marked by a brutal border war and complex military alliances, is further strained by Ethiopia's demands and Eritrea's insistence on non-escalation, reflective of broader issues tied to post-war dynamics in the Horn of Africa.",
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Eritrea rejects Ethiopia's troop claims, escalating tensions.",
+  "toast_type": "warning",
+  "confidence": 0.75
+}

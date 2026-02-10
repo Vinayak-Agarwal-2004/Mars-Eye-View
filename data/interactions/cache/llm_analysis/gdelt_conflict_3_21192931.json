@@ -1,0 +1,11 @@
+{
+  "analysis": "The linked article reports on two separate accidents involving snowmobilers in Wyoming, which resulted in fatalities. In the first incident, a 31-year-old man died after crashing into a tree while riding with a female companion who was injured and required airlifting to a medical center. The second incident claimed the life of a 32-year-old woman from Connecticut who also crashed into a tree during a guided snowmobile tour. Both accidents highlight the dangers associated with winter recreation in rugged terrains. Teton County Search and Rescue noted an increase in fatalities this winter, implying ongoing challenges in snowmobiling safety.\n\nThe articles collectively emphasize the risks involved in winter recreational activities, especially in areas with challenging terrain. While they report on tragic individual incidents, they also suggest a broader issue concerning the need for safety measures in winter sports. The connection between the two articles illustrates how recreational activities can lead to serious incidents, not just for locals but also for visitors from places like Connecticut. Overall, this signals a concerning trend of snowmobiling accidents that requires attention from both regulatory bodies and recreational organizations to enhance safety protocols.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Analysis of snowmobiling fatalities completed.",
+  "toast_type": "info",
+  "confidence": 0.9
+}

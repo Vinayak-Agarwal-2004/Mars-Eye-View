@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent surge in violence and legal issues in Cleveland, Ohio, highlighted by a significant nightclub shooting and the indictment of law enforcement officers for unlawful detention, reflects a troubling trend in public safety and governance. The high rates of violence and questionable police conduct, coupled with the ongoing legal proceedings, suggest a potential crisis in social order that may require immediate community intervention and policy reform.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Cleveland faces rising violence and legal challenges.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

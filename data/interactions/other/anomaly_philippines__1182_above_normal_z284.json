@@ -1,0 +1,45 @@
+{
+  "id": "anomaly_philippines__1182_above_normal_z284",
+  "name": "Anomaly: Philippines - 118.2% above normal (z=2.84)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Philippines - 118.2% above normal (z=2.84)",
+  "sources": [
+    {
+      "url": "https://www.dailymail.co.uk/news/article-15545817/utah-man-pedophile-princess-parties-perry-hunter.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://tribune.net.ph/2026/02/10/anne-curtis-took-two-years-of-intense-training-to-perfect-this-role",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.784,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.dailymail.co.uk/news/article-15545817/utah-man-pedophile-princess-parties-perry-hunter.html",
+    "https://tribune.net.ph/2026/02/10/anne-curtis-took-two-years-of-intense-training-to-perfect-this-role"
+  ],
+  "gdelt_metadata": {
+    "z_score": 2.84,
+    "severity": "elevated",
+    "current_count": 8,
+    "baseline_mean": 3.7
+  }
+}

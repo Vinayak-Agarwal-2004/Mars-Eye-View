@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent protests in Sydney, Australia, highlight significant public dissent regarding government actions perceived as supporting figures accused of serious human rights abuses. The heavy-handed police response, described as violent repression, has raised concerns about civil liberties and the government's handling of dissenting voices.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Protests in Sydney raise concerns over police response.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "(a) The first article from the Korea Times reports on a raid by South Korean authorities on the National Intelligence Service (NIS) and military intelligence over allegations of drone flights into North Korea. The investigation highlights the involvement of three military officers and a civilian suspect connected to the intelligence unit.\n\n(b) The Free Malaysia Today article reinforces these details, noting that the drone allegedly came from South Korea and South Korean officials conducted simultaneous raids on multiple locations, identifying military personnel involved. It also mentions a broader controversy regarding former President Yoon Suk Yeol's past actions involving unauthorized drone flights.\n\n(c) Xinhua's report corroborates the findings of the earlier articles, emphasizing the aftermath of North Korea's accusations and Seoul's crackdown on the alleged drone flights. The situation points to an increase in tensions between North and South Korea, posing significant implications for security and diplomacy in the region.\n\nOverall, there is clear agreement across sources regarding the joint investigation and the domestic backlash ensuing from the allegations. The spike in reported events related to South Korea reflects a significant anomaly in terms of surveillance and diplomatic activities that could affect inter-Korean relations in potentially destabilizing ways.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "KOR"
+  },
+  "toast_message": "Anomaly detected in South Korean drone activities.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

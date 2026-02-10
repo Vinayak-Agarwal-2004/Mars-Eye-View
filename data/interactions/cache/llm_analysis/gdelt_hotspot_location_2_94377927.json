@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent escalation of violence in Gaza, characterized by Israeli airstrikes that reportedly killed numerous Palestinians, including children and militants, highlights the fragility of the ongoing ceasefire established in October 2023. Sources indicate that Israel's military response is linked to perceived threats from Hamas fighters, stirring significant international concern over humanitarian violations and the cycle of retaliatory violence.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 31.891891891891895,
+    "lon": 34.054054054054056
+  },
+  "toast_message": "Escalation of violence in Gaza reported.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

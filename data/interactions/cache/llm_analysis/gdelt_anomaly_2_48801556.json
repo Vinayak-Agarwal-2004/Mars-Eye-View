@@ -1,0 +1,11 @@
+{
+  "analysis": "The articles cover several significant events unfolding in New Mexico. The first article discusses the return of a Columbia man to the Netherlands following his detention by ICE, highlighting issues with immigration and the legal system. The second article reports on a Supreme Court recommended settlement concerning water rights related to the Rio Grande, involving complex legal negotiations between New Mexico and Texas. The third article discusses a murder trial stemming from a mass shooting in Las Cruces, painting a grim picture of community safety and violence. Lastly, an article details a trial against Meta, addressing child exploitation on social media and raising questions about corporate responsibility and the protection of vulnerable populations. These articles collectively reflect a state grappling with social justice, legal disputes, community safety concerns, and the implications of corporate actions on youth, indicating deep-rooted challenges in governance and community welfare.\n\nSuch diverse issues point to a broader trend of systemic challenges in New Mexico, where legal, social, and corporate practices intersect and create a complex landscape. The increasing media focus on these subjects suggests a heightened awareness and possible calls for reform and accountability across various sectors, particularly in addressing immigration, public safety, and social media's influence on youth.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

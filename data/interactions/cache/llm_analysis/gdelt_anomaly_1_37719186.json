@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses the sentencing of Michael Smith, who was convicted of second-degree murder related to the death of Cheyenne Johnson in Sissonville, West Virginia. It describes the circumstances of the murder and the details of Smith's sentencing. The second article covers the arrest of Jimmy Dale Conley Jr., charged with drug-related offenses following a woman's overdose death in Logan County, showcasing ongoing issues with drug abuse in the region. The third article highlights a legislative requirement for law enforcement in West Virginia regarding undocumented immigrants, indicating a political response to broader societal issues.\n\nThese articles collectively illustrate a pattern of violent crime and its consequences in West Virginia, emphasizing both individual criminal cases and systemic issues like drug abuse and law enforcement practices. While the first two articles focus on crime and its repercussions, the third addresses legislative action, indicating a multifaceted approach to addressing these challenges in the state.\n\nOverall, there is an alarming spike in crime and drug-related incidents in West Virginia, highlighted by an 800% anomaly. This statistic suggests that recent events may be indicative of larger, troubling trends that could reflect broader societal unrest or systemic issues within the state's law enforcement and public health approach.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected: Crime surge in West Virginia.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

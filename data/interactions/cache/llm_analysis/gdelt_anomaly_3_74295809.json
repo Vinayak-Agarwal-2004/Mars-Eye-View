@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent spike in antisemitic rhetoric in the UK, particularly during the Birmingham launch of the Anti-Zionist Movement, highlights a troubling increase in extremist views, coinciding with ongoing political tensions surrounding high-profile criminal cases such as the VIP abuse ring and controversial appointments within the Labour Party. These events reflect a broader societal dialogue on censorship, free speech, and the responsibilities of political leadership in addressing hate speech, as exhibited by the backlash surrounding Sir Keir Starmer's recent decisions.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 51.2023,
+    "lon": -2.1796
+  },
+  "toast_message": "Rising antisemitism amid political controversies in the UK.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "The first linked article discusses the repatriation of a Columbia man who was detained by U.S. Immigration and Customs Enforcement (ICE) in New Mexico, highlighting the complexities and family implications of his deportation after a judge's ruling. The second article details a Supreme Court recommendation to approve a settlement regarding the Rio Grande water rights, suggesting ongoing tensions over water resources between New Mexico and Texas. The third article covers a high-profile murder trial in Las Cruces connected to a tragic mass shooting at a car meet, indicating public concern over safety and violence in community events. Lastly, the fourth article reports on the trial against Meta in New Mexico concerning its practices on child safety and exploitation online, emphasizing rising scrutiny on social media companies regarding their impact on youth.\n\nThese articles reflect a diverse set of challenges facing New Mexico, ranging from immigration issues, environmental conflicts over water, public safety concerns, and accountability of social media platforms. Together, they paint a picture of a region grappling with pressing social, legal, and ethical challenges, revealing the interconnectedness of these issues and their implications for community well-being and governance.\n\nOverall, New Mexico is currently dealing with significant anomalies as evidenced by the 250% increase in events, indicating a community at a crucial juncture, particularly in terms of legal and social stability. This geopolitical landscape signifies the need for proactive measures and reforms to address these multifaceted challenges effectively.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Anomaly detected in New Mexico.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

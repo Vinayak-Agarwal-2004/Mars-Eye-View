@@ -1,0 +1,67 @@
+{
+  "id": "hotspot_event_gaza_israel_general_israel_150_events",
+  "name": "Hotspot: event Gaza, Israel (general), Israel (150 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Gaza, Israel (general), Israel (150 events)",
+  "sources": [
+    {
+      "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.cornellsun.com/article/2026/02/i-am-an-idf-soldier-who-fought-in-gaza-ask-me-anything-sam-fried-opens-public-q-a-session-in-willard-straight-hall",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+    "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+    "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+    "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+    "https://www.cornellsun.com/article/2026/02/i-am-an-idf-soldier-who-fought-in-gaza-ask-me-anything-sam-fried-opens-public-q-a-session-in-willard-straight-hall"
+  ],
+  "gdelt_metadata": {
+    "count": 150,
+    "key": "190|CONFLICT|Gaza, Israel (general), Israel",
+    "categories": [
+      [
+        "CONFLICT",
+        150
+      ]
+    ]
+  }
+}

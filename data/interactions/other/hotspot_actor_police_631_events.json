@@ -1,0 +1,49 @@
+{
+  "id": "hotspot_actor_police_631_events",
+  "name": "Hotspot: actor police (631 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor police (631 events)",
+  "sources": [
+    {
+      "url": "https://www.kfvs12.com/2026/02/03/5-million-bond-set-illinois-woman-charged-with-capital-murder-blytheville-homicide/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kait8.com/2026/02/03/5-million-bond-set-illinois-woman-charged-with-capital-murder-blytheville-homicide/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://se933.com/news-and-closings/national-headlines/9155ff24398ee1dde274142edf855a19",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kcrg.com/2026/02/03/west-des-moines-police-searching-man-who-shot-them/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://abc7chicago.com/post/west-town-shooting-today-kills-man-inside-moving-vehicle-700-block-north-wolcott-avenue-chicago-police-department/18537793/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Rising violence and police engagement in the US is alarming.",
+  "toast_type": "warning",
+  "llm_analysis": "Recent events highlight a concerning rise in violent incidents involving law enforcement in the United States, such as the capital murder charge against Reanna Gallamore in Blytheville, and the armed suspect Andrew Clark, who shot at police in West Des Moines. These cases reflect ongoing tensions and issues related to public safety, police engagement, and gun violence. The shooting death of a man in Chicago further emphasizes the urgency of addressing crime and violence within urban settings.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "hotspot"
+}

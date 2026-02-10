@@ -1,0 +1,11 @@
+{
+  "analysis": "The first article discusses a severe snowstorm predicted to hit parts of the UK, including Northern Ireland, where snow could accumulate at a rate of up to four inches per hour. It highlights the vast area affected, covering 600 miles across Scotland, England, Wales, and Northern Ireland. The second article delves into the long-lasting impact of Bloody Sunday, recounting the emotional toll on families affected by the violence. It stresses the ongoing quest for justice and the resurgence of tensions related to historical events in Northern Ireland. The third article reflects on a significant IRA bombing in London that ended a ceasefire, indicating a resumption of violence during a fragile period in peace negotiations.\n\nWhile the articles cover distinct topics, they share a common thread of ongoing issues in Northern Ireland, reflecting both current weather-related anomalies and historical societal tensions. Together, they illustrate how emerging challenges, like extreme weather, can affect regions with historical conflict, potentially reigniting old grievances and complicating public safety and community relations. The overall picture suggests that Northern Ireland continues to navigate the dual pressures of natural events and its tumultuous past, each influencing the current social climate.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "GB"
+  },
+  "toast_message": "Snowstorm anomaly detected in Northern Ireland.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent violent incident in Brant County, Ontario, tied to a notorious killer's parole, underscores ongoing concerns about community safety and the repercussions of historical crimes. As one victim was saved by a retired police officer, this event highlights both the risks associated with reintegration of violent offenders and the vigilance of local law enforcement.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 43.1667,
+    "lon": -80.1833
+  },
+  "toast_message": "Violence reported in Brant County, Ontario.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

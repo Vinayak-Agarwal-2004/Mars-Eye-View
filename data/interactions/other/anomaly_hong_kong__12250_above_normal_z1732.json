@@ -1,0 +1,50 @@
+{
+  "id": "anomaly_hong_kong__12250_above_normal_z1732",
+  "name": "Anomaly: Hong Kong - 1225.0% above normal (z=17.32)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Hong Kong - 1225.0% above normal (z=17.32)",
+  "sources": [
+    {
+      "url": "https://www.aljazeera.com/news/2026/2/9/jimmy-lai-sentenced-whats-happened-to-other-hk-pro-democracy-protesters",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.hellomagazine.com/royalty/882744/king-charles-publicly-heckled-mounting-pressure-statement/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.chardandilminsternews.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.peeblesshirenews.com/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theargus.co.uk/news/national/25838316.police-assessing-claims-andrew-shared-confidential-reports-jeffrey-epstein/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 22.3964,
+    "lon": 114.1095
+  },
+  "toast_message": "Significant political events in Hong Kong.",
+  "toast_type": "info",
+  "llm_analysis": "The significant uptick in anomaly reporting related to Hong Kong is largely attributed to the sentencing of pro-democracy activist Jimmy Lai under China's national security law, indicating a continued crackdown on dissent in the region. This severe penalty, portraying a chill in civil liberties, resonates globally with heightened scrutiny of China's governance mechanisms amid rising anti-monarchy sentiments linked to other international figures, such as Prince Andrew.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

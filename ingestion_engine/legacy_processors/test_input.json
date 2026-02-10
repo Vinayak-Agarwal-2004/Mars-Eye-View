@@ -1,0 +1,16 @@
+{
+    "events": [
+        {
+            "name": "Military Commander Level Talks between India and China",
+            "type": "meetings",
+            "subtype": "military_dialogue",
+            "participants": [
+                "India",
+                "China"
+            ],
+            "description": "India and China hold military commander level talks to resolve border issues in Ladakh.",
+            "date": "2024-02-01",
+            "confidence": 0.8
+        }
+    ]
+}

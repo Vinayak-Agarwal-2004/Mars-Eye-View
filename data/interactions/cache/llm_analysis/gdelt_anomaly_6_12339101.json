@@ -1,0 +1,12 @@
+{
+  "analysis": "The protests in Bhopal reflect rising tensions surrounding local governance issues, particularly related to allegations of beef-related incidents amidst a worsening water crisis. The Congress party's actions, including the burning of effigies, indicate significant dissatisfaction with the municipal leadership, often tying these issues to broader political narratives against the ruling BJP. This unrest occurs simultaneously with police efforts to bolster public safety and restore order, suggesting a complex interplay of civic concerns and state responses.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  "toast_message": "Protests escalate in Bhopal over water crisis and beef allegations.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

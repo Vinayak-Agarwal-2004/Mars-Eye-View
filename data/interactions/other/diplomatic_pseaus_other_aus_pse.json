@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_pseaus_other_aus_pse",
+  "name": "Diplomatic: PSE-AUS (other)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [
+    "AUS",
+    "PSE"
+  ],
+  "description": "Diplomatic: PSE-AUS (other)",
+  "sources": [
+    {
+      "url": "https://www.katherinetimes.com.au/story/9172469/police-face-potential-legal-trouble-after-protests/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://www.katherinetimes.com.au/story/9172469/police-face-potential-legal-trouble-after-protests/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 54,
+    "GoldsteinScale": -5.0,
+    "EventDate": "2026-02-10"
+  }
+}

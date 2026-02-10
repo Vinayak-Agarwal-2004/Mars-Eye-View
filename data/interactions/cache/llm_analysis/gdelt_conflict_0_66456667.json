@@ -1,0 +1,11 @@
+{
+  "analysis": "The event describes a violent kidnapping incident in France, where a magistrate and her mother were held for ransom related to cryptocurrency. The ordeal began when the magistrate's partner received threats after a disturbing photo was sent, leading to a large police manhunt that successfully resulted in their rescue. The incident highlights a troubling trend of crypto-related kidnappings in France, evidenced by similar occurrences involving notable figures in the cryptocurrency sector.\n\nThe sources provide a consistent narrative, detailing the involvement of French authorities and the escalation of violence tied to cryptocurrency. The rising trend of such crimes raises significant concerns about public safety and law enforcement's ability to prevent them. The implications suggest a need for more robust security measures for individuals associated with the cryptocurrency industry and possibly regulatory attention to combat these emerging threats.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "FRA"
+  },
+  "toast_message": "Incident reported: violent kidnapping linked to cryptocurrency.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

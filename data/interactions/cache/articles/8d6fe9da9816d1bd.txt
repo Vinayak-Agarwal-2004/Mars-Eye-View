@@ -1,0 +1,32 @@
+<html><body><div><div class="entry">
+   	<p><img data-od-unknown-tag data-od-xpath="/HTML/BODY/DIV[@class='container']/*[1][self::DIV]/*[1][self::DIV]/*[4][self::DIV]/*[1][self::P]/*[1][self::IMG]" data-recalc-dims="1" data-has-transparency="false" loading="lazy" decoding="async" data-attachment-id="210417" data-permalink="https://macaudailytimes.com.mo/1996-docklands-bomb-ends-ira-ceasefire.html/south_quay_bombing_-_9-2-96" data-orig-file="https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?fit=670%2C523&amp;ssl=1" data-orig-size="670,523" data-comments-opened="1" data-image-meta='{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0"}' data-image-title="South_Quay_bombing_-_9.2.96" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?fit=300%2C234&amp;ssl=1" data-large-file="https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?fit=670%2C523&amp;ssl=1" class="alignnone size-full wp-image-210417 not-transparent" src="https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?resize=670%2C523&amp;ssl=1" alt="" srcset="https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?w=670&amp;ssl=1 670w, https://i0.wp.com/macaudailytimes.com.mo/wp-content/uploads/2026/02/South_Quay_bombing_-_9.2.96.webp?resize=300%2C234&amp;ssl=1 300w" sizes="auto, (max-width: 670px) 100vw, 670px"></p>
+<p class="p2"><span class="s2">The IRA has admitted planting the bomb that exploded in the Docklands area of London last night.</span></p>
+<p class="p2"><span class="s2">One man was found dead by police sifting through the wreckage today and another person has been reported missing.</span></p>
+<p class="p2"><span class="s2">Five of the 39 casualties – including three police officers – remain in hospital, one of them in a critical condition.</span></p>
+<p class="p2"><span class="s2">The bombing marks the end of a 17-month IRA ceasefire during which Irish, British and American leaders worked for a political solution to the troubles in Northern Ireland.</span></p>
+<p class="p2"><span class="s2">They have all condemned the attacks.</span></p>
+<p class="p2"><span class="s2">The leader of the political wing of the IRA – Sinn Fein – Gerry Adams has spoken of the need to continue the peace process.</span></p>
+<p class="p2"><span class="s2">British Prime Minister John Major said there was now “a dark shadow of doubt” where optimism had existed.</span></p>
+<p class="p2"><span class="s2">His statement continued: “The IRA once again callously threatens the desire for peace. They will not be allowed to prevail.</span></p>
+<p class="p2"><span class="s2">The half-tonne bomb was left in a small lorry about 80 yards from South Quay Station on the Docklands Light Railway, in the regenerated commercial district.</span></p>
+<p class="p2"><span class="s2">It exploded at 1902 GMT after coded warnings were telephoned to Dublin and Belfast media 90 minutes earlier.</span></p>
+<p class="p2"><span class="s2">The IRA has said “regrettable injuries” could have been avoided if police had responded promptly to “clear and specific warnings”.</span></p>
+<p class="p2"><span class="s2">Commissioner of the Metropolitan Police Sir Paul Condon said: “It would be unfair to describe this as a failure of security. It was a failure of humanity.”</span></p>
+<p class="p2"><span class="s2">Firemen worked throughout the night to clear up the devastation as a six-storey building collapsed and surrounding office blocks had their windows blown out.</span></p>
+<p class="p2"><span class="s2">Immediate damage is estimated at £85 million in a blast felt in Canary Wharf Tower – the tallest building in Europe – a quarter of a mile away.</span></p>
+<p class="p2"><span class="s2">A second explosion caused by a gas leak hampered rescue efforts and Heron Quay and Canary Wharf Tower were both evacuated over fears of a second device.</span></p>
+<p class="p4"><span><em><span class="s2"><b>Courtesy BBC News</b></span></em></span></p>
+<p class="p5"><strong><span class="s3">In context</span></strong></p>
+<p class="p6"><span class="s4">A second body was found during the clear up operation.</span></p>
+<p class="p6"><span class="s4">James McArdle, a 29-year-old bricklayer from County Armagh was found guilty of conspiracy to cause explosions in June 1998.</span></p>
+<p class="p6"><span class="s4">He was jailed for 25 years.</span></p>
+<p class="p6"><span class="s4">Murder charges – for the deaths of the two men killed, newsagents Inam Bashir and John Jeffries – were dropped when the judge dismissed the jury because of concerns about press coverage.</span></p>
+<p class="p6"><span class="s4">Eighteen months later the IRA agreed another ceasefire.</span></p>
+<p class="p6"><span class="s4">Peace was finally negotiated with the Good Friday Agreement – accepted by voters in Ireland and Northern Ireland – in May 1998.</span></p>
+<p class="p6"><span class="s4">Under the terms of the agreement, James McArdle was released in July 2000.</span></p>
+<div class="sharedaddy sd-block sd-like jetpack-likes-widget-wrapper jetpack-likes-widget-unloaded" id="like-post-wrapper-121874660-210398-698b0d61ce8c2" data-src="https://widgets.wp.com/likes/?ver=15.5#blog_id=121874660&amp;post_id=210398&amp;origin=macaudailytimes.com.mo&amp;obj_id=121874660-210398-698b0d61ce8c2" data-name="like-post-frame-121874660-210398-698b0d61ce8c2" data-title="Like or Reblog"><h3 class="sd-title">Like this:</h3><p class="likes-widget-placeholder post-likes-widget-placeholder"><span class="button"><span>Like</span></span> <span class="loading">Loading...</span></p><span class="sd-text-color"></span><a class="sd-link-color"></a></div>
+<p id="jp-relatedposts" class="jp-relatedposts">
+	<h3 class="jp-relatedposts-headline"><em>Related</em></h3>
+</p>    </div>
+
+    </div></body></html>

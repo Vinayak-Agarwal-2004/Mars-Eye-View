@@ -1,0 +1,49 @@
+{
+  "id": "gaza_strip",
+  "name": "Gaza Strip",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Disputed",
+    "since": 1967
+  },
+  "claimants": [
+    {
+      "iso": "ISR",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "PSE",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "ISR",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Coastal territory with disputed sovereignty between Israel and Palestine",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.702041Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.702046Z",
+    "updated": "2026-02-01T22:23:47.702048Z",
+    "confidence": 0.8
+  }
+}

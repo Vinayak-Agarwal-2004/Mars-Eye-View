@@ -1,0 +1,31 @@
+{
+  "id": "conflict_sydney_new_south_wales_australia_coercion",
+  "name": "Conflict: Sydney, New South Wales, Australia (coercion)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Sydney, New South Wales, Australia (coercion)",
+  "sources": [
+    {
+      "url": "https://www.northerndailyleader.com.au/story/9171445/protesters-beaten-arrested-as-herzog-visit-continues/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Protests in Sydney raise concerns over police response.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent protests in Sydney, Australia, highlight significant public dissent regarding government actions perceived as supporting figures accused of serious human rights abuses. The heavy-handed police response, described as violent repression, has raised concerns about civil liberties and the government's handling of dissenting voices.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "category": "disputes"
+}

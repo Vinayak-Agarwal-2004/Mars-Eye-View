@@ -1,0 +1,79 @@
+{
+  "id": "hotspot_actor_prison_597_events",
+  "name": "Hotspot: actor prison (597 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor prison (597 events)",
+  "sources": [
+    {
+      "url": "https://www.biglychee.com/2026/02/10/20-years-for-jimmy-lai/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.marinecorpstimes.com/news/your-military/2026/02/03/ex-marine-arrested-after-early-release-following-hazing-death/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://wtvbam.com/2026/02/09/894494/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://mynewsla.com/crime/2026/02/09/final-defendant-in-2008-killing-of-laco-sheriffs-deputy-pleads-not-guilty/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.fox4news.com/news/man-sentenced-life-prison-2022-double-homicide",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.biglychee.com/2026/02/10/20-years-for-jimmy-lai/",
+    "https://www.marinecorpstimes.com/news/your-military/2026/02/03/ex-marine-arrested-after-early-release-following-hazing-death/",
+    "https://wtvbam.com/2026/02/09/894494/",
+    "https://mynewsla.com/crime/2026/02/09/final-defendant-in-2008-killing-of-laco-sheriffs-deputy-pleads-not-guilty/",
+    "https://www.fox4news.com/news/man-sentenced-life-prison-2022-double-homicide"
+  ],
+  "gdelt_metadata": {
+    "count": 597,
+    "key": "prison",
+    "categories": [
+      [
+        "CRIME",
+        540
+      ],
+      [
+        "CONFLICT",
+        35
+      ],
+      [
+        "VIOLENCE",
+        18
+      ],
+      [
+        "DISPLACEMENT",
+        4
+      ]
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_deuusa_military_deu_usa",
+  "name": "Diplomatic: DEU-USA (military)",
+  "category": "military",
+  "subtype": "general",
+  "type": "Military & Defense",
+  "type_label": "Military & Defense",
+  "status": "Active",
+  "participants": [
+    "DEU",
+    "USA"
+  ],
+  "description": "Diplomatic: DEU-USA (military)",
+  "sources": [
+    {
+      "url": "https://www.1011now.com/2026/02/09/nebraska-troopers-find-over-100-pounds-drug-paraphernalia-i-80-traffic-stop/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://www.1011now.com/2026/02/09/nebraska-troopers-find-over-100-pounds-drug-paraphernalia-i-80-traffic-stop/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 16,
+    "GoldsteinScale": -5.0,
+    "EventDate": "2026-02-09"
+  }
+}

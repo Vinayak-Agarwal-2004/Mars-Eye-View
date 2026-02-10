@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_new_zealand__9667_above_normal_z145",
+  "name": "Anomaly: New Zealand - 966.7% above normal (z=14.5)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: New Zealand - 966.7% above normal (z=14.5)",
+  "sources": [
+    {
+      "url": "https://lethbridgeherald.com/entertainment/entertainment-news/2026/02/09/us-judges-dismiss-lawsuits-accusing-fantasy-author-neil-gaiman-of-sexual-assault-in-new-zealand/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.nzherald.co.nz/nz/comancheros-operation-avon-gang-treasurer-lucane-bolstad-jailed-for-major-meth-supply/5C3IPLLUXZAAPP57UEAD7UG3WA/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wsws.org/en/articles/2026/02/10/zrzq-f10.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://livenews.co.nz/2026/02/10/update-2-serious-assault-christchurch/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://isp.netscape.com/entertainment/story/0001/20260209/01f3ad62d4b23115685f51b062410618",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NZL"
+  },
+  "toast_message": "Anomaly detected in New Zealand.",
+  "toast_type": "info",
+  "llm_analysis": "The first article from the Lethbridge Herald discusses the dismissal of lawsuits against Neil Gaiman concerning sexual assault allegations that took place in New Zealand several years prior, illustrating a significant legal and cultural controversy. The second article from the New Zealand Herald details the consequences of 'Operation Avon,' where a gang member was jailed for significant drug offenses, emphasizing ongoing issues with organized crime in New Zealand. Lastly, the article from the WSWS elaborates on domestic political tension surrounding a Free Trade Agreement with India, highlighting opposition from the New Zealand First Party due to fears over immigration and economic implications.\n\nThese sources provide a multifaceted view of contemporary issues facing New Zealand\u2014from legal controversies and drug-related crime to political dilemmas arising from international trade agreements. Collectively, they underscore a country grappling with significant socio-political challenges and public sentiment surrounding governance, law enforcement, and economic policy. The situation reflects a complex interplay of legal, social, and political narratives that could shape New Zealand\u2019s future direction and public policy response.\n\nOverall, the collection of articles depicts a state in flux, facing internal disputes over social justice and external relationships with trade partners that may influence economic stability and public safety. These events underline the need for careful management of both domestic affairs and international relations as New Zealand navigates its position in a changing global landscape.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://lethbridgeherald.com/entertainment/entertainment-news/2026/02/09/us-judges-dismiss-lawsuits-accusing-fantasy-author-neil-gaiman-of-sexual-assault-in-new-zealand/",
+    "https://www.nzherald.co.nz/nz/comancheros-operation-avon-gang-treasurer-lucane-bolstad-jailed-for-major-meth-supply/5C3IPLLUXZAAPP57UEAD7UG3WA/",
+    "https://www.wsws.org/en/articles/2026/02/10/zrzq-f10.html",
+    "https://livenews.co.nz/2026/02/10/update-2-serious-assault-christchurch/",
+    "https://isp.netscape.com/entertainment/story/0001/20260209/01f3ad62d4b23115685f51b062410618"
+  ],
+  "gdelt_metadata": {
+    "z_score": 14.5,
+    "severity": "critical",
+    "current_count": 16,
+    "baseline_mean": 1.5
+  }
+}

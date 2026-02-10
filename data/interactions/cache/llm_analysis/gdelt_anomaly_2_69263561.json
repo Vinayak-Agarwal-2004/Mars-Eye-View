@@ -1,0 +1,11 @@
+{
+  "analysis": "The anomaly report indicates a significant surge in events or data points related to New Zealand, marked at 966.7% above normal. The first article discusses the dismissal of lawsuits against author Neil Gaiman in connection with alleged sexual assault occurring in New Zealand. It emphasizes the complexities of jurisdiction and the implications of local laws. The second article highlights a criminal case involving Lucane Bolstad, a member of the Comancheros gang, who was jailed for major drug-related offenses in New Zealand. This reflects a growing concern about organized crime and drug trafficking issues in the region. The third article covers a contentious Free Trade Agreement between New Zealand and India that is stirring political debates within the government. It showcases internal divisions, particularly around immigration and economic strategy in light of a global crisis. Overall, these articles present a multifaceted view of contemporary issues in New Zealand\u2014ranging from legal challenges in the realm of personal accountability and crime to significant political and economic controversies. This anomaly data suggests a dramatic increase in public interest or occurrences related to crime, political strife, and social issues in New Zealand, indicating an urgent need for monitoring and addressing these challenges distinctly, especially as they pertain to governance and social equity.",
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NZL"
+  },
+  "toast_message": "Anomaly detected for New Zealand.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

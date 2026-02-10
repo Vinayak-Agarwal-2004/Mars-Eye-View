@@ -1,0 +1,36 @@
+{
+  "id": "us_and_china_held_talks_in_geneva_focusing_on_trade_sanctions_and_regional_secur",
+  "name": "US and China held talks in Geneva focusing on trade, sanctions, and regional security.",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "CHN",
+    "USA"
+  ],
+  "description": "US and China held talks in Geneva focusing on trade, sanctions, and regional security.",
+  "sources": [
+    {
+      "url": "https://example.com/a",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://example.com/b",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "US-China trade talks in focus",
+  "toast_type": "info",
+  "llm_analysis": "The recent US-China talks in Geneva signal a continuing effort to address critical issues of trade, sanctions, and regional security. With both nations looking to stabilize their economic relationship amidst rising tensions, these discussions may serve as a crucial step towards finding common ground.",
+  "llm_analysis_cached": true,
+  "confidence": 0.6,
+  "source": "gdelt",
+  "category": "trade"
+}

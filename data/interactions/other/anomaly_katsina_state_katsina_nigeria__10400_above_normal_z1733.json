@@ -1,0 +1,65 @@
+{
+  "id": "anomaly_katsina_state_katsina_nigeria__10400_above_normal_z1733",
+  "name": "Anomaly: Katsina State, Katsina, Nigeria - 1040.0% above normal (z=17.33)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Katsina State, Katsina, Nigeria - 1040.0% above normal (z=17.33)",
+  "sources": [
+    {
+      "url": "https://allafrica.com/stories/202602100129.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://smallwarsjournal.com/2026/02/10/trumphobia/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://quicknews-africa.net/army-overruns-terror-camp-in-kogi-rescues-14-victims/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.ghanamma.com/2026/02/10/gunmen-abduct-10-paasengers-in-kogi/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://dailypost.ng/2026/02/10/troops-overrun-terror-camp-in-kogi-rescue-14-victims/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "NGA"
+  },
+  "toast_message": "Anomaly detected in Katsina State, Nigeria.",
+  "toast_type": "info",
+  "llm_analysis": "(a) The first article reports a surge in abductions, with gunmen targeting communities in Plateau, Benue, and Kaduna states, leading to heightened fears among residents in these regions. The attacks occurred in various settings including a place of worship, illustrating a worrying trend of violence against both civilians and religious gatherings.\n\n(b) The second article examines the broader context of Christian persecution in Nigeria, implicating systemic failures by the government to protect vulnerable populations, particularly against militant groups. It highlights the necessity for the government to address issues pertaining to legal and societal frameworks that allow such violence to persist.\n\n(c) The third article underscores military efforts to combat the rise of terrorism, detailing successful operations that have freed victims from captivity. This suggests an active, albeit challenging, military engagement against criminal networks. \n\nThe overall picture indicates a dire security situation in Nigeria, particularly in specific regions grappling with violent extremism and abduction crises. The government's dual legal system and inability to protect citizens led to increased anxieties about safety, primarily for Christians facing targeted attacks. The military's operations, while promising in terms of immediate security improvements, do not address the underlying socio-political issues that contribute to the ongoing violence.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly",
+  "source_urls": [
+    "https://allafrica.com/stories/202602100129.html",
+    "https://smallwarsjournal.com/2026/02/10/trumphobia/",
+    "https://quicknews-africa.net/army-overruns-terror-camp-in-kogi-rescues-14-victims/",
+    "https://www.ghanamma.com/2026/02/10/gunmen-abduct-10-paasengers-in-kogi/",
+    "https://dailypost.ng/2026/02/10/troops-overrun-terror-camp-in-kogi-rescue-14-victims/"
+  ],
+  "gdelt_metadata": {
+    "z_score": 17.33,
+    "severity": "critical",
+    "current_count": 19,
+    "baseline_mean": 1.7
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "diplomatic_lbngrd_conflict_grd_lbn",
+  "name": "Diplomatic: LBN-GRD (conflict)",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "LBN",
+    "GRD"
+  ],
+  "description": "Diplomatic: LBN-GRD (conflict)",
+  "sources": [
+    {
+      "url": "https://grenadachronicle.com/lebanese-group-accuses-israel-of-abducting-its-leader-in-raid/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Tensions rise between Lebanon and Israel following abduction.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent abduction of Lebanese group leader Atwi Atwi by Israeli forces has escalated tensions between Lebanon and Israel, continuing a cycle of violence that persists despite a ceasefire agreement. This incident underscores the fragile nature of the truce with Hezbollah, as both sides retaliate against perceived threats. With accusations flying and military actions resuming, the geopolitical landscape remains highly volatile.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "gdelt_diplomatic",
+  "category": "meetings"
+}

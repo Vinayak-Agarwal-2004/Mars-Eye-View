@@ -1,0 +1,47 @@
+{
+  "id": "hotspot_event_gaza_israel_general_israel_80_events",
+  "name": "Hotspot: event Gaza, Israel (general), Israel (80 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: event Gaza, Israel (general), Israel (80 events)",
+  "sources": [
+    {
+      "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.cornellsun.com/article/2026/02/i-am-an-idf-soldier-who-fought-in-gaza-ask-me-anything-sam-fried-opens-public-q-a-session-in-willard-straight-hall",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://news.antiwar.com/2026/02/03/israel-has-killed-at-least-529-palestinians-in-gaza-since-signing-ceasefire-deal-health-ministry/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.winnipegfreepress.com/arts-and-life/entertainment/celebrities/2026/02/09/ottawa-investigating-report-gaza-cemetery-where-canadians-were-buried-was-destroyed",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Escalation in Gaza leads to civilian casualties.",
+  "toast_type": "warning",
+  "llm_analysis": "Recent Israeli military operations in Gaza have resulted in significant civilian casualties, including children and paramedics, as reported by multiple sources. The attacks are seen as violations of a ceasefire agreement with Hamas, which further escalates tensions in the region. Additionally, the U.S. and Israel's complex negotiation dynamics to ensure long-term peace are overshadowed by ongoing violence.",
+  "llm_analysis_cached": true,
+  "confidence": 0.8,
+  "source": "hotspot"
+}

@@ -1,0 +1,11 @@
+{
+  "analysis": "The United States is experiencing a surge in significant legal and violent events, highlighted by Maryland's appellate court overturning a murder conviction tied to a self-defense argument, and the upcoming trial of Colin Gray related to a tragic school shooting that left four dead. Both cases underscore ongoing societal issues surrounding violence, legal interpretation, and public safety, emphasizing the need for a balanced approach in judicial proceedings and community safety measures.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "US grapples with legal and safety challenges.",
+  "toast_type": "warning",
+  "confidence": 0.85
+}

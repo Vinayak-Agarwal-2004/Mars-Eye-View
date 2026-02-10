@@ -1,0 +1,12 @@
+{
+  "analysis": "Recent protests in Sydney against Israeli President Isaac Herzog's visit have escalated into violent confrontations with police, as reported by Palestine Action Group Sydney. This incident highlights increasing tensions surrounding public responses to government actions perceived as endorsing contentious political figures accused of serious human rights violations.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Violence reported during protests in Sydney.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

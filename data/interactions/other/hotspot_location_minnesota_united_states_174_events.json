@@ -1,0 +1,50 @@
+{
+  "id": "hotspot_location_minnesota_united_states_174_events",
+  "name": "Hotspot: location Minnesota, United States (174 events)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: location Minnesota, United States (174 events)",
+  "sources": [
+    {
+      "url": "https://www.forbes.com/sites/sallypipes/2026/02/09/facing-medicaid-fraud-allegations-california-changes-the-subject/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.losaltosonline.com/news/lahs-students-protest-ice/article_a1cee788-976d-434b-88e2-1edf0293fd65.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.wired.com/story/ice-cbp-srt-bortac-units-immigration-operations/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.hppr.org/hppr-news/2026-02-03/two-cbp-agents-from-texas-identified-in-alex-pretti-shooting",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.brainerddispatch.com/news/local/2-arrested-by-ice-at-brainerd-restaurant-face-federal-charges",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 45.94594594594595,
+    "lon": -93.51351351351352
+  },
+  "toast_message": "Protests against ICE escalate in Minnesota.",
+  "toast_type": "warning",
+  "llm_analysis": "The protests in Minnesota highlight growing tensions surrounding federal immigration enforcement, especially following the controversial deaths of two American citizens at the hands of federal agents. Demonstrations led by high school students and public outcry from lawmakers underscore the urgency for transparency and accountability within immigration enforcement agencies, particularly with reports of masked agents involved in violent encounters. These incidents reflect not only local but also national sentiments regarding immigration policies and law enforcement accountability.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "hotspot"
+}

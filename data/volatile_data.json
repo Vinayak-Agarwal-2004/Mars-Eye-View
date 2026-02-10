@@ -1,0 +1,2904 @@
+{
+  "last_updated": "2026-02-01T00:35:14.996117+00:00",
+  "data_sources": {
+    "population": "REST Countries API",
+    "gdp": "World Bank (2022)",
+    "leaders": "Curated (Feb 2026)"
+  },
+  "countries": {
+    "LIE": {
+      "population": 40900,
+      "population_formatted": "40.9K",
+      "area_km2": 160.0,
+      "area_formatted": "160 km²",
+      "gdp_usd": 7426856242.7736,
+      "gdp_formatted": "$7.43B",
+      "gdp_per_capita": 188055,
+      "gdp_per_capita_formatted": "$188,055"
+    },
+    "SEN": {
+      "population": 18593258,
+      "population_formatted": "18.59M",
+      "area_km2": 196722.0,
+      "area_formatted": "196.7K km²",
+      "gdp_usd": 27783332222.6759,
+      "gdp_formatted": "$27.78B",
+      "gdp_per_capita": 1574,
+      "gdp_per_capita_formatted": "$1,574"
+    },
+    "SMR": {
+      "population": 34132,
+      "population_formatted": "34.1K",
+      "area_km2": 61.0,
+      "area_formatted": "61 km²",
+      "gdp_usd": 1829211863.9476,
+      "gdp_formatted": "$1.83B",
+      "gdp_per_capita": 54191,
+      "gdp_per_capita_formatted": "$54,190"
+    },
+    "JAM": {
+      "population": 2825544,
+      "population_formatted": "2.83M",
+      "area_km2": 10991.0,
+      "area_formatted": "11.0K km²",
+      "gdp_usd": 18813516805.214,
+      "gdp_formatted": "$18.81B",
+      "gdp_per_capita": 6626,
+      "gdp_per_capita_formatted": "$6,626"
+    },
+    "NLD": {
+      "population": 18100436,
+      "population_formatted": "18.10M",
+      "area_km2": 41865.0,
+      "area_formatted": "41.9K km²",
+      "gdp_usd": 1046540797548.64,
+      "gdp_formatted": "$1.05T",
+      "gdp_per_capita": 59123,
+      "gdp_per_capita_formatted": "$59,123",
+      "leaders": {
+        "head_of_state": "Willem-Alexander",
+        "head_of_government": "Dick Schoof",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "BES": {
+      "population": 31980,
+      "population_formatted": "32.0K",
+      "area_km2": 328.0,
+      "area_formatted": "328 km²"
+    },
+    "TCD": {
+      "population": 19340757,
+      "population_formatted": "19.34M",
+      "area_km2": 1284000.0,
+      "area_formatted": "1.28M km²",
+      "gdp_usd": 17828508289.6049,
+      "gdp_formatted": "$17.83B",
+      "gdp_per_capita": 966,
+      "gdp_per_capita_formatted": "$966"
+    },
+    "GMB": {
+      "population": 2422712,
+      "population_formatted": "2.42M",
+      "area_km2": 10689.0,
+      "area_formatted": "10.7K km²",
+      "gdp_usd": 2204734527.88096,
+      "gdp_formatted": "$2.20B",
+      "gdp_per_capita": 836,
+      "gdp_per_capita_formatted": "$836"
+    },
+    "EAP": {
+      "gdp_usd": 21563881384135.8,
+      "gdp_formatted": "$21.56T",
+      "gdp_per_capita": 10107,
+      "gdp_per_capita_formatted": "$10,106"
+    },
+    "ECU": {
+      "population": 18103660,
+      "population_formatted": "18.10M",
+      "area_km2": 276841.0,
+      "area_formatted": "276.8K km²",
+      "gdp_usd": 116133121000,
+      "gdp_formatted": "$116.13B",
+      "gdp_per_capita": 6516,
+      "gdp_per_capita_formatted": "$6,515"
+    },
+    "BGR": {
+      "population": 6437360,
+      "population_formatted": "6.44M",
+      "area_km2": 110879.0,
+      "area_formatted": "110.9K km²",
+      "gdp_usd": 90506153293.6733,
+      "gdp_formatted": "$90.51B",
+      "gdp_per_capita": 13999,
+      "gdp_per_capita_formatted": "$13,999"
+    },
+    "FSM": {
+      "population": 105564,
+      "population_formatted": "105.6K",
+      "area_km2": 702.0,
+      "area_formatted": "702 km²",
+      "gdp_usd": 415956900,
+      "gdp_formatted": "$415.96M",
+      "gdp_per_capita": 3710,
+      "gdp_per_capita_formatted": "$3,710"
+    },
+    "GIB": {
+      "population": 38000,
+      "population_formatted": "38.0K",
+      "area_km2": 6.0,
+      "area_formatted": "6 km²"
+    },
+    "LTE": {
+      "gdp_usd": 28550398557203.3,
+      "gdp_formatted": "$28.55T",
+      "gdp_per_capita": 12286,
+      "gdp_per_capita_formatted": "$12,286"
+    },
+    "ASM": {
+      "population": 49710,
+      "population_formatted": "49.7K",
+      "area_km2": 199.0,
+      "area_formatted": "199 km²",
+      "gdp_usd": 871000000,
+      "gdp_formatted": "$871.00M",
+      "gdp_per_capita": 18017,
+      "gdp_per_capita_formatted": "$18,017"
+    },
+    "NRU": {
+      "population": 11680,
+      "population_formatted": "11.7K",
+      "area_km2": 21.0,
+      "area_formatted": "21 km²",
+      "gdp_usd": 152373433.909474,
+      "gdp_formatted": "$152.37M",
+      "gdp_per_capita": 12912,
+      "gdp_per_capita_formatted": "$12,911"
+    },
+    "IDN": {
+      "population": 284438782,
+      "population_formatted": "284.44M",
+      "area_km2": 1904569.0,
+      "area_formatted": "1.90M km²",
+      "gdp_usd": 1319101183380.15,
+      "gdp_formatted": "$1.32T",
+      "gdp_per_capita": 4731,
+      "gdp_per_capita_formatted": "$4,730",
+      "leaders": {
+        "head_of_state": "Prabowo Subianto",
+        "head_of_government": "Prabowo Subianto",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "PSE": {
+      "population": 5483450,
+      "population_formatted": "5.48M",
+      "area_km2": 6220.0,
+      "area_formatted": "6.2K km²",
+      "gdp_usd": 19165500000,
+      "gdp_formatted": "$19.17B",
+      "gdp_per_capita": 3800,
+      "gdp_per_capita_formatted": "$3,799"
+    },
+    "TEA": {
+      "gdp_usd": 21537214774462.6,
+      "gdp_formatted": "$21.54T",
+      "gdp_per_capita": 10220,
+      "gdp_per_capita_formatted": "$10,220"
+    },
+    "FJI": {
+      "population": 900869,
+      "population_formatted": "900.9K",
+      "area_km2": 18272.0,
+      "area_formatted": "18.3K km²",
+      "gdp_usd": 4977861885.60316,
+      "gdp_formatted": "$4.98B",
+      "gdp_per_capita": 5414,
+      "gdp_per_capita_formatted": "$5,414"
+    },
+    "AGO": {
+      "population": 36170961,
+      "population_formatted": "36.17M",
+      "area_km2": 1246700.0,
+      "area_formatted": "1.25M km²",
+      "gdp_usd": 131212208930.344,
+      "gdp_formatted": "$131.21B",
+      "gdp_per_capita": 3682,
+      "gdp_per_capita_formatted": "$3,682"
+    },
+    "TSA": {
+      "gdp_usd": 3930640287773.46,
+      "gdp_formatted": "$3.93T",
+      "gdp_per_capita": 2385,
+      "gdp_per_capita_formatted": "$2,385"
+    },
+    "CCK": {
+      "population": 593,
+      "population_formatted": "593",
+      "area_km2": 14.0,
+      "area_formatted": "14 km²"
+    },
+    "MTQ": {
+      "population": 349925,
+      "population_formatted": "349.9K",
+      "area_km2": 1128.0,
+      "area_formatted": "1.1K km²"
+    },
+    "SAS": {
+      "gdp_usd": 3930640287773.46,
+      "gdp_formatted": "$3.93T",
+      "gdp_per_capita": 2385,
+      "gdp_per_capita_formatted": "$2,385"
+    },
+    "AFW": {
+      "gdp_usd": 1063649130876.99,
+      "gdp_formatted": "$1.06T",
+      "gdp_per_capita": 2138,
+      "gdp_per_capita_formatted": "$2,138"
+    },
+    "ITA": {
+      "population": 58927633,
+      "population_formatted": "58.93M",
+      "area_km2": 301336.0,
+      "area_formatted": "301.3K km²",
+      "gdp_usd": 2104067630319.46,
+      "gdp_formatted": "$2.10T",
+      "gdp_per_capita": 35654,
+      "gdp_per_capita_formatted": "$35,653",
+      "leaders": {
+        "head_of_state": "Sergio Mattarella",
+        "head_of_government": "Giorgia Meloni",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "NOR": {
+      "population": 5606944,
+      "population_formatted": "5.61M",
+      "area_km2": 386224.0,
+      "area_formatted": "386.2K km²",
+      "gdp_usd": 596297651035.798,
+      "gdp_formatted": "$596.30B",
+      "gdp_per_capita": 109270,
+      "gdp_per_capita_formatted": "$109,269",
+      "leaders": {
+        "head_of_state": "Harald V",
+        "head_of_government": "Jonas Gahr Støre",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "UNK": {
+      "population": 1585566,
+      "population_formatted": "1.59M",
+      "area_km2": 10908.0,
+      "area_formatted": "10.9K km²"
+    },
+    "MDG": {
+      "population": 31727042,
+      "population_formatted": "31.73M",
+      "area_km2": 587041.0,
+      "area_formatted": "587.0K km²",
+      "gdp_usd": 15325603272.6097,
+      "gdp_formatted": "$15.33B",
+      "gdp_per_capita": 504,
+      "gdp_per_capita_formatted": "$503"
+    },
+    "IRN": {
+      "population": 85961000,
+      "population_formatted": "85.96M",
+      "area_km2": 1648195.0,
+      "area_formatted": "1.65M km²",
+      "gdp_usd": 422662261525.665,
+      "gdp_formatted": "$422.66B",
+      "gdp_per_capita": 4721,
+      "gdp_per_capita_formatted": "$4,721",
+      "leaders": {
+        "head_of_state": "Ali Khamenei",
+        "head_of_government": "Masoud Pezeshkian",
+        "title_hos": "Supreme Leader",
+        "title_hog": "President"
+      }
+    },
+    "ATA": {
+      "population": 1300,
+      "population_formatted": "1.3K",
+      "area_km2": 14000000.0,
+      "area_formatted": "14.00M km²"
+    },
+    "COG": {
+      "population": 6142180,
+      "population_formatted": "6.14M",
+      "area_km2": 342000.0,
+      "area_formatted": "342.0K km²",
+      "gdp_usd": 15817030154.6941,
+      "gdp_formatted": "$15.82B",
+      "gdp_per_capita": 2621,
+      "gdp_per_capita_formatted": "$2,620"
+    },
+    "SSF": {
+      "gdp_usd": 2292617010267,
+      "gdp_formatted": "$2.29T",
+      "gdp_per_capita": 1865,
+      "gdp_per_capita_formatted": "$1,865"
+    },
+    "ISR": {
+      "population": 10134800,
+      "population_formatted": "10.13M",
+      "area_km2": 21937.0,
+      "area_formatted": "21.9K km²",
+      "gdp_usd": 525181008025.57,
+      "gdp_formatted": "$525.18B",
+      "gdp_per_capita": 54950,
+      "gdp_per_capita_formatted": "$54,949",
+      "leaders": {
+        "head_of_state": "Isaac Herzog",
+        "head_of_government": "Benjamin Netanyahu",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "MIC": {
+      "gdp_usd": 36528767758177.8,
+      "gdp_formatted": "$36.53T",
+      "gdp_per_capita": 6248,
+      "gdp_per_capita_formatted": "$6,248"
+    },
+    "LUX": {
+      "population": 681973,
+      "population_formatted": "682.0K",
+      "area_km2": 2586.0,
+      "area_formatted": "2.6K km²",
+      "gdp_usd": 80801680397.0139,
+      "gdp_formatted": "$80.80B",
+      "gdp_per_capita": 123720,
+      "gdp_per_capita_formatted": "$123,719"
+    },
+    "TTO": {
+      "population": 1367764,
+      "population_formatted": "1.37M",
+      "area_km2": 5130.0,
+      "area_formatted": "5.1K km²",
+      "gdp_usd": 28341164301.126,
+      "gdp_formatted": "$28.34B",
+      "gdp_per_capita": 20751,
+      "gdp_per_capita_formatted": "$20,750"
+    },
+    "MOZ": {
+      "population": 34090466,
+      "population_formatted": "34.09M",
+      "area_km2": 801590.0,
+      "area_formatted": "801.6K km²",
+      "gdp_usd": 18883528581.3734,
+      "gdp_formatted": "$18.88B",
+      "gdp_per_capita": 578,
+      "gdp_per_capita_formatted": "$578"
+    },
+    "CRI": {
+      "population": 5309625,
+      "population_formatted": "5.31M",
+      "area_km2": 51100.0,
+      "area_formatted": "51.1K km²",
+      "gdp_usd": 69243626028.5936,
+      "gdp_formatted": "$69.24B",
+      "gdp_per_capita": 13626,
+      "gdp_per_capita_formatted": "$13,625"
+    },
+    "GHA": {
+      "population": 33742380,
+      "population_formatted": "33.74M",
+      "area_km2": 238533.0,
+      "area_formatted": "238.5K km²",
+      "gdp_usd": 73919003209.9866,
+      "gdp_formatted": "$73.92B",
+      "gdp_per_capita": 2230,
+      "gdp_per_capita_formatted": "$2,229"
+    },
+    "NAM": {
+      "population": 3022401,
+      "population_formatted": "3.02M",
+      "area_km2": 825615.0,
+      "area_formatted": "825.6K km²",
+      "gdp_usd": 12569449123.3661,
+      "gdp_formatted": "$12.57B",
+      "gdp_per_capita": 4350,
+      "gdp_per_capita_formatted": "$4,349"
+    },
+    "TUN": {
+      "population": 11972169,
+      "population_formatted": "11.97M",
+      "area_km2": 163610.0,
+      "area_formatted": "163.6K km²",
+      "gdp_usd": 44929920092.7955,
+      "gdp_formatted": "$44.93B",
+      "gdp_per_capita": 3707,
+      "gdp_per_capita_formatted": "$3,707"
+    },
+    "ERI": {
+      "population": 3607000,
+      "population_formatted": "3.61M",
+      "area_km2": 117600.0,
+      "area_formatted": "117.6K km²"
+    },
+    "COM": {
+      "population": 919901,
+      "population_formatted": "919.9K",
+      "area_km2": 1862.0,
+      "area_formatted": "1.9K km²",
+      "gdp_usd": 1222485532.31976,
+      "gdp_formatted": "$1.22B",
+      "gdp_per_capita": 1465,
+      "gdp_per_capita_formatted": "$1,465"
+    },
+    "GRC": {
+      "population": 10400720,
+      "population_formatted": "10.40M",
+      "area_km2": 131990.0,
+      "area_formatted": "132.0K km²",
+      "gdp_usd": 217990189600.69,
+      "gdp_formatted": "$217.99B",
+      "gdp_per_capita": 20887,
+      "gdp_per_capita_formatted": "$20,886",
+      "leaders": {
+        "head_of_state": "Katerina Sakellaropoulou",
+        "head_of_government": "Kyriakos Mitsotakis",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "HRV": {
+      "population": 3866233,
+      "population_formatted": "3.87M",
+      "area_km2": 56594.0,
+      "area_formatted": "56.6K km²",
+      "gdp_usd": 71196498671.1145,
+      "gdp_formatted": "$71.20B",
+      "gdp_per_capita": 18466,
+      "gdp_per_capita_formatted": "$18,465"
+    },
+    "CHE": {
+      "population": 9082848,
+      "population_formatted": "9.08M",
+      "area_km2": 41284.0,
+      "area_formatted": "41.3K km²",
+      "gdp_usd": 828508926958.393,
+      "gdp_formatted": "$828.51B",
+      "gdp_per_capita": 94395,
+      "gdp_per_capita_formatted": "$94,394",
+      "leaders": {
+        "head_of_state": "Karin Keller-Sutter",
+        "head_of_government": "Federal Council",
+        "title_hos": "President",
+        "title_hog": "Federal Council"
+      }
+    },
+    "LAC": {
+      "gdp_usd": 5336050967302.51,
+      "gdp_formatted": "$5.34T",
+      "gdp_per_capita": 9111,
+      "gdp_per_capita_formatted": "$9,111"
+    },
+    "BGD": {
+      "population": 169828911,
+      "population_formatted": "169.83M",
+      "area_km2": 147570.0,
+      "area_formatted": "147.6K km²",
+      "gdp_usd": 460131689083.083,
+      "gdp_formatted": "$460.13B",
+      "gdp_per_capita": 2716,
+      "gdp_per_capita_formatted": "$2,716",
+      "leaders": {
+        "head_of_state": "Mohammed Shahabuddin",
+        "head_of_government": "Sheikh Hasina",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "MMR": {
+      "population": 51316756,
+      "population_formatted": "51.32M",
+      "area_km2": 676578.0,
+      "area_formatted": "676.6K km²",
+      "gdp_usd": 62253049903.28,
+      "gdp_formatted": "$62.25B",
+      "gdp_per_capita": 1158,
+      "gdp_per_capita_formatted": "$1,158"
+    },
+    "SVN": {
+      "population": 2130638,
+      "population_formatted": "2.13M",
+      "area_km2": 20273.0,
+      "area_formatted": "20.3K km²",
+      "gdp_usd": 59899117741.0022,
+      "gdp_formatted": "$59.90B",
+      "gdp_per_capita": 28360,
+      "gdp_per_capita_formatted": "$28,360"
+    },
+    "CHL": {
+      "population": 20206953,
+      "population_formatted": "20.21M",
+      "area_km2": 756102.0,
+      "area_formatted": "756.1K km²",
+      "gdp_usd": 301226575540.242,
+      "gdp_formatted": "$301.23B",
+      "gdp_per_capita": 15406,
+      "gdp_per_capita_formatted": "$15,405",
+      "leaders": {
+        "head_of_state": "Gabriel Boric",
+        "head_of_government": "Gabriel Boric",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "IBD": {
+      "gdp_usd": 37943329554311.5,
+      "gdp_formatted": "$37.94T",
+      "gdp_per_capita": 7699,
+      "gdp_per_capita_formatted": "$7,699"
+    },
+    "ARG": {
+      "population": 46735004,
+      "population_formatted": "46.74M",
+      "area_km2": 2780400.0,
+      "area_formatted": "2.78M km²",
+      "gdp_usd": 633993756301.08,
+      "gdp_formatted": "$633.99B",
+      "gdp_per_capita": 13962,
+      "gdp_per_capita_formatted": "$13,962",
+      "leaders": {
+        "head_of_state": "Javier Milei",
+        "head_of_government": "Javier Milei",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "HTI": {
+      "population": 11867032,
+      "population_formatted": "11.87M",
+      "area_km2": 27750.0,
+      "area_formatted": "27.8K km²",
+      "gdp_usd": 20253551920.5516,
+      "gdp_formatted": "$20.25B",
+      "gdp_per_capita": 1761,
+      "gdp_per_capita_formatted": "$1,760"
+    },
+    "STP": {
+      "population": 209607,
+      "population_formatted": "209.6K",
+      "area_km2": 964.0,
+      "area_formatted": "964 km²",
+      "gdp_usd": 540809499.189348,
+      "gdp_formatted": "$540.81M",
+      "gdp_per_capita": 2390,
+      "gdp_per_capita_formatted": "$2,389"
+    },
+    "SVK": {
+      "population": 5413813,
+      "population_formatted": "5.41M",
+      "area_km2": 49037.0,
+      "area_formatted": "49.0K km²",
+      "gdp_usd": 115792972358.209,
+      "gdp_formatted": "$115.79B",
+      "gdp_per_capita": 21318,
+      "gdp_per_capita_formatted": "$21,317"
+    },
+    "CHN": {
+      "population": 1408280000,
+      "population_formatted": "1.41B",
+      "area_km2": 9706961.0,
+      "area_formatted": "9.71M km²",
+      "gdp_usd": 18316765021690.2,
+      "gdp_formatted": "$18.32T",
+      "gdp_per_capita": 12971,
+      "gdp_per_capita_formatted": "$12,970",
+      "leaders": {
+        "head_of_state": "Xi Jinping",
+        "head_of_government": "Li Qiang",
+        "title_hos": "President",
+        "title_hog": "Premier"
+      }
+    },
+    "HPC": {
+      "gdp_usd": 1002501492801.3,
+      "gdp_formatted": "$1.00T",
+      "gdp_per_capita": 1121,
+      "gdp_per_capita_formatted": "$1,121"
+    },
+    "DMA": {
+      "population": 67408,
+      "population_formatted": "67.4K",
+      "area_km2": 751.0,
+      "area_formatted": "751 km²",
+      "gdp_usd": 623062962.962963,
+      "gdp_formatted": "$623.06M",
+      "gdp_per_capita": 9324,
+      "gdp_per_capita_formatted": "$9,323"
+    },
+    "LVA": {
+      "population": 1829000,
+      "population_formatted": "1.83M",
+      "area_km2": 64559.0,
+      "area_formatted": "64.6K km²",
+      "gdp_usd": 38003198508.9107,
+      "gdp_formatted": "$38.00B",
+      "gdp_per_capita": 20221,
+      "gdp_per_capita_formatted": "$20,221"
+    },
+    "CAN": {
+      "population": 41651653,
+      "population_formatted": "41.65M",
+      "area_km2": 9984670.0,
+      "area_formatted": "9.98M km²",
+      "gdp_usd": 2190411080134.32,
+      "gdp_formatted": "$2.19T",
+      "gdp_per_capita": 56257,
+      "gdp_per_capita_formatted": "$56,256",
+      "leaders": {
+        "head_of_state": "Charles III",
+        "head_of_government": "Justin Trudeau",
+        "title_hos": "Monarch",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "GUM": {
+      "population": 153836,
+      "population_formatted": "153.8K",
+      "area_km2": 549.0,
+      "area_formatted": "549 km²",
+      "gdp_usd": 6910000000,
+      "gdp_formatted": "$6.91B",
+      "gdp_per_capita": 41833,
+      "gdp_per_capita_formatted": "$41,833"
+    },
+    "ETH": {
+      "population": 111652998,
+      "population_formatted": "111.65M",
+      "area_km2": 1104300.0,
+      "area_formatted": "1.10M km²",
+      "gdp_usd": 123140304666,
+      "gdp_formatted": "$123.14B",
+      "gdp_per_capita": 982,
+      "gdp_per_capita_formatted": "$982"
+    },
+    "BLZ": {
+      "population": 417634,
+      "population_formatted": "417.6K",
+      "area_km2": 22966.0,
+      "area_formatted": "23.0K km²",
+      "gdp_usd": 2846604350,
+      "gdp_formatted": "$2.85B",
+      "gdp_per_capita": 7068,
+      "gdp_per_capita_formatted": "$7,068"
+    },
+    "SWE": {
+      "population": 10605098,
+      "population_formatted": "10.61M",
+      "area_km2": 450295.0,
+      "area_formatted": "450.3K km²",
+      "gdp_usd": 575071237640.921,
+      "gdp_formatted": "$575.07B",
+      "gdp_per_capita": 54837,
+      "gdp_per_capita_formatted": "$54,836",
+      "leaders": {
+        "head_of_state": "Carl XVI Gustaf",
+        "head_of_government": "Ulf Kristersson",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "CZE": {
+      "population": 10882341,
+      "population_formatted": "10.88M",
+      "area_km2": 78865.0,
+      "area_formatted": "78.9K km²",
+      "gdp_usd": 301831228325.556,
+      "gdp_formatted": "$301.83B",
+      "gdp_per_capita": 28282,
+      "gdp_per_capita_formatted": "$28,282",
+      "leaders": {
+        "head_of_state": "Petr Pavel",
+        "head_of_government": "Petr Fiala",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "BLR": {
+      "population": 9109280,
+      "population_formatted": "9.11M",
+      "area_km2": 207600.0,
+      "area_formatted": "207.6K km²",
+      "gdp_usd": 73775179924.603,
+      "gdp_formatted": "$73.78B",
+      "gdp_per_capita": 7995,
+      "gdp_per_capita_formatted": "$7,994"
+    },
+    "CAF": {
+      "population": 6470307,
+      "population_formatted": "6.47M",
+      "area_km2": 622984.0,
+      "area_formatted": "623.0K km²",
+      "gdp_usd": 2382618615.01694,
+      "gdp_formatted": "$2.38B",
+      "gdp_per_capita": 467,
+      "gdp_per_capita_formatted": "$467"
+    },
+    "TEC": {
+      "gdp_usd": 5264484546456.79,
+      "gdp_formatted": "$5.26T",
+      "gdp_per_capita": 11421,
+      "gdp_per_capita_formatted": "$11,421"
+    },
+    "EAR": {
+      "gdp_usd": 14034689936337.3,
+      "gdp_formatted": "$14.03T",
+      "gdp_per_capita": 4044,
+      "gdp_per_capita_formatted": "$4,043"
+    },
+    "SSD": {
+      "population": 15786898,
+      "population_formatted": "15.79M",
+      "area_km2": 619745.0,
+      "area_formatted": "619.7K km²"
+    },
+    "UZB": {
+      "population": 37859698,
+      "population_formatted": "37.86M",
+      "area_km2": 447400.0,
+      "area_formatted": "447.4K km²",
+      "gdp_usd": 90095926567.4359,
+      "gdp_formatted": "$90.10B",
+      "gdp_per_capita": 2579,
+      "gdp_per_capita_formatted": "$2,578"
+    },
+    "LBY": {
+      "population": 7459000,
+      "population_formatted": "7.46M",
+      "area_km2": 1759540.0,
+      "area_formatted": "1.76M km²",
+      "gdp_usd": 43246297921.8499,
+      "gdp_formatted": "$43.25B",
+      "gdp_per_capita": 5987,
+      "gdp_per_capita_formatted": "$5,986"
+    },
+    "RWA": {
+      "population": 14104969,
+      "population_formatted": "14.10M",
+      "area_km2": 26338.0,
+      "area_formatted": "26.3K km²",
+      "gdp_usd": 13316161002.3912,
+      "gdp_formatted": "$13.32B",
+      "gdp_per_capita": 975,
+      "gdp_per_capita_formatted": "$975"
+    },
+    "KIR": {
+      "population": 120740,
+      "population_formatted": "120.7K",
+      "area_km2": 811.0,
+      "area_formatted": "811 km²",
+      "gdp_usd": 270040453.254018,
+      "gdp_formatted": "$270.04M",
+      "gdp_per_capita": 2070,
+      "gdp_per_capita_formatted": "$2,069"
+    },
+    "GUF": {
+      "population": 292354,
+      "population_formatted": "292.4K",
+      "area_km2": 83534.0,
+      "area_formatted": "83.5K km²"
+    },
+    "CYP": {
+      "population": 1442614,
+      "population_formatted": "1.44M",
+      "area_km2": 9251.0,
+      "area_formatted": "9.3K km²",
+      "gdp_usd": 31218038929.0919,
+      "gdp_formatted": "$31.22B",
+      "gdp_per_capita": 33231,
+      "gdp_per_capita_formatted": "$33,231"
+    },
+    "BOL": {
+      "population": 11365333,
+      "population_formatted": "11.37M",
+      "area_km2": 1098581.0,
+      "area_formatted": "1.10M km²",
+      "gdp_usd": 50959081953.6903,
+      "gdp_formatted": "$50.96B",
+      "gdp_per_capita": 4219,
+      "gdp_per_capita_formatted": "$4,219"
+    },
+    "ABW": {
+      "population": 107566,
+      "population_formatted": "107.6K",
+      "area_km2": 180.0,
+      "area_formatted": "180 km²",
+      "gdp_usd": 3324034443.26581,
+      "gdp_formatted": "$3.32B",
+      "gdp_per_capita": 30976,
+      "gdp_per_capita_formatted": "$30,975"
+    },
+    "CSS": {
+      "gdp_usd": 78506430710.7309,
+      "gdp_formatted": "$78.51B",
+      "gdp_per_capita": 17456,
+      "gdp_per_capita_formatted": "$17,456"
+    },
+    "EMU": {
+      "gdp_usd": 14488160081806.7,
+      "gdp_formatted": "$14.49T",
+      "gdp_per_capita": 41609,
+      "gdp_per_capita_formatted": "$41,608"
+    },
+    "XKX": {
+      "gdp_usd": 9354907646.29785,
+      "gdp_formatted": "$9.35B",
+      "gdp_per_capita": 5291,
+      "gdp_per_capita_formatted": "$5,290"
+    },
+    "SDN": {
+      "population": 51662000,
+      "population_formatted": "51.66M",
+      "area_km2": 1886068.0,
+      "area_formatted": "1.89M km²",
+      "gdp_usd": 51666875363.0963,
+      "gdp_formatted": "$51.67B",
+      "gdp_per_capita": 1046,
+      "gdp_per_capita_formatted": "$1,046"
+    },
+    "DNK": {
+      "population": 6011488,
+      "population_formatted": "6.01M",
+      "area_km2": 43094.0,
+      "area_formatted": "43.1K km²",
+      "gdp_usd": 400114306337.077,
+      "gdp_formatted": "$400.11B",
+      "gdp_per_capita": 67781,
+      "gdp_per_capita_formatted": "$67,781",
+      "leaders": {
+        "head_of_state": "Frederik X",
+        "head_of_government": "Mette Frederiksen",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "TMN": {
+      "gdp_usd": 2141649636190.98,
+      "gdp_formatted": "$2.14T",
+      "gdp_per_capita": 3010,
+      "gdp_per_capita_formatted": "$3,010"
+    },
+    "POL": {
+      "population": 37392000,
+      "population_formatted": "37.39M",
+      "area_km2": 312679.0,
+      "area_formatted": "312.7K km²",
+      "gdp_usd": 695607470875.276,
+      "gdp_formatted": "$695.61B",
+      "gdp_per_capita": 18891,
+      "gdp_per_capita_formatted": "$18,891",
+      "leaders": {
+        "head_of_state": "Andrzej Duda",
+        "head_of_government": "Donald Tusk",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "AIA": {
+      "population": 16010,
+      "population_formatted": "16.0K",
+      "area_km2": 91.0,
+      "area_formatted": "91 km²"
+    },
+    "JOR": {
+      "population": 11734000,
+      "population_formatted": "11.73M",
+      "area_km2": 89342.0,
+      "area_formatted": "89.3K km²",
+      "gdp_usd": 48764963380.2817,
+      "gdp_formatted": "$48.76B",
+      "gdp_per_capita": 4332,
+      "gdp_per_capita_formatted": "$4,332"
+    },
+    "THA": {
+      "population": 65859640,
+      "population_formatted": "65.86M",
+      "area_km2": 513120.0,
+      "area_formatted": "513.1K km²",
+      "gdp_usd": 495644697587.661,
+      "gdp_formatted": "$495.64B",
+      "gdp_per_capita": 6909,
+      "gdp_per_capita_formatted": "$6,909",
+      "leaders": {
+        "head_of_state": "Rama X",
+        "head_of_government": "Paetongtarn Shinawatra",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "SHN": {
+      "population": 5651,
+      "population_formatted": "5.7K",
+      "area_km2": 394.0,
+      "area_formatted": "394 km²"
+    },
+    "LSO": {
+      "population": 2116427,
+      "population_formatted": "2.12M",
+      "area_km2": 30355.0,
+      "area_formatted": "30.4K km²",
+      "gdp_usd": 2354980960.02697,
+      "gdp_formatted": "$2.35B",
+      "gdp_per_capita": 1030,
+      "gdp_per_capita_formatted": "$1,030"
+    },
+    "GAB": {
+      "population": 2469296,
+      "population_formatted": "2.47M",
+      "area_km2": 267668.0,
+      "area_formatted": "267.7K km²",
+      "gdp_usd": 20440655695.1804,
+      "gdp_formatted": "$20.44B",
+      "gdp_per_capita": 8409,
+      "gdp_per_capita_formatted": "$8,409"
+    },
+    "CUB": {
+      "population": 9748007,
+      "population_formatted": "9.75M",
+      "area_km2": 109884.0,
+      "area_formatted": "109.9K km²"
+    },
+    "FCS": {
+      "gdp_usd": 1918272363969.18,
+      "gdp_formatted": "$1.92T",
+      "gdp_per_capita": 1851,
+      "gdp_per_capita_formatted": "$1,850"
+    },
+    "BVT": {
+      "area_km2": 49.0,
+      "area_formatted": "49 km²"
+    },
+    "IRQ": {
+      "population": 46118793,
+      "population_formatted": "46.12M",
+      "area_km2": 438317.0,
+      "area_formatted": "438.3K km²",
+      "gdp_usd": 287372232137.931,
+      "gdp_formatted": "$287.37B",
+      "gdp_per_capita": 6521,
+      "gdp_per_capita_formatted": "$6,520"
+    },
+    "IDB": {
+      "gdp_usd": 1456880573683.68,
+      "gdp_formatted": "$1.46T",
+      "gdp_per_capita": 2235,
+      "gdp_per_capita_formatted": "$2,234"
+    },
+    "ARB": {
+      "gdp_usd": 3747416641077.46,
+      "gdp_formatted": "$3.75T",
+      "gdp_per_capita": 7950,
+      "gdp_per_capita_formatted": "$7,950"
+    },
+    "SJM": {
+      "population": 2530,
+      "population_formatted": "2.5K",
+      "area_km2": 61399.0,
+      "area_formatted": "61.4K km²"
+    },
+    "VAT": {
+      "population": 882,
+      "population_formatted": "882",
+      "area_km2": 0.49,
+      "area_formatted": "0 km²"
+    },
+    "PHL": {
+      "population": 114123600,
+      "population_formatted": "114.12M",
+      "area_km2": 342353.0,
+      "area_formatted": "342.4K km²",
+      "gdp_usd": 404353369604.631,
+      "gdp_formatted": "$404.35B",
+      "gdp_per_capita": 3548,
+      "gdp_per_capita_formatted": "$3,548",
+      "leaders": {
+        "head_of_state": "Bongbong Marcos",
+        "head_of_government": "Bongbong Marcos",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "ALB": {
+      "population": 2363314,
+      "population_formatted": "2.36M",
+      "area_km2": 28748.0,
+      "area_formatted": "28.7K km²",
+      "gdp_usd": 19017247013.8821,
+      "gdp_formatted": "$19.02B",
+      "gdp_per_capita": 7757,
+      "gdp_per_capita_formatted": "$7,756"
+    },
+    "GUY": {
+      "population": 772975,
+      "population_formatted": "773.0K",
+      "area_km2": 214969.0,
+      "area_formatted": "215.0K km²",
+      "gdp_usd": 14718388489.2086,
+      "gdp_formatted": "$14.72B",
+      "gdp_per_capita": 17913,
+      "gdp_per_capita_formatted": "$17,913"
+    },
+    "NIC": {
+      "population": 6803886,
+      "population_formatted": "6.80M",
+      "area_km2": 130373.0,
+      "area_formatted": "130.4K km²",
+      "gdp_usd": 15634572502.2294,
+      "gdp_formatted": "$15.63B",
+      "gdp_per_capita": 2323,
+      "gdp_per_capita_formatted": "$2,322"
+    },
+    "KHM": {
+      "population": 17577760,
+      "population_formatted": "17.58M",
+      "area_km2": 181035.0,
+      "area_formatted": "181.0K km²",
+      "gdp_usd": 39994532959.6074,
+      "gdp_formatted": "$39.99B",
+      "gdp_per_capita": 2325,
+      "gdp_per_capita_formatted": "$2,325"
+    },
+    "HUN": {
+      "population": 9539502,
+      "population_formatted": "9.54M",
+      "area_km2": 93028.0,
+      "area_formatted": "93.0K km²",
+      "gdp_usd": 177002580544.155,
+      "gdp_formatted": "$177.00B",
+      "gdp_per_capita": 18428,
+      "gdp_per_capita_formatted": "$18,428"
+    },
+    "GEO": {
+      "population": 4000921,
+      "population_formatted": "4.00M",
+      "area_km2": 69700.0,
+      "area_formatted": "69.7K km²",
+      "gdp_usd": 24984568959.605,
+      "gdp_formatted": "$24.98B",
+      "gdp_per_capita": 6730,
+      "gdp_per_capita_formatted": "$6,729"
+    },
+    "NCL": {
+      "population": 264596,
+      "population_formatted": "264.6K",
+      "area_km2": 18575.0,
+      "area_formatted": "18.6K km²",
+      "gdp_usd": 9623318718.31459,
+      "gdp_formatted": "$9.62B",
+      "gdp_per_capita": 33516,
+      "gdp_per_capita_formatted": "$33,516"
+    },
+    "HMD": {
+      "area_km2": 412.0,
+      "area_formatted": "412 km²"
+    },
+    "MNA": {
+      "gdp_usd": 2160815136190.98,
+      "gdp_formatted": "$2.16T",
+      "gdp_per_capita": 3016,
+      "gdp_per_capita_formatted": "$3,015"
+    },
+    "VIR": {
+      "population": 87146,
+      "population_formatted": "87.1K",
+      "area_km2": 347.0,
+      "area_formatted": "347 km²",
+      "gdp_usd": 4672000000,
+      "gdp_formatted": "$4.67B",
+      "gdp_per_capita": 44321,
+      "gdp_per_capita_formatted": "$44,320"
+    },
+    "BHS": {
+      "population": 398165,
+      "population_formatted": "398.2K",
+      "area_km2": 13943.0,
+      "area_formatted": "13.9K km²",
+      "gdp_usd": 13896800000,
+      "gdp_formatted": "$13.90B",
+      "gdp_per_capita": 34957,
+      "gdp_per_capita_formatted": "$34,957"
+    },
+    "TCA": {
+      "population": 50828,
+      "population_formatted": "50.8K",
+      "area_km2": 948.0,
+      "area_formatted": "948 km²",
+      "gdp_usd": 1434119000,
+      "gdp_formatted": "$1.43B",
+      "gdp_per_capita": 31281,
+      "gdp_per_capita_formatted": "$31,280"
+    },
+    "BHR": {
+      "population": 1594654,
+      "population_formatted": "1.59M",
+      "area_km2": 765.0,
+      "area_formatted": "765 km²",
+      "gdp_usd": 46458191489.3617,
+      "gdp_formatted": "$46.46B",
+      "gdp_per_capita": 30471,
+      "gdp_per_capita_formatted": "$30,470"
+    },
+    "MWI": {
+      "population": 20734262,
+      "population_formatted": "20.73M",
+      "area_km2": 118484.0,
+      "area_formatted": "118.5K km²",
+      "gdp_usd": 12429059928.102,
+      "gdp_formatted": "$12.43B",
+      "gdp_per_capita": 604,
+      "gdp_per_capita_formatted": "$604"
+    },
+    "VGB": {
+      "population": 39471,
+      "population_formatted": "39.5K",
+      "area_km2": 151.0,
+      "area_formatted": "151 km²"
+    },
+    "TGO": {
+      "population": 8095498,
+      "population_formatted": "8.10M",
+      "area_km2": 56785.0,
+      "area_formatted": "56.8K km²",
+      "gdp_usd": 8646453099.4124,
+      "gdp_formatted": "$8.65B",
+      "gdp_per_capita": 951,
+      "gdp_per_capita_formatted": "$951"
+    },
+    "MSR": {
+      "population": 4386,
+      "population_formatted": "4.4K",
+      "area_km2": 102.0,
+      "area_formatted": "102 km²"
+    },
+    "IBT": {
+      "gdp_usd": 41018485584725.7,
+      "gdp_formatted": "$41.02T",
+      "gdp_per_capita": 6037,
+      "gdp_per_capita_formatted": "$6,036"
+    },
+    "GRL": {
+      "population": 56542,
+      "population_formatted": "56.5K",
+      "area_km2": 2166086.0,
+      "area_formatted": "2.17M km²",
+      "gdp_usd": 3152334771.77992,
+      "gdp_formatted": "$3.15B",
+      "gdp_per_capita": 55635,
+      "gdp_per_capita_formatted": "$55,635"
+    },
+    "GRD": {
+      "population": 109021,
+      "population_formatted": "109.0K",
+      "area_km2": 344.0,
+      "area_formatted": "344 km²",
+      "gdp_usd": 1224007407.40741,
+      "gdp_formatted": "$1.22B",
+      "gdp_per_capita": 10469,
+      "gdp_per_capita_formatted": "$10,469"
+    },
+    "ATF": {
+      "population": 400,
+      "population_formatted": "400",
+      "area_km2": 7747.0,
+      "area_formatted": "7.7K km²"
+    },
+    "AUT": {
+      "population": 9200931,
+      "population_formatted": "9.20M",
+      "area_km2": 83871.0,
+      "area_formatted": "83.9K km²",
+      "gdp_usd": 473221298968.216,
+      "gdp_formatted": "$473.22B",
+      "gdp_per_capita": 52337,
+      "gdp_per_capita_formatted": "$52,336",
+      "leaders": {
+        "head_of_state": "Alexander Van der Bellen",
+        "head_of_government": "Karl Nehammer",
+        "title_hos": "President",
+        "title_hog": "Chancellor"
+      }
+    },
+    "SYC": {
+      "population": 122729,
+      "population_formatted": "122.7K",
+      "area_km2": 452.0,
+      "area_formatted": "452 km²",
+      "gdp_usd": 2018346588.73752,
+      "gdp_formatted": "$2.02B",
+      "gdp_per_capita": 16837,
+      "gdp_per_capita_formatted": "$16,836"
+    },
+    "GTM": {
+      "population": 18079810,
+      "population_formatted": "18.08M",
+      "area_km2": 108889.0,
+      "area_formatted": "108.9K km²",
+      "gdp_usd": 95641446500.6523,
+      "gdp_formatted": "$95.64B",
+      "gdp_per_capita": 5359,
+      "gdp_per_capita_formatted": "$5,358"
+    },
+    "DZA": {
+      "population": 47400000,
+      "population_formatted": "47.40M",
+      "area_km2": 2381741.0,
+      "area_formatted": "2.38M km²",
+      "gdp_usd": 225581644702.568,
+      "gdp_formatted": "$225.58B",
+      "gdp_per_capita": 4960,
+      "gdp_per_capita_formatted": "$4,960"
+    },
+    "UKR": {
+      "population": 32862000,
+      "population_formatted": "32.86M",
+      "area_km2": 603550.0,
+      "area_formatted": "603.5K km²",
+      "gdp_usd": 161989520721.19,
+      "gdp_formatted": "$161.99B",
+      "gdp_per_capita": 4200,
+      "gdp_per_capita_formatted": "$4,199",
+      "leaders": {
+        "head_of_state": "Volodymyr Zelenskyy",
+        "head_of_government": "Denys Shmyhal",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "DEU": {
+      "population": 83491249,
+      "population_formatted": "83.49M",
+      "area_km2": 357114.0,
+      "area_formatted": "357.1K km²",
+      "gdp_usd": 4201021706478.62,
+      "gdp_formatted": "$4.20T",
+      "gdp_per_capita": 50507,
+      "gdp_per_capita_formatted": "$50,506",
+      "leaders": {
+        "head_of_state": "Frank-Walter Steinmeier",
+        "head_of_government": "Olaf Scholz",
+        "title_hos": "President",
+        "title_hog": "Chancellor"
+      }
+    },
+    "MDA": {
+      "population": 2749076,
+      "population_formatted": "2.75M",
+      "area_km2": 33847.0,
+      "area_formatted": "33.8K km²",
+      "gdp_usd": 14525337523.7271,
+      "gdp_formatted": "$14.53B",
+      "gdp_per_capita": 5744,
+      "gdp_per_capita_formatted": "$5,744"
+    },
+    "IND": {
+      "population": 1417492000,
+      "population_formatted": "1.42B",
+      "area_km2": 3287263.0,
+      "area_formatted": "3.29M km²",
+      "gdp_usd": 3346107287730.93,
+      "gdp_formatted": "$3.35T",
+      "gdp_per_capita": 2347,
+      "gdp_per_capita_formatted": "$2,347",
+      "leaders": {
+        "head_of_state": "Droupadi Murmu",
+        "head_of_government": "Narendra Modi",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "PRT": {
+      "population": 10749635,
+      "population_formatted": "10.75M",
+      "area_km2": 92090.0,
+      "area_formatted": "92.1K km²",
+      "gdp_usd": 256898677175.024,
+      "gdp_formatted": "$256.90B",
+      "gdp_per_capita": 24621,
+      "gdp_per_capita_formatted": "$24,620",
+      "leaders": {
+        "head_of_state": "Marcelo Rebelo de Sousa",
+        "head_of_government": "Luís Montenegro",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "TUV": {
+      "population": 10643,
+      "population_formatted": "10.6K",
+      "area_km2": 26.0,
+      "area_formatted": "26 km²",
+      "gdp_usd": 59065982.0873657,
+      "gdp_formatted": "$59.07M",
+      "gdp_per_capita": 5911,
+      "gdp_per_capita_formatted": "$5,911"
+    },
+    "FLK": {
+      "population": 3662,
+      "population_formatted": "3.7K",
+      "area_km2": 12173.0,
+      "area_formatted": "12.2K km²"
+    },
+    "GIN": {
+      "population": 14363931,
+      "population_formatted": "14.36M",
+      "area_km2": 245857.0,
+      "area_formatted": "245.9K km²",
+      "gdp_usd": 19910452541.9219,
+      "gdp_formatted": "$19.91B",
+      "gdp_per_capita": 1417,
+      "gdp_per_capita_formatted": "$1,416"
+    },
+    "MYS": {
+      "population": 34231700,
+      "population_formatted": "34.23M",
+      "area_km2": 330803.0,
+      "area_formatted": "330.8K km²",
+      "gdp_usd": 407830525989.553,
+      "gdp_formatted": "$407.83B",
+      "gdp_per_capita": 11755,
+      "gdp_per_capita_formatted": "$11,754",
+      "leaders": {
+        "head_of_state": "Ibrahim Iskandar",
+        "head_of_government": "Anwar Ibrahim",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "SLV": {
+      "population": 6029976,
+      "population_formatted": "6.03M",
+      "area_km2": 21041.0,
+      "area_formatted": "21.0K km²",
+      "gdp_usd": 31870120000,
+      "gdp_formatted": "$31.87B",
+      "gdp_per_capita": 5075,
+      "gdp_per_capita_formatted": "$5,074"
+    },
+    "CYM": {
+      "population": 84738,
+      "population_formatted": "84.7K",
+      "area_km2": 264.0,
+      "area_formatted": "264 km²",
+      "gdp_usd": 6660161212.01997,
+      "gdp_formatted": "$6.66B",
+      "gdp_per_capita": 93031,
+      "gdp_per_capita_formatted": "$93,030"
+    },
+    "ROU": {
+      "population": 19036031,
+      "population_formatted": "19.04M",
+      "area_km2": 238391.0,
+      "area_formatted": "238.4K km²",
+      "gdp_usd": 295319437556.988,
+      "gdp_formatted": "$295.32B",
+      "gdp_per_capita": 15504,
+      "gdp_per_capita_formatted": "$15,503"
+    },
+    "PLW": {
+      "population": 16733,
+      "population_formatted": "16.7K",
+      "area_km2": 459.0,
+      "area_formatted": "459 km²",
+      "gdp_usd": 243826812.744141,
+      "gdp_formatted": "$243.83M",
+      "gdp_per_capita": 13730,
+      "gdp_per_capita_formatted": "$13,729"
+    },
+    "PAK": {
+      "population": 241499431,
+      "population_formatted": "241.50M",
+      "area_km2": 796095.0,
+      "area_formatted": "796.1K km²",
+      "gdp_usd": 374890295666.694,
+      "gdp_formatted": "$374.89B",
+      "gdp_per_capita": 1538,
+      "gdp_per_capita_formatted": "$1,538",
+      "leaders": {
+        "head_of_state": "Asif Ali Zardari",
+        "head_of_government": "Shehbaz Sharif",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "BEL": {
+      "population": 11825551,
+      "population_formatted": "11.83M",
+      "area_km2": 30528.0,
+      "area_formatted": "30.5K km²",
+      "gdp_usd": 591085783326.267,
+      "gdp_formatted": "$591.09B",
+      "gdp_per_capita": 50606,
+      "gdp_per_capita_formatted": "$50,605",
+      "leaders": {
+        "head_of_state": "Philippe",
+        "head_of_government": "Alexander De Croo",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "NER": {
+      "population": 26312034,
+      "population_formatted": "26.31M",
+      "area_km2": 1267000.0,
+      "area_formatted": "1.27M km²",
+      "gdp_usd": 15433852712.2963,
+      "gdp_formatted": "$15.43B",
+      "gdp_per_capita": 610,
+      "gdp_per_capita_formatted": "$609"
+    },
+    "NGA": {
+      "population": 223800000,
+      "population_formatted": "223.80M",
+      "area_km2": 923768.0,
+      "area_formatted": "923.8K km²",
+      "gdp_usd": 646950257577.814,
+      "gdp_formatted": "$646.95B",
+      "gdp_per_capita": 2899,
+      "gdp_per_capita_formatted": "$2,899",
+      "leaders": {
+        "head_of_state": "Bola Tinubu",
+        "head_of_government": "Bola Tinubu",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "KEN": {
+      "population": 53330978,
+      "population_formatted": "53.33M",
+      "area_km2": 580367.0,
+      "area_formatted": "580.4K km²",
+      "gdp_usd": 114448978152.637,
+      "gdp_formatted": "$114.45B",
+      "gdp_per_capita": 2110,
+      "gdp_per_capita_formatted": "$2,109",
+      "leaders": {
+        "head_of_state": "William Ruto",
+        "head_of_government": "William Ruto",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "OSS": {
+      "gdp_usd": 181859538439.061,
+      "gdp_formatted": "$181.86B",
+      "gdp_per_capita": 14321,
+      "gdp_per_capita_formatted": "$14,320"
+    },
+    "SGP": {
+      "population": 6110200,
+      "population_formatted": "6.11M",
+      "area_km2": 710.0,
+      "area_formatted": "710 km²",
+      "gdp_usd": 509017841146.557,
+      "gdp_formatted": "$509.02B",
+      "gdp_per_capita": 90299,
+      "gdp_per_capita_formatted": "$90,299",
+      "leaders": {
+        "head_of_state": "Tharman Shanmugaratnam",
+        "head_of_government": "Lawrence Wong",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "ESH": {
+      "population": 600904,
+      "population_formatted": "600.9K",
+      "area_km2": 266000.0,
+      "area_formatted": "266.0K km²"
+    },
+    "LTU": {
+      "population": 2894886,
+      "population_formatted": "2.89M",
+      "area_km2": 65300.0,
+      "area_formatted": "65.3K km²",
+      "gdp_usd": 71033884499.7824,
+      "gdp_formatted": "$71.03B",
+      "gdp_per_capita": 25086,
+      "gdp_per_capita_formatted": "$25,085"
+    },
+    "PYF": {
+      "population": 279500,
+      "population_formatted": "279.5K",
+      "area_km2": 4167.0,
+      "area_formatted": "4.2K km²",
+      "gdp_usd": 5622688338.06317,
+      "gdp_formatted": "$5.62B",
+      "gdp_per_capita": 20054,
+      "gdp_per_capita_formatted": "$20,053"
+    },
+    "PRY": {
+      "population": 6109644,
+      "population_formatted": "6.11M",
+      "area_km2": 406752.0,
+      "area_formatted": "406.8K km²",
+      "gdp_usd": 41952910858.0846,
+      "gdp_formatted": "$41.95B",
+      "gdp_per_capita": 6206,
+      "gdp_per_capita_formatted": "$6,205"
+    },
+    "FRA": {
+      "population": 66351959,
+      "population_formatted": "66.35M",
+      "area_km2": 543908.0,
+      "area_formatted": "543.9K km²",
+      "gdp_usd": 2794788137066.94,
+      "gdp_formatted": "$2.79T",
+      "gdp_per_capita": 40989,
+      "gdp_per_capita_formatted": "$40,988",
+      "leaders": {
+        "head_of_state": "Emmanuel Macron",
+        "head_of_government": "Michel Barnier",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "ALA": {
+      "population": 30654,
+      "population_formatted": "30.7K",
+      "area_km2": 1580.0,
+      "area_formatted": "1.6K km²"
+    },
+    "BWA": {
+      "population": 2359609,
+      "population_formatted": "2.36M",
+      "area_km2": 582000.0,
+      "area_formatted": "582.0K km²",
+      "gdp_usd": 20321150599.1523,
+      "gdp_formatted": "$20.32B",
+      "gdp_per_capita": 8329,
+      "gdp_per_capita_formatted": "$8,328"
+    },
+    "TSS": {
+      "gdp_usd": 2292617010267,
+      "gdp_formatted": "$2.29T",
+      "gdp_per_capita": 1865,
+      "gdp_per_capita_formatted": "$1,865"
+    },
+    "WLF": {
+      "population": 11620,
+      "population_formatted": "11.6K",
+      "area_km2": 142.0,
+      "area_formatted": "142 km²"
+    },
+    "TWN": {
+      "population": 23317031,
+      "population_formatted": "23.32M",
+      "area_km2": 36197.0,
+      "area_formatted": "36.2K km²"
+    },
+    "IRL": {
+      "population": 5458600,
+      "population_formatted": "5.46M",
+      "area_km2": 70273.0,
+      "area_formatted": "70.3K km²",
+      "gdp_usd": 548341794599.09,
+      "gdp_formatted": "$548.34B",
+      "gdp_per_capita": 105191,
+      "gdp_per_capita_formatted": "$105,190",
+      "leaders": {
+        "head_of_state": "Michael D. Higgins",
+        "head_of_government": "Simon Harris",
+        "title_hos": "President",
+        "title_hog": "Taoiseach"
+      }
+    },
+    "QAT": {
+      "population": 3173024,
+      "population_formatted": "3.17M",
+      "area_km2": 11586.0,
+      "area_formatted": "11.6K km²",
+      "gdp_usd": 235709340659.341,
+      "gdp_formatted": "$235.71B",
+      "gdp_per_capita": 88701,
+      "gdp_per_capita_formatted": "$88,701"
+    },
+    "ARE": {
+      "population": 11294243,
+      "population_formatted": "11.29M",
+      "area_km2": 83600.0,
+      "area_formatted": "83.6K km²",
+      "gdp_usd": 511403403675.97,
+      "gdp_formatted": "$511.40B",
+      "gdp_per_capita": 50760,
+      "gdp_per_capita_formatted": "$50,759"
+    },
+    "ARM": {
+      "population": 3076200,
+      "population_formatted": "3.08M",
+      "area_km2": 29743.0,
+      "area_formatted": "29.7K km²",
+      "gdp_usd": 19513506553.1251,
+      "gdp_formatted": "$19.51B",
+      "gdp_per_capita": 6572,
+      "gdp_per_capita_formatted": "$6,571"
+    },
+    "LBR": {
+      "population": 5248621,
+      "population_formatted": "5.25M",
+      "area_km2": 111369.0,
+      "area_formatted": "111.4K km²",
+      "gdp_usd": 4001047000,
+      "gdp_formatted": "$4.00B",
+      "gdp_per_capita": 745,
+      "gdp_per_capita_formatted": "$744"
+    },
+    "BLM": {
+      "population": 10562,
+      "population_formatted": "10.6K",
+      "area_km2": 21.0,
+      "area_formatted": "21 km²"
+    },
+    "NPL": {
+      "population": 29911840,
+      "population_formatted": "29.91M",
+      "area_km2": 147181.0,
+      "area_formatted": "147.2K km²",
+      "gdp_usd": 41182939600.6209,
+      "gdp_formatted": "$41.18B",
+      "gdp_per_capita": 1386,
+      "gdp_per_capita_formatted": "$1,385"
+    },
+    "KAZ": {
+      "population": 20426568,
+      "population_formatted": "20.43M",
+      "area_km2": 2724900.0,
+      "area_formatted": "2.72M km²",
+      "gdp_usd": 225496328925.494,
+      "gdp_formatted": "$225.50B",
+      "gdp_per_capita": 11255,
+      "gdp_per_capita_formatted": "$11,255"
+    },
+    "TLS": {
+      "population": 1391221,
+      "population_formatted": "1.39M",
+      "area_km2": 14874.0,
+      "area_formatted": "14.9K km²",
+      "gdp_usd": 3208599889.00965,
+      "gdp_formatted": "$3.21B",
+      "gdp_per_capita": 2343,
+      "gdp_per_capita_formatted": "$2,343"
+    },
+    "PRI": {
+      "population": 3203295,
+      "population_formatted": "3.20M",
+      "area_km2": 8870.0,
+      "area_formatted": "8.9K km²",
+      "gdp_usd": 113843700000,
+      "gdp_formatted": "$113.84B",
+      "gdp_per_capita": 35354,
+      "gdp_per_capita_formatted": "$35,353"
+    },
+    "LDC": {
+      "gdp_usd": 1474237106700.91,
+      "gdp_formatted": "$1.47T",
+      "gdp_per_capita": 1299,
+      "gdp_per_capita_formatted": "$1,299"
+    },
+    "HND": {
+      "population": 9892632,
+      "population_formatted": "9.89M",
+      "area_km2": 112492.0,
+      "area_formatted": "112.5K km²",
+      "gdp_usd": 31426041806.7985,
+      "gdp_formatted": "$31.43B",
+      "gdp_per_capita": 3003,
+      "gdp_per_capita_formatted": "$3,003"
+    },
+    "BRB": {
+      "population": 267800,
+      "population_formatted": "267.8K",
+      "area_km2": 430.0,
+      "area_formatted": "430 km²",
+      "gdp_usd": 6884900000,
+      "gdp_formatted": "$6.88B",
+      "gdp_per_capita": 24387,
+      "gdp_per_capita_formatted": "$24,387"
+    },
+    "MEX": {
+      "population": 130575786,
+      "population_formatted": "130.58M",
+      "area_km2": 1964375.0,
+      "area_formatted": "1.96M km²",
+      "gdp_usd": 1466934724293.06,
+      "gdp_formatted": "$1.47T",
+      "gdp_per_capita": 11406,
+      "gdp_per_capita_formatted": "$11,405",
+      "leaders": {
+        "head_of_state": "Claudia Sheinbaum",
+        "head_of_government": "Claudia Sheinbaum",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "SYR": {
+      "population": 25620000,
+      "population_formatted": "25.62M",
+      "area_km2": 185180.0,
+      "area_formatted": "185.2K km²",
+      "gdp_usd": 23622827079.5047,
+      "gdp_formatted": "$23.62B",
+      "gdp_per_capita": 1052,
+      "gdp_per_capita_formatted": "$1,051"
+    },
+    "MUS": {
+      "population": 1243741,
+      "population_formatted": "1.24M",
+      "area_km2": 2040.0,
+      "area_formatted": "2.0K km²",
+      "gdp_usd": 12936444123.3037,
+      "gdp_formatted": "$12.94B",
+      "gdp_per_capita": 10247,
+      "gdp_per_capita_formatted": "$10,246"
+    },
+    "MNP": {
+      "population": 47329,
+      "population_formatted": "47.3K",
+      "area_km2": 464.0,
+      "area_formatted": "464 km²",
+      "gdp_usd": 1096000000,
+      "gdp_formatted": "$1.10B",
+      "gdp_per_capita": 23786,
+      "gdp_per_capita_formatted": "$23,785"
+    },
+    "SWZ": {
+      "population": 1235549,
+      "population_formatted": "1.24M",
+      "area_km2": 17364.0,
+      "area_formatted": "17.4K km²",
+      "gdp_usd": 4746660273.50829,
+      "gdp_formatted": "$4.75B",
+      "gdp_per_capita": 3894,
+      "gdp_per_capita_formatted": "$3,894"
+    },
+    "NIU": {
+      "population": 1681,
+      "population_formatted": "1.7K",
+      "area_km2": 260.0,
+      "area_formatted": "260 km²"
+    },
+    "DJI": {
+      "population": 1066809,
+      "population_formatted": "1.07M",
+      "area_km2": 23200.0,
+      "area_formatted": "23.2K km²",
+      "gdp_usd": 3562814908.76149,
+      "gdp_formatted": "$3.56B",
+      "gdp_per_capita": 3133,
+      "gdp_per_capita_formatted": "$3,133"
+    },
+    "IDA": {
+      "gdp_usd": 3075156030414.18,
+      "gdp_formatted": "$3.08T",
+      "gdp_per_capita": 1648,
+      "gdp_per_capita_formatted": "$1,647"
+    },
+    "RUS": {
+      "population": 146028325,
+      "population_formatted": "146.03M",
+      "area_km2": 17098246.0,
+      "area_formatted": "17.10M km²",
+      "gdp_usd": 2291612121334.64,
+      "gdp_formatted": "$2.29T",
+      "gdp_per_capita": 15620,
+      "gdp_per_capita_formatted": "$15,619",
+      "leaders": {
+        "head_of_state": "Vladimir Putin",
+        "head_of_government": "Mikhail Mishustin",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "SLE": {
+      "population": 9077691,
+      "population_formatted": "9.08M",
+      "area_km2": 71740.0,
+      "area_formatted": "71.7K km²",
+      "gdp_usd": 7121125277.52542,
+      "gdp_formatted": "$7.12B",
+      "gdp_per_capita": 860,
+      "gdp_per_capita_formatted": "$860"
+    },
+    "ISL": {
+      "population": 391810,
+      "population_formatted": "391.8K",
+      "area_km2": 103000.0,
+      "area_formatted": "103.0K km²",
+      "gdp_usd": 29166102877.2755,
+      "gdp_formatted": "$29.17B",
+      "gdp_per_capita": 76350,
+      "gdp_per_capita_formatted": "$76,350"
+    },
+    "IDX": {
+      "gdp_usd": 1618275456730.5,
+      "gdp_formatted": "$1.62T",
+      "gdp_per_capita": 1332,
+      "gdp_per_capita_formatted": "$1,332"
+    },
+    "ZAF": {
+      "population": 63100945,
+      "population_formatted": "63.10M",
+      "area_km2": 1221037.0,
+      "area_formatted": "1.22M km²",
+      "gdp_usd": 407596043067.885,
+      "gdp_formatted": "$407.60B",
+      "gdp_per_capita": 6534,
+      "gdp_per_capita_formatted": "$6,534",
+      "leaders": {
+        "head_of_state": "Cyril Ramaphosa",
+        "head_of_government": "Cyril Ramaphosa",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "SLB": {
+      "population": 750325,
+      "population_formatted": "750.3K",
+      "area_km2": 28896.0,
+      "area_formatted": "28.9K km²",
+      "gdp_usd": 1466670929.62333,
+      "gdp_formatted": "$1.47B",
+      "gdp_per_capita": 1878,
+      "gdp_per_capita_formatted": "$1,877"
+    },
+    "EGY": {
+      "population": 107271260,
+      "population_formatted": "107.27M",
+      "area_km2": 1002450.0,
+      "area_formatted": "1.00M km²",
+      "gdp_usd": 476747720364.742,
+      "gdp_formatted": "$476.75B",
+      "gdp_per_capita": 4233,
+      "gdp_per_capita_formatted": "$4,233",
+      "leaders": {
+        "head_of_state": "Abdel Fattah el-Sisi",
+        "head_of_government": "Mostafa Madbouly",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "PSS": {
+      "gdp_usd": 10350119919.8256,
+      "gdp_formatted": "$10.35B",
+      "gdp_per_capita": 3897,
+      "gdp_per_capita_formatted": "$3,896"
+    },
+    "JPN": {
+      "population": 123210000,
+      "population_formatted": "123.21M",
+      "area_km2": 377930.0,
+      "area_formatted": "377.9K km²",
+      "gdp_usd": 4262463317796.53,
+      "gdp_formatted": "$4.26T",
+      "gdp_per_capita": 34066,
+      "gdp_per_capita_formatted": "$34,065",
+      "leaders": {
+        "head_of_state": "Naruhito",
+        "head_of_government": "Shigeru Ishiba",
+        "title_hos": "Emperor",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "CUW": {
+      "population": 156115,
+      "population_formatted": "156.1K",
+      "area_km2": 444.0,
+      "area_formatted": "444 km²",
+      "gdp_usd": 3075180834.72417,
+      "gdp_formatted": "$3.08B",
+      "gdp_per_capita": 20057,
+      "gdp_per_capita_formatted": "$20,057"
+    },
+    "LAO": {
+      "population": 7647000,
+      "population_formatted": "7.65M",
+      "area_km2": 236800.0,
+      "area_formatted": "236.8K km²",
+      "gdp_usd": 15468785203.7532,
+      "gdp_formatted": "$15.47B",
+      "gdp_per_capita": 2046,
+      "gdp_per_capita_formatted": "$2,046"
+    },
+    "FIN": {
+      "population": 5650325,
+      "population_formatted": "5.65M",
+      "area_km2": 338455.0,
+      "area_formatted": "338.5K km²",
+      "gdp_usd": 280253099309.34,
+      "gdp_formatted": "$280.25B",
+      "gdp_per_capita": 50441,
+      "gdp_per_capita_formatted": "$50,440",
+      "leaders": {
+        "head_of_state": "Alexander Stubb",
+        "head_of_government": "Petteri Orpo",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "EST": {
+      "population": 1369995,
+      "population_formatted": "1.37M",
+      "area_km2": 45227.0,
+      "area_formatted": "45.2K km²",
+      "gdp_usd": 38226641740.29,
+      "gdp_formatted": "$38.23B",
+      "gdp_per_capita": 28340,
+      "gdp_per_capita_formatted": "$28,340"
+    },
+    "TJK": {
+      "population": 10499000,
+      "population_formatted": "10.50M",
+      "area_km2": 143100.0,
+      "area_formatted": "143.1K km²",
+      "gdp_usd": 10713525200.3998,
+      "gdp_formatted": "$10.71B",
+      "gdp_per_capita": 1052,
+      "gdp_per_capita_formatted": "$1,052"
+    },
+    "VNM": {
+      "population": 101343800,
+      "population_formatted": "101.34M",
+      "area_km2": 331212.0,
+      "area_formatted": "331.2K km²",
+      "gdp_usd": 413445230668.578,
+      "gdp_formatted": "$413.45B",
+      "gdp_per_capita": 4148,
+      "gdp_per_capita_formatted": "$4,147",
+      "leaders": {
+        "head_of_state": "Tô Lâm",
+        "head_of_government": "Phạm Minh Chính",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "KNA": {
+      "population": 51320,
+      "population_formatted": "51.3K",
+      "area_km2": 261.0,
+      "area_formatted": "261 km²",
+      "gdp_usd": 981429629.62963,
+      "gdp_formatted": "$981.43M",
+      "gdp_per_capita": 21012,
+      "gdp_per_capita_formatted": "$21,011"
+    },
+    "AUS": {
+      "population": 27536874,
+      "population_formatted": "27.54M",
+      "area_km2": 7692024.0,
+      "area_formatted": "7.69M km²",
+      "gdp_usd": 1695627535475.8,
+      "gdp_formatted": "$1.70T",
+      "gdp_per_capita": 65170,
+      "gdp_per_capita_formatted": "$65,169",
+      "leaders": {
+        "head_of_state": "Charles III",
+        "head_of_government": "Anthony Albanese",
+        "title_hos": "Monarch",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "SGS": {
+      "area_km2": 3903.0,
+      "area_formatted": "3.9K km²"
+    },
+    "CPV": {
+      "population": 491233,
+      "population_formatted": "491.2K",
+      "area_km2": 4033.0,
+      "area_formatted": "4.0K km²",
+      "gdp_usd": 2247003344.34242,
+      "gdp_formatted": "$2.25B",
+      "gdp_per_capita": 4323,
+      "gdp_per_capita_formatted": "$4,323"
+    },
+    "PAN": {
+      "population": 4064780,
+      "population_formatted": "4.06M",
+      "area_km2": 75417.0,
+      "area_formatted": "75.4K km²",
+      "gdp_usd": 76479304470.9375,
+      "gdp_formatted": "$76.48B",
+      "gdp_per_capita": 17379,
+      "gdp_per_capita_formatted": "$17,378"
+    },
+    "BTN": {
+      "population": 784043,
+      "population_formatted": "784.0K",
+      "area_km2": 38394.0,
+      "area_formatted": "38.4K km²",
+      "gdp_usd": 2898227743.75576,
+      "gdp_formatted": "$2.90B",
+      "gdp_per_capita": 3711,
+      "gdp_per_capita_formatted": "$3,711"
+    },
+    "AND": {
+      "population": 88406,
+      "population_formatted": "88.4K",
+      "area_km2": 468.0,
+      "area_formatted": "468 km²",
+      "gdp_usd": 3380611694.73392,
+      "gdp_formatted": "$3.38B",
+      "gdp_per_capita": 42414,
+      "gdp_per_capita_formatted": "$42,414"
+    },
+    "BRA": {
+      "population": 213421037,
+      "population_formatted": "213.42M",
+      "area_km2": 8515767.0,
+      "area_formatted": "8.52M km²",
+      "gdp_usd": 1951923832083.87,
+      "gdp_formatted": "$1.95T",
+      "gdp_per_capita": 9281,
+      "gdp_per_capita_formatted": "$9,281",
+      "leaders": {
+        "head_of_state": "Luiz Inácio Lula da Silva",
+        "head_of_government": "Luiz Inácio Lula da Silva",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "FRO": {
+      "population": 54885,
+      "population_formatted": "54.9K",
+      "area_km2": 1393.0,
+      "area_formatted": "1.4K km²",
+      "gdp_usd": 3615241800.50058,
+      "gdp_formatted": "$3.62B",
+      "gdp_per_capita": 67058,
+      "gdp_per_capita_formatted": "$67,058"
+    },
+    "SOM": {
+      "population": 19655000,
+      "population_formatted": "19.66M",
+      "area_km2": 637657.0,
+      "area_formatted": "637.7K km²",
+      "gdp_usd": 10203000000,
+      "gdp_formatted": "$10.20B",
+      "gdp_per_capita": 573,
+      "gdp_per_capita_formatted": "$573"
+    },
+    "MRT": {
+      "population": 4927532,
+      "population_formatted": "4.93M",
+      "area_km2": 1030700.0,
+      "area_formatted": "1.03M km²",
+      "gdp_usd": 9557966698.25369,
+      "gdp_formatted": "$9.56B",
+      "gdp_per_capita": 1960,
+      "gdp_per_capita_formatted": "$1,960"
+    },
+    "SPM": {
+      "population": 5819,
+      "population_formatted": "5.8K",
+      "area_km2": 242.0,
+      "area_formatted": "242 km²"
+    },
+    "MLT": {
+      "population": 574250,
+      "population_formatted": "574.2K",
+      "area_km2": 316.0,
+      "area_formatted": "316 km²",
+      "gdp_usd": 18928276162.4131,
+      "gdp_formatted": "$18.93B",
+      "gdp_per_capita": 35639,
+      "gdp_per_capita_formatted": "$35,638"
+    },
+    "NFK": {
+      "population": 2188,
+      "population_formatted": "2.2K",
+      "area_km2": 36.0,
+      "area_formatted": "36 km²"
+    },
+    "EUU": {
+      "gdp_usd": 17023612496380.4,
+      "gdp_formatted": "$17.02T",
+      "gdp_per_capita": 38067,
+      "gdp_per_capita_formatted": "$38,066"
+    },
+    "PER": {
+      "population": 34350244,
+      "population_formatted": "34.35M",
+      "area_km2": 1285216.0,
+      "area_formatted": "1.29M km²",
+      "gdp_usd": 246065570308.155,
+      "gdp_formatted": "$246.07B",
+      "gdp_per_capita": 7351,
+      "gdp_per_capita_formatted": "$7,350",
+      "leaders": {
+        "head_of_state": "Dina Boluarte",
+        "head_of_government": "Dina Boluarte",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "CEB": {
+      "gdp_usd": 1954419184114.96,
+      "gdp_formatted": "$1.95T",
+      "gdp_per_capita": 19530,
+      "gdp_per_capita_formatted": "$19,530"
+    },
+    "SSA": {
+      "gdp_usd": 2167458359012.26,
+      "gdp_formatted": "$2.17T",
+      "gdp_per_capita": 1964,
+      "gdp_per_capita_formatted": "$1,963"
+    },
+    "AFG": {
+      "population": 43844000,
+      "population_formatted": "43.84M",
+      "area_km2": 652230.0,
+      "area_formatted": "652.2K km²",
+      "gdp_usd": 14497243872.1337,
+      "gdp_formatted": "$14.50B",
+      "gdp_per_capita": 357,
+      "gdp_per_capita_formatted": "$357"
+    },
+    "WLD": {
+      "gdp_usd": 102251524725531,
+      "gdp_formatted": "$102.25T",
+      "gdp_per_capita": 12798,
+      "gdp_per_capita_formatted": "$12,798"
+    },
+    "OMN": {
+      "population": 5343630,
+      "population_formatted": "5.34M",
+      "area_km2": 309500.0,
+      "area_formatted": "309.5K km²",
+      "gdp_usd": 109852795838.752,
+      "gdp_formatted": "$109.85B",
+      "gdp_per_capita": 23224,
+      "gdp_per_capita_formatted": "$23,223"
+    },
+    "BFA": {
+      "population": 24070553,
+      "population_formatted": "24.07M",
+      "area_km2": 272967.0,
+      "area_formatted": "273.0K km²",
+      "gdp_usd": 18622421394.6133,
+      "gdp_formatted": "$18.62B",
+      "gdp_per_capita": 827,
+      "gdp_per_capita_formatted": "$827"
+    },
+    "URY": {
+      "population": 3499451,
+      "population_formatted": "3.50M",
+      "area_km2": 181034.0,
+      "area_formatted": "181.0K km²",
+      "gdp_usd": 70594110920.0358,
+      "gdp_formatted": "$70.59B",
+      "gdp_per_capita": 20819,
+      "gdp_per_capita_formatted": "$20,818"
+    },
+    "MAR": {
+      "population": 36828330,
+      "population_formatted": "36.83M",
+      "area_km2": 446550.0,
+      "area_formatted": "446.6K km²",
+      "gdp_usd": 131245312804.483,
+      "gdp_formatted": "$131.25B",
+      "gdp_per_capita": 3463,
+      "gdp_per_capita_formatted": "$3,463"
+    },
+    "GBR": {
+      "population": 69281437,
+      "population_formatted": "69.28M",
+      "area_km2": 244376.0,
+      "area_formatted": "244.4K km²",
+      "gdp_usd": 3181244350465.41,
+      "gdp_formatted": "$3.18T",
+      "gdp_per_capita": 47057,
+      "gdp_per_capita_formatted": "$47,057",
+      "leaders": {
+        "head_of_state": "Charles III",
+        "head_of_government": "Keir Starmer",
+        "title_hos": "Monarch",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "TUR": {
+      "population": 85664944,
+      "population_formatted": "85.66M",
+      "area_km2": 783562.0,
+      "area_formatted": "783.6K km²",
+      "gdp_usd": 926097476913.818,
+      "gdp_formatted": "$926.10B",
+      "gdp_per_capita": 10898,
+      "gdp_per_capita_formatted": "$10,897",
+      "leaders": {
+        "head_of_state": "Recep Tayyip Erdoğan",
+        "head_of_government": "Recep Tayyip Erdoğan",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "MAC": {
+      "population": 685900,
+      "population_formatted": "685.9K",
+      "area_km2": 30.0,
+      "area_formatted": "30 km²",
+      "gdp_usd": 24929307447.3237,
+      "gdp_formatted": "$24.93B",
+      "gdp_per_capita": 36807,
+      "gdp_per_capita_formatted": "$36,806"
+    },
+    "IOT": {
+      "area_km2": 60.0,
+      "area_formatted": "60 km²"
+    },
+    "REU": {
+      "population": 896175,
+      "population_formatted": "896.2K",
+      "area_km2": 2511.0,
+      "area_formatted": "2.5K km²"
+    },
+    "EAS": {
+      "gdp_usd": 31266291368260.6,
+      "gdp_formatted": "$31.27T",
+      "gdp_per_capita": 13139,
+      "gdp_per_capita_formatted": "$13,139"
+    },
+    "PCN": {
+      "population": 35,
+      "population_formatted": "35",
+      "area_km2": 47.0,
+      "area_formatted": "47 km²"
+    },
+    "COL": {
+      "population": 53057212,
+      "population_formatted": "53.06M",
+      "area_km2": 1141748.0,
+      "area_formatted": "1.14M km²",
+      "gdp_usd": 345632492851.448,
+      "gdp_formatted": "$345.63B",
+      "gdp_per_capita": 6680,
+      "gdp_per_capita_formatted": "$6,680",
+      "leaders": {
+        "head_of_state": "Gustavo Petro",
+        "head_of_government": "Gustavo Petro",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "MDV": {
+      "population": 515132,
+      "population_formatted": "515.1K",
+      "area_km2": 300.0,
+      "area_formatted": "300 km²",
+      "gdp_usd": 6177123352.26211,
+      "gdp_formatted": "$6.18B",
+      "gdp_per_capita": 11786,
+      "gdp_per_capita_formatted": "$11,786"
+    },
+    "ZWE": {
+      "population": 17073087,
+      "population_formatted": "17.07M",
+      "area_km2": 390757.0,
+      "area_formatted": "390.8K km²",
+      "gdp_usd": 40757561708.7741,
+      "gdp_formatted": "$40.76B",
+      "gdp_per_capita": 2536,
+      "gdp_per_capita_formatted": "$2,536"
+    },
+    "IMN": {
+      "population": 84530,
+      "population_formatted": "84.5K",
+      "area_km2": 572.0,
+      "area_formatted": "572 km²",
+      "gdp_usd": 7431257410.92713,
+      "gdp_formatted": "$7.43B",
+      "gdp_per_capita": 88329,
+      "gdp_per_capita_formatted": "$88,328"
+    },
+    "ECS": {
+      "gdp_usd": 25798700454390.6,
+      "gdp_formatted": "$25.80T",
+      "gdp_per_capita": 27914,
+      "gdp_per_capita_formatted": "$27,913"
+    },
+    "TON": {
+      "population": 100179,
+      "population_formatted": "100.2K",
+      "area_km2": 747.0,
+      "area_formatted": "747 km²",
+      "gdp_usd": 556514555.400882,
+      "gdp_formatted": "$556.51M",
+      "gdp_per_capita": 5298,
+      "gdp_per_capita_formatted": "$5,298"
+    },
+    "KOR": {
+      "population": 51159889,
+      "population_formatted": "51.16M",
+      "area_km2": 100210.0,
+      "area_formatted": "100.2K km²",
+      "gdp_usd": 1799363116866.52,
+      "gdp_formatted": "$1.80T",
+      "gdp_per_capita": 34822,
+      "gdp_per_capita_formatted": "$34,822",
+      "leaders": {
+        "head_of_state": "Yoon Suk-yeol",
+        "head_of_government": "Han Duck-soo",
+        "title_hos": "President",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "SUR": {
+      "population": 616500,
+      "population_formatted": "616.5K",
+      "area_km2": 163820.0,
+      "area_formatted": "163.8K km²",
+      "gdp_usd": 3791603200.0259,
+      "gdp_formatted": "$3.79B",
+      "gdp_per_capita": 6084,
+      "gdp_per_capita_formatted": "$6,084"
+    },
+    "KWT": {
+      "population": 4881254,
+      "population_formatted": "4.88M",
+      "area_km2": 17818.0,
+      "area_formatted": "17.8K km²",
+      "gdp_usd": 183502046693.878,
+      "gdp_formatted": "$183.50B",
+      "gdp_per_capita": 39982,
+      "gdp_per_capita_formatted": "$39,981"
+    },
+    "COK": {
+      "population": 15040,
+      "population_formatted": "15.0K",
+      "area_km2": 236.0,
+      "area_formatted": "236 km²"
+    },
+    "MYT": {
+      "population": 320901,
+      "population_formatted": "320.9K",
+      "area_km2": 374.0,
+      "area_formatted": "374 km²"
+    },
+    "LCN": {
+      "gdp_usd": 6144995160894.64,
+      "gdp_formatted": "$6.14T",
+      "gdp_per_capita": 9409,
+      "gdp_per_capita_formatted": "$9,408"
+    },
+    "OED": {
+      "gdp_usd": 60588200976081.3,
+      "gdp_formatted": "$60.59T",
+      "gdp_per_capita": 43950,
+      "gdp_per_capita_formatted": "$43,950"
+    },
+    "COD": {
+      "population": 112832000,
+      "population_formatted": "112.83M",
+      "area_km2": 2344858.0,
+      "area_formatted": "2.34M km²",
+      "gdp_usd": 70422346142.2023,
+      "gdp_formatted": "$70.42B",
+      "gdp_per_capita": 688,
+      "gdp_per_capita_formatted": "$687"
+    },
+    "SXM": {
+      "population": 41349,
+      "population_formatted": "41.3K",
+      "area_km2": 34.0,
+      "area_formatted": "34 km²",
+      "gdp_usd": 1592564639.32961,
+      "gdp_formatted": "$1.59B",
+      "gdp_per_capita": 37793,
+      "gdp_per_capita_formatted": "$37,793"
+    },
+    "USA": {
+      "population": 340110988,
+      "population_formatted": "340.11M",
+      "area_km2": 9525067.0,
+      "area_formatted": "9.53M km²",
+      "gdp_usd": 25604848907611,
+      "gdp_formatted": "$25.60T",
+      "gdp_per_capita": 76657,
+      "gdp_per_capita_formatted": "$76,657",
+      "leaders": {
+        "head_of_state": "Donald Trump",
+        "head_of_government": "Donald Trump",
+        "title_hos": "President",
+        "title_hog": "President"
+      }
+    },
+    "HKG": {
+      "population": 7527500,
+      "population_formatted": "7.53M",
+      "area_km2": 1104.0,
+      "area_formatted": "1.1K km²",
+      "gdp_usd": 358679533984.718,
+      "gdp_formatted": "$358.68B",
+      "gdp_per_capita": 48826,
+      "gdp_per_capita_formatted": "$48,825"
+    },
+    "MLI": {
+      "population": 22395489,
+      "population_formatted": "22.40M",
+      "area_km2": 1240192.0,
+      "area_formatted": "1.24M km²",
+      "gdp_usd": 22539987718.7642,
+      "gdp_formatted": "$22.54B",
+      "gdp_per_capita": 977,
+      "gdp_per_capita_formatted": "$976"
+    },
+    "MHL": {
+      "population": 42418,
+      "population_formatted": "42.4K",
+      "area_km2": 181.0,
+      "area_formatted": "181 km²",
+      "gdp_usd": 258723510.742188,
+      "gdp_formatted": "$258.72M",
+      "gdp_per_capita": 6456,
+      "gdp_per_capita_formatted": "$6,455"
+    },
+    "BRN": {
+      "population": 455500,
+      "population_formatted": "455.5K",
+      "area_km2": 5765.0,
+      "area_formatted": "5.8K km²",
+      "gdp_usd": 16681536466.7183,
+      "gdp_formatted": "$16.68B",
+      "gdp_per_capita": 36633,
+      "gdp_per_capita_formatted": "$36,632"
+    },
+    "LMY": {
+      "gdp_usd": 36965295357847.5,
+      "gdp_formatted": "$36.97T",
+      "gdp_per_capita": 5742,
+      "gdp_per_capita_formatted": "$5,741"
+    },
+    "NAC": {
+      "gdp_usd": 27803134368745.3,
+      "gdp_formatted": "$27.80T",
+      "gdp_per_capita": 74536,
+      "gdp_per_capita_formatted": "$74,535"
+    },
+    "MCO": {
+      "population": 38423,
+      "population_formatted": "38.4K",
+      "area_km2": 2.02,
+      "area_formatted": "2 km²",
+      "gdp_usd": 8800430486.17137,
+      "gdp_formatted": "$8.80B",
+      "gdp_per_capita": 226052,
+      "gdp_per_capita_formatted": "$226,052"
+    },
+    "WSM": {
+      "population": 205557,
+      "population_formatted": "205.6K",
+      "area_km2": 2842.0,
+      "area_formatted": "2.8K km²",
+      "gdp_usd": 889554711.842341,
+      "gdp_formatted": "$889.55M",
+      "gdp_per_capita": 4132,
+      "gdp_per_capita_formatted": "$4,132"
+    },
+    "SAU": {
+      "population": 35300280,
+      "population_formatted": "35.30M",
+      "area_km2": 2149690.0,
+      "area_formatted": "2.15M km²",
+      "gdp_usd": 1239075200000,
+      "gdp_formatted": "$1.24T",
+      "gdp_per_capita": 38510,
+      "gdp_per_capita_formatted": "$38,510",
+      "leaders": {
+        "head_of_state": "Salman bin Abdulaziz",
+        "head_of_government": "Mohammed bin Salman",
+        "title_hos": "King",
+        "title_hog": "Crown Prince/PM"
+      }
+    },
+    "VEN": {
+      "population": 28517000,
+      "population_formatted": "28.52M",
+      "area_km2": 916445.0,
+      "area_formatted": "916.4K km²",
+      "gdp_usd": 89013255584.7499,
+      "gdp_formatted": "$89.01B",
+      "gdp_per_capita": 3155,
+      "gdp_per_capita_formatted": "$3,155"
+    },
+    "PRE": {
+      "gdp_usd": 1860790512304.23,
+      "gdp_formatted": "$1.86T",
+      "gdp_per_capita": 1770,
+      "gdp_per_capita_formatted": "$1,770"
+    },
+    "BEN": {
+      "population": 13224860,
+      "population_formatted": "13.22M",
+      "area_km2": 112622.0,
+      "area_formatted": "112.6K km²",
+      "gdp_usd": 17425405090.862,
+      "gdp_formatted": "$17.43B",
+      "gdp_per_capita": 1266,
+      "gdp_per_capita_formatted": "$1,266"
+    },
+    "UMI": {
+      "area_km2": 34.2,
+      "area_formatted": "34 km²"
+    },
+    "AFE": {
+      "gdp_usd": 1228967879390.01,
+      "gdp_formatted": "$1.23T",
+      "gdp_per_capita": 1679,
+      "gdp_per_capita_formatted": "$1,679"
+    },
+    "LBN": {
+      "population": 5490000,
+      "population_formatted": "5.49M",
+      "area_km2": 10452.0,
+      "area_formatted": "10.5K km²",
+      "gdp_usd": 20992421948.8081,
+      "gdp_formatted": "$20.99B",
+      "gdp_per_capita": 3654,
+      "gdp_per_capita_formatted": "$3,654"
+    },
+    "ECA": {
+      "gdp_usd": 1820242864725.1,
+      "gdp_formatted": "$1.82T",
+      "gdp_per_capita": 7266,
+      "gdp_per_capita_formatted": "$7,266"
+    },
+    "CXR": {
+      "population": 1692,
+      "population_formatted": "1.7K",
+      "area_km2": 135.0,
+      "area_formatted": "135 km²"
+    },
+    "BMU": {
+      "population": 64055,
+      "population_formatted": "64.1K",
+      "area_km2": 54.0,
+      "area_formatted": "54 km²",
+      "gdp_usd": 7874381000,
+      "gdp_formatted": "$7.87B",
+      "gdp_per_capita": 121614,
+      "gdp_per_capita_formatted": "$121,613"
+    },
+    "MAF": {
+      "population": 31496,
+      "population_formatted": "31.5K",
+      "area_km2": 53.0,
+      "area_formatted": "53 km²"
+    },
+    "GNQ": {
+      "population": 1668768,
+      "population_formatted": "1.67M",
+      "area_km2": 28051.0,
+      "area_formatted": "28.1K km²",
+      "gdp_usd": 13687643435.6249,
+      "gdp_formatted": "$13.69B",
+      "gdp_per_capita": 7589,
+      "gdp_per_capita_formatted": "$7,589"
+    },
+    "MEA": {
+      "gdp_usd": 5030925398736.26,
+      "gdp_formatted": "$5.03T",
+      "gdp_per_capita": 6431,
+      "gdp_per_capita_formatted": "$6,430"
+    },
+    "MNE": {
+      "population": 623327,
+      "population_formatted": "623.3K",
+      "area_km2": 13812.0,
+      "area_formatted": "13.8K km²",
+      "gdp_usd": 6251215144.13471,
+      "gdp_formatted": "$6.25B",
+      "gdp_per_capita": 10025,
+      "gdp_per_capita_formatted": "$10,024"
+    },
+    "LKA": {
+      "population": 21763170,
+      "population_formatted": "21.76M",
+      "area_km2": 65610.0,
+      "area_formatted": "65.6K km²",
+      "gdp_usd": 74143020262.8076,
+      "gdp_formatted": "$74.14B",
+      "gdp_per_capita": 3343,
+      "gdp_per_capita_formatted": "$3,342"
+    },
+    "KGZ": {
+      "population": 7281800,
+      "population_formatted": "7.28M",
+      "area_km2": 199951.0,
+      "area_formatted": "200.0K km²",
+      "gdp_usd": 12134931017.9465,
+      "gdp_formatted": "$12.13B",
+      "gdp_per_capita": 1740,
+      "gdp_per_capita_formatted": "$1,739"
+    },
+    "CHI": {
+      "gdp_usd": 11308272505.183,
+      "gdp_formatted": "$11.31B",
+      "gdp_per_capita": 67627,
+      "gdp_per_capita_formatted": "$67,627"
+    },
+    "BDI": {
+      "population": 12332788,
+      "population_formatted": "12.33M",
+      "area_km2": 27834.0,
+      "area_formatted": "27.8K km²",
+      "gdp_usd": 4036192552.88879,
+      "gdp_formatted": "$4.04B",
+      "gdp_per_capita": 303,
+      "gdp_per_capita_formatted": "$302"
+    },
+    "DOM": {
+      "population": 10771504,
+      "population_formatted": "10.77M",
+      "area_km2": 48671.0,
+      "area_formatted": "48.7K km²",
+      "gdp_usd": 113478087134.8,
+      "gdp_formatted": "$113.48B",
+      "gdp_per_capita": 10104,
+      "gdp_per_capita_formatted": "$10,104"
+    },
+    "TKL": {
+      "population": 2608,
+      "population_formatted": "2.6K",
+      "area_km2": 12.0,
+      "area_formatted": "12 km²"
+    },
+    "CMR": {
+      "population": 29442327,
+      "population_formatted": "29.44M",
+      "area_km2": 475442.0,
+      "area_formatted": "475.4K km²",
+      "gdp_usd": 44347206072.5513,
+      "gdp_formatted": "$44.35B",
+      "gdp_per_capita": 1605,
+      "gdp_per_capita_formatted": "$1,604"
+    },
+    "ZMB": {
+      "population": 19693423,
+      "population_formatted": "19.69M",
+      "area_km2": 752612.0,
+      "area_formatted": "752.6K km²",
+      "gdp_usd": 29163782140.4858,
+      "gdp_formatted": "$29.16B",
+      "gdp_per_capita": 1447,
+      "gdp_per_capita_formatted": "$1,447"
+    },
+    "YEM": {
+      "population": 32684503,
+      "population_formatted": "32.68M",
+      "area_km2": 527968.0,
+      "area_formatted": "528.0K km²"
+    },
+    "MKD": {
+      "population": 1822612,
+      "population_formatted": "1.82M",
+      "area_km2": 25713.0,
+      "area_formatted": "25.7K km²",
+      "gdp_usd": 13932436550.0883,
+      "gdp_formatted": "$13.93B",
+      "gdp_per_capita": 7606,
+      "gdp_per_capita_formatted": "$7,606"
+    },
+    "PRK": {
+      "population": 25950000,
+      "population_formatted": "25.95M",
+      "area_km2": 120538.0,
+      "area_formatted": "120.5K km²"
+    },
+    "SST": {
+      "gdp_usd": 270716089069.618,
+      "gdp_formatted": "$270.72B",
+      "gdp_per_capita": 13636,
+      "gdp_per_capita_formatted": "$13,636"
+    },
+    "BIH": {
+      "population": 3422000,
+      "population_formatted": "3.42M",
+      "area_km2": 51209.0,
+      "area_formatted": "51.2K km²",
+      "gdp_usd": 24534663636.1778,
+      "gdp_formatted": "$24.53B",
+      "gdp_per_capita": 7656,
+      "gdp_per_capita_formatted": "$7,655"
+    },
+    "GNB": {
+      "population": 1781308,
+      "population_formatted": "1.78M",
+      "area_km2": 36125.0,
+      "area_formatted": "36.1K km²",
+      "gdp_usd": 1859601384.05928,
+      "gdp_formatted": "$1.86B",
+      "gdp_per_capita": 883,
+      "gdp_per_capita_formatted": "$883"
+    },
+    "SRB": {
+      "population": 6567783,
+      "population_formatted": "6.57M",
+      "area_km2": 77589.0,
+      "area_formatted": "77.6K km²",
+      "gdp_usd": 66809895701.2152,
+      "gdp_formatted": "$66.81B",
+      "gdp_per_capita": 10025,
+      "gdp_per_capita_formatted": "$10,024"
+    },
+    "CIV": {
+      "population": 31719275,
+      "population_formatted": "31.72M",
+      "area_km2": 322463.0,
+      "area_formatted": "322.5K km²",
+      "gdp_usd": 70922824813.9102,
+      "gdp_formatted": "$70.92B",
+      "gdp_per_capita": 2333,
+      "gdp_per_capita_formatted": "$2,333"
+    },
+    "VUT": {
+      "population": 321409,
+      "population_formatted": "321.4K",
+      "area_km2": 12189.0,
+      "area_formatted": "12.2K km²",
+      "gdp_usd": 1055031360.57356,
+      "gdp_formatted": "$1.06B",
+      "gdp_per_capita": 3370,
+      "gdp_per_capita_formatted": "$3,370"
+    },
+    "ESP": {
+      "population": 49315949,
+      "population_formatted": "49.32M",
+      "area_km2": 505992.0,
+      "area_formatted": "506.0K km²",
+      "gdp_usd": 1448850658406.62,
+      "gdp_formatted": "$1.45T",
+      "gdp_per_capita": 30319,
+      "gdp_per_capita_formatted": "$30,319",
+      "leaders": {
+        "head_of_state": "Felipe VI",
+        "head_of_government": "Pedro Sánchez",
+        "title_hos": "King",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "ATG": {
+      "population": 103603,
+      "population_formatted": "103.6K",
+      "area_km2": 442.0,
+      "area_formatted": "442 km²",
+      "gdp_usd": 1866566666.66667,
+      "gdp_formatted": "$1.87B",
+      "gdp_per_capita": 20105,
+      "gdp_per_capita_formatted": "$20,105"
+    },
+    "GGY": {
+      "population": 64781,
+      "population_formatted": "64.8K",
+      "area_km2": 78.0,
+      "area_formatted": "78 km²"
+    },
+    "UGA": {
+      "population": 45905417,
+      "population_formatted": "45.91M",
+      "area_km2": 241550.0,
+      "area_formatted": "241.6K km²",
+      "gdp_usd": 45565333210.9108,
+      "gdp_formatted": "$45.57B",
+      "gdp_per_capita": 963,
+      "gdp_per_capita_formatted": "$963"
+    },
+    "PST": {
+      "gdp_usd": 56953387691844.6,
+      "gdp_formatted": "$56.95T",
+      "gdp_per_capita": 50970,
+      "gdp_per_capita_formatted": "$50,969"
+    },
+    "GLP": {
+      "population": 378561,
+      "population_formatted": "378.6K",
+      "area_km2": 1628.0,
+      "area_formatted": "1.6K km²"
+    },
+    "TZA": {
+      "population": 68153004,
+      "population_formatted": "68.15M",
+      "area_km2": 947303.0,
+      "area_formatted": "947.3K km²",
+      "gdp_usd": 75749121842.9149,
+      "gdp_formatted": "$75.75B",
+      "gdp_per_capita": 1208,
+      "gdp_per_capita_formatted": "$1,207"
+    },
+    "VCT": {
+      "population": 110872,
+      "population_formatted": "110.9K",
+      "area_km2": 389.0,
+      "area_formatted": "389 km²",
+      "gdp_usd": 989188888.888889,
+      "gdp_formatted": "$989.19M",
+      "gdp_per_capita": 9694,
+      "gdp_per_capita_formatted": "$9,693"
+    },
+    "TKM": {
+      "population": 7057841,
+      "population_formatted": "7.06M",
+      "area_km2": 488100.0,
+      "area_formatted": "488.1K km²",
+      "gdp_usd": 42208726137.7192,
+      "gdp_formatted": "$42.21B",
+      "gdp_per_capita": 5838,
+      "gdp_per_capita_formatted": "$5,837"
+    },
+    "MNG": {
+      "population": 3544835,
+      "population_formatted": "3.54M",
+      "area_km2": 1564110.0,
+      "area_formatted": "1.56M km²",
+      "gdp_usd": 17146471713.748,
+      "gdp_formatted": "$17.15B",
+      "gdp_per_capita": 4994,
+      "gdp_per_capita_formatted": "$4,993"
+    },
+    "LCA": {
+      "population": 184100,
+      "population_formatted": "184.1K",
+      "area_km2": 616.0,
+      "area_formatted": "616 km²",
+      "gdp_usd": 2342714814.81481,
+      "gdp_formatted": "$2.34B",
+      "gdp_per_capita": 13104,
+      "gdp_per_capita_formatted": "$13,103"
+    },
+    "NZL": {
+      "population": 5324700,
+      "population_formatted": "5.32M",
+      "area_km2": 268838.0,
+      "area_formatted": "268.8K km²",
+      "gdp_usd": 249509991440.438,
+      "gdp_formatted": "$249.51B",
+      "gdp_per_capita": 49100,
+      "gdp_per_capita_formatted": "$49,099",
+      "leaders": {
+        "head_of_state": "Charles III",
+        "head_of_government": "Christopher Luxon",
+        "title_hos": "Monarch",
+        "title_hog": "Prime Minister"
+      }
+    },
+    "JEY": {
+      "population": 103267,
+      "population_formatted": "103.3K",
+      "area_km2": 116.0,
+      "area_formatted": "116 km²"
+    },
+    "TLA": {
+      "gdp_usd": 5851879329574.93,
+      "gdp_formatted": "$5.85T",
+      "gdp_per_capita": 9175,
+      "gdp_per_capita_formatted": "$9,174"
+    },
+    "AZE": {
+      "population": 10241722,
+      "population_formatted": "10.24M",
+      "area_km2": 86600.0,
+      "area_formatted": "86.6K km²",
+      "gdp_usd": 78807470588.2353,
+      "gdp_formatted": "$78.81B",
+      "gdp_per_capita": 7771,
+      "gdp_per_capita_formatted": "$7,770"
+    },
+    "PNG": {
+      "population": 11781559,
+      "population_formatted": "11.78M",
+      "area_km2": 462840.0,
+      "area_formatted": "462.8K km²",
+      "gdp_usd": 31653185952.609,
+      "gdp_formatted": "$31.65B",
+      "gdp_per_capita": 3102,
+      "gdp_per_capita_formatted": "$3,102"
+    }
+  }
+}

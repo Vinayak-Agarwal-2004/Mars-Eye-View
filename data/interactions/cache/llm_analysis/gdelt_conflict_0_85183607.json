@@ -1,0 +1,12 @@
+{
+  "analysis": "The recent coercive event in Brant County, Ontario, involving the London killer's granting of day parole highlights lingering tensions associated with past violent crimes. Local sentiments regarding the decision are likely complicated by the implications for community safety and victim rights, as emphasized by the actions of a retired police officer who intervened during the original crime spree.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 43.1333,
+    "lon": -80.1833
+  },
+  "toast_message": "Day parole granted to London killer in Brant County raises concerns.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

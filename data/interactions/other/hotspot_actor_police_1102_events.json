@@ -1,0 +1,83 @@
+{
+  "id": "hotspot_actor_police_1102_events",
+  "name": "Hotspot: actor police (1102 events)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Hotspot: actor police (1102 events)",
+  "sources": [
+    {
+      "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.kfvs12.com/2026/02/03/5-million-bond-set-illinois-woman-charged-with-capital-murder-blytheville-homicide/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://slguardian.org/islamabad-under-siege/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://energeticcity.ca/2026/02/09/kiara-agnews-family-grateful-and-thankful-for-protest-support-to-demand-action-on-guilty-verdict/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "hotspot",
+  "source_urls": [
+    "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+    "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+    "https://www.kfvs12.com/2026/02/03/5-million-bond-set-illinois-woman-charged-with-capital-murder-blytheville-homicide/",
+    "https://slguardian.org/islamabad-under-siege/",
+    "https://energeticcity.ca/2026/02/09/kiara-agnews-family-grateful-and-thankful-for-protest-support-to-demand-action-on-guilty-verdict/"
+  ],
+  "gdelt_metadata": {
+    "count": 1102,
+    "key": "police",
+    "categories": [
+      [
+        "CONFLICT",
+        469
+      ],
+      [
+        "CRIME",
+        444
+      ],
+      [
+        "VIOLENCE",
+        128
+      ],
+      [
+        "PROTEST",
+        54
+      ],
+      [
+        "DISPLACEMENT",
+        7
+      ]
+    ]
+  }
+}

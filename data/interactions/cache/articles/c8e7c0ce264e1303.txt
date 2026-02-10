@@ -1,0 +1,74 @@
+<html><body><div><div class="article-restofcontent article-body-text" id="article-body">
+                            
+                            
+                                                            <p id="everlit-auto-audio-widget" data-publication-id="pblc_YQ8LobS5lB5" data-article-id="9027d8b9-3890-5d04-a09e-c3071b36f596">
+                            </p>
+                            
+                            
+                                                        
+                            
+                            
+							            
+    
+<div class="image-container col-12 float-none pl-0 pr-0" data-toggle="modal" data-target="#articleImageModal7036480c-185b-5ea8-b03e-f33a3789e2be" data-uuid="7036480c-185b-5ea8-b03e-f33a3789e2be">
+    
+    <div class="bottom-container">
+        <p class="caption">FILE -A Meta logo is shown on a video screen at LlamaCon 2025, an AI developer conference, in Menlo Park, Calif., April 29, 2025. (AP Photo/Jeff Chiu, File)</p>
+                <p class="expand" data-toggle="modal" data-target="#articleImageModal7036480c-185b-5ea8-b03e-f33a3789e2be"><i class="fa fa-arrows-alt"></i></p>
+    </div>
+</div>
+
+            <p class="article__body">SANTA FE, N.M. (AP) — <a href="https://apnews.com/hub/meta-platforms-inc">Meta</a> has failed to disclose what it knows about the harmful effect of its platforms on children in violation of New Mexico’s consumer protection laws, a state prosecutor said Monday as a trial began over the dangers of child sexual exploitation on social media.</p>
+                <p class="article__body">It’s the <a href="https://apnews.com/article/meta-facebook-trial-new-mexico-social-trial-facebook-instagram-whatsapp-d8b812efd001e5cabbef9e1a47143226">first stand-alone trial</a> from state prosecutors in a stream of lawsuits against major social media companies, including Meta, over harm to children, and one that is likely to highlight explicit online content and its effects.</p>
+                <p class="article__body">In his opening statement, prosecution attorney Donald Migliori said Meta, which owns Facebook, Instagram and WhatsApp, has misrepresented the safety of its platforms, engineering its algorithms to keep young people online while knowing that children are at risk of sexual exploitation on social media.</p>
+                <p class="article__body">Migliori said state prosecutors will present evidence that Meta CEO Mark Zuckerberg and Adam Mosseri, the head of Instagram, have emphasized profits over safety.</p>
+                <p class="article__body">“Meta clearly knew that youth safety was not its corporate priority ... that youth safety was less important than growth and engagement,” Migliori told the jury.</p>
+                <p class="article__body">Meta attorney Kevin Huff pushed back on those assertions in his opening statement, highlighting an array of efforts by the company to weed out harmful content from its platforms while warning users that some dangerous content still gets past its safety net. He repeated the refrain that “Meta disclosed, it didn’t deceive.”</p>
+                <p class="article__body">“The state cannot win this case by showing there is bad content on Facebook and Instagram,” he told the jury. You must “instead focus on whether Meta disclosed risks to user. ... And the evidence will show that Meta did disclose that.”</p>
+                <p class="article__body">More than <a href="https://apnews.com/article/instagram-facebook-children-teens-harms-lawsuit-attorney-general-1805492a38f7cee111cbb865cc786c28">40 state attorneys general have filed lawsuits</a> against Meta, claiming it is deliberately designing features that addict children to its platforms and failed to protect children and their mental health. Most filed their lawsuits in federal court.</p>
+                <p class="article__body">Also Monday, <a href="https://apnews.com/article/meta-instagram-youtube-social-media-addiction-los-angeles-1b409b31438e5ba46e2e8c064229b51a">trial began</a> in a separate case in California accusing Meta and Google of deliberately making their social media platforms addictive.</p>
+                <p class="article__body"><strong>State says Zuckerberg and others understood the risks</strong></p>
+                <p class="article__body">It’s unclear whether <a href="https://apnews.com/hub/mark-zuckerberg">Zuckerberg</a> will testify. New Mexico limits the ability to compel out-of-state witnesses to testify in person. Prosecutors on Monday did preview a video deposition of Zuckerberg that might figure prominently in the trial.</p>
+                <p class="article__body">Other current and former Meta employees are expected to testify that the company has misrepresented what it knows about the effects its platforms have on teenagers and preteens. The state’s witness list includes Arturo Béjar, an engineering director at Facebook from 2009 to 2015, who testified to Congress about his daughter <a href="https://apnews.com/article/social-media-teens-meta-instagram-arturo-bejar-5f7fb7d55fb9f0da12cf3a57837fa0c5">confronting harassment</a> on Instagram.</p>
+                <p class="article__body">Prosecutors say they’ll present evidence that Meta knew that some 500,000 inappropriate interactions with children take place daily on its platforms, and that the company doesn't adequately track those interactions.</p>
+                <p class="article__body"><strong>Lawsuits across the country</strong></p>
+                <p class="article__body">In California, opening statements began Monday in a separate case against Meta and Google’s YouTube alleging their platforms are deliberately addictive and harm children.</p>
+                <p class="article__body">The outcome there and in New Mexico could challenge the companies’ First Amendment shield and <a href="https://apnews.com/article/us-supreme-court-technology-social-media-business-internet-eb89baf1fa30e245c030992b48a8a0ff">Section 230</a> of the 1996 Communications Decency Act, which protects tech companies from liability for material posted on their platforms.</p>
+                <p class="article__body">A team led by New Mexico Attorney General Raúl Torrez, who sued Meta in 2023, built their case by posing as children on social media, then documenting sexual solicitations as well as Meta's response.</p>
+                <p class="article__body">Torrez — a Democrat seeking reelection this year to a second term — wants Meta to implement more effective age verification and do more to remove bad actors from its platform.</p>
+                <p class="article__body">He also is seeking changes to algorithms that can serve up harmful material, and has criticized end-to-end privacy encryption that can prevent the monitoring of communications with children for safety. Meta has noted that encrypted messaging is encouraged in general as a privacy and security measure by some state and federal authorities.</p>
+                <p class="article__body"><strong>Meta says investigation is ‘ethically compromised’</strong></p>
+                <p class="article__body">Meta says prosecutors are cherry-picking evidence to make sensationalist arguments. Meta spokesperson Andy Stone posted online Sunday that the state’s investigation is “ethically compromised” by its use of child photos on proxy accounts, delays by prosecutors in reporting child sexual abuse material and the disposal of data from devices used in the investigation.</p>
+                <p class="article__body">“The evidence will show that the state rigged this investigation to get a fake result,” Huff told the jury Monday. “We think you will reject the reliability and fairness of the state’s fake-account investigation.”</p>
+                <p class="article__body">___</p>
+                <p class="article__body">This story has been updated to correct that Donald Migliori is an attorney for the prosecution representing the state at trial and not a public prosecutor.</p>
+    
+<div class="image-container col-12 float-none pl-0 pr-0" data-toggle="modal" data-target="#articleImageModalca74f6a8-e5b6-5678-b31b-6d3f090bbe0b" data-uuid="ca74f6a8-e5b6-5678-b31b-6d3f090bbe0b">
+    
+    <div class="bottom-container">
+        <p class="caption">FILE - Meta CEO Mark Zuckerberg speaks during an event at the Biohub Imaging Institute in Redwood City, Calif., Nov. 5, 2025. (AP Photo/Jeff Chiu, File)</p>
+                <p class="expand" data-toggle="modal" data-target="#articleImageModalca74f6a8-e5b6-5678-b31b-6d3f090bbe0b"><i class="fa fa-arrows-alt"></i></p>
+    </div>
+</div>
+
+
+<div class="image-container col-12 float-none pl-0 pr-0" data-toggle="modal" data-target="#articleImageModal465251bb-aada-5f59-9789-21ce1911ba44" data-uuid="465251bb-aada-5f59-9789-21ce1911ba44">
+    
+    <div class="bottom-container">
+        <p class="caption">FILE - New Mexico Attorney General RaÃºl Torrez discusses the nexus of public safety, mental health and adverse child experiences during a news conference following a summit in Albuquerque, N.M., Nov. 3, 2023. (AP Photo/Susan Montoya Bryan, File)</p>
+                <p class="expand" data-toggle="modal" data-target="#articleImageModal465251bb-aada-5f59-9789-21ce1911ba44"><i class="fa fa-arrows-alt"></i></p>
+    </div>
+</div>
+
+
+                            
+                            	
+							
+							<p class="share-button-container">
+								<button id="shareArticleButton" class="share-button-link" type="button" aria-label="Copy article link to clipboard"> Copy article link </button>
+							</p>
+							
+                            							
+							
+						</div>
+					</div></body></html>

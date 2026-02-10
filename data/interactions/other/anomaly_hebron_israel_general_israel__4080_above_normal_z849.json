@@ -1,0 +1,49 @@
+{
+  "id": "anomaly_hebron_israel_general_israel__4080_above_normal_z849",
+  "name": "Anomaly: Hebron, Israel (general), Israel - 408.0% above normal (z=8.49)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Hebron, Israel (general), Israel - 408.0% above normal (z=8.49)",
+  "sources": [
+    {
+      "url": "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260208-presstv04.htm",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.yahoo.com/news/articles/lebanese-group-accuses-israel-abducting-125843369.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.naharnet.com:443/stories/en/318261-israeli-attacks-on-lebanon-kill-four-including-security-officer-and-child",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://dominicanrepublicpost.com/lebanese-group-accuses-israel-of-abducting-its-leader-in-raid/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "ISR"
+  },
+  "toast_message": "Anomaly detected in Hebron, Israel.",
+  "toast_type": "info",
+  "llm_analysis": "(a) The first article discusses the intense situation in occupied Palestine, particularly focusing on the ongoing toll of Israeli actions on Palestinian lives, and advocates for sanctions against Israel. (b) The second article reports on recent coordinated attacks by armed Israeli settlers in the West Bank, which resulted in multiple injuries among Palestinians, highlighting the increasing violence in the region. (c) The third article covers an incident where a Lebanese party accused Israel of abducting one of its members, indicating ongoing tensions and military actions across Israel's borders. Overall, these articles illustrate a complex and deteriorating situation characterized by violence and violations of rights, contributing to an atmosphere of instability in the region. The highlighted anomalies in Hebron reflect a significantly elevated level of unrest, tied to broader patterns of aggression in both the West Bank and southern Lebanon.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

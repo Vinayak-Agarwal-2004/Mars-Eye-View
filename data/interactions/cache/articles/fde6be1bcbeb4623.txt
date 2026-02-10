@@ -1,0 +1,73 @@
+<html><body><div><section id="article_content">
+						
+    <div class="slideshow_container">
+								<div class="mySlides fade"><p class="numbertext">1 / 3</p><img class="slide" src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155533/20260203-ROBINSON.020426-tn-3-tn-8916-1-1200x800.jpg"><p class="text">Tyler Robinson, accused in the fatal shooting of Charlie Kirk, appears during a hearing in 4th District Court in Provo on Tuesday, Feb. 3, 2026.</p><p class="photo_by gallery_photo_by" title="Trent Nelson, The Salt Lake Tribune">Trent Nelson, The Salt Lake Tribune</p></div><div class="mySlides fade"><p class="numbertext">2 / 3</p><img class="slide" src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155523/20260203-ROBINSON.020426-tn-3-tn-9112-1200x800.jpg"><p class="text">Utah County Attorney Jeff Gray in 4th District Court in Provo on Tuesday, Feb. 3, 2026, during a hearing for Tyler Robinson, accused in the fatal shooting of Charlie Kirk.</p><p class="photo_by gallery_photo_by" title="Trent Nelson, The Salt Lake Tribune">Trent Nelson, The Salt Lake Tribune</p></div><div class="mySlides fade"><p class="numbertext">3 / 3</p><img class="slide" src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155607/20260203-ROBINSON.020426-tn-3-tn-5693-1200x800.jpg"><p class="text">Fourth District Court Judge Tony Graf in Provo on Tuesday, Feb. 3, 2026, during a hearing for Tyler Robinson, accused in the fatal shooting of Charlie Kirk.</p><p class="photo_by gallery_photo_by" title="Trent Nelson, The Salt Lake Tribune">Trent Nelson, The Salt Lake Tribune</p></div>
+        <a class="prev">❮</a>
+        <a class="next">❯</a>
+
+    </div>
+
+    <p id="dot_wrap">
+				            <span class="dot"></span>
+			            <span class="dot"></span>
+			            <span class="dot"></span>
+			    </p>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+		
+		<div id="gallery-6" class="gallery galleryid-1722702 gallery-columns-3 gallery-size-thumbnail"><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/attachment/robinson-020426-3/"><img src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155533/20260203-ROBINSON.020426-tn-3-tn-8916-1-411x274.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-6-1722721"></a>
+			</dt>
+				<dd class="wp-caption-text gallery-caption" id="gallery-6-1722721">
+				Tyler Robinson, accused in the fatal shooting of Charlie Kirk, appears during a hearing in 4th District Court in Provo on Tuesday, Feb. 3, 2026.
+				</dd></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/attachment/robinson-020426-2/"><img src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155523/20260203-ROBINSON.020426-tn-3-tn-9112-411x274.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-6-1722720"></a>
+			</dt>
+				<dd class="wp-caption-text gallery-caption" id="gallery-6-1722720">
+				Utah County Attorney Jeff Gray in 4th District Court in Provo on Tuesday, Feb. 3, 2026, during a hearing for Tyler Robinson, accused in the fatal shooting of Charlie Kirk.
+				</dd></dl><dl class="gallery-item">
+			<dt class="gallery-icon landscape">
+				<a href="https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/attachment/robinson-020426/"><img src="https://ogden_images.s3.amazonaws.com/www.heraldextra.com/images/2026/02/03155607/20260203-ROBINSON.020426-tn-3-tn-5693-411x274.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" aria-describedby="gallery-6-1722724"></a>
+			</dt>
+				<dd class="wp-caption-text gallery-caption" id="gallery-6-1722724">
+				Fourth District Court Judge Tony Graf in Provo on Tuesday, Feb. 3, 2026, during a hearing for Tyler Robinson, accused in the fatal shooting of Charlie Kirk.
+				</dd></dl>
+		</div>
+
+<p><span>A hearing to consider a motion from Tyler Robinson’s defense to disqualify the Utah County Attorney’s Office from prosecuting the case was completed in Provo’s 4th District Court on Tuesday, and a ruling will be made by Judge Tony F. Graf. on Feb. 24. </span></p>
+<p><span>Robinson, 22, of Washington, Utah, faces seven criminal charges, including aggravated murder, after he allegedly shot and killed conservative activist Charlie Kirk at a Sept. 10 event at Utah Valley University in Orem.</span></p>
+<p id="SEOU_Article_300x250"></p><p><span>The defense alleges a conflict of interest in the case because the adult child of one of the county prosecutors in the case, Chad Grunander, was present at the event where Kirk was shot.</span></p>
+<p><span>County Attorney Jeff Gray returned to the stand to testify, and Grunander, who’s daughter was at Kirk’s event, also took the stand to testify. Grunander’s daughter testified during a closed-door session. </span></p>
+<p><span>During Defense Attorney Richard Novak’s cross-examination of Gray, he asked him a number of questions regarding the conflict-of-interest claim, Gray’s decision to seek the death penalty in the case and whether Grunander was involved in the decision to pursue the death penalty.</span></p>
+<p><span>Gray confirmed he was aware that the child of one of his team members was present at the Kirk event when he decided to pursue the death penalty. He also agreed that the parent of the child was one of the prosecutors included in conversations about whether to pursue the death penalty.</span></p>
+<p id="SEOU_Article2_300x250"></p><p><span>However, in answering questions from the prosecutor, Gray said the child’s presence at Kirk’s event had “zero” effect on his decision to seek the death penalty.</span></p>
+<p><span>“We’re concerned about the evidence supporting the charges. That’s first and foremost. And that has nothing to do with somebody that happened to be there,” Gray said. ” I mean, quite frankly, it’s completely irrelevant to anything that matters in this case.</span></p>
+<p><span>“The concern about conflict is whether or not it has any possibility of affecting your decision making as a prosecutor, and I didn’t see how this does in any way.”</span></p>
+<p><span>Grunander took the stand and detailed learning about the incident via a text from his daughter to a family group chat saying that someone had been shot. He traveled to the scene at UVU that day in his role as a county attorney. </span></p>
+<p><span>Grunander confirmed that he emailed the defense team to disclose that his daughter had been at the event. </span></p>
+<p><span>“We’re not in the business of hiding anything,” Grunander said. “And so we knew from the outset that once council was appointed that we would be disclosing this to the defense, and they would respond accordingly however they thought they should.” </span></p>
+<p><span>He testified that his daughter’s presence did not influence his actions as an attorney at the scene and did not influence charging decisions or the death penalty decisions. </span></p>
+<p><span>Asked by defense about traditional procedure to declare a death penalty case, Grunander said that in the majority of cases the notice of intent to seek death is filed after the preliminary hearing. He agreed with the defense’s premise that one reason may be to know more about the defendant’s background, and said he was “not aware” if he had ever had a case where a decision to seek the death penalty was made just based on the facts of the crime and without regard to the defendant’s background.  </span></p>
+<p><span>In final arguments, Novak said Grunander should have been “walled off” from the case until the court had the chance to consider whether he should be dismissed. </span></p>
+<p><span>“(Grenander said) he’d never seen in his experience a decision to seek the death penalty made without regard to information about the accused,” Novak said. “And there’s a hint there that there was an emotional response to Mr. Kirk’s death, which there’s a strong implication, creates an appearance of impropriety.” </span></p>
+<p><span>He also accused Gray of taking a casual approach to the issue, claiming he put his needs for Grenander to lead the case over any ethical considerations. </span></p>
+<p><span>“This could have been brought to the Court’s attention in September,” Novak said. “Counsel were appointed shortly thereafter. We could have addressed this a long time ago, </span><span>and now, frankly, it’s too late.” </span></p>
+<p><span>Prosecutor Ryan McBride said in his final argument that Grunander’s daughter was not a witness in the case because she did not see Kirk get shot and did not see his wound or see him getting carried off. </span></p>
+<p><span>“Is the child a witness to the circumstances? Sure, but so are 3,000 others, as well as dozens of video recordings,” McBride said. “She’s not a witness. She’s not necessary in this case, and as a result, there’s no conflict here.”</span></p>
+<p><span>McBride added that Grunander’s daughter has not been greatly impacted by the shooting, and that Grunander was motivated not by retribution for what happened to his daughter, but by Kirk’s death. </span></p>
+<p><span>“The idea that the defendant was charged for killing someone because a prosecutor’s child was present when it happened is almost laughable,” McBride said. “He’s being prosecuted for killing someone because he killed someone, at least that’s what the evidence will show.”</span></p>
+
+														                        </section></div></body></html>

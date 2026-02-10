@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent anomaly in Rhode Island is linked to the release of public records regarding a tragic school shooting at Brown University, which resulted in two deaths and nine injuries. The release included bodycam footage and incident reports, showcasing the chaotic response without a suspect in custody, exacerbating community trauma and raising concerns about the timing of public disclosure amidst ongoing tensions.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Providence records released on Brown University shooting.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

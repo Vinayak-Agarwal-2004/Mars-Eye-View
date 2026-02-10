@@ -1,0 +1,54 @@
+{
+  "id": "kashmir",
+  "name": "Kashmir",
+  "aliases": [],
+  "classification": {
+    "type": "territorial",
+    "status": "Divided administration",
+    "since": 1947
+  },
+  "claimants": [
+    {
+      "iso": "CHN",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "IND",
+      "claim": "",
+      "controls": []
+    },
+    {
+      "iso": "PAK",
+      "claim": "",
+      "controls": []
+    }
+  ],
+  "geography": {
+    "primary_location": {
+      "iso": "CHN",
+      "coordinates": null
+    },
+    "affected_regions": []
+  },
+  "description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+  "sources": [
+    {
+      "id": "src_wiki_001",
+      "type": "wikipedia",
+      "url": null,
+      "retrieved": "2026-02-01T22:23:47.699651Z",
+      "contributed_fields": [
+        "name",
+        "description",
+        "claimants",
+        "status"
+      ]
+    }
+  ],
+  "metadata": {
+    "created": "2026-02-01T22:23:47.699659Z",
+    "updated": "2026-02-01T22:23:47.699662Z",
+    "confidence": 0.8
+  }
+}

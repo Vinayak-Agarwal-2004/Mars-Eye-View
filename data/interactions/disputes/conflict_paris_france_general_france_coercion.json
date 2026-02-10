@@ -1,0 +1,39 @@
+{
+  "id": "conflict_paris_france_general_france_coercion",
+  "name": "Conflict: Paris, France (general), France (coercion)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Paris, France (general), France (coercion)",
+  "sources": [
+    {
+      "url": "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "iso": "FRA"
+  },
+  "toast_message": "Incident recorded: Crypto-related kidnapping in France.",
+  "toast_type": "info",
+  "llm_analysis": "The incident details a kidnapping case in France where a magistrate and her mother were held for ransom linked to cryptocurrency. The kidnapping involved threats of violence if the ransom was not paid. A neighbor intervened, leading to their rescue after a 30-hour ordeal. This case is part of a wider troubling trend of cryptocurrency-related kidnappings in France, highlighted by previous incidents where victims faced extreme violence. Authorities are intensifying efforts to combat this growing threat, which reflects increasing risks associated with cryptocurrency.\n\nThe articles present a consistent narrative around the dangers linked to cryptocurrency, especially in France, where these incidents have become more frequent. They illustrate the urgent need for better protection and responses to such crimes, especially given the financial motivations driving them. The situation underscores a significant challenge for law enforcement as the dynamics of crime evolve with technology.\n\nOverall, the incident demonstrates a critical intersection between crime and technology, revealing broad implications for security and safety in urban environments as they become battlegrounds for criminal enterprises linked to digital currencies.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "source_urls": [
+    "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 168,
+    "severity_score": 346.0
+  }
+}

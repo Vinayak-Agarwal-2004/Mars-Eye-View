@@ -1,0 +1,50 @@
+{
+  "id": "anomaly_maiden_bradley_wiltshire_united_kingdom__3750_above_normal_z1061",
+  "name": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 375.0% above normal (z=10.61)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 375.0% above normal (z=10.61)",
+  "sources": [
+    {
+      "url": "https://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.dailymail.co.uk/news/article-15542839/VIP-abuse-ring-fantasist-Nick-freed-serving-half-sentence-Labours-prisoner-early-release-scheme.html",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/25837003.starmer-position-complete-weakness-says-swinney/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.express.co.uk/news/uk/2168626/twisted-nursery-worker-raped-abused",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "http://www.jpost.com/diaspora/antisemitism/article-886084",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 51.2213,
+    "lon": -2.1081
+  },
+  "toast_message": "Escalating tensions in the UK amid recent radical movements.",
+  "toast_type": "warning",
+  "llm_analysis": "The anomaly in Maiden Bradley, UK, coincides with escalating tensions surrounding the Anti-Zionist Movement's recent launch, which has drawn scrutiny for its radical statements linking anti-Zionism with broader anti-Semitic sentiments. This escalation is compounded by the recent release of a controversial figure from prison, raising questions about governmental decision-making and public safety amidst rising societal tensions.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

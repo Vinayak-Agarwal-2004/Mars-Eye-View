@@ -1,0 +1,41 @@
+{
+  "id": "diplomatic_usairn_conflict_irn_usa",
+  "name": "Diplomatic: USA-IRN (conflict)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [
+    "IRN",
+    "USA"
+  ],
+  "description": "Diplomatic: USA-IRN (conflict)",
+  "sources": [
+    {
+      "url": "https://dominicanrepublicpost.com/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.75,
+  "source": "gdelt_diplomatic",
+  "source_urls": [
+    "https://dominicanrepublicpost.com/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters/"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 20,
+    "GoldsteinScale": -8.0,
+    "EventDate": "2026-02-09"
+  }
+}

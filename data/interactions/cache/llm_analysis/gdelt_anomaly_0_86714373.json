@@ -1,0 +1,12 @@
+{
+  "analysis": "The significant uptick in anomaly reporting related to Hong Kong is largely attributed to the sentencing of pro-democracy activist Jimmy Lai under China's national security law, indicating a continued crackdown on dissent in the region. This severe penalty, portraying a chill in civil liberties, resonates globally with heightened scrutiny of China's governance mechanisms amid rising anti-monarchy sentiments linked to other international figures, such as Prince Andrew.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": 22.3964,
+    "lon": 114.1095
+  },
+  "toast_message": "Significant political events in Hong Kong.",
+  "toast_type": "info",
+  "confidence": 0.95
+}

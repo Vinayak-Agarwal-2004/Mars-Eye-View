@@ -1,0 +1,45 @@
+{
+  "id": "anomaly_bhopal_madhya_pradesh_india__5000_above_normal_z75",
+  "name": "Anomaly: Bhopal, Madhya Pradesh, India - 500.0% above normal (z=7.5)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Bhopal, Madhya Pradesh, India - 500.0% above normal (z=7.5)",
+  "sources": [
+    {
+      "url": "https://www.freepressjournal.in/bhopal/mp-news-congress-protests-at-bmc-office-over-beef-allegations-water-crisis-effigies-of-mayor-and-mic-members-burnt",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.centralchronicle.com/mp-police-recover-stolen-property-worth-over-rs-37-lakh/",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://www.newkerala.com/news/a/two-board-exams-year-under-nep-will-benefit-924.htm",
+      "type": "article",
+      "name": "Source"
+    },
+    {
+      "url": "https://aninews.in/news/national/general-news/mp-cm-mohan-yadav-interacts-with-students-ahead-of-board-exams-encourages-to-prepare-with-dedication20260209221949/",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 23.2599,
+    "lon": 77.4126
+  },
+  "toast_message": "Protests escalate in Bhopal over water crisis and beef allegations.",
+  "toast_type": "warning",
+  "llm_analysis": "The protests in Bhopal reflect rising tensions surrounding local governance issues, particularly related to allegations of beef-related incidents amidst a worsening water crisis. The Congress party's actions, including the burning of effigies, indicate significant dissatisfaction with the municipal leadership, often tying these issues to broader political narratives against the ruling BJP. This unrest occurs simultaneously with police efforts to bolster public safety and restore order, suggesting a complex interplay of civic concerns and state responses.",
+  "llm_analysis_cached": true,
+  "confidence": 0.95,
+  "source": "anomaly"
+}

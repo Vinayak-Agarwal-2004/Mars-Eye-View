@@ -1,0 +1,39 @@
+{
+  "id": "anomaly_makhachkala_dagestan_russia__2000_above_normal_z40",
+  "name": "Anomaly: Makhachkala, Dagestan, Russia - 200.0% above normal (z=4.0)",
+  "category": "other",
+  "subtype": "general",
+  "type": "Other",
+  "type_label": "Other",
+  "status": "Active",
+  "participants": [],
+  "description": "Anomaly: Makhachkala, Dagestan, Russia - 200.0% above normal (z=4.0)",
+  "sources": [
+    {
+      "url": "https://www.eng.kavkaz-uzel.eu/articles/72698",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.9,
+  "source": "anomaly",
+  "source_urls": [
+    "https://www.eng.kavkaz-uzel.eu/articles/72698"
+  ],
+  "gdelt_metadata": {
+    "z_score": 4.0,
+    "severity": "high",
+    "current_count": 6,
+    "baseline_mean": 2.0
+  }
+}

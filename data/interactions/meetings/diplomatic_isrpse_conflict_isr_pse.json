@@ -1,0 +1,31 @@
+{
+  "id": "diplomatic_isrpse_conflict_isr_pse",
+  "name": "Diplomatic: ISR-PSE (conflict)",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "ISR",
+    "PSE"
+  ],
+  "description": "Diplomatic: ISR-PSE (conflict)",
+  "sources": [
+    {
+      "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Escalation of violence in Gaza raises concerns.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent violent encounters in Gaza, where Israeli forces killed four militants and a Palestinian farmer, illustrate the escalating tensions between Israel and Hamas amidst a fragile ceasefire. The ongoing conflict, marked by retaliatory attacks and civilian casualties, underscores the challenges facing diplomatic efforts to stabilize the region, especially as international pressure mounts on both sides to adhere to peace negotiations.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "gdelt_diplomatic",
+  "category": "meetings"
+}

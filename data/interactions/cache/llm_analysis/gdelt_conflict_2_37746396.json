@@ -1,0 +1,12 @@
+{
+  "analysis": "Recent protests in Sydney, Australia, saw significant backlash as demonstrators voiced their outrage against the visit of a controversial figure accused of inciting genocide. The police response was marked by violence and arrests, illustrating a severe clampdown on dissent amid rising tensions regarding governmental actions that critics view as disregarding human rights.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "lat": -33.8688,
+    "lon": 151.2093
+  },
+  "toast_message": "Violence erupts at Sydney protests against controversial visit.",
+  "toast_type": "warning",
+  "confidence": 0.9
+}

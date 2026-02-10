@@ -1,0 +1,3539 @@
+{
+  "version": "3.0",
+  "last_updated": "2026-02-10T21:54:10.778974Z",
+  "categories": {
+    "disputes": {
+      "name": "Disputes",
+      "icon": "\u26a0\ufe0f",
+      "color": "#ef4444",
+      "subtypes": [
+        "territorial",
+        "maritime",
+        "political",
+        "border"
+      ]
+    },
+    "meetings": {
+      "name": "Meetings & Summits",
+      "icon": "\ud83e\udd1d",
+      "color": "#3b82f6",
+      "subtypes": [
+        "diplomatic",
+        "summit"
+      ]
+    },
+    "agreements": {
+      "name": "Agreements & Treaties",
+      "icon": "\ud83d\udcdc",
+      "color": "#10b981",
+      "subtypes": [
+        "treaty",
+        "normalization"
+      ]
+    },
+    "sports": {
+      "name": "Sports",
+      "icon": "\u26bd",
+      "color": "#f59e0b",
+      "subtypes": [
+        "tournament",
+        "match"
+      ]
+    },
+    "trade": {
+      "name": "Trade & Economics",
+      "icon": "\ud83d\udcc8",
+      "color": "#8b5cf6",
+      "subtypes": [
+        "deal",
+        "sanctions"
+      ]
+    },
+    "military": {
+      "name": "Military & Defense",
+      "icon": "\ud83d\udee1\ufe0f",
+      "color": "#6b7280",
+      "subtypes": [
+        "exercise",
+        "defense_pact"
+      ]
+    },
+    "humanitarian": {
+      "name": "Humanitarian",
+      "icon": "\ud83e\ude7a",
+      "color": "#ec4899",
+      "subtypes": [
+        "aid",
+        "rescue"
+      ]
+    },
+    "cultural": {
+      "name": "Cultural & Educational",
+      "icon": "\ud83c\udf93",
+      "color": "#06b6d4",
+      "subtypes": [
+        "exchange",
+        "heritage"
+      ]
+    },
+    "other": {
+      "name": "Other",
+      "icon": "\ud83d\udd39",
+      "color": "#94a3b8",
+      "subtypes": []
+    }
+  },
+  "byCategory": {
+    "disputes": [
+      "nagorno_karabakh",
+      "northern_cyprus",
+      "arunachal_pradesh_south_tibet",
+      "taiwan",
+      "dokdo_takeshima",
+      "aksai_chin",
+      "crimea",
+      "western_sahara",
+      "kashmir",
+      "senkaku_diaoyu_islands",
+      "gaza_strip",
+      "west_bank",
+      "south_china_sea",
+      "kuril_islands_northern_territories",
+      "falkland_islands_malvinas",
+      "south_ossetia",
+      "abkhazia",
+      "transnistria",
+      "golan_heights",
+      "conflict_brant_county_ontario_canada_coercion",
+      "conflict_sydney_new_south_wales_australia_violence",
+      "conflict_sydney_new_south_wales_australia_coercion",
+      "conflict_brant_county_ontario_canada_violence",
+      "conflict_hollywood_california_united_states_protest",
+      "conflict_caracas_distrito_federal_venezuela_coercion",
+      "conflict_paris_france_general_france_violence_fra",
+      "conflict_paris_france_general_france_coercion",
+      "conflict_paris_france_general_france_coercion_fra",
+      "conflict_connecticut_united_states_violence",
+      "conflict_gaza_israel_general_israel_violence",
+      "conflict_butte_county_california_united_states_coercion",
+      "conflict_sydney_new_south_wales_australia_protest_aus_pse",
+      "conflict_gaza_israel_general_israel_coercion",
+      "diplomatic_chlusa_conflict_chl_usa",
+      "diplomatic_usairn_conflict_irn_usa",
+      "diplomatic_jpnusa_conflict_jpn_usa",
+      "diplomatic_pseisr_conflict_isr_pse"
+    ],
+    "meetings": [
+      "diplomatic_usaven_conflict_usa_ven",
+      "diplomatic_isrpse_conflict_isr_pse",
+      "diplomatic_lbnisr_conflict_isr_lbn",
+      "diplomatic_espusa_conflict_esp_usa",
+      "diplomatic_lbngrd_conflict_grd_lbn",
+      "diplomatic_erieth_diplomatic_eri_eth"
+    ],
+    "agreements": [],
+    "sports": [],
+    "trade": [
+      "us_and_china_held_talks_in_geneva_focusing_on_trade_sanctions_and_regional_secur"
+    ],
+    "military": [
+      "diplomatic_isrirn_military_irn_isr",
+      "diplomatic_usakna_military_kna_usa",
+      "diplomatic_deuusa_military_deu_usa",
+      "diplomatic_usachn_military_chn_usa"
+    ],
+    "humanitarian": [],
+    "cultural": [],
+    "other": [
+      "anomaly_rhode_island_united_states__12000_above_normal_z1697",
+      "anomaly_hong_kong__12000_above_normal_z1697",
+      "anomaly_cleveland_ohio_united_states__8000_above_normal_z160",
+      "anomaly_maiden_bradley_wiltshire_united_kingdom__3500_above_normal_z99",
+      "anomaly_virginia_united_states__1769_above_normal_z813",
+      "anomaly_hong_kong__12250_above_normal_z1732",
+      "anomaly_maiden_bradley_wiltshire_united_kingdom__3750_above_normal_z1061",
+      "anomaly_hong_kong__12500_above_normal_z1768",
+      "anomaly_bhopal_madhya_pradesh_india__5000_above_normal_z75",
+      "anomaly_cameroon__3500_above_normal_z70",
+      "anomaly_iraq__5800_above_normal_z684",
+      "hotspot_location_district_of_columbia_united_states_262_events",
+      "hotspot_location_kissufim_hadarom_israel_208_events",
+      "hotspot_location_minnesota_united_states_174_events",
+      "hotspot_location_camden_county_new_jersey_united_states_173_events",
+      "hotspot_event_gaza_israel_general_israel_80_events",
+      "hotspot_event_new_york_united_states_73_events",
+      "hotspot_event_texas_united_states_60_events",
+      "hotspot_event_tripoli_tarabulus_libya_52_events",
+      "hotspot_actor_united_states_2281_events",
+      "hotspot_actor_police_631_events",
+      "hotspot_actor_united_kingdom_316_events",
+      "anomaly_hebron_israel_general_israel__4080_above_normal_z849",
+      "anomaly_new_zealand__9667_above_normal_z145",
+      "anomaly_south_korea__7000_above_normal_z105",
+      "anomaly_new_mexico_united_states__2500_above_normal_z100",
+      "anomaly_cambodia__2714_above_normal_z95",
+      "anomaly_canberra_australian_capital_territory_australia__6200_above_normal_z895",
+      "anomaly_south_korea__7333_above_normal_z110",
+      "anomaly_canberra_australian_capital_territory_australia__6800_above_normal_z981",
+      "anomaly_south_korea__7667_above_normal_z115",
+      "anomaly_new_mexico_united_states__2750_above_normal_z110",
+      "anomaly_katsina_state_katsina_nigeria__10400_above_normal_z1733",
+      "anomaly_south_korea__10667_above_normal_z160",
+      "anomaly_northern_ireland_craigavon_united_kingdom__11000_above_normal_z110",
+      "anomaly_fulani_zamfara_nigeria__5000_above_normal_z833",
+      "anomaly_sissonville_west_virginia_united_states__8000_above_normal_z80",
+      "anomaly_kordofan_shamal_kurdufan_sudan__3500_above_normal_z467",
+      "anomaly_red_mountain_pass_colorado_united_states__3000_above_normal_z75",
+      "anomaly_makhachkala_dagestan_russia__2000_above_normal_z40",
+      "anomaly_philippines__1182_above_normal_z284",
+      "hotspot_location_yatta_west_bank_general_west_bank_480_events",
+      "hotspot_location_maryland_state_police_maryland_united_states_431_events",
+      "hotspot_location_kissufim_hadarom_israel_390_events",
+      "hotspot_location_arncliffe_new_south_wales_australia_291_events",
+      "hotspot_location_new_york_united_states_258_events",
+      "hotspot_event_gaza_israel_general_israel_150_events",
+      "hotspot_event_new_york_united_states_114_events",
+      "hotspot_event_texas_united_states_96_events",
+      "hotspot_event_hong_kong_86_events",
+      "hotspot_event_washington_district_of_columbia_united_states_87_events",
+      "hotspot_actor_united_states_3783_events",
+      "hotspot_actor_police_1102_events",
+      "hotspot_actor_prison_597_events",
+      "hotspot_actor_israel_510_events",
+      "hotspot_actor_united_kingdom_444_events",
+      "diplomatic_pseaus_other_aus_pse"
+    ]
+  },
+  "interactionsById": {
+    "nagorno_karabakh": {
+      "id": "nagorno_karabakh",
+      "name": "Nagorno-Karabakh",
+      "type": "territorial",
+      "status": "Azerbaijani control since 2023",
+      "participants": [
+        "ARM",
+        "AZE"
+      ],
+      "description": "Region in Azerbaijan, formerly disputed with Armenia",
+      "since": 1991,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Region in Azerbaijan, formerly disputed with Armenia",
+      "llm_analysis_cached": false
+    },
+    "northern_cyprus": {
+      "id": "northern_cyprus",
+      "name": "Northern Cyprus",
+      "type": "territorial",
+      "status": "Turkish administration",
+      "participants": [
+        "CYP",
+        "TUR"
+      ],
+      "description": "Territory occupied by Turkey since 1974, recognized only by Turkey",
+      "since": 1974,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Territory occupied by Turkey since 1974, recognized only by Turkey",
+      "llm_analysis_cached": false
+    },
+    "arunachal_pradesh_south_tibet": {
+      "id": "arunachal_pradesh_south_tibet",
+      "name": "Arunachal Pradesh (South Tibet)",
+      "type": "territorial",
+      "status": "Indian administration",
+      "participants": [
+        "CHN",
+        "IND"
+      ],
+      "description": "Indian state claimed by China as South Tibet",
+      "since": 1962,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Indian state claimed by China as South Tibet",
+      "llm_analysis_cached": false
+    },
+    "taiwan": {
+      "id": "taiwan",
+      "name": "Taiwan",
+      "type": "sovereignty",
+      "status": "De facto independent",
+      "participants": [
+        "CHN",
+        "TWN"
+      ],
+      "description": "Self-governing island claimed by PRC, with its own government since 1949",
+      "since": 1949,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "Self-governing island claimed by PRC, with its own government since 1949",
+      "llm_analysis_cached": false
+    },
+    "dokdo_takeshima": {
+      "id": "dokdo_takeshima",
+      "name": "Dokdo/Takeshima",
+      "type": "territorial",
+      "status": "Korean administration",
+      "participants": [
+        "JPN",
+        "KOR"
+      ],
+      "description": "Small islands in Sea of Japan disputed between Korea and Japan",
+      "since": 1952,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Small islands in Sea of Japan disputed between Korea and Japan",
+      "llm_analysis_cached": false
+    },
+    "aksai_chin": {
+      "id": "aksai_chin",
+      "name": "Aksai Chin",
+      "type": "territorial",
+      "status": "Chinese administration",
+      "participants": [
+        "CHN",
+        "IND"
+      ],
+      "description": "Region administered by China, claimed by India as part of Ladakh",
+      "since": 1962,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Region administered by China, claimed by India as part of Ladakh",
+      "llm_analysis_cached": false
+    },
+    "crimea": {
+      "id": "crimea",
+      "name": "Crimea",
+      "type": "territorial",
+      "status": "Russian administration, claimed by Ukraine",
+      "participants": [
+        "RUS",
+        "UKR"
+      ],
+      "description": "Peninsula annexed by Russia from Ukraine in 2014, internationally recognized as Ukrainian",
+      "since": 2014,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Peninsula annexed by Russia from Ukraine in 2014, internationally recognized as Ukrainian",
+      "llm_analysis_cached": false
+    },
+    "western_sahara": {
+      "id": "western_sahara",
+      "name": "Western Sahara",
+      "type": "sovereignty",
+      "status": "Mostly Moroccan administration",
+      "participants": [
+        "ESH",
+        "MAR"
+      ],
+      "description": "Former Spanish colony, disputed between Morocco and Sahrawi Arab Democratic Republic",
+      "since": 1975,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "Former Spanish colony, disputed between Morocco and Sahrawi Arab Democratic Republic",
+      "llm_analysis_cached": false
+    },
+    "kashmir": {
+      "id": "kashmir",
+      "name": "Kashmir",
+      "type": "territorial",
+      "status": "Divided administration",
+      "participants": [
+        "CHN",
+        "IND",
+        "PAK"
+      ],
+      "description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+      "since": 1947,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Disputed territory in the Himalayas, divided between India, Pakistan, and China since 1947",
+      "llm_analysis_cached": false
+    },
+    "senkaku_diaoyu_islands": {
+      "id": "senkaku_diaoyu_islands",
+      "name": "Senkaku/Diaoyu Islands",
+      "type": "territorial",
+      "status": "Japanese administration",
+      "participants": [
+        "CHN",
+        "JPN",
+        "TWN"
+      ],
+      "description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+      "since": 1972,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Islands in East China Sea administered by Japan, claimed by China and Taiwan",
+      "llm_analysis_cached": false
+    },
+    "gaza_strip": {
+      "id": "gaza_strip",
+      "name": "Gaza Strip",
+      "type": "territorial",
+      "status": "Disputed",
+      "participants": [
+        "ISR",
+        "PSE"
+      ],
+      "description": "Coastal territory with disputed sovereignty between Israel and Palestine",
+      "since": 1967,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Coastal territory with disputed sovereignty between Israel and Palestine",
+      "llm_analysis_cached": false
+    },
+    "west_bank": {
+      "id": "west_bank",
+      "name": "West Bank",
+      "type": "territorial",
+      "status": "Partially occupied",
+      "participants": [
+        "ISR",
+        "PSE"
+      ],
+      "description": "Territory with Israeli settlements, claimed by Palestine",
+      "since": 1967,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Territory with Israeli settlements, claimed by Palestine",
+      "llm_analysis_cached": false
+    },
+    "south_china_sea": {
+      "id": "south_china_sea",
+      "name": "South China Sea",
+      "type": "maritime",
+      "status": "Multiple overlapping claims",
+      "participants": [
+        "BRN",
+        "CHN",
+        "MYS",
+        "PHL",
+        "TWN",
+        "VNM"
+      ],
+      "description": "Maritime disputes over islands and resources between multiple nations",
+      "since": 1947,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "maritime",
+      "type_label": "Disputes \u00b7 maritime",
+      "short_description": "Maritime disputes over islands and resources between multiple nations",
+      "llm_analysis_cached": false
+    },
+    "kuril_islands_northern_territories": {
+      "id": "kuril_islands_northern_territories",
+      "name": "Kuril Islands (Northern Territories)",
+      "type": "territorial",
+      "status": "Russian administration",
+      "participants": [
+        "JPN",
+        "RUS"
+      ],
+      "description": "Islands held by Russia, claimed by Japan since WWII",
+      "since": 1945,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Islands held by Russia, claimed by Japan since WWII",
+      "llm_analysis_cached": false
+    },
+    "falkland_islands_malvinas": {
+      "id": "falkland_islands_malvinas",
+      "name": "Falkland Islands (Malvinas)",
+      "type": "sovereignty",
+      "status": "British administration",
+      "participants": [
+        "ARG",
+        "GBR"
+      ],
+      "description": "British Overseas Territory in South Atlantic, claimed by Argentina",
+      "since": 1833,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "British Overseas Territory in South Atlantic, claimed by Argentina",
+      "llm_analysis_cached": true
+    },
+    "south_ossetia": {
+      "id": "south_ossetia",
+      "name": "South Ossetia",
+      "type": "sovereignty",
+      "status": "De facto independent, limited recognition",
+      "participants": [
+        "GEO",
+        "RUS"
+      ],
+      "description": "Breakaway region from Georgia with Russian support",
+      "since": 2008,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "Breakaway region from Georgia with Russian support",
+      "llm_analysis_cached": false
+    },
+    "abkhazia": {
+      "id": "abkhazia",
+      "name": "Abkhazia",
+      "type": "sovereignty",
+      "status": "De facto independent, limited recognition",
+      "participants": [
+        "GEO",
+        "RUS"
+      ],
+      "description": "Breakaway region from Georgia with Russian support",
+      "since": 2008,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "Breakaway region from Georgia with Russian support",
+      "llm_analysis_cached": true
+    },
+    "transnistria": {
+      "id": "transnistria",
+      "name": "Transnistria",
+      "type": "sovereignty",
+      "status": "De facto independent, unrecognized",
+      "participants": [
+        "MDA",
+        "RUS"
+      ],
+      "description": "Breakaway region from Moldova with Russian support",
+      "since": 1992,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "sovereignty",
+      "type_label": "Disputes \u00b7 sovereignty",
+      "short_description": "Breakaway region from Moldova with Russian support",
+      "llm_analysis_cached": true
+    },
+    "golan_heights": {
+      "id": "golan_heights",
+      "name": "Golan Heights",
+      "type": "territorial",
+      "status": "Israeli administration",
+      "participants": [
+        "ISR",
+        "SYR"
+      ],
+      "description": "Territory captured by Israel from Syria in 1967, annexed in 1981",
+      "since": 1967,
+      "sources": [],
+      "category": "disputes",
+      "subtype": "territorial",
+      "type_label": "Disputes \u00b7 territorial",
+      "short_description": "Territory captured by Israel from Syria in 1967, annexed in 1981",
+      "llm_analysis_cached": false
+    },
+    "diplomatic_isrirn_military_irn_isr": {
+      "id": "diplomatic_isrirn_military_irn_isr",
+      "name": "Diplomatic: ISR-IRN (military)",
+      "type": "general",
+      "status": "Active",
+      "participants": [
+        "IRN",
+        "ISR"
+      ],
+      "short_description": "Diplomatic: ISR-IRN (military)",
+      "file": "military/diplomatic_isrirn_military_irn_isr.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Escalating espionage concerns between Israel and Iran.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "gdelt_diplomatic",
+      "category": "military",
+      "subtype": "general",
+      "type_label": "Military & Defense",
+      "description": "Diplomatic: ISR-IRN (military)"
+    },
+    "anomaly_rhode_island_united_states__12000_above_normal_z1697": {
+      "id": "anomaly_rhode_island_united_states__12000_above_normal_z1697",
+      "name": "Anomaly: Rhode Island, United States - 1200.0% above normal (z=16.97)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Rhode Island, United States - 1200.0% above normal (z=16.97)",
+      "file": "other/anomaly_rhode_island_united_states__12000_above_normal_z1697.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Rhode Island, United States - 1200.0% above normal (z=16.97)"
+    },
+    "anomaly_hong_kong__12000_above_normal_z1697": {
+      "id": "anomaly_hong_kong__12000_above_normal_z1697",
+      "name": "Anomaly: Hong Kong - 1200.0% above normal (z=16.97)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Hong Kong - 1200.0% above normal (z=16.97)",
+      "file": "other/anomaly_hong_kong__12000_above_normal_z1697.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Hong Kong - 1200.0% above normal (z=16.97)"
+    },
+    "anomaly_cleveland_ohio_united_states__8000_above_normal_z160": {
+      "id": "anomaly_cleveland_ohio_united_states__8000_above_normal_z160",
+      "name": "Anomaly: Cleveland, Ohio, United States - 800.0% above normal (z=16.0)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Cleveland, Ohio, United States - 800.0% above normal (z=16.0)",
+      "file": "other/anomaly_cleveland_ohio_united_states__8000_above_normal_z160.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Cleveland, Ohio, United States - 800.0% above normal (z=16.0)"
+    },
+    "anomaly_maiden_bradley_wiltshire_united_kingdom__3500_above_normal_z99": {
+      "id": "anomaly_maiden_bradley_wiltshire_united_kingdom__3500_above_normal_z99",
+      "name": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 350.0% above normal (z=9.9)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 350.0% above normal (z=9.9)",
+      "file": "other/anomaly_maiden_bradley_wiltshire_united_kingdom__3500_above_normal_z99.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 350.0% above normal (z=9.9)"
+    },
+    "anomaly_virginia_united_states__1769_above_normal_z813": {
+      "id": "anomaly_virginia_united_states__1769_above_normal_z813",
+      "name": "Anomaly: Virginia, United States - 176.9% above normal (z=8.13)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Virginia, United States - 176.9% above normal (z=8.13)",
+      "file": "other/anomaly_virginia_united_states__1769_above_normal_z813.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Virginia, United States - 176.9% above normal (z=8.13)"
+    },
+    "us_and_china_held_talks_in_geneva_focusing_on_trade_sanctions_and_regional_secur": {
+      "id": "us_and_china_held_talks_in_geneva_focusing_on_trade_sanctions_and_regional_secur",
+      "name": "US and China held talks in Geneva focusing on trade, sanctions, and regional security.",
+      "type": "Trade & Economics",
+      "status": "Active",
+      "participants": [
+        "CHN",
+        "USA"
+      ],
+      "short_description": "US and China held talks in Geneva focusing on trade, sanctions, and regional security.",
+      "file": "other/us_and_china_held_talks_in_geneva_focusing_on_trade_sanctions_and_regional_secur.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "US-China trade talks in focus",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.6,
+      "source": "gdelt",
+      "category": "trade",
+      "subtype": "general",
+      "type_label": "Trade & Economics",
+      "description": "US and China held talks in Geneva focusing on trade, sanctions, and regional security."
+    },
+    "anomaly_hong_kong__12250_above_normal_z1732": {
+      "id": "anomaly_hong_kong__12250_above_normal_z1732",
+      "name": "Anomaly: Hong Kong - 1225.0% above normal (z=17.32)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Hong Kong - 1225.0% above normal (z=17.32)",
+      "file": "other/anomaly_hong_kong__12250_above_normal_z1732.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 22.3964,
+        "lon": 114.1095
+      },
+      "toast_message": "Significant political events in Hong Kong.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Hong Kong - 1225.0% above normal (z=17.32)"
+    },
+    "anomaly_maiden_bradley_wiltshire_united_kingdom__3750_above_normal_z1061": {
+      "id": "anomaly_maiden_bradley_wiltshire_united_kingdom__3750_above_normal_z1061",
+      "name": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 375.0% above normal (z=10.61)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 375.0% above normal (z=10.61)",
+      "file": "other/anomaly_maiden_bradley_wiltshire_united_kingdom__3750_above_normal_z1061.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 51.2213,
+        "lon": -2.1081
+      },
+      "toast_message": "Escalating tensions in the UK amid recent radical movements.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Maiden Bradley, Wiltshire, United Kingdom - 375.0% above normal (z=10.61)"
+    },
+    "anomaly_hong_kong__12500_above_normal_z1768": {
+      "id": "anomaly_hong_kong__12500_above_normal_z1768",
+      "name": "Anomaly: Hong Kong - 1250.0% above normal (z=17.68)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Hong Kong - 1250.0% above normal (z=17.68)",
+      "file": "other/anomaly_hong_kong__12500_above_normal_z1768.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 22.3964,
+        "lon": 114.1099
+      },
+      "toast_message": "Heightened global concern over Hong Kong's democracy suppression.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Hong Kong - 1250.0% above normal (z=17.68)"
+    },
+    "anomaly_bhopal_madhya_pradesh_india__5000_above_normal_z75": {
+      "id": "anomaly_bhopal_madhya_pradesh_india__5000_above_normal_z75",
+      "name": "Anomaly: Bhopal, Madhya Pradesh, India - 500.0% above normal (z=7.5)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Bhopal, Madhya Pradesh, India - 500.0% above normal (z=7.5)",
+      "file": "other/anomaly_bhopal_madhya_pradesh_india__5000_above_normal_z75.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 23.2599,
+        "lon": 77.4126
+      },
+      "toast_message": "Protests escalate in Bhopal over water crisis and beef allegations.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Bhopal, Madhya Pradesh, India - 500.0% above normal (z=7.5)"
+    },
+    "anomaly_cameroon__3500_above_normal_z70": {
+      "id": "anomaly_cameroon__3500_above_normal_z70",
+      "name": "Anomaly: Cameroon - 350.0% above normal (z=7.0)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Cameroon - 350.0% above normal (z=7.0)",
+      "file": "other/anomaly_cameroon__3500_above_normal_z70.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 5.848,
+        "lon": 10.1591
+      },
+      "toast_message": "Escalating conflict in Cameroon raises international concerns.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Cameroon - 350.0% above normal (z=7.0)"
+    },
+    "anomaly_iraq__5800_above_normal_z684": {
+      "id": "anomaly_iraq__5800_above_normal_z684",
+      "name": "Anomaly: Iraq - 580.0% above normal (z=6.84)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Iraq - 580.0% above normal (z=6.84)",
+      "file": "other/anomaly_iraq__5800_above_normal_z684.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "IRQ"
+      },
+      "toast_message": "Iraq executes Saddam-era official for historical crimes.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Iraq - 580.0% above normal (z=6.84)"
+    },
+    "conflict_brant_county_ontario_canada_coercion": {
+      "id": "conflict_brant_county_ontario_canada_coercion",
+      "name": "Conflict: Brant County, Ontario, Canada (coercion)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Brant County, Ontario, Canada (coercion)",
+      "file": "other/conflict_brant_county_ontario_canada_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 43.1333,
+        "lon": -80.1833
+      },
+      "toast_message": "Day parole granted to London killer in Brant County raises concerns.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Brant County, Ontario, Canada (coercion)"
+    },
+    "conflict_sydney_new_south_wales_australia_violence": {
+      "id": "conflict_sydney_new_south_wales_australia_violence",
+      "name": "Conflict: Sydney, New South Wales, Australia (violence)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Sydney, New South Wales, Australia (violence)",
+      "file": "other/conflict_sydney_new_south_wales_australia_violence.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": -33.8688,
+        "lon": 151.2093
+      },
+      "toast_message": "Violent protests erupt in Sydney over Herzog's visit.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Sydney, New South Wales, Australia (violence)"
+    },
+    "conflict_sydney_new_south_wales_australia_coercion": {
+      "id": "conflict_sydney_new_south_wales_australia_coercion",
+      "name": "Conflict: Sydney, New South Wales, Australia (coercion)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Sydney, New South Wales, Australia (coercion)",
+      "file": "other/conflict_sydney_new_south_wales_australia_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": -33.8688,
+        "lon": 151.2093
+      },
+      "toast_message": "Protests in Sydney raise concerns over police response.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Sydney, New South Wales, Australia (coercion)"
+    },
+    "conflict_brant_county_ontario_canada_violence": {
+      "id": "conflict_brant_county_ontario_canada_violence",
+      "name": "Conflict: Brant County, Ontario, Canada (violence)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Brant County, Ontario, Canada (violence)",
+      "file": "other/conflict_brant_county_ontario_canada_violence.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 43.1663,
+        "lon": -80.0838
+      },
+      "toast_message": "Violence incident in Brant County, Ontario.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Brant County, Ontario, Canada (violence)"
+    },
+    "conflict_hollywood_california_united_states_protest": {
+      "id": "conflict_hollywood_california_united_states_protest",
+      "name": "Conflict: Hollywood, California, United States (protest)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Hollywood, California, United States (protest)",
+      "file": "other/conflict_hollywood_california_united_states_protest.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Protest in Hollywood, CA sparks discussions on safety.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Hollywood, California, United States (protest)"
+    },
+    "conflict_caracas_distrito_federal_venezuela_coercion": {
+      "id": "conflict_caracas_distrito_federal_venezuela_coercion",
+      "name": "Conflict: Caracas, Distrito Federal, Venezuela (coercion)",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Caracas, Distrito Federal, Venezuela (coercion)",
+      "file": "other/conflict_caracas_distrito_federal_venezuela_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 10.4918,
+        "lon": -66.8883
+      },
+      "toast_message": "Escalation of political coercion in Venezuela.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "category": "disputes",
+      "subtype": "general",
+      "type_label": "Disputes",
+      "description": "Conflict: Caracas, Distrito Federal, Venezuela (coercion)"
+    },
+    "hotspot_location_district_of_columbia_united_states_262_events": {
+      "id": "hotspot_location_district_of_columbia_united_states_262_events",
+      "name": "Hotspot: location District of Columbia, United States (262 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location District of Columbia, United States (262 events)",
+      "file": "other/hotspot_location_district_of_columbia_united_states_262_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 38.37837837837838,
+        "lon": -77.2972972972973
+      },
+      "toast_message": "US immigration law enforcement under scrutiny.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: location District of Columbia, United States (262 events)"
+    },
+    "hotspot_location_kissufim_hadarom_israel_208_events": {
+      "id": "hotspot_location_kissufim_hadarom_israel_208_events",
+      "name": "Hotspot: location Kissufim, HaDarom, Israel (208 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Kissufim, HaDarom, Israel (208 events)",
+      "file": "other/hotspot_location_kissufim_hadarom_israel_208_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 31.891891891891895,
+        "lon": 34.054054054054056
+      },
+      "toast_message": "Escalation of violence in Gaza reported.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: location Kissufim, HaDarom, Israel (208 events)"
+    },
+    "hotspot_location_minnesota_united_states_174_events": {
+      "id": "hotspot_location_minnesota_united_states_174_events",
+      "name": "Hotspot: location Minnesota, United States (174 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Minnesota, United States (174 events)",
+      "file": "other/hotspot_location_minnesota_united_states_174_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 45.94594594594595,
+        "lon": -93.51351351351352
+      },
+      "toast_message": "Protests against ICE escalate in Minnesota.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: location Minnesota, United States (174 events)"
+    },
+    "hotspot_location_camden_county_new_jersey_united_states_173_events": {
+      "id": "hotspot_location_camden_county_new_jersey_united_states_173_events",
+      "name": "Hotspot: location Camden County, New Jersey, United States (173 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Camden County, New Jersey, United States (173 events)",
+      "file": "other/hotspot_location_camden_county_new_jersey_united_states_173_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 39.45945945945946,
+        "lon": -75.13513513513514
+      },
+      "toast_message": "Notable legal cases emerging in New Jersey and Delaware.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: location Camden County, New Jersey, United States (173 events)"
+    },
+    "hotspot_event_gaza_israel_general_israel_80_events": {
+      "id": "hotspot_event_gaza_israel_general_israel_80_events",
+      "name": "Hotspot: event Gaza, Israel (general), Israel (80 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Gaza, Israel (general), Israel (80 events)",
+      "file": "other/hotspot_event_gaza_israel_general_israel_80_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Escalation in Gaza leads to civilian casualties.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.8,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: event Gaza, Israel (general), Israel (80 events)"
+    },
+    "hotspot_event_new_york_united_states_73_events": {
+      "id": "hotspot_event_new_york_united_states_73_events",
+      "name": "Hotspot: event New York, United States (73 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event New York, United States (73 events)",
+      "file": "other/hotspot_event_new_york_united_states_73_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Growing concerns over national security in the US.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.8,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: event New York, United States (73 events)"
+    },
+    "hotspot_event_texas_united_states_60_events": {
+      "id": "hotspot_event_texas_united_states_60_events",
+      "name": "Hotspot: event Texas, United States (60 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Texas, United States (60 events)",
+      "file": "other/hotspot_event_texas_united_states_60_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Texas refugee detention issues raise critical human rights concerns.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: event Texas, United States (60 events)"
+    },
+    "hotspot_event_tripoli_tarabulus_libya_52_events": {
+      "id": "hotspot_event_tripoli_tarabulus_libya_52_events",
+      "name": "Hotspot: event Tripoli, Tarabulus, Libya (52 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Tripoli, Tarabulus, Libya (52 events)",
+      "file": "other/hotspot_event_tripoli_tarabulus_libya_52_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 32.8756,
+        "lon": 13.378
+      },
+      "toast_message": "Saif al-Islam Gaddafi killed in Libya.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: event Tripoli, Tarabulus, Libya (52 events)"
+    },
+    "hotspot_actor_united_states_2281_events": {
+      "id": "hotspot_actor_united_states_2281_events",
+      "name": "Hotspot: actor united states (2281 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor united states (2281 events)",
+      "file": "other/hotspot_actor_united_states_2281_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "US grapples with legal and safety challenges.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: actor united states (2281 events)"
+    },
+    "hotspot_actor_police_631_events": {
+      "id": "hotspot_actor_police_631_events",
+      "name": "Hotspot: actor police (631 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor police (631 events)",
+      "file": "other/hotspot_actor_police_631_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Rising violence and police engagement in the US is alarming.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: actor police (631 events)"
+    },
+    "hotspot_actor_united_kingdom_316_events": {
+      "id": "hotspot_actor_united_kingdom_316_events",
+      "name": "Hotspot: actor united kingdom (316 events)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor united kingdom (316 events)",
+      "file": "other/hotspot_actor_united_kingdom_316_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 54.5,
+        "lon": -2.5
+      },
+      "toast_message": "UK geopolitical tensions rise amid anti-Zionist movement.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Hotspot: actor united kingdom (316 events)"
+    },
+    "diplomatic_usaven_conflict_usa_ven": {
+      "id": "diplomatic_usaven_conflict_usa_ven",
+      "name": "Diplomatic: USA-VEN (conflict)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "USA",
+        "VEN"
+      ],
+      "short_description": "Diplomatic: USA-VEN (conflict)",
+      "file": "other/diplomatic_usaven_conflict_usa_ven.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Tensions rise in US-Venezuela relations.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: USA-VEN (conflict)"
+    },
+    "diplomatic_isrpse_conflict_isr_pse": {
+      "id": "diplomatic_isrpse_conflict_isr_pse",
+      "name": "Diplomatic: ISR-PSE (conflict)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "ISR",
+        "PSE"
+      ],
+      "short_description": "Diplomatic: ISR-PSE (conflict)",
+      "file": "other/diplomatic_isrpse_conflict_isr_pse.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Escalation in Israel-Palestine conflict noted.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: ISR-PSE (conflict)"
+    },
+    "diplomatic_lbnisr_conflict_isr_lbn": {
+      "id": "diplomatic_lbnisr_conflict_isr_lbn",
+      "name": "Diplomatic: LBN-ISR (conflict)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "ISR",
+        "LBN"
+      ],
+      "short_description": "Diplomatic: LBN-ISR (conflict)",
+      "file": "other/diplomatic_lbnisr_conflict_isr_lbn.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Tensions escalate between Lebanon and Israel.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.8,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: LBN-ISR (conflict)"
+    },
+    "diplomatic_espusa_conflict_esp_usa": {
+      "id": "diplomatic_espusa_conflict_esp_usa",
+      "name": "Diplomatic: ESP-USA (conflict)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "USA",
+        "ESP"
+      ],
+      "short_description": "Diplomatic: ESP-USA (conflict)",
+      "file": "other/diplomatic_espusa_conflict_esp_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Threat against US Vice President prompts federal investigation.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: ESP-USA (conflict)"
+    },
+    "diplomatic_lbngrd_conflict_grd_lbn": {
+      "id": "diplomatic_lbngrd_conflict_grd_lbn",
+      "name": "Diplomatic: LBN-GRD (conflict)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "LBN",
+        "GRD"
+      ],
+      "short_description": "Diplomatic: LBN-GRD (conflict)",
+      "file": "other/diplomatic_lbngrd_conflict_grd_lbn.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Lebanon accuses Israel of abduction amid ongoing conflict.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.85,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: LBN-GRD (conflict)"
+    },
+    "diplomatic_erieth_diplomatic_eri_eth": {
+      "id": "diplomatic_erieth_diplomatic_eri_eth",
+      "name": "Diplomatic: ERI-ETH (diplomatic)",
+      "type": "Meetings & Summits",
+      "status": "Active",
+      "participants": [
+        "ERI",
+        "ETH"
+      ],
+      "short_description": "Diplomatic: ERI-ETH (diplomatic)",
+      "file": "other/diplomatic_erieth_diplomatic_eri_eth.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "Eritrea rejects Ethiopia's troop claims, escalating tensions.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "category": "meetings",
+      "subtype": "general",
+      "type_label": "Meetings & Summits",
+      "description": "Diplomatic: ERI-ETH (diplomatic)"
+    },
+    "anomaly_hebron_israel_general_israel__4080_above_normal_z849": {
+      "id": "anomaly_hebron_israel_general_israel__4080_above_normal_z849",
+      "name": "Anomaly: Hebron, Israel (general), Israel - 408.0% above normal (z=8.49)",
+      "type": "general",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Hebron, Israel (general), Israel - 408.0% above normal (z=8.49)",
+      "file": "other/anomaly_hebron_israel_general_israel__4080_above_normal_z849.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "ISR"
+      },
+      "toast_message": "Anomaly detected in Hebron, Israel.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "category": "other",
+      "subtype": "general",
+      "type_label": "Other",
+      "description": "Anomaly: Hebron, Israel (general), Israel - 408.0% above normal (z=8.49)"
+    },
+    "anomaly_new_zealand__9667_above_normal_z145": {
+      "id": "anomaly_new_zealand__9667_above_normal_z145",
+      "name": "Anomaly: New Zealand - 966.7% above normal (z=14.5)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: New Zealand - 966.7% above normal (z=14.5)",
+      "description": "Anomaly: New Zealand - 966.7% above normal (z=14.5)",
+      "file": "other/anomaly_new_zealand__9667_above_normal_z145.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "NZL"
+      },
+      "toast_message": "Anomaly detected in New Zealand.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://lethbridgeherald.com/entertainment/entertainment-news/2026/02/09/us-judges-dismiss-lawsuits-accusing-fantasy-author-neil-gaiman-of-sexual-assault-in-new-zealand/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.nzherald.co.nz/nz/comancheros-operation-avon-gang-treasurer-lucane-bolstad-jailed-for-major-meth-supply/5C3IPLLUXZAAPP57UEAD7UG3WA/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.wsws.org/en/articles/2026/02/10/zrzq-f10.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://livenews.co.nz/2026/02/10/update-2-serious-assault-christchurch/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://isp.netscape.com/entertainment/story/0001/20260209/01f3ad62d4b23115685f51b062410618",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_south_korea__7000_above_normal_z105": {
+      "id": "anomaly_south_korea__7000_above_normal_z105",
+      "name": "Anomaly: South Korea - 700.0% above normal (z=10.5)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: South Korea - 700.0% above normal (z=10.5)",
+      "description": "Anomaly: South Korea - 700.0% above normal (z=10.5)",
+      "file": "other/anomaly_south_korea__7000_above_normal_z105.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "KOR"
+      },
+      "toast_message": "Anomaly reported in South Korea concerning drone activities.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260210/spy-agency-military-intelligence-unit-raided-over-alleged-drone-flights-to-n-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/02/10/south-korea-police-raid-spy-agency-over-drone-flights-into-north-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.news.cn/asiapacific/20260210/aa523713066a4babbbf8eda2ed355ac4/c.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://usa.chinadaily.com.cn/a/202602/10/WS698a74ada310d6866eb38585.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.koreaherald.com/article/10673268",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_new_mexico_united_states__2500_above_normal_z100": {
+      "id": "anomaly_new_mexico_united_states__2500_above_normal_z100",
+      "name": "Anomaly: New Mexico, United States - 250.0% above normal (z=10.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: New Mexico, United States - 250.0% above normal (z=10.0)",
+      "description": "Anomaly: New Mexico, United States - 250.0% above normal (z=10.0)",
+      "file": "other/anomaly_new_mexico_united_states__2500_above_normal_z100.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Geopolitical anomaly detected in New Mexico.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_cambodia__2714_above_normal_z95": {
+      "id": "anomaly_cambodia__2714_above_normal_z95",
+      "name": "Anomaly: Cambodia - 271.4% above normal (z=9.5)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Cambodia - 271.4% above normal (z=9.5)",
+      "description": "Anomaly: Cambodia - 271.4% above normal (z=9.5)",
+      "file": "other/anomaly_cambodia__2714_above_normal_z95.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "KH"
+      },
+      "toast_message": "Anomaly detected in Cambodia's political landscape.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://original.antiwar.com/william_astore/2026/02/09/what-is-genocide/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.wral.com/news/ap/e7897-bhumjaithai-partys-election-victory-signals-a-conservative-shift-in-thailands-politics/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.news18.com/opinion/in-2026-five-elections-in-volatile-neighbourhood-test-indias-influence-pragmatism-ws-l-9891811.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.chinadaily.com.cn/a/202602/10/WS698a875fa310d6866eb38640.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.straitstimes.com/asia/ai-helps-scam-centres-evade-crackdown-in-asia-dupe-more-victims",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_canberra_australian_capital_territory_australia__6200_above_normal_z895": {
+      "id": "anomaly_canberra_australian_capital_territory_australia__6200_above_normal_z895",
+      "name": "Anomaly: Canberra, Australian Capital Territory, Australia - 620.0% above normal (z=8.95)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Canberra, Australian Capital Territory, Australia - 620.0% above normal (z=8.95)",
+      "description": "Anomaly: Canberra, Australian Capital Territory, Australia - 620.0% above normal (z=8.95)",
+      "file": "other/anomaly_canberra_australian_capital_territory_australia__6200_above_normal_z895.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "AUS"
+      },
+      "toast_message": "Anomaly detected in Canberra!",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_south_korea__7333_above_normal_z110": {
+      "id": "anomaly_south_korea__7333_above_normal_z110",
+      "name": "Anomaly: South Korea - 733.3% above normal (z=11.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: South Korea - 733.3% above normal (z=11.0)",
+      "description": "Anomaly: South Korea - 733.3% above normal (z=11.0)",
+      "file": "other/anomaly_south_korea__7333_above_normal_z110.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "KOR"
+      },
+      "toast_message": "Investigation into drone flights raises significant concerns in South Korea.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260210/spy-agency-military-intelligence-unit-raided-over-alleged-drone-flights-to-n-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/02/10/south-korea-police-raid-spy-agency-over-drone-flights-into-north-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.news.cn/asiapacific/20260210/aa523713066a4babbbf8eda2ed355ac4/c.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://usa.chinadaily.com.cn/a/202602/10/WS698a74ada310d6866eb38585.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.koreaherald.com/article/10673268",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_canberra_australian_capital_territory_australia__6800_above_normal_z981": {
+      "id": "anomaly_canberra_australian_capital_territory_australia__6800_above_normal_z981",
+      "name": "Anomaly: Canberra, Australian Capital Territory, Australia - 680.0% above normal (z=9.81)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Canberra, Australian Capital Territory, Australia - 680.0% above normal (z=9.81)",
+      "description": "Anomaly: Canberra, Australian Capital Territory, Australia - 680.0% above normal (z=9.81)",
+      "file": "other/anomaly_canberra_australian_capital_territory_australia__6800_above_normal_z981.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "AUS"
+      },
+      "toast_message": "Anomaly detected in Canberra regarding public safety.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.abc.net.au/news/2026-02-10/man-accused-of-planting-pipe-bombs-in-canberra-pleads-not-guilty/106325796",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.begadistrictnews.com.au/story/9171489/court-documents-reveal-new-details-about-the-murder-of-tiffany-spence-by-adam-britt/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.begadistrictnews.com.au/story/9171780/damien-paul-obrien-pleads-not-guilty-to-manufacturing-pipe-bombs-found-in-public/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.thejakartapost.com/opinion/2026/02/10/prabowos-war-on-critics-may-test-canberra.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://au.news.yahoo.com/methanol-victims-parents-slam-fines-082121366.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_south_korea__7667_above_normal_z115": {
+      "id": "anomaly_south_korea__7667_above_normal_z115",
+      "name": "Anomaly: South Korea - 766.7% above normal (z=11.5)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: South Korea - 766.7% above normal (z=11.5)",
+      "description": "Anomaly: South Korea - 766.7% above normal (z=11.5)",
+      "file": "other/anomaly_south_korea__7667_above_normal_z115.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "KOR"
+      },
+      "toast_message": "Geopolitical anomaly detected in South Korea.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260210/spy-agency-military-intelligence-unit-raided-over-alleged-drone-flights-to-n-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/02/10/south-korea-police-raid-spy-agency-over-drone-flights-into-north-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.news.cn/asiapacific/20260210/aa523713066a4babbbf8eda2ed355ac4/c.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://usa.chinadaily.com.cn/a/202602/10/WS698a74ada310d6866eb38585.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.koreaherald.com/article/10673268",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_new_mexico_united_states__2750_above_normal_z110": {
+      "id": "anomaly_new_mexico_united_states__2750_above_normal_z110",
+      "name": "Anomaly: New Mexico, United States - 275.0% above normal (z=11.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: New Mexico, United States - 275.0% above normal (z=11.0)",
+      "description": "Anomaly: New Mexico, United States - 275.0% above normal (z=11.0)",
+      "file": "other/anomaly_new_mexico_united_states__2750_above_normal_z110.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Anomaly detected in New Mexico.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://krcgtv.com/news/local/columbia-man-back-on-netherlands-after-being-held-by-ice",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.eenews.net/articles/rio-grande-settlement-wins-nod-of-approval/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.abqjournal.com/news/first-young-park-shooting-murder-trial-opens-in-las-cruces/2977838",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.kitv.com/news/business/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social/article_d37c11f9-3823-55c0-9731-f1f6c1b2d956.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.durangoherald.com/articles/trial-against-meta-in-new-mexico-focuses-on-dangers-of-child-sexual-exploitation-on-social-media/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_katsina_state_katsina_nigeria__10400_above_normal_z1733": {
+      "id": "anomaly_katsina_state_katsina_nigeria__10400_above_normal_z1733",
+      "name": "Anomaly: Katsina State, Katsina, Nigeria - 1040.0% above normal (z=17.33)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Katsina State, Katsina, Nigeria - 1040.0% above normal (z=17.33)",
+      "description": "Anomaly: Katsina State, Katsina, Nigeria - 1040.0% above normal (z=17.33)",
+      "file": "other/anomaly_katsina_state_katsina_nigeria__10400_above_normal_z1733.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "NGA"
+      },
+      "toast_message": "Anomaly detected in Katsina State, Nigeria.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://allafrica.com/stories/202602100129.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://smallwarsjournal.com/2026/02/10/trumphobia/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://quicknews-africa.net/army-overruns-terror-camp-in-kogi-rescues-14-victims/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.ghanamma.com/2026/02/10/gunmen-abduct-10-paasengers-in-kogi/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://dailypost.ng/2026/02/10/troops-overrun-terror-camp-in-kogi-rescue-14-victims/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_south_korea__10667_above_normal_z160": {
+      "id": "anomaly_south_korea__10667_above_normal_z160",
+      "name": "Anomaly: South Korea - 1066.7% above normal (z=16.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: South Korea - 1066.7% above normal (z=16.0)",
+      "description": "Anomaly: South Korea - 1066.7% above normal (z=16.0)",
+      "file": "other/anomaly_south_korea__10667_above_normal_z160.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "KOR"
+      },
+      "toast_message": "Anomaly detected in South Korea's military operations.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.aa.com.tr/en/asia-pacific/south-korea-raids-intelligence-military-sites-over-alleged-drone-flights-to-north-korea/3825402",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.koreatimes.co.kr/foreignaffairs/northkorea/20260210/spy-agency-military-intelligence-unit-raided-over-alleged-drone-flights-to-n-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.freemalaysiatoday.com/category/world/2026/02/10/south-korea-police-raid-spy-agency-over-drone-flights-into-north-korea",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.news.cn/asiapacific/20260210/aa523713066a4babbbf8eda2ed355ac4/c.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://usa.chinadaily.com.cn/a/202602/10/WS698a74ada310d6866eb38585.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_northern_ireland_craigavon_united_kingdom__11000_above_normal_z110": {
+      "id": "anomaly_northern_ireland_craigavon_united_kingdom__11000_above_normal_z110",
+      "name": "Anomaly: Northern Ireland, Craigavon, United Kingdom - 1100.0% above normal (z=11.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Northern Ireland, Craigavon, United Kingdom - 1100.0% above normal (z=11.0)",
+      "description": "Anomaly: Northern Ireland, Craigavon, United Kingdom - 1100.0% above normal (z=11.0)",
+      "file": "other/anomaly_northern_ireland_craigavon_united_kingdom__11000_above_normal_z110.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "GB"
+      },
+      "toast_message": "Snowstorm anomaly detected in Northern Ireland.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.dailystar.co.uk/news/latest-news/britain-battered-heavy-600-mile-36696607",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.yahoo.com/news/articles/hate-mail-wont-stop-bloody-060353696.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://macaudailytimes.com.mo/1996-docklands-bomb-ends-ira-ceasefire.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_paris_france_general_france_violence_fra": {
+      "id": "conflict_paris_france_general_france_violence_fra",
+      "name": "Conflict: Paris, France (general), France (violence)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "FRA"
+      ],
+      "short_description": "Conflict: Paris, France (general), France (violence)",
+      "description": "Conflict: Paris, France (general), France (violence)",
+      "file": "disputes/conflict_paris_france_general_france_violence_fra.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "FRA"
+      },
+      "toast_message": "Analysis complete for incident in France.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_paris_france_general_france_coercion": {
+      "id": "conflict_paris_france_general_france_coercion",
+      "name": "Conflict: Paris, France (general), France (coercion)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Paris, France (general), France (coercion)",
+      "description": "Conflict: Paris, France (general), France (coercion)",
+      "file": "disputes/conflict_paris_france_general_france_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "FRA"
+      },
+      "toast_message": "Incident recorded: Crypto-related kidnapping in France.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_paris_france_general_france_coercion_fra": {
+      "id": "conflict_paris_france_general_france_coercion_fra",
+      "name": "Conflict: Paris, France (general), France (coercion)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "FRA"
+      ],
+      "short_description": "Conflict: Paris, France (general), France (coercion)",
+      "description": "Conflict: Paris, France (general), France (coercion)",
+      "file": "disputes/conflict_paris_france_general_france_coercion_fra.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "FRA"
+      },
+      "toast_message": "Geopolitical event analyzed successfully.",
+      "toast_type": "success",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://country925.iheart.com/content/2026-02-10-mother-daughter-rescued-by-passerby-after-crypto-linked-abduction/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_connecticut_united_states_violence": {
+      "id": "conflict_connecticut_united_states_violence",
+      "name": "Conflict: Connecticut, United States (violence)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Connecticut, United States (violence)",
+      "description": "Conflict: Connecticut, United States (violence)",
+      "file": "disputes/conflict_connecticut_united_states_violence.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Analysis of snowmobiling fatalities completed.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://970kfbx.iheart.com/content/2026-02-10-two-snowmobilers-killed-in-separate-accidents-in-wyoming/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_gaza_israel_general_israel_violence": {
+      "id": "conflict_gaza_israel_general_israel_violence",
+      "name": "Conflict: Gaza, Israel (general), Israel (violence)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Gaza, Israel (general), Israel (violence)",
+      "description": "Conflict: Gaza, Israel (general), Israel (violence)",
+      "file": "disputes/conflict_gaza_israel_general_israel_violence.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "ISR"
+      },
+      "toast_message": "Analysis complete for Gaza-Israel conflict.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_fulani_zamfara_nigeria__5000_above_normal_z833": {
+      "id": "anomaly_fulani_zamfara_nigeria__5000_above_normal_z833",
+      "name": "Anomaly: Fulani, Zamfara, Nigeria - 500.0% above normal (z=8.33)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Fulani, Zamfara, Nigeria - 500.0% above normal (z=8.33)",
+      "description": "Anomaly: Fulani, Zamfara, Nigeria - 500.0% above normal (z=8.33)",
+      "file": "other/anomaly_fulani_zamfara_nigeria__5000_above_normal_z833.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "NGA"
+      },
+      "toast_message": "Anomaly detected in Nigeria regarding violence and kidnappings.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.christiandaily.com/news/christians-in-nigeria-live-in-fear-amid-kidnappings-killings",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://dailytrust.com/updated-gunmen-abduct-travellers-in-benue-kogi/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_sissonville_west_virginia_united_states__8000_above_normal_z80": {
+      "id": "anomaly_sissonville_west_virginia_united_states__8000_above_normal_z80",
+      "name": "Anomaly: Sissonville, West Virginia, United States - 800.0% above normal (z=8.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Sissonville, West Virginia, United States - 800.0% above normal (z=8.0)",
+      "description": "Anomaly: Sissonville, West Virginia, United States - 800.0% above normal (z=8.0)",
+      "file": "other/anomaly_sissonville_west_virginia_united_states__8000_above_normal_z80.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "USA"
+      },
+      "toast_message": "Anomaly detected: Crime surge in West Virginia.",
+      "toast_type": "warning",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.wsaz.com/2026/02/10/man-sentenced-kanawha-county-murder-trial/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://wchstv.com/news/local/man-charged-in-death-investigation-in-logan-county-troopers-say",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.wvgazettemail.com/news/legislative_session/wv-senate-law-enforcement-must-notify-ice-if-they-id-undocumented-immigrants/article_fcb994f0-1512-5ac6-86e8-1fd468f0fe0d.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_kordofan_shamal_kurdufan_sudan__3500_above_normal_z467": {
+      "id": "anomaly_kordofan_shamal_kurdufan_sudan__3500_above_normal_z467",
+      "name": "Anomaly: Kordofan, Shamal Kurdufan, Sudan - 350.0% above normal (z=4.67)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Kordofan, Shamal Kurdufan, Sudan - 350.0% above normal (z=4.67)",
+      "description": "Anomaly: Kordofan, Shamal Kurdufan, Sudan - 350.0% above normal (z=4.67)",
+      "file": "other/anomaly_kordofan_shamal_kurdufan_sudan__3500_above_normal_z467.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "iso": "SD"
+      },
+      "toast_message": "Anomaly detected in Kordofan region, Sudan.",
+      "toast_type": "info",
+      "llm_analysis_cached": true,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.bssnews.net/international/359835",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.myjoyonline.com/intelligence-report-uncovers-weapons-transfers-under-sudanese-army-oversight-to-south-kordofan/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_red_mountain_pass_colorado_united_states__3000_above_normal_z75": {
+      "id": "anomaly_red_mountain_pass_colorado_united_states__3000_above_normal_z75",
+      "name": "Anomaly: Red Mountain Pass, Colorado, United States - 300.0% above normal (z=7.5)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Red Mountain Pass, Colorado, United States - 300.0% above normal (z=7.5)",
+      "description": "Anomaly: Red Mountain Pass, Colorado, United States - 300.0% above normal (z=7.5)",
+      "file": "other/anomaly_red_mountain_pass_colorado_united_states__3000_above_normal_z75.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.95,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://rutgersfoundation.org/news/alumni-news/groundbreaking-scientist-exceptional-educator-and-generous-alumnus",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.denverpost.com/2026/02/10/rtd-board-colorado-transit-system-study-canada/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.utilitydive.com/spons/the-strategic-case-for-composite-poles-targeted-deployment-maximum-grid-v/811182/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.dailymail.co.uk/news/article-15545843/colorado-family-trailer-no-water-home-rebuild-construction-work-stop.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.mlive.com/news/us-world/2026/02/chinook-helicopter-crew-battles-winds-to-rescue-climbers-stranded-at-14000-feet.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_makhachkala_dagestan_russia__2000_above_normal_z40": {
+      "id": "anomaly_makhachkala_dagestan_russia__2000_above_normal_z40",
+      "name": "Anomaly: Makhachkala, Dagestan, Russia - 200.0% above normal (z=4.0)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Makhachkala, Dagestan, Russia - 200.0% above normal (z=4.0)",
+      "description": "Anomaly: Makhachkala, Dagestan, Russia - 200.0% above normal (z=4.0)",
+      "file": "other/anomaly_makhachkala_dagestan_russia__2000_above_normal_z40.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.9,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.eng.kavkaz-uzel.eu/articles/72698",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_butte_county_california_united_states_coercion": {
+      "id": "conflict_butte_county_california_united_states_coercion",
+      "name": "Conflict: Butte County, California, United States (coercion)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Butte County, California, United States (coercion)",
+      "description": "Conflict: Butte County, California, United States (coercion)",
+      "file": "disputes/conflict_butte_county_california_united_states_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://cbs2iowa.com/news/nation-world/cult-leader-guilty-of-molesting-raping-followers-in-northern-california",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_sydney_new_south_wales_australia_protest_aus_pse": {
+      "id": "conflict_sydney_new_south_wales_australia_protest_aus_pse",
+      "name": "Conflict: Sydney, New South Wales, Australia (protest)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "AUS",
+        "PSE"
+      ],
+      "short_description": "Conflict: Sydney, New South Wales, Australia (protest)",
+      "description": "Conflict: Sydney, New South Wales, Australia (protest)",
+      "file": "disputes/conflict_sydney_new_south_wales_australia_protest_aus_pse.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://www.katherinetimes.com.au/story/9172469/police-face-potential-legal-trouble-after-protests/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "conflict_gaza_israel_general_israel_coercion": {
+      "id": "conflict_gaza_israel_general_israel_coercion",
+      "name": "Conflict: Gaza, Israel (general), Israel (coercion)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Conflict: Gaza, Israel (general), Israel (coercion)",
+      "description": "Conflict: Gaza, Israel (general), Israel (coercion)",
+      "file": "disputes/conflict_gaza_israel_general_israel_coercion.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.9,
+      "source": "gdelt_conflict",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://www.bendigoadvertiser.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "anomaly_philippines__1182_above_normal_z284": {
+      "id": "anomaly_philippines__1182_above_normal_z284",
+      "name": "Anomaly: Philippines - 118.2% above normal (z=2.84)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Anomaly: Philippines - 118.2% above normal (z=2.84)",
+      "description": "Anomaly: Philippines - 118.2% above normal (z=2.84)",
+      "file": "other/anomaly_philippines__1182_above_normal_z284.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.784,
+      "source": "anomaly",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.dailymail.co.uk/news/article-15545817/utah-man-pedophile-princess-parties-perry-hunter.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://tribune.net.ph/2026/02/10/anne-curtis-took-two-years-of-intense-training-to-perfect-this-role",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_location_yatta_west_bank_general_west_bank_480_events": {
+      "id": "hotspot_location_yatta_west_bank_general_west_bank_480_events",
+      "name": "Hotspot: location Yatta, West Bank (general), West Bank (480 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Yatta, West Bank (general), West Bank (480 events)",
+      "description": "Hotspot: location Yatta, West Bank (general), West Bank (480 events)",
+      "file": "other/hotspot_location_yatta_west_bank_general_west_bank_480_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 31.891891891891895,
+        "lon": 35.13513513513514
+      },
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.globalsecurity.org/military/library/news/2026/02/mil-260208-presstv04.htm",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_location_maryland_state_police_maryland_united_states_431_events": {
+      "id": "hotspot_location_maryland_state_police_maryland_united_states_431_events",
+      "name": "Hotspot: location Maryland State Police, Maryland, United States (431 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Maryland State Police, Maryland, United States (431 events)",
+      "description": "Hotspot: location Maryland State Police, Maryland, United States (431 events)",
+      "file": "other/hotspot_location_maryland_state_police_maryland_united_states_431_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 38.37837837837838,
+        "lon": -77.2972972972973
+      },
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.journalgazette.net/local/local-government/fort-wayne-business-owner-released-from-ice-detention-after-5-months/article_53506304-4ba0-451b-bcab-fadd6566ad0f.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.dl-online.com/news/local/detroit-lakes-man-accused-of-cutting-woman-hitting-her-with-hammer",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://finance-commerce.com/2026/02/trump-independence-arch-250th-anniversary/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_location_kissufim_hadarom_israel_390_events": {
+      "id": "hotspot_location_kissufim_hadarom_israel_390_events",
+      "name": "Hotspot: location Kissufim, HaDarom, Israel (390 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Kissufim, HaDarom, Israel (390 events)",
+      "description": "Hotspot: location Kissufim, HaDarom, Israel (390 events)",
+      "file": "other/hotspot_location_kissufim_hadarom_israel_390_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 31.891891891891895,
+        "lon": 34.054054054054056
+      },
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.internazionale.it/ultime-notizie-reuters/2026/02/09/israeli-forces-kill-four-militants-in-gaza-farmer-also-shot-dead",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.easternriverinachronicle.com.au/story/9171445/premier-defends-police-rally-response-despite-violence/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_location_arncliffe_new_south_wales_australia_291_events": {
+      "id": "hotspot_location_arncliffe_new_south_wales_australia_291_events",
+      "name": "Hotspot: location Arncliffe, New South Wales, Australia (291 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location Arncliffe, New South Wales, Australia (291 events)",
+      "description": "Hotspot: location Arncliffe, New South Wales, Australia (291 events)",
+      "file": "other/hotspot_location_arncliffe_new_south_wales_australia_291_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": -34.054054054054056,
+        "lon": 150.8108108108108
+      },
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.theguardian.com/australia-news/2026/feb/10/sheikh-who-led-prayer-at-sydney-protest-against-herzog-says-police-were-unhinged-and-aggressive-ntwnfb",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.perthnow.com.au/news/dagger-at-the-heart-of-our-country-former-pm-tony-abbott-erupts-amid-sydney-protest-c-21585521",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.aol.co.uk/articles/australia-calls-restraint-clashes-sydney-064843860.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_location_new_york_united_states_258_events": {
+      "id": "hotspot_location_new_york_united_states_258_events",
+      "name": "Hotspot: location New York, United States (258 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: location New York, United States (258 events)",
+      "description": "Hotspot: location New York, United States (258 events)",
+      "file": "other/hotspot_location_new_york_united_states_258_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": {
+        "lat": 41.62162162162162,
+        "lon": -75.13513513513514
+      },
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://kfgo.com/2026/02/09/luigi-mangione-speaks-out-in-protest-as-judge-sets-state-murder-trial-for-june-8/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.foxnews.com/us/mamdani-calls-da-not-prosecute-mentally-ill-man-shot-police-knife-attack",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_event_gaza_israel_general_israel_150_events": {
+      "id": "hotspot_event_gaza_israel_general_israel_150_events",
+      "name": "Hotspot: event Gaza, Israel (general), Israel (150 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Gaza, Israel (general), Israel (150 events)",
+      "description": "Hotspot: event Gaza, Israel (general), Israel (150 events)",
+      "file": "other/hotspot_event_gaza_israel_general_israel_150_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.yahoo.com/news/articles/israeli-strikes-kill-17-gaza-093014211.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.cornellsun.com/article/2026/02/i-am-an-idf-soldier-who-fought-in-gaza-ask-me-anything-sam-fried-opens-public-q-a-session-in-willard-straight-hall",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_event_new_york_united_states_114_events": {
+      "id": "hotspot_event_new_york_united_states_114_events",
+      "name": "Hotspot: event New York, United States (114 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event New York, United States (114 events)",
+      "description": "Hotspot: event New York, United States (114 events)",
+      "file": "other/hotspot_event_new_york_united_states_114_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://justthenews.com/government/security/chinese-students-ccp-membership-military-links-theft-concerns-infiltrate-us",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.longisland.com/news/02-03-26/ice-arrests-previously-deported-illegal-alien-with-rap-sheet-including-strangulation-rape-and-drug-crimes-released-by-ny-sanctuary-policies.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://augustafreepress.com/news/locked-down-rounded-up-warehoused-the-rise-of-americas-concentration-camps/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://obrag.org/2026/02/good-news-communities-across-america-are-resisting-trumps-plans-to-convert-warehouses-into-immigrant-prison-camps/comment-page-1/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://allafrica.com/stories/202602040034.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_event_texas_united_states_96_events": {
+      "id": "hotspot_event_texas_united_states_96_events",
+      "name": "Hotspot: event Texas, United States (96 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Texas, United States (96 events)",
+      "description": "Hotspot: event Texas, United States (96 events)",
+      "file": "other/hotspot_event_texas_united_states_96_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.wctrib.com/news/local/federal-judge-orders-temporary-halt-to-operation-parris-activities-in-minnesota",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.middleeastmonitor.com/20260209-vanished-in-ice-custody-palestinian-hospitalised-family-fears-for-leqaa-kordias-life/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.truewestmagazine.com/article/one-ranger-one-riot/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.theroot.com/the-apartment-brawl-in-houston-that-left-one-girl-dead-2000088930",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.hccommunityjournal.com/article_715f9096-295d-477b-a3d1-285a9adae8e1.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_event_hong_kong_86_events": {
+      "id": "hotspot_event_hong_kong_86_events",
+      "name": "Hotspot: event Hong Kong (86 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Hong Kong (86 events)",
+      "description": "Hotspot: event Hong Kong (86 events)",
+      "file": "other/hotspot_event_hong_kong_86_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "http://en.people.cn/n3/2026/0210/c90000-20424213.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://www.chinanationalnews.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://www.cambodiantimes.com/news/278858402/hong-kong-is-chinas-internal-matter-analyst-on-jimmy-lai-sentencing",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.catholicworldreport.com/2026/02/09/secretary-rubio-other-leaders-denounce-jimmy-lais-tragic-20-year-sentence/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://www.bjreview.com.cn/Latest_Headlines/202602/t20260210_800430161.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_event_washington_district_of_columbia_united_states_87_events": {
+      "id": "hotspot_event_washington_district_of_columbia_united_states_87_events",
+      "name": "Hotspot: event Washington, District of Columbia, United States (87 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: event Washington, District of Columbia, United States (87 events)",
+      "description": "Hotspot: event Washington, District of Columbia, United States (87 events)",
+      "file": "other/hotspot_event_washington_district_of_columbia_united_states_87_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.miningmx.com/trending/64057-techmet-seeks-additional-funds-for-minerals-portfolio/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.dailymail.co.uk/tvshowbiz/article-15525253/white-house-fox-nation-john-adams-charles.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.asiaone.com/world/trumps-call-nationalise-elections-draws-furious-pushback-democrats",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://english.elpais.com/usa/2026-02-09/the-secrets-kept-by-armando-fernandez-larios-former-pinochet-agent-arrested-by-ice.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "http://www.latinpost.com/articles/166881/20260206/key-benghazi-attack-suspect-arrested-after-13-years-faces-murder-terrorism-charges.htm",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_actor_united_states_3783_events": {
+      "id": "hotspot_actor_united_states_3783_events",
+      "name": "Hotspot: actor united states (3783 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor united states (3783 events)",
+      "description": "Hotspot: actor united states (3783 events)",
+      "file": "other/hotspot_actor_united_states_3783_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://thedailyrecord.com/2026/02/03/maryland-appellate-court-defense-of-others-murder-trial/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.observer-reporter.com/editors_pick/2026/feb/04/fire-destroys-old-barn-at-historic-ross-farm-killing-138-sheep/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.wrdw.com/2026/02/09/fathers-trial-apalachee-school-shooting-what-you-need-know/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.atlantanewsfirst.com/2026/02/09/colin-grays-apalachee-school-shooting-trial-what-you-need-know/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.heraldextra.com/news/2026/feb/03/hearing-on-defenses-motion-to-disqualify-utah-county-attorneys-office-in-tyler-robinson-case-resumes/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_actor_police_1102_events": {
+      "id": "hotspot_actor_police_1102_events",
+      "name": "Hotspot: actor police (1102 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor police (1102 events)",
+      "description": "Hotspot: actor police (1102 events)",
+      "file": "other/hotspot_actor_police_1102_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.smh.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.theage.com.au/national/nsw/how-a-protest-in-the-heart-of-sydney-descended-into-bloody-chaos-20260210-p5o0xb.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.kfvs12.com/2026/02/03/5-million-bond-set-illinois-woman-charged-with-capital-murder-blytheville-homicide/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://slguardian.org/islamabad-under-siege/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://energeticcity.ca/2026/02/09/kiara-agnews-family-grateful-and-thankful-for-protest-support-to-demand-action-on-guilty-verdict/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_actor_prison_597_events": {
+      "id": "hotspot_actor_prison_597_events",
+      "name": "Hotspot: actor prison (597 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor prison (597 events)",
+      "description": "Hotspot: actor prison (597 events)",
+      "file": "other/hotspot_actor_prison_597_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.biglychee.com/2026/02/10/20-years-for-jimmy-lai/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.marinecorpstimes.com/news/your-military/2026/02/03/ex-marine-arrested-after-early-release-following-hazing-death/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://wtvbam.com/2026/02/09/894494/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://mynewsla.com/crime/2026/02/09/final-defendant-in-2008-killing-of-laco-sheriffs-deputy-pleads-not-guilty/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.fox4news.com/news/man-sentenced-life-prison-2022-double-homicide",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_actor_israel_510_events": {
+      "id": "hotspot_actor_israel_510_events",
+      "name": "Hotspot: actor israel (510 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor israel (510 events)",
+      "description": "Hotspot: actor israel (510 events)",
+      "file": "other/hotspot_actor_israel_510_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://thedailyblog.co.nz/in-occupied-palestine-07-february-2026/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.businessday.co.za/opinion/2026-02-04-nicholas-woode-smith-expelling-israels-envoy-was-a-moral-and-strategic-misstep/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.longwarjournal.org/archives/2026/02/israeli-operations-in-lebanon-against-hezbollah-january-26-february-1-2026.php",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.rand.org/pubs/commentary/2026/02/how-israels-war-in-gaza-partially-rehabilitated-counterinsurgency.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.easternriverinachronicle.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "hotspot_actor_united_kingdom_444_events": {
+      "id": "hotspot_actor_united_kingdom_444_events",
+      "name": "Hotspot: actor united kingdom (444 events)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [],
+      "short_description": "Hotspot: actor united kingdom (444 events)",
+      "description": "Hotspot: actor united kingdom (444 events)",
+      "file": "other/hotspot_actor_united_kingdom_444_events.json",
+      "date": null,
+      "visualization_type": "dot",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "hotspot",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.jpost.com/diaspora/antisemitism/article-886084",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.kwqc.com:443/2026/02/03/trudy-appleby-case-man-charged-with-her-murder-wants-trial-moved/",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.chroniclelive.co.uk/news/north-east-news/british-army-officer-killed-northumberland-33388033",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.herald-dispatch.com/opinion/frederic-j-fransen-the-war-for-independence-was-the-people-s-war-opinion/article_0b763b15-794c-45a7-8c80-ae1dda089f4c.html",
+          "type": "article",
+          "name": "Source"
+        },
+        {
+          "url": "https://www.lbc.co.uk/article/teenagers-in-suspected-suicide-pact-after-indecent-child-image-arrests-5HjdS4y_2/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_pseaus_other_aus_pse": {
+      "id": "diplomatic_pseaus_other_aus_pse",
+      "name": "Diplomatic: PSE-AUS (other)",
+      "category": "other",
+      "subtype": "general",
+      "type": "Other",
+      "status": "Active",
+      "participants": [
+        "AUS",
+        "PSE"
+      ],
+      "short_description": "Diplomatic: PSE-AUS (other)",
+      "description": "Diplomatic: PSE-AUS (other)",
+      "file": "other/diplomatic_pseaus_other_aus_pse.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Other",
+      "sources": [
+        {
+          "url": "https://www.katherinetimes.com.au/story/9172469/police-face-potential-legal-trouble-after-protests/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_chlusa_conflict_chl_usa": {
+      "id": "diplomatic_chlusa_conflict_chl_usa",
+      "name": "Diplomatic: CHL-USA (conflict)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "USA",
+        "CHL"
+      ],
+      "short_description": "Diplomatic: CHL-USA (conflict)",
+      "description": "Diplomatic: CHL-USA (conflict)",
+      "file": "disputes/diplomatic_chlusa_conflict_chl_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://www.wataugademocrat.com/news/national/latam-gpt-a-latin-american-ai-to-combat-us-centric-bias/article_8047e9c8-7ee3-5d0f-b273-cc73ab3ef3ac.html",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_usairn_conflict_irn_usa": {
+      "id": "diplomatic_usairn_conflict_irn_usa",
+      "name": "Diplomatic: USA-IRN (conflict)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "IRN",
+        "USA"
+      ],
+      "short_description": "Diplomatic: USA-IRN (conflict)",
+      "description": "Diplomatic: USA-IRN (conflict)",
+      "file": "disputes/diplomatic_usairn_conflict_irn_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://dominicanrepublicpost.com/us-urges-american-ships-to-stay-as-far-as-possible-from-iranian-waters/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_usakna_military_kna_usa": {
+      "id": "diplomatic_usakna_military_kna_usa",
+      "name": "Diplomatic: USA-KNA (military)",
+      "category": "military",
+      "subtype": "general",
+      "type": "Military & Defense",
+      "status": "Active",
+      "participants": [
+        "KNA",
+        "USA"
+      ],
+      "short_description": "Diplomatic: USA-KNA (military)",
+      "description": "Diplomatic: USA-KNA (military)",
+      "file": "military/diplomatic_usakna_military_kna_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Military & Defense",
+      "sources": [
+        {
+          "url": "https://www.coindesk.com/business/2026/02/10/fugitive-foreigner-sentenced-in-the-u-s-to-20-years-for-usd73-million-crypto-scam",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_deuusa_military_deu_usa": {
+      "id": "diplomatic_deuusa_military_deu_usa",
+      "name": "Diplomatic: DEU-USA (military)",
+      "category": "military",
+      "subtype": "general",
+      "type": "Military & Defense",
+      "status": "Active",
+      "participants": [
+        "DEU",
+        "USA"
+      ],
+      "short_description": "Diplomatic: DEU-USA (military)",
+      "description": "Diplomatic: DEU-USA (military)",
+      "file": "military/diplomatic_deuusa_military_deu_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Military & Defense",
+      "sources": [
+        {
+          "url": "https://www.1011now.com/2026/02/09/nebraska-troopers-find-over-100-pounds-drug-paraphernalia-i-80-traffic-stop/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_usachn_military_chn_usa": {
+      "id": "diplomatic_usachn_military_chn_usa",
+      "name": "Diplomatic: USA-CHN (military)",
+      "category": "military",
+      "subtype": "general",
+      "type": "Military & Defense",
+      "status": "Active",
+      "participants": [
+        "USA",
+        "CHN"
+      ],
+      "short_description": "Diplomatic: USA-CHN (military)",
+      "description": "Diplomatic: USA-CHN (military)",
+      "file": "military/diplomatic_usachn_military_chn_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Military & Defense",
+      "sources": [
+        {
+          "url": "https://www.coindesk.com/business/2026/02/10/fugitive-foreigner-sentenced-in-the-u-s-to-20-years-for-usd73-million-crypto-scam",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_jpnusa_conflict_jpn_usa": {
+      "id": "diplomatic_jpnusa_conflict_jpn_usa",
+      "name": "Diplomatic: JPN-USA (conflict)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "JPN",
+        "USA"
+      ],
+      "short_description": "Diplomatic: JPN-USA (conflict)",
+      "description": "Diplomatic: JPN-USA (conflict)",
+      "file": "disputes/diplomatic_jpnusa_conflict_jpn_usa.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://newsradio1049.iheart.com/content/2026-02-09-tow-truck-driver-on-the-run-after-allegedly-murdering-two-competitors/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    },
+    "diplomatic_pseisr_conflict_isr_pse": {
+      "id": "diplomatic_pseisr_conflict_isr_pse",
+      "name": "Diplomatic: PSE-ISR (conflict)",
+      "category": "disputes",
+      "subtype": "general",
+      "type": "Disputes",
+      "status": "Active",
+      "participants": [
+        "PSE",
+        "ISR"
+      ],
+      "short_description": "Diplomatic: PSE-ISR (conflict)",
+      "description": "Diplomatic: PSE-ISR (conflict)",
+      "file": "disputes/diplomatic_pseisr_conflict_isr_pse.json",
+      "date": null,
+      "visualization_type": "geodesic",
+      "arc_style": "solid",
+      "location": null,
+      "toast_message": "",
+      "toast_type": "info",
+      "llm_analysis_cached": false,
+      "confidence": 0.75,
+      "source": "gdelt_diplomatic",
+      "type_label": "Disputes",
+      "sources": [
+        {
+          "url": "https://www.singletonargus.com.au/story/9171541/israeli-forces-kill-four-militants-in-gaza/",
+          "type": "article",
+          "name": "Source"
+        }
+      ]
+    }
+  }
+}

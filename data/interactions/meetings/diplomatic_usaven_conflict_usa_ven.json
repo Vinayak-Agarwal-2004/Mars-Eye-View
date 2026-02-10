@@ -1,0 +1,31 @@
+{
+  "id": "diplomatic_usaven_conflict_usa_ven",
+  "name": "Diplomatic: USA-VEN (conflict)",
+  "type": "general",
+  "status": "Active",
+  "participants": [
+    "USA",
+    "VEN"
+  ],
+  "description": "Diplomatic: USA-VEN (conflict)",
+  "sources": [
+    {
+      "url": "https://www.wyomingnewsnow.tv/news/national/machado-ally-kidnapped-after-calling-for-venezuela-elections/article_bfe59691-e581-5498-b320-c8fa8cdd5b70.html",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "geodesic",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "Tensions rise in US-Venezuela relations.",
+  "toast_type": "warning",
+  "llm_analysis": "The kidnapping of political ally Juan Pablo Guanipa amid calls for democratic elections reflects the ongoing tensions between the U.S. and Venezuela, particularly as opposition figures gain momentum. This incident amplifies concerns about Venezuela's repressive political climate and highlights the challenges faced by those demanding electoral reforms within the country. With past elections marred by accusations of fraud, Guanipa's detention serves as a stark reminder of the peril that political dissenters endure under Maduro's regime.",
+  "llm_analysis_cached": true,
+  "confidence": 0.85,
+  "source": "gdelt_diplomatic",
+  "category": "meetings"
+}

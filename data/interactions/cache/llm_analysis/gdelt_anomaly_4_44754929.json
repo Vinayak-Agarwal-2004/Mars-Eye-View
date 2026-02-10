@@ -1,0 +1,11 @@
+{
+  "analysis": "The recent criminal case involving nursery worker Nathan Bennett in Virginia reflects alarming issues regarding child safety and institutional oversight. Bennett was convicted of multiple sex offenses against young children, leading to significant public outcry about the failures in safeguarding practices within the nursery system. This incident underscores the urgent need for improved regulatory frameworks to protect vulnerable populations from abuse.",
+  "visualization_type": "dot",
+  "arc_style": null,
+  "location": {
+    "iso": "USA"
+  },
+  "toast_message": "Serious child safety violations exposed in Virginia.",
+  "toast_type": "warning",
+  "confidence": 0.95
+}

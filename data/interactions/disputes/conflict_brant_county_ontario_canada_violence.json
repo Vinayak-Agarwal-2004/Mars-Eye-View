@@ -1,0 +1,31 @@
+{
+  "id": "conflict_brant_county_ontario_canada_violence",
+  "name": "Conflict: Brant County, Ontario, Canada (violence)",
+  "type": "general",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Brant County, Ontario, Canada (violence)",
+  "sources": [
+    {
+      "url": "https://www.stthomastimesjournal.com:443/news/local-news/decades-after-deadly-crime-spree-london-killer-gets-6-months-of-day-parole",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": {
+    "lat": 43.1663,
+    "lon": -80.0838
+  },
+  "toast_message": "Violence incident in Brant County, Ontario.",
+  "toast_type": "warning",
+  "llm_analysis": "The recent conflict in Brant County, Ontario appears to be a fallout from historical violence, highlighted by the day parole granted to a notorious killer from a decades-old crime spree. The involvement of a retired police officer in saving a victim underscores the community's enduring trauma and response to violent crime. This incident reveals ongoing issues surrounding public safety and legal rehabilitation in Canada.",
+  "llm_analysis_cached": true,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "category": "disputes"
+}

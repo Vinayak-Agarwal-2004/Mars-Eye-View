@@ -1,0 +1,37 @@
+{
+  "id": "conflict_butte_county_california_united_states_coercion",
+  "name": "Conflict: Butte County, California, United States (coercion)",
+  "category": "disputes",
+  "subtype": "general",
+  "type": "Disputes",
+  "type_label": "Disputes",
+  "status": "Active",
+  "participants": [],
+  "description": "Conflict: Butte County, California, United States (coercion)",
+  "sources": [
+    {
+      "url": "https://cbs2iowa.com/news/nation-world/cult-leader-guilty-of-molesting-raping-followers-in-northern-california",
+      "type": "article",
+      "name": "Source"
+    }
+  ],
+  "date": null,
+  "topology": "mesh",
+  "hub": null,
+  "visualization_type": "dot",
+  "arc_style": "solid",
+  "location": null,
+  "toast_message": "",
+  "toast_type": "info",
+  "llm_analysis": "",
+  "llm_analysis_cached": false,
+  "confidence": 0.9,
+  "source": "gdelt_conflict",
+  "source_urls": [
+    "https://cbs2iowa.com/news/nation-world/cult-leader-guilty-of-molesting-raping-followers-in-northern-california"
+  ],
+  "gdelt_metadata": {
+    "NumSources": 63,
+    "severity_score": 136.0
+  }
+}
