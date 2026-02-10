@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
@@ -58,6 +58,54 @@ def get_cast_forecast(country: str, admin1: str = None, year: int = None):
     Fetches from ACLED API if not in cache.
     """
     return acled.get_forecast(country, admin1, year)
+
+
+# --- GeoJSON (on-demand download from geoBoundaries / Natural Earth) ---
+from server.app.services.geojson_service import get_world, get_adm1, get_adm2, health as geodata_health
+
+
+def _auth_headers(req: Request) -> dict:
+    h = {}
+    for k in ("authorization", "cookie"):
+        v = req.headers.get(k) or req.headers.get(k.replace("-", "_"))
+        if v:
+            h[k] = v
+    return h
+
+
+@app.get("/api/geojson/world")
+def api_geojson_world(request: Request, date: str = None, time: str = None):
+    params = {}
+    if date is not None:
+        params["date"] = date
+    if time is not None:
+        params["time"] = time
+    return get_world(params=params if params else None, auth_headers=_auth_headers(request))
+
+
+@app.get("/api/geojson/adm1/{iso}")
+def api_geojson_adm1(iso: str, request: Request, date: str = None, time: str = None):
+    params = {}
+    if date is not None:
+        params["date"] = date
+    if time is not None:
+        params["time"] = time
+    return get_adm1(iso, params=params if params else None, auth_headers=_auth_headers(request))
+
+
+@app.get("/api/geojson/adm2/{iso}")
+def api_geojson_adm2(iso: str, request: Request, date: str = None, time: str = None):
+    params = {}
+    if date is not None:
+        params["date"] = date
+    if time is not None:
+        params["time"] = time
+    return get_adm2(iso, params=params if params else None, auth_headers=_auth_headers(request))
+
+
+@app.get("/api/geodata/health")
+def api_geodata_health():
+    return {"providers": geodata_health()}
 
 
 # --- Interactions (manifest, LLM analysis, lazy loading) ---

@@ -57,7 +57,7 @@ export class MapManager {
         this.ui.showLoader('Loading world...', 0.9);
 
         // Load initial world data
-        const worldData = await this.data.fetchJSON('data/countries.geojson', 'world');
+        const worldData = await this.data.fetchGeoJSON('data/countries.geojson', 'world');
         if (!worldData) {
             this.ui.hideLoader();
             this.ui.toast('Failed to load map');
@@ -277,7 +277,7 @@ export class MapManager {
 
             if (hasADM1) {
                 this.ui.showLoader(`Loading ${name} states...`);
-                const data = await this.data.fetchJSON(sources[iso].adm1, `${iso}_ADM1`);
+                const data = await this.data.fetchGeoJSON(sources[iso].adm1, `${iso}_ADM1`);
                 this.ui.hideLoader();
 
                 if (data && data.features && data.features.length > 0) {
@@ -306,7 +306,7 @@ export class MapManager {
 
             if (hasADM2) {
                 this.ui.showLoader(`Loading ${name} districts...`);
-                const data = await this.data.fetchJSON(sources[iso].adm2, `${iso}_ADM2`);
+                const data = await this.data.fetchGeoJSON(sources[iso].adm2, `${iso}_ADM2`);
                 this.ui.hideLoader();
 
                 if (data && data.features) {
@@ -364,7 +364,7 @@ export class MapManager {
         this.ui.hidePanel();
 
         if (current.level === 0) {
-            const data = await this.data.fetchJSON('data/countries.geojson', 'world');
+            const data = await this.data.fetchGeoJSON('data/countries.geojson', 'world');
             this.ui.hideLoader();
             this.renderLayer(data, 0);
 
@@ -376,7 +376,7 @@ export class MapManager {
             if (this.neighborsLayer) this.map.removeLayer(this.neighborsLayer);
             this.map.setView([20, 0], 2, { animate: true });
         } else if (current.level === 1) {
-            const data = await this.data.fetchJSON(this.data.countrySources[current.iso].adm1, `${current.iso}_ADM1`);
+            const data = await this.data.fetchGeoJSON(this.data.countrySources[current.iso].adm1, `${current.iso}_ADM1`);
             this.ui.hideLoader();
             if (data) {
                 this.renderNeighbors(current.iso);

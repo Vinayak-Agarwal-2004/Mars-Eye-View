@@ -1,3 +1,14 @@
+const API_BASE = 'http://localhost:8000';
+
+function toGeoJSONApiUrl(path) {
+    if (path === 'data/countries.geojson') return `${API_BASE}/api/geojson/world`;
+    const m1 = path && path.match(/^data\/adm1\/([A-Z]{3})\.geojson$/i);
+    if (m1) return `${API_BASE}/api/geojson/adm1/${m1[1].toUpperCase()}`;
+    const m2 = path && path.match(/^data\/adm2\/([A-Z]{3})\.geojson$/i);
+    if (m2) return `${API_BASE}/api/geojson/adm2/${m2[1].toUpperCase()}`;
+    return null;
+}
+
 export class DataManager {
     constructor() {
         this.cache = {};
@@ -112,6 +123,11 @@ export class DataManager {
             console.error(`[DataManager] Failed: ${url}`, e);
             return null;
         }
+    }
+
+    async fetchGeoJSON(path, cacheKey) {
+        const apiUrl = toGeoJSONApiUrl(path);
+        return apiUrl ? this.fetchJSON(apiUrl, cacheKey) : this.fetchJSON(path, cacheKey);
     }
 
     getCountryInfo(iso) {

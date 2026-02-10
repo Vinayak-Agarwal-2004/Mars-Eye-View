@@ -42,3 +42,8 @@ Thumbs.db
 
 # Live GDELT outputs (ephemeral)
 data/live/
+
+# Large GeoJSON (on-demand download from geoBoundaries / Natural Earth)
+data/countries.geojson
+data/adm1/*.geojson
+data/adm2/*.geojson
