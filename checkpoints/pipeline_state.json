@@ -1,10 +1,10 @@
 {
-  "last_timestamp": "2026-02-10T21:52:11.765265+00:00",
-  "processed_count": 147,
-  "updated_at": "2026-02-10T21:52:13.540339+00:00",
+  "last_timestamp": "2026-02-10T22:07:16.805631+00:00",
+  "processed_count": 144,
+  "updated_at": "2026-02-10T22:07:18.095063+00:00",
   "metadata": {
-    "export_url": "http://data.gdeltproject.org/gdeltv2/20260210220000.export.CSV.zip",
-    "mentions_url": "http://data.gdeltproject.org/gdeltv2/20260210220000.mentions.CSV.zip",
-    "features_count": 147
+    "export_url": "http://data.gdeltproject.org/gdeltv2/20260210221500.export.CSV.zip",
+    "mentions_url": "http://data.gdeltproject.org/gdeltv2/20260210221500.mentions.CSV.zip",
+    "features_count": 144
   }
 }
