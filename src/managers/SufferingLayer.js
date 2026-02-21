@@ -1,4 +1,5 @@
 import L from 'leaflet';
+import { API_BASE } from '../config.js';
 
 export class SufferingLayer {
     constructor(map, dataManager, uiManager, interactionManager = null) {
@@ -165,7 +166,7 @@ export class SufferingLayer {
     async refresh() {
         if (!this.isVisible) return;
 
-        const latest = this.data.geoData ?? await this.data.fetchJSON('http://localhost:8000/api/live');
+        const latest = this.data.geoData ?? await this.data.fetchJSON(`${API_BASE}/api/live`);
         const allFeatures = Array.isArray(latest?.features) ? latest.features : [];
 
         const sourceFeatures = this.regionGeometry

@@ -1,9 +1,9 @@
+import os
 from fastapi import FastAPI, Request
 from fastapi.middleware.cors import CORSMiddleware
 from typing import List
 from pydantic import BaseModel
 
-# Local-only secrets loading (gitignored). In production, use a real secrets manager.
 try:
     from dotenv import load_dotenv
     load_dotenv(".env.local", override=False)
@@ -21,10 +21,11 @@ from server.app.services.acled import AcledService
 
 app = FastAPI(title="GDELT-Streamer Backend")
 
-# Security
+_cors_raw = os.getenv("CORS_ORIGINS", "").strip()
+cors_origins = [o.strip() for o in _cors_raw.split(",") if o.strip()] if _cors_raw else ["*"]
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"], # For localhost dev
+    allow_origins=cors_origins,
     allow_methods=["*"],
     allow_headers=["*"],
 )

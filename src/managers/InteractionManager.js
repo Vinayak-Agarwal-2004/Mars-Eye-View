@@ -1,4 +1,5 @@
 import L from 'leaflet';
+import { API_BASE } from '../config.js';
 
 export class InteractionManager {
     constructor(map, dataManager, uiManager) {
@@ -153,7 +154,7 @@ export class InteractionManager {
                 refreshBtn.disabled = true;
                 refreshBtn.textContent = 'Refreshing...';
                 try {
-                    const res = await fetch('http://localhost:8000/api/interactions/process-gdelt', { method: 'POST' });
+                    const res = await fetch(`${API_BASE}/api/interactions/process-gdelt`, { method: 'POST' });
                     if (!res.ok) throw new Error(`HTTP ${res.status}`);
                     await this.refreshManifestAndRerender();
                     this.ui.toast('Interactions refreshed', 'success');

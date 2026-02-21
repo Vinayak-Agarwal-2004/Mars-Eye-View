@@ -1,4 +1,4 @@
-const API_BASE = 'http://localhost:8000';
+import { API_BASE } from '../config.js';
 
 function toGeoJSONApiUrl(path) {
     if (path === 'data/countries.geojson') return `${API_BASE}/api/geojson/world`;
@@ -51,7 +51,7 @@ export class DataManager {
 
     async waitForBackend(retries = 12, delayMs = 1000) {
         for (let i = 0; i < retries; i++) {
-            const health = await this.fetchJSON('http://localhost:8000/api/health');
+            const health = await this.fetchJSON(`${API_BASE}/api/health`);
 
             if (health && health.status === 'ok') return true;
             await this.sleep(delayMs);
@@ -62,7 +62,7 @@ export class DataManager {
 
     async waitForLiveData(retries = 12, delayMs = 1500) {
         for (let i = 0; i < retries; i++) {
-            const data = await this.fetchJSON('http://localhost:8000/api/live');
+            const data = await this.fetchJSON(`${API_BASE}/api/live`);
 
             if (data && Array.isArray(data.features) && data.features.length > 0) {
                 this.geoData = data;
@@ -79,7 +79,7 @@ export class DataManager {
 
     async fetchData() {
         // Call our new Fast backend
-        const data = await this.fetchJSON('http://localhost:8000/api/live');
+        const data = await this.fetchJSON(`${API_BASE}/api/live`);
         if (data) {
             // Hash check to avoid redraws? For now just raw updates
             this.geoData = data;
@@ -92,7 +92,7 @@ export class DataManager {
         const q = new URLSearchParams({ country: countryName });
         if (admin1) q.append("admin1", admin1);
 
-        return await this.fetchJSON(`http://localhost:8000/api/cast?${q.toString()}`);
+        return await this.fetchJSON(`${API_BASE}/api/cast?${q.toString()}`);
     }
 
     async init() {

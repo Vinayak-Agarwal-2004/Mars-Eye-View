@@ -1,8 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-    root: '.',     // Valid since index.html will be in root
-    base: './',    // Relative paths for simple deployment
+    root: '.',
+    base: process.env.VITE_BASE || './',
     build: {
         outDir: 'dist',
         sourcemap: true,

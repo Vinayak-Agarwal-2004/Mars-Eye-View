@@ -1,3 +1,5 @@
+import { API_BASE } from '../config.js';
+
 export class UIManager {
     constructor() {
         this.RELIGION_COLORS = {
@@ -229,12 +231,11 @@ export class UIManager {
 
         this._currentWikiTitle = null;
         this._currentWikiUrl = null;
-        const apiBase = 'http://localhost:8000';
         const countryIso = opts?.countryIso ?? (level === 0 ? code : null);
         if (name) {
             const params = new URLSearchParams({ place: name });
             if (countryIso) params.set('iso', countryIso);
-            fetch(`${apiBase}/api/wikipedia/lookup?${params}`)
+            fetch(`${API_BASE}/api/wikipedia/lookup?${params}`)
                 .then(r => r.json())
                 .then(data => {
                     if (requestId !== this._panelRequestId) return;
@@ -786,7 +787,7 @@ export class UIManager {
         this._resetWikiTab?.();
         this._currentWikiTitle = null;
         this._currentWikiUrl = null;
-        fetch(`http://localhost:8000/api/wikipedia/lookup?place=${encodeURIComponent(regionName)}`)
+        fetch(`${API_BASE}/api/wikipedia/lookup?place=${encodeURIComponent(regionName)}`)
             .then(r => r.json())
             .then(data => {
                 if (!data.error) {
@@ -855,7 +856,7 @@ export class UIManager {
             const loadingEl = this.$('panel-analysis-loading');
             const blockEl = this.$('panel-analysis-block');
             if (loadingEl) loadingEl.style.display = 'block';
-            const url = `http://localhost:8000/api/interactions/${encodeURIComponent(dispute.id)}/analysis`;
+            const url = `${API_BASE}/api/interactions/${encodeURIComponent(dispute.id)}/analysis`;
             fetch(url)
                 .then(r => r.json())
                 .then(data => {
@@ -970,7 +971,7 @@ export class UIManager {
             params.set('lat', lat);
             params.set('lon', lon);
         }
-        fetch(`http://localhost:8000/api/wikipedia/lookup?${params}`)
+        fetch(`${API_BASE}/api/wikipedia/lookup?${params}`)
             .then(r => r.json())
             .then(data => {
                 if (loadingEl) loadingEl.style.display = 'none';
